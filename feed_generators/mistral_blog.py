@@ -1,43 +1,32 @@
 """Generate RSS feed for Mistral AI News (https://mistral.ai/news).
 
-Selenium-driven numbered pagination. Unlike "Load more" SPAs that append content,
-Mistral replaces the article grid on each page navigation, so we parse after
-each click before advancing to the next page.
+Simple Static pattern (no cache needed): the page's numbered pagination is
+purely client-side JS filtering over data already embedded in the initial
+HTML response -- ?page=N is a no-op on the server, and a single plain
+request returns every article the site has. No Selenium required.
 """
-
-import time
 
 from bs4 import BeautifulSoup
 from feed_generators.util.utils import (
-    CacheCursor,
     absolute_url,
-    deserialize_entries,
-    load_cache,
-    merge_entries,
+    fetch_page,
     parse_date,
-    parse_full_reset_flag,
-    save_cache,
     save_rss_feed,
     setup_feed_links,
     setup_logging,
-    setup_selenium_driver,
     sort_posts_for_feed,
     stable_fallback_date,
 )
 from feedgen.feed import FeedGenerator
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
 
 logger = setup_logging()
 
 FEED_NAME = "mistral"
-BLOG_URL = "https://mistral.ai/news"
-MAX_PAGES_FULL = 6
+BLOG_URL = "https://mistral.ai/news/"
 
 
-def parse_page_articles(html: str) -> list[dict]:
-    """Extract articles from a single page. Returns a deduped list per page.
+def parse_articles(html: str) -> list[dict]:
+    """Extract articles from the news page.
 
     Each card is an <article> element wrapping an <a href="/news/..."> link.
     The hero card uses <h2 class="text-h4 ...">; grid cards use
@@ -104,59 +93,8 @@ def parse_page_articles(html: str) -> list[dict]:
             }
         )
 
-    logger.info(f"Parsed {len(articles)} articles from page")
+    logger.info(f"Parsed {len(articles)} articles")
     return articles
-
-
-def fetch_all_articles(cursor: CacheCursor, max_pages: int = MAX_PAGES_FULL) -> list[dict]:
-    """Fetch articles across numbered pages using Selenium, stopping once a
-    page turns up nothing new (or something already cached).
-
-    Returns cursor.new_entries: articles from this run not already cached.
-    """
-    driver = None
-
-    try:
-        logger.info(f"Fetching articles from {BLOG_URL} (max_pages={max_pages})")
-        driver = setup_selenium_driver()
-        driver.get(BLOG_URL)
-        time.sleep(5)
-
-        try:
-            WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'a[href^="/news/"]')))
-        except Exception:
-            logger.warning("Could not confirm articles loaded, proceeding anyway")
-
-        for page_num in range(1, max_pages + 1):
-            logger.info(f"Extracting articles from page {page_num}")
-            page_articles = parse_page_articles(driver.page_source)
-            if not cursor.ingest(page_articles):
-                logger.info(f"No new articles (or hit cached article) on page {page_num}, stopping pagination")
-                break
-
-            if page_num >= max_pages:
-                break
-
-            next_btns = driver.find_elements(By.CSS_SELECTOR, "#pagination-next")
-            next_btn = next_btns[0] if next_btns else None
-
-            if not next_btn or not next_btn.is_displayed() or next_btn.get_attribute("disabled") is not None:
-                logger.info(f"No next button found after page {page_num}")
-                break
-
-            logger.info(f"Clicking next button to page {page_num + 1}")
-            driver.execute_script("arguments[0].click();", next_btn)
-            time.sleep(3)
-            try:
-                WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'a[href^="/news/"]')))
-            except Exception:
-                logger.warning("Timeout waiting for next page content")
-
-        logger.info(f"Total new articles fetched: {len(cursor.new_entries)}")
-        return cursor.new_entries
-    finally:
-        if driver:
-            driver.quit()
 
 
 def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
@@ -182,25 +120,14 @@ def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
     return fg
 
 
-def main(full_reset: bool = False) -> bool:
-    cache = load_cache(FEED_NAME)
-    cached_entries = deserialize_entries(cache.get("entries", []))
-
-    mode = "full reset" if full_reset else "no cache exists" if not cached_entries else "incremental update"
-    logger.info(f"Running {mode}")
-    cursor = CacheCursor([] if full_reset else cached_entries)
-    new_articles = fetch_all_articles(cursor, max_pages=MAX_PAGES_FULL)
-
-    if cached_entries and not full_reset:
-        articles = merge_entries(new_articles, cached_entries)
-    else:
-        articles = sort_posts_for_feed(new_articles, date_field="date")
+def main() -> bool:
+    html = fetch_page(BLOG_URL)
+    articles = parse_articles(html)
 
     if not articles:
         logger.warning("No articles found. Check the HTML structure.")
         return False
 
-    save_cache(FEED_NAME, articles)
     feed = generate_rss_feed(articles)
     save_rss_feed(feed, FEED_NAME)
     logger.info("Done!")
@@ -208,4 +135,4 @@ def main(full_reset: bool = False) -> bool:
 
 
 if __name__ == "__main__":
-    main(full_reset=parse_full_reset_flag("Generate Mistral AI News RSS feed"))
+    main()
