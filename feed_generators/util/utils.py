@@ -5,6 +5,7 @@ import json
 import logging
 import os
 import re
+import shutil
 import subprocess
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -431,55 +432,46 @@ def parse_full_reset_flag(description: str) -> bool:
 # ---------------------------------------------------------------------------
 
 
+CHROME_BINARY_CANDIDATES = [
+    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    "google-chrome",
+    "google-chrome-stable",
+    "chromium-browser",
+    "chromium",
+]
+
+
 def get_chrome_binary_path() -> str | None:
-    """Resolve the Chrome/Chromium binary to use.
+    """Resolve an absolute path to an installed Chrome/Chromium binary.
 
-    Checks the CHROME_BINARY_PATH env var first (for local overrides, e.g.
-    Chromium on machines without Google Chrome installed), then falls back
-    to the standard Google Chrome locations used in CI.
+    Tries each candidate in CHROME_BINARY_CANDIDATES, resolving bare
+    commands (e.g. "google-chrome", "chromium-browser") via PATH.
     """
-    if env_path := os.environ.get("CHROME_BINARY_PATH"):
-        logger.info(f"Found local Chrome binary override at {env_path}")
-        return env_path
-
-    chrome_paths = [
-        "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-        "google-chrome",
-        "google-chrome-stable",
-    ]
-    for path in chrome_paths:
-        try:
-            subprocess.run([path, "--version"], capture_output=True, text=True, timeout=5)
-            return path
-        except (FileNotFoundError, subprocess.TimeoutExpired):
-            continue
+    for path in CHROME_BINARY_CANDIDATES:
+        resolved = path if os.path.isabs(path) and os.path.exists(path) else shutil.which(path)
+        if resolved:
+            return resolved
     return None
 
 
-def get_chrome_major_version(binary_path: str | None = None) -> int | None:
-    """Detect the installed Chrome/Chromium major version.
+def get_chrome_major_version(binary_path: str | None) -> int | None:
+    """Detect the installed Chrome/Chromium major version at binary_path.
 
     Returns the major version number (e.g., 146) or None if detection fails.
     This is needed because undetected_chromedriver auto-downloads the latest
     chromedriver, which may not match the installed browser version.
     """
-    paths = [binary_path] if binary_path else []
-    paths += [
-        "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-        "google-chrome",
-        "google-chrome-stable",
-    ]
-    for path in paths:
-        try:
-            result = subprocess.run([path, "--version"], capture_output=True, text=True, timeout=5)
-            logger.info(result)
-            match = re.search(r"(\d+)\.", result.stdout)
-            if match:
-                version = int(match.group(1))
-                logger.info(f"Detected browser major version: {version}")
-                return version
-        except (FileNotFoundError, subprocess.TimeoutExpired):
-            continue
+    if not binary_path:
+        return None
+    try:
+        result = subprocess.run([binary_path, "--version"], capture_output=True, text=True, timeout=5)
+        match = re.search(r"(\d+)\.", result.stdout)
+        if match:
+            version = int(match.group(1))
+            logger.info(f"Detected browser major version: {version}")
+            return version
+    except (FileNotFoundError, subprocess.TimeoutExpired):
+        pass
     logger.warning("Could not detect browser version, using undetected_chromedriver default")
     return None
 
@@ -487,11 +479,9 @@ def get_chrome_major_version(binary_path: str | None = None) -> int | None:
 def setup_selenium_driver():
     """Set up a headless Selenium WebDriver with undetected-chromedriver.
 
-    Automatically detects the installed Chrome/Chromium version to avoid
-    chromedriver version mismatches. Set the CHROME_BINARY_PATH env var to
-    point at a non-standard browser binary (e.g. Chromium on Fedora):
-
-        export CHROME_BINARY_PATH=/usr/bin/chromium-browser
+    Automatically locates an installed Chrome or Chromium binary (see
+    CHROME_BINARY_CANDIDATES) and detects its version to avoid chromedriver
+    version mismatches.
     """
     import undetected_chromedriver as uc
 
