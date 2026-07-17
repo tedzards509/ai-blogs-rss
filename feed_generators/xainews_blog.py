@@ -4,12 +4,7 @@ from datetime import datetime
 
 import pytz
 from bs4 import BeautifulSoup
-from feedgen.feed import FeedGenerator
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
-
-from utils import (
+from feed_generators.util.utils import (
     deserialize_entries,
     load_cache,
     merge_entries,
@@ -21,6 +16,10 @@ from utils import (
     sort_posts_for_feed,
     stable_fallback_date,
 )
+from feedgen.feed import FeedGenerator
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 
 logger = setup_logging()
 

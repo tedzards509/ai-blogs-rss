@@ -2,6 +2,7 @@
 
 import json
 import logging
+import os
 import re
 import subprocess
 from datetime import datetime, timedelta
@@ -317,13 +318,17 @@ def save_rss_feed(fg: FeedGenerator, feed_name: str) -> Path:
 # ---------------------------------------------------------------------------
 
 
-def get_chrome_major_version() -> int | None:
-    """Detect the installed Chrome major version.
+def get_chrome_binary_path() -> str | None:
+    """Resolve the Chrome/Chromium binary to use.
 
-    Returns the major version number (e.g., 146) or None if detection fails.
-    This is needed because undetected_chromedriver auto-downloads the latest
-    chromedriver, which may not match the installed Chrome version.
+    Checks the CHROME_BINARY_PATH env var first (for local overrides, e.g.
+    Chromium on machines without Google Chrome installed), then falls back
+    to the standard Google Chrome locations used in CI.
     """
+    if env_path := os.environ.get("CHROME_BINARY_PATH"):
+        logger.info(f"Found local Chrome binary override at {env_path}")
+        return env_path
+
     chrome_paths = [
         "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
         "google-chrome",
@@ -331,23 +336,49 @@ def get_chrome_major_version() -> int | None:
     ]
     for path in chrome_paths:
         try:
+            subprocess.run([path, "--version"], capture_output=True, text=True, timeout=5)
+            return path
+        except (FileNotFoundError, subprocess.TimeoutExpired):
+            continue
+    return None
+
+
+def get_chrome_major_version(binary_path: str | None = None) -> int | None:
+    """Detect the installed Chrome/Chromium major version.
+
+    Returns the major version number (e.g., 146) or None if detection fails.
+    This is needed because undetected_chromedriver auto-downloads the latest
+    chromedriver, which may not match the installed browser version.
+    """
+    paths = [binary_path] if binary_path else []
+    paths += [
+        "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+        "google-chrome",
+        "google-chrome-stable",
+    ]
+    for path in paths:
+        try:
             result = subprocess.run([path, "--version"], capture_output=True, text=True, timeout=5)
+            logger.info(result)
             match = re.search(r"(\d+)\.", result.stdout)
             if match:
                 version = int(match.group(1))
-                logger.info(f"Detected Chrome major version: {version}")
+                logger.info(f"Detected browser major version: {version}")
                 return version
         except (FileNotFoundError, subprocess.TimeoutExpired):
             continue
-    logger.warning("Could not detect Chrome version, using undetected_chromedriver default")
+    logger.warning("Could not detect browser version, using undetected_chromedriver default")
     return None
 
 
 def setup_selenium_driver():
     """Set up a headless Selenium WebDriver with undetected-chromedriver.
 
-    Automatically detects the installed Chrome version to avoid
-    chromedriver version mismatches.
+    Automatically detects the installed Chrome/Chromium version to avoid
+    chromedriver version mismatches. Set the CHROME_BINARY_PATH env var to
+    point at a non-standard browser binary (e.g. Chromium on Fedora):
+
+        export CHROME_BINARY_PATH=/usr/bin/chromium-browser
     """
     import undetected_chromedriver as uc
 
@@ -358,5 +389,6 @@ def setup_selenium_driver():
     options.add_argument("--window-size=1920,1080")
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument(f"--user-agent={DEFAULT_USER_AGENT}")
-    version = get_chrome_major_version()
-    return uc.Chrome(options=options, version_main=version)
+    binary_path = get_chrome_binary_path()
+    version = get_chrome_major_version(binary_path)
+    return uc.Chrome(options=options, version_main=version, browser_executable_path=binary_path)

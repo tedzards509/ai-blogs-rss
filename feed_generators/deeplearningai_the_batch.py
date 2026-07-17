@@ -5,9 +5,7 @@ import pytz
 import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
-from feedgen.feed import FeedGenerator
-
-from utils import (
+from feed_generators.util.utils import (
     deserialize_entries,
     fetch_page,
     load_cache,
@@ -19,6 +17,7 @@ from utils import (
     sort_posts_for_feed,
     stable_fallback_date,
 )
+from feedgen.feed import FeedGenerator
 
 logger = setup_logging()
 

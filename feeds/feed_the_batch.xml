@@ -8,7 +8,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 07:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:28:40 +0000</lastBuildDate>
+    <item>
+      <title>AI Overviews Land Google In Hot Water, GPT-Live Puts Reasoning in the Background, How to Tell If Your Model is Manipulative</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-362</link>
+      <description>The Batch News &amp; Insights: As AI increasingly automates coding, it frees up developers to spend time on high-level software development tasks traditionally reserved for senior engineers, like deciding on technical architecture and participating in scoping product requirements.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-362</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Restoration of Claude Fable 5, Gemini's Video Dev Engine, DeepSeek Speeds Up Speculative Decoding</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-361</link>
+      <description>The Batch News &amp; Insights: The key idea of agentic coding loops is to have an agent keep working until it satisfies a condition, such as achieving a product specification.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-361</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s GPT-5.6 Family, New Ways to Train Robots, Models Invoking Models</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-360</link>
+      <description>The Batch News &amp; Insights: The AI world has become incredibly noisy. Social media, traditional media, and an army of marketers produce a cacophony of hype and content that are often secretly sales pitches for their products.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-360</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A New Generation Studies AI, Apple's Recipe for On-Device Models, GLM5.2 Tackles Open-Ended Problems</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-359</link>
+      <description>The Batch News &amp; Insights: “Loop engineering” is a hot buzzphrase after Boris Cherney (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) both mentioned it on social media.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-359</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Testing Mythos and Fable, Moving Beyond SWE-bench, Nvidia's Open Contender</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-358</link>
+      <description>The Batch AI News and Insights: Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-358</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mythos Begets Fable, Cursor's Composer 2.5, Agents Building Agents</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-357</link>
+      <description>The Batch AI News and Insights: If you haven’t already, I encourage you to experiment with using AI agents not just to chat but to actually do work for you on your desktop.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-357</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.7-Max Challenges Google for Third Place, AI Saves Whales, Fine-Tuning Breaks Copyright Alignment</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-356</link>
+      <description>The Batch AI News and Insights: There have been intense efforts over the past few years to lobby governments to pass AI laws for regulatory capture or to suppress open source.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-356</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gemini Flash Gets Pricey, AI Act Delays, Agents Drive Online Traffic</title>
       <link>https://www.deeplearning.ai/the-batch/issue-355</link>
