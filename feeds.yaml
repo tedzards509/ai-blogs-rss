@@ -1,0 +1,41 @@
+# Feed Registry -- single source of truth for all feed generators.
+# run_all_feeds.py reads this file instead of scanning *.py files.
+#
+# To add a new feed:
+#   1. Create feed_generators/<name>.py
+#   2. Add an entry here
+#   3. Add a Make target in makefiles/feeds.mk
+#   4. Update README.md
+#
+# To disable a feed temporarily:
+#   some_feed:
+#     script: some_blog.py
+#     type: requests
+#     blog_url: https://example.com
+#     enabled: false
+
+feeds:
+  anthropic_news:
+    script: anthropic_news_blog.py
+    type: selenium
+    blog_url: https://www.anthropic.com/news
+
+  meta_ai:
+    script: meta_ai_blog.py
+    type: selenium
+    blog_url: https://ai.meta.com/blog/
+
+  mistral:
+    script: mistral_blog.py
+    type: selenium
+    blog_url: https://mistral.ai/news
+
+  the_batch:
+    script: deeplearningai_the_batch.py
+    type: requests
+    blog_url: https://www.deeplearning.ai/the-batch/
+
+  xainews:
+    script: xainews_blog.py
+    type: selenium
+    blog_url: https://x.ai/news
