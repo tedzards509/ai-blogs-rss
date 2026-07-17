@@ -40,27 +40,27 @@ MAX_PAGES_INCREMENTAL = 1
 def parse_page_articles(html: str) -> list[dict]:
     """Extract articles from a single page. Returns a deduped list per page.
 
-    Page 1 has a hero card with <h1>; grid cards use <h2>. Cards live inside
-    <a href="/news/..."> wrappers containing an <article> element.
+    Each card is an <article> element wrapping an <a href="/news/..."> link.
+    The hero card uses <h2 class="text-h4 ...">; grid cards use
+    <h2 class="text-h5 ...">. Category comes from a
+    span[data-category-slug], date from the first <p> in the <footer>.
     """
     soup = BeautifulSoup(html, "html.parser")
     articles = []
     seen_links = set()
 
-    for card in soup.select('a[href^="/news/"]'):
-        href = card.get("href", "")
-        if not href or href.rstrip("/") == "/news":
+    for article_elem in soup.find_all("article"):
+        link_a = article_elem.find("a", href=True)
+        if not link_a:
+            continue
+
+        href = link_a.get("href", "")
+        if not href.startswith("/news/") or href.rstrip("/") == "/news":
             continue
 
         link = f"https://mistral.ai{href}"
         if link in seen_links:
             continue
-
-        article_elem = card.find("article")
-        if not article_elem:
-            continue
-
-        seen_links.add(link)
 
         title_elem = article_elem.find("h1") or article_elem.find("h2")
         if not title_elem:
@@ -69,37 +69,34 @@ def parse_page_articles(html: str) -> list[dict]:
         if len(title) < 3:
             continue
 
+        seen_links.add(link)
+
         category = "News"
-        for span in article_elem.find_all("span"):
-            classes = " ".join(span.get("class", []))
-            if "rounded-full" in classes and "border" in classes:
-                cat_text = span.get_text(strip=True)
-                if cat_text:
-                    category = cat_text
-                break
+        cat_span = article_elem.select_one("span[data-category-slug]")
+        if cat_span:
+            cat_text = cat_span.get_text(strip=True)
+            if cat_text:
+                category = cat_text
 
         description = title
-        for p in article_elem.find_all("p"):
-            classes = " ".join(p.get("class", []))
-            if "opacity" in classes or "text-black/50" in classes:
-                desc_text = p.get_text(strip=True)
-                if desc_text:
-                    description = desc_text[:300]
-                break
+        desc_elem = article_elem.select_one("p.text-body-base") or article_elem.select_one("p.text-body-large")
+        if desc_elem:
+            desc_text = desc_elem.get_text(strip=True)
+            if desc_text:
+                description = desc_text[:300]
 
         date = None
-        for div in article_elem.find_all("div"):
-            if "text-sm" not in " ".join(div.get("class", [])):
-                continue
-            date_text = div.get_text(strip=True)
-            for fmt in ("%b %d, %Y", "%B %d, %Y"):
-                try:
-                    date = datetime.strptime(date_text, fmt).replace(tzinfo=pytz.UTC)
-                    break
-                except ValueError:
-                    continue
-            if date:
-                break
+        footer = article_elem.find("footer")
+        if footer:
+            date_p = footer.select_one("p.text-body-small")
+            if date_p:
+                date_text = date_p.get_text(strip=True)
+                for fmt in ("%b %d, %Y", "%B %d, %Y"):
+                    try:
+                        date = datetime.strptime(date_text, fmt).replace(tzinfo=pytz.UTC)
+                        break
+                    except ValueError:
+                        continue
         if not date:
             logger.warning(f"Could not parse date for article: {title}")
             date = stable_fallback_date(link)
@@ -149,18 +146,10 @@ def fetch_all_articles(max_pages: int = MAX_PAGES_FULL) -> list[dict]:
             if page_num >= max_pages:
                 break
 
-            # The next-page arrow is the last button in the pagination row.
-            next_btn = None
-            pagination_buttons = driver.find_elements(By.CSS_SELECTOR, "button.size-8, button[class*='size-8']")
-            if pagination_buttons:
-                candidate = pagination_buttons[-1]
-                try:
-                    candidate.find_element(By.TAG_NAME, "svg")
-                    next_btn = candidate
-                except Exception:
-                    next_btn = None
+            next_btns = driver.find_elements(By.CSS_SELECTOR, "#pagination-next")
+            next_btn = next_btns[0] if next_btns else None
 
-            if not next_btn or not next_btn.is_displayed():
+            if not next_btn or not next_btn.is_displayed() or next_btn.get_attribute("disabled") is not None:
                 logger.info(f"No next button found after page {page_num}")
                 break
 

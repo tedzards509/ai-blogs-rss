@@ -1,4 +1,5 @@
 import argparse
+import re
 from datetime import datetime
 
 import pytz
@@ -97,73 +98,70 @@ MONTH_NAMES = [
 ]
 
 
+DATE_RE = re.compile(r"^[A-Za-z]+\.? \d{1,2},? \d{4}$")
+
+
 def looks_like_date(text):
-    """Check if text looks like a date string."""
-    return any(month in text for month in MONTH_NAMES)
+    """Check if text looks like a "Month Day, Year" date string."""
+    return bool(DATE_RE.match(text))
 
 
 def extract_articles(soup):
-    """Extract article information from the parsed HTML."""
+    """Extract article information from the parsed HTML.
+
+    Each news item is an <a href="/news/..."> card. The featured card at the
+    top has an <h1> (desktop) and duplicate <h2> (mobile); regular grid cards
+    use <h3>. The publish date sits in a sibling <div> right above the title;
+    only the featured card has a <p> description.
+    """
     articles = []
     seen_links = set()
 
-    # Find all article containers
-    article_containers = soup.select("div.group.relative")
-    logger.info(f"Found {len(article_containers)} potential article containers")
+    cards = soup.select('a[href*="/news/"]')
+    logger.info(f"Found {len(cards)} potential article cards")
 
-    for container in article_containers:
+    for card in cards:
         try:
-            # Extract the link and title
-            title_link = container.select_one('a[href*="/news/"]')
-            if not title_link:
-                continue
-
-            href = title_link.get("href", "")
+            href = card.get("href", "")
             if not href:
                 continue
 
             # Build full URL
             link = f"https://x.ai{href}" if href.startswith("/") else href
 
+            # Skip the main news page link
+            if link.rstrip("/").endswith("/news"):
+                continue
+
             # Skip duplicates
             if link in seen_links:
                 continue
 
-            # Skip the main news page link
-            if link.endswith("/news") or link.endswith("/news/"):
-                continue
-
-            seen_links.add(link)
-
-            # Extract title - can be in h3 or h4
-            title_elem = title_link.select_one("h3, h4")
+            # Extract title - featured card uses h1/h2, grid cards use h3
+            title_elem = card.find("h1") or card.find("h2") or card.find("h3")
             if not title_elem:
                 logger.debug(f"Could not extract title for link: {link}")
                 continue
 
             title = title_elem.text.strip()
+            if len(title) < 2:
+                continue
 
-            # Extract description
-            description_elem = container.select_one("p.text-secondary")
+            seen_links.add(link)
+
+            # Extract description (only present on the featured card)
+            description_elem = card.find("p")
             description = description_elem.text.strip() if description_elem else title
 
-            # Extract date - try multiple selectors
+            # Extract date - look for a leaf div whose text looks like a date
             date = None
-
-            # First try: featured article format
-            date_elem = container.select_one("p.mono-tag.text-xs.leading-6")
-            if date_elem:
-                date_text = date_elem.text.strip()
-                if looks_like_date(date_text):
-                    date = parse_date(date_text)
-
-            # Second try: standard article format in footer
-            if not date:
-                footer_elements = container.select("div.flex.items-center.justify-between span.mono-tag.text-xs")
-                for elem in footer_elements:
-                    text = elem.text.strip()
-                    if looks_like_date(text):
-                        date = parse_date(text)
+            for div in card.find_all("div"):
+                if div.find("div"):
+                    continue
+                text = div.text.strip()
+                if looks_like_date(text):
+                    date = parse_date(text)
+                    if date:
                         break
 
             # Fallback: use stable date
@@ -171,19 +169,11 @@ def extract_articles(soup):
                 logger.warning(f"Could not extract date for article: {title}")
                 date = stable_fallback_date(link)
 
-            # Extract category
-            category = "News"
-            category_elem = container.select_one("div:not(.flex.items-center.justify-between) span.mono-tag.text-xs")
-            if category_elem:
-                category_text = category_elem.text.strip().lower()
-                if not looks_like_date(category_text):
-                    category = category_text.capitalize()
-
             article = {
                 "title": title,
                 "link": link,
                 "date": date,
-                "category": category,
+                "category": "News",
                 "description": description,
             }
 
@@ -191,7 +181,7 @@ def extract_articles(soup):
             logger.debug(f"Extracted article: {title} ({date})")
 
         except Exception as e:
-            logger.warning(f"Error parsing article container: {e!s}")
+            logger.warning(f"Error parsing article card: {e!s}")
             continue
 
     logger.info(f"Successfully parsed {len(articles)} articles")
