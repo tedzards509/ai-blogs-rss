@@ -20,6 +20,11 @@ feeds:
     type: selenium
     blog_url: https://www.anthropic.com/news
 
+  anthropic_news_product:
+    script: anthropic_news_product.py
+    type: selenium
+    blog_url: https://www.anthropic.com/news
+
   meta_ai:
     script: meta_ai_blog.py
     type: selenium
@@ -29,6 +34,11 @@ feeds:
     script: mistral_blog.py
     type: selenium
     blog_url: https://mistral.ai/news
+
+  openai_news_product:
+    script: openai_news_product.py
+    type: requests
+    blog_url: https://openai.com/news
 
   the_batch:
     script: deeplearningai_the_batch.py
