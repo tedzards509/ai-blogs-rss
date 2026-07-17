@@ -6,12 +6,12 @@ a separate script (own FEED_NAME, own cache file) per the "multiple feeds
 from one site" pattern described in AGENTS.md.
 """
 
-import argparse
-
 from feed_generators.util.utils import (
+    CacheCursor,
     deserialize_entries,
     load_cache,
     merge_entries,
+    parse_full_reset_flag,
     save_cache,
     save_rss_feed,
     setup_feed_links,
@@ -20,7 +20,7 @@ from feed_generators.util.utils import (
 )
 from feedgen.feed import FeedGenerator
 
-from anthropic_news_blog import BLOG_URL, fetch_news_content, parse_news_html
+from anthropic_news_blog import BLOG_URL, fetch_news_content
 
 FEED_NAME = "anthropic_news_product"
 
@@ -63,23 +63,23 @@ def main(full_reset=False):
     """Main function to generate the Anthropic "Product" RSS feed.
 
     Args:
-        full_reset: If True, fetch all articles (click "See more" up to 20 times).
-                   If False, do incremental update (click 2-3 times, merge with cache).
+        full_reset: If True, ignore cache and fetch until max_clicks is hit.
+            If False, click "See more" until a fold turns up nothing new
+            (checked against this feed's own Product-only cache), then merge.
     """
     try:
         cache = load_cache(FEED_NAME)
         cached_articles = deserialize_entries(cache.get("entries", []))
 
+        mode = "full reset" if full_reset else "no cache exists" if not cached_articles else "incremental update"
+        logger.info(f"Running {mode}")
+        cursor = CacheCursor([] if full_reset else cached_articles)
+        new_articles = filter_product_articles(fetch_news_content(cursor, max_clicks=20))
+
         if full_reset or not cached_articles:
-            mode = "full reset" if full_reset else "no cache exists"
-            logger.info(f"Running full fetch ({mode})")
-            html_content = fetch_news_content(max_clicks=20)
-            articles = filter_product_articles(parse_news_html(html_content))
+            articles = new_articles
         else:
-            logger.info("Running incremental update (2 clicks only)")
-            html_content = fetch_news_content(max_clicks=2)
-            new_articles = filter_product_articles(parse_news_html(html_content))
-            logger.info(f"Found {len(new_articles)} 'Product' articles from recent pages")
+            logger.info(f"Found {len(new_articles)} new 'Product' articles")
             articles = merge_entries(new_articles, cached_articles)
 
         if not articles:
@@ -100,7 +100,4 @@ def main(full_reset=False):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate Anthropic News 'Product' RSS feed")
-    parser.add_argument("--full", action="store_true", help="Force full reset (fetch all articles)")
-    args = parser.parse_args()
-    main(full_reset=args.full)
+    main(full_reset=parse_full_reset_flag("Generate Anthropic News 'Product' RSS feed"))

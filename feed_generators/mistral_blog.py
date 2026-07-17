@@ -5,16 +5,17 @@ Mistral replaces the article grid on each page navigation, so we parse after
 each click before advancing to the next page.
 """
 
-import argparse
 import time
-from datetime import datetime
 
-import pytz
 from bs4 import BeautifulSoup
 from feed_generators.util.utils import (
+    CacheCursor,
+    absolute_url,
     deserialize_entries,
     load_cache,
     merge_entries,
+    parse_date,
+    parse_full_reset_flag,
     save_cache,
     save_rss_feed,
     setup_feed_links,
@@ -33,7 +34,6 @@ logger = setup_logging()
 FEED_NAME = "mistral"
 BLOG_URL = "https://mistral.ai/news"
 MAX_PAGES_FULL = 6
-MAX_PAGES_INCREMENTAL = 1
 
 
 def parse_page_articles(html: str) -> list[dict]:
@@ -57,7 +57,7 @@ def parse_page_articles(html: str) -> list[dict]:
         if not href.startswith("/news/") or href.rstrip("/") == "/news":
             continue
 
-        link = f"https://mistral.ai{href}"
+        link = absolute_url(href, "https://mistral.ai")
         if link in seen_links:
             continue
 
@@ -89,13 +89,7 @@ def parse_page_articles(html: str) -> list[dict]:
         if footer:
             date_p = footer.select_one("p.text-body-small")
             if date_p:
-                date_text = date_p.get_text(strip=True)
-                for fmt in ("%b %d, %Y", "%B %d, %Y"):
-                    try:
-                        date = datetime.strptime(date_text, fmt).replace(tzinfo=pytz.UTC)
-                        break
-                    except ValueError:
-                        continue
+                date = parse_date(date_p.get_text(strip=True), fallback_id=link)
         if not date:
             logger.warning(f"Could not parse date for article: {title}")
             date = stable_fallback_date(link)
@@ -114,11 +108,13 @@ def parse_page_articles(html: str) -> list[dict]:
     return articles
 
 
-def fetch_all_articles(max_pages: int = MAX_PAGES_FULL) -> list[dict]:
-    """Fetch articles across numbered pages using Selenium."""
+def fetch_all_articles(cursor: CacheCursor, max_pages: int = MAX_PAGES_FULL) -> list[dict]:
+    """Fetch articles across numbered pages using Selenium, stopping once a
+    page turns up nothing new (or something already cached).
+
+    Returns cursor.new_entries: articles from this run not already cached.
+    """
     driver = None
-    all_articles: list[dict] = []
-    seen_links: set[str] = set()
 
     try:
         logger.info(f"Fetching articles from {BLOG_URL} (max_pages={max_pages})")
@@ -134,13 +130,9 @@ def fetch_all_articles(max_pages: int = MAX_PAGES_FULL) -> list[dict]:
         for page_num in range(1, max_pages + 1):
             logger.info(f"Extracting articles from page {page_num}")
             page_articles = parse_page_articles(driver.page_source)
-            new_count = 0
-            for article in page_articles:
-                if article["link"] not in seen_links:
-                    all_articles.append(article)
-                    seen_links.add(article["link"])
-                    new_count += 1
-            logger.info(f"Page {page_num}: {new_count} new articles (total: {len(all_articles)})")
+            if not cursor.ingest(page_articles):
+                logger.info(f"No new articles (or hit cached article) on page {page_num}, stopping pagination")
+                break
 
             if page_num >= max_pages:
                 break
@@ -160,8 +152,8 @@ def fetch_all_articles(max_pages: int = MAX_PAGES_FULL) -> list[dict]:
             except Exception:
                 logger.warning("Timeout waiting for next page content")
 
-        logger.info(f"Total articles fetched: {len(all_articles)}")
-        return all_articles
+        logger.info(f"Total new articles fetched: {len(cursor.new_entries)}")
+        return cursor.new_entries
     finally:
         if driver:
             driver.quit()
@@ -194,10 +186,10 @@ def main(full_reset: bool = False) -> bool:
     cache = load_cache(FEED_NAME)
     cached_entries = deserialize_entries(cache.get("entries", []))
 
-    pages = MAX_PAGES_FULL if (full_reset or not cached_entries) else MAX_PAGES_INCREMENTAL
     mode = "full reset" if full_reset else "no cache exists" if not cached_entries else "incremental update"
-    logger.info(f"Running {mode} (max_pages={pages})")
-    new_articles = fetch_all_articles(max_pages=pages)
+    logger.info(f"Running {mode}")
+    cursor = CacheCursor([] if full_reset else cached_entries)
+    new_articles = fetch_all_articles(cursor, max_pages=MAX_PAGES_FULL)
 
     if cached_entries and not full_reset:
         articles = merge_entries(new_articles, cached_entries)
@@ -216,7 +208,4 @@ def main(full_reset: bool = False) -> bool:
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate Mistral AI News RSS feed")
-    parser.add_argument("--full", action="store_true", help="Force full reset (fetch up to 6 pages)")
-    args = parser.parse_args()
-    main(full_reset=args.full)
+    main(full_reset=parse_full_reset_flag("Generate Mistral AI News RSS feed"))

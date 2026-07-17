@@ -39,7 +39,7 @@ jobs:
         run: |
           set -e
           uv sync
-          uv run feed_generators/run_all_feeds.py
+          uv run feed_generators/util/run_all_feeds.py
 
       - name: Commit and push feeds
         if: github.ref == 'refs/heads/main'

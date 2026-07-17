@@ -1,13 +1,13 @@
-import argparse
 import re
-from datetime import datetime
 
-import pytz
 from bs4 import BeautifulSoup
 from feed_generators.util.utils import (
+    absolute_url,
     deserialize_entries,
     load_cache,
     merge_entries,
+    parse_date,
+    parse_full_reset_flag,
     save_cache,
     save_rss_feed,
     setup_feed_links,
@@ -58,29 +58,6 @@ def fetch_news_content(url=BLOG_URL):
             driver.quit()
 
 
-def parse_date(date_text):
-    """Parse date from various formats used on xAI news page."""
-    date_formats = [
-        "%B %d, %Y",  # September 19, 2025
-        "%b %d, %Y",  # Sep 19, 2025
-        "%B %d %Y",
-        "%b %d %Y",
-        "%Y-%m-%d",
-        "%m/%d/%Y",
-    ]
-
-    date_text = date_text.strip()
-    for date_format in date_formats:
-        try:
-            date = datetime.strptime(date_text, date_format)
-            return date.replace(tzinfo=pytz.UTC)
-        except ValueError:
-            continue
-
-    logger.warning(f"Could not parse date: {date_text}")
-    return None
-
-
 MONTH_NAMES = [
     "January",
     "February",
@@ -126,7 +103,7 @@ def extract_articles(soup):
                 continue
 
             # Build full URL
-            link = f"https://x.ai{href}" if href.startswith("/") else href
+            link = absolute_url(href, "https://x.ai")
 
             # Skip the main news page link
             if link.rstrip("/").endswith("/news"):
@@ -159,9 +136,8 @@ def extract_articles(soup):
                     continue
                 text = div.text.strip()
                 if looks_like_date(text):
-                    date = parse_date(text)
-                    if date:
-                        break
+                    date = parse_date(text, fallback_id=link)
+                    break
 
             # Fallback: use stable date
             if not date:
@@ -273,7 +249,4 @@ def main(full_reset=False):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate xAI News RSS feed")
-    parser.add_argument("--full", action="store_true", help="Force full reset (fetch all articles)")
-    args = parser.parse_args()
-    main(full_reset=args.full)
+    main(full_reset=parse_full_reset_flag("Generate xAI News RSS feed"))

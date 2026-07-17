@@ -1,5 +1,6 @@
 """Shared utilities for feed generators."""
 
+import argparse
 import json
 import logging
 import os
@@ -11,9 +12,9 @@ from typing import Any
 
 import pytz
 import requests
+from dateutil import parser as date_parser
+from feed_generators.util.models import GlobalSettings
 from feedgen.feed import FeedGenerator
-
-from models import GlobalSettings
 
 # ---------------------------------------------------------------------------
 # Constants
@@ -69,7 +70,7 @@ def sanitize_xml(text: str) -> str:
 
 def get_project_root() -> Path:
     """Get the project root directory."""
-    return Path(__file__).parent.parent
+    return Path(__file__).parent.parent.parent
 
 
 def get_cache_dir() -> Path:
@@ -136,6 +137,51 @@ def stable_fallback_date(identifier: str) -> datetime:
     hash_val = abs(hash(identifier)) % 730
     epoch = datetime(2023, 1, 1, 0, 0, 0, tzinfo=pytz.UTC)
     return epoch + timedelta(days=hash_val)
+
+
+def parse_date(value: str | None, fallback_id: str = "") -> datetime:
+    """Parse a date string into a timezone-aware datetime using dateutil.
+
+    Falls back to ``stable_fallback_date(fallback_id)`` when *value* is
+    empty or unparseable, so callers always get a usable date.
+
+    Args:
+        value: Date text to parse (e.g. "Jan 16, 2026", an ISO string, or
+            an RFC 822 pubDate).
+        fallback_id: Identifier (usually a link) used to derive a stable
+            fallback date when parsing fails.
+    """
+    if not value:
+        return stable_fallback_date(fallback_id)
+    try:
+        dt = date_parser.parse(value)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=pytz.UTC)
+        return dt
+    except (ValueError, TypeError) as exc:
+        logger.warning(f"Unable to parse date {value!r} ({exc}); using fallback")
+        return stable_fallback_date(fallback_id)
+
+
+# ---------------------------------------------------------------------------
+# URL helpers
+# ---------------------------------------------------------------------------
+
+
+def absolute_url(href: str, base_domain: str) -> str:
+    """Resolve a possibly-relative href against a site's base domain.
+
+    Args:
+        href: URL or path from a scraped ``<a href="...">``.
+        base_domain: Site origin, e.g. "https://mistral.ai" (trailing
+            slash optional).
+
+    Returns:
+        Absolute URL.
+    """
+    if href.startswith("http"):
+        return href
+    return f"{base_domain.rstrip('/')}/{href.lstrip('/')}"
 
 
 # ---------------------------------------------------------------------------
@@ -245,6 +291,50 @@ def merge_entries(
     return sort_posts_for_feed(merged, date_field=date_field)
 
 
+class CacheCursor:
+    """Tracks new-vs-cached entries across a page/fold fetch loop.
+
+    Call ``ingest()`` once per page or "load more" fold with everything
+    currently visible/parsed. It reports whether the loop should keep
+    fetching, replacing the fixed click/page budgets and cache-blind
+    per-run ``seen_links`` sets each generator used to roll on its own.
+    """
+
+    def __init__(self, cached_entries: list[dict], id_field: str = "link") -> None:
+        self.id_field = id_field
+        self._cached_ids = {e[id_field] for e in cached_entries}
+        self._seen_ids: set[str] = set()
+        self._new_entries: list[dict] = []
+
+    def ingest(self, entries: list[dict]) -> bool:
+        """Record entries fetched from one page/fold.
+
+        Returns:
+            True if the caller should keep fetching (this call surfaced at
+            least one new id and no cached id). False if it should stop:
+            everything on this page/fold was already known this run, or a
+            cached id was found (we've reached previously-seen content).
+        """
+        found_new = False
+        found_cached = False
+        for entry in entries:
+            entry_id = entry[self.id_field]
+            if entry_id in self._cached_ids:
+                found_cached = True
+                continue
+            if entry_id in self._seen_ids:
+                continue
+            self._seen_ids.add(entry_id)
+            self._new_entries.append(entry)
+            found_new = True
+        return found_new and not found_cached
+
+    @property
+    def new_entries(self) -> list[dict]:
+        """All truly-new entries ingested so far (deduped vs cache and this run)."""
+        return self._new_entries
+
+
 # ---------------------------------------------------------------------------
 # Feed generation
 # ---------------------------------------------------------------------------
@@ -311,6 +401,25 @@ def save_rss_feed(fg: FeedGenerator, feed_name: str) -> Path:
     fg.rss_file(str(output_file), pretty=True)
     logger.info(f"Saved RSS feed to {output_file}")
     return output_file
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+
+def parse_full_reset_flag(description: str) -> bool:
+    """Parse the standard ``--full`` CLI flag used by cache-backed generators.
+
+    Args:
+        description: Description shown in ``--help`` output.
+
+    Returns:
+        True if ``--full`` was passed (force full reset, ignore cache).
+    """
+    parser = argparse.ArgumentParser(description=description)
+    parser.add_argument("--full", action="store_true", help="Force full reset (ignore cache, fetch everything)")
+    return parser.parse_args().full
 
 
 # ---------------------------------------------------------------------------

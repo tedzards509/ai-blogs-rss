@@ -6,18 +6,15 @@ whose <category> is "Product". Simple Static pattern (no cache needed): the
 source feed is small and always returns its full history.
 """
 
-import argparse
 import xml.etree.ElementTree as ET
 
-import pytz
-from dateutil import parser as date_parser
 from feed_generators.util.utils import (
     fetch_page,
+    parse_date,
     save_rss_feed,
     setup_feed_links,
     setup_logging,
     sort_posts_for_feed,
-    stable_fallback_date,
 )
 from feedgen.feed import FeedGenerator
 
@@ -27,20 +24,6 @@ SOURCE_RSS_URL = "https://openai.com/news/rss.xml"
 TARGET_CATEGORY = "product"
 
 logger = setup_logging()
-
-
-def parse_date(value: str | None, fallback_id: str = ""):
-    """Parse an RFC 822 pubDate string into a timezone-aware datetime."""
-    if not value:
-        return stable_fallback_date(fallback_id)
-    try:
-        dt = date_parser.parse(value)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=pytz.UTC)
-        return dt
-    except (ValueError, TypeError) as exc:
-        logger.warning(f"Unable to parse date {value!r} ({exc}); using fallback")
-        return stable_fallback_date(fallback_id)
 
 
 def parse_source_rss(xml_content: str) -> list[dict]:
@@ -128,6 +111,4 @@ def main():
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate OpenAI News 'Product' RSS feed")
-    parser.parse_args()
     main()

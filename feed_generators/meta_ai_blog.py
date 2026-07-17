@@ -7,7 +7,6 @@ parser handles independently.
 Closes upstream issue #61.
 """
 
-import argparse
 import contextlib
 import re
 import time
@@ -15,10 +14,14 @@ from datetime import datetime
 
 import pytz
 from bs4 import BeautifulSoup
+from dateutil import parser as date_parser
 from feed_generators.util.utils import (
+    CacheCursor,
+    absolute_url,
     deserialize_entries,
     load_cache,
     merge_entries,
+    parse_full_reset_flag,
     save_cache,
     save_rss_feed,
     setup_feed_links,
@@ -60,8 +63,12 @@ CATEGORIES = {
 }
 
 
-def fetch_blog_content(url: str = BLOG_URL, max_clicks: int = 20) -> str:
-    """Fetch the blog HTML after clicking "Load more" up to max_clicks times."""
+def fetch_blog_content(cursor, url: str = BLOG_URL, max_clicks: int = 20) -> list[dict]:
+    """Fetch articles using Selenium, clicking "Load more" until a fold turns
+    up nothing new (or something already cached), or max_clicks is hit.
+
+    Returns cursor.new_entries: articles from this run not already cached.
+    """
     driver = None
     try:
         logger.info(f"Fetching content from {url} (max_clicks={max_clicks})")
@@ -74,6 +81,10 @@ def fetch_blog_content(url: str = BLOG_URL, max_clicks: int = 20) -> str:
             logger.info("Blog articles loaded")
         except Exception:
             logger.warning("Could not confirm articles loaded, proceeding anyway")
+
+        if not cursor.ingest(extract_articles(BeautifulSoup(driver.page_source, "html.parser"))):
+            logger.info("No new articles (or hit cached article) on initial load")
+            return cursor.new_entries
 
         clicks = 0
         while clicks < max_clicks:
@@ -91,25 +102,27 @@ def fetch_blog_content(url: str = BLOG_URL, max_clicks: int = 20) -> str:
                 driver.execute_script("arguments[0].click();", load_more)
                 clicks += 1
                 time.sleep(2)
+                if not cursor.ingest(extract_articles(BeautifulSoup(driver.page_source, "html.parser"))):
+                    logger.info(f"No new articles (or hit cached article) after {clicks} clicks")
+                    break
             else:
                 logger.info(f"No more 'Load more' button after {clicks} clicks")
                 break
 
-        return driver.page_source
+        return cursor.new_entries
     finally:
         if driver:
             driver.quit()
 
 
 def parse_date(date_text: str) -> datetime | None:
-    """Parse 'Month DD, YYYY' into a tz-aware datetime."""
+    """Parse a date string into a tz-aware datetime, or None if unparseable."""
     date_text = date_text.strip()
-    for fmt in ("%B %d, %Y", "%b %d, %Y"):
-        try:
-            return datetime.strptime(date_text, fmt).replace(tzinfo=pytz.UTC)
-        except ValueError:
-            continue
-    return None
+    try:
+        dt = date_parser.parse(date_text)
+    except (ValueError, TypeError, OverflowError):
+        return None
+    return dt if dt.tzinfo else dt.replace(tzinfo=pytz.UTC)
 
 
 def _extract_date_from_elements(elements, article_href: str) -> tuple[datetime | None, str]:
@@ -147,10 +160,6 @@ def _append_article(articles, seen, href, title, date, category, description):
     )
 
 
-def _absolute_meta_url(href: str) -> str:
-    return f"https://ai.meta.com{href}" if href.startswith("/") else href
-
-
 def extract_articles(soup: BeautifulSoup) -> list[dict]:
     """Extract articles from the three card layouts on the Meta AI blog."""
     articles: list[dict] = []
@@ -161,7 +170,7 @@ def extract_articles(soup: BeautifulSoup) -> list[dict]:
     if hero:
         link = hero.find("a", href=True)
         if link:
-            href = _absolute_meta_url(link.get("href", ""))
+            href = absolute_url(link.get("href", ""), "https://ai.meta.com")
             title_elem = hero.find("div", class_="_amd1")
             title = title_elem.get_text(strip=True) if title_elem else ""
             if not title:
@@ -193,7 +202,7 @@ def extract_articles(soup: BeautifulSoup) -> list[dict]:
         link = card.find("a", href=True)
         if not link:
             continue
-        href = _absolute_meta_url(link.get("href", ""))
+        href = absolute_url(link.get("href", ""), "https://ai.meta.com")
 
         title_elem = card.find("div", class_="_amde")
         title = title_elem.get_text(strip=True) if title_elem else ""
@@ -227,7 +236,7 @@ def extract_articles(soup: BeautifulSoup) -> list[dict]:
         link = card.find("a", href=True)
         if not link:
             continue
-        href = _absolute_meta_url(link.get("href", ""))
+        href = absolute_url(link.get("href", ""), "https://ai.meta.com")
 
         title_elem = card.find("p", class_="_amt2")
         title = title_elem.get_text(strip=True) if title_elem else ""
@@ -276,16 +285,10 @@ def main(full_reset: bool = False) -> bool:
     cache = load_cache(FEED_NAME)
     cached_entries = deserialize_entries(cache.get("entries", []))
 
-    if full_reset or not cached_entries:
-        mode = "full reset" if full_reset else "no cache exists"
-        logger.info(f"Running full fetch ({mode})")
-        html = fetch_blog_content(max_clicks=20)
-    else:
-        logger.info("Running incremental update (3 clicks only)")
-        html = fetch_blog_content(max_clicks=3)
-
-    soup = BeautifulSoup(html, "html.parser")
-    new_articles = extract_articles(soup)
+    mode = "full reset" if full_reset else "no cache exists" if not cached_entries else "incremental update"
+    logger.info(f"Running {mode}")
+    cursor = CacheCursor([] if full_reset else cached_entries)
+    new_articles = fetch_blog_content(cursor, max_clicks=20)
 
     if cached_entries and not full_reset:
         articles = merge_entries(new_articles, cached_entries)
@@ -304,7 +307,4 @@ def main(full_reset: bool = False) -> bool:
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate AI at Meta Blog RSS feed")
-    parser.add_argument("--full", action="store_true", help="Force full reset (click Load more up to 20 times)")
-    args = parser.parse_args()
-    main(full_reset=args.full)
+    main(full_reset=parse_full_reset_flag("Generate AI at Meta Blog RSS feed"))

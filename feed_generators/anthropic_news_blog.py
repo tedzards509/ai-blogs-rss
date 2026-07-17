@@ -1,14 +1,16 @@
-import argparse
 import contextlib
 import xml.etree.ElementTree as ET
-from datetime import datetime
 
 import pytz
 from bs4 import BeautifulSoup
+from dateutil import parser as date_parser
 from feed_generators.util.utils import (
+    CacheCursor,
+    absolute_url,
     deserialize_entries,
     load_cache,
     merge_entries,
+    parse_full_reset_flag,
     save_cache,
     save_rss_feed,
     setup_feed_links,
@@ -28,13 +30,17 @@ BLOG_URL = "https://www.anthropic.com/news"
 logger = setup_logging()
 
 
-def fetch_news_content(url=BLOG_URL, max_clicks=20):
-    """Fetch the fully loaded HTML content of the news page using Selenium.
+def fetch_news_content(cursor, url=BLOG_URL, max_clicks=20):
+    """Fetch news articles using Selenium, clicking "See more" until a fold
+    turns up nothing new (or something already cached), or max_clicks is hit.
 
     Args:
-        url: The URL to fetch
-        max_clicks: Maximum number of "See more" button clicks.
-                   Use 20 for full fetch, 2-3 for incremental updates.
+        cursor: CacheCursor tracking which articles are already cached.
+        url: The URL to fetch.
+        max_clicks: Safety cap on the number of "See more" clicks.
+
+    Returns:
+        cursor.new_entries: articles from this run not already cached.
     """
     driver = None
     try:
@@ -48,6 +54,10 @@ def fetch_news_content(url=BLOG_URL, max_clicks=20):
             logger.info("News articles loaded successfully")
         except Exception:
             logger.warning("Could not confirm articles loaded, proceeding anyway...")
+
+        if not cursor.ingest(parse_news_html(driver.page_source)):
+            logger.info("No new articles (or hit cached article) on initial load")
+            return cursor.new_entries
 
         # Click "See more" button repeatedly until it's no longer available
         clicks = 0
@@ -87,6 +97,9 @@ def fetch_news_content(url=BLOG_URL, max_clicks=20):
                         WebDriverWait(driver, 5).until(
                             lambda d, n=count_before: len(d.find_elements(By.CSS_SELECTOR, "a[href*='/news/']")) > n
                         )
+                    if not cursor.ingest(parse_news_html(driver.page_source)):
+                        logger.info(f"No new articles (or hit cached article) after {clicks} clicks")
+                        break
                 else:
                     logger.info(f"No more 'See more' button found after {clicks} clicks")
                     break
@@ -95,9 +108,8 @@ def fetch_news_content(url=BLOG_URL, max_clicks=20):
                 logger.info(f"No more 'See more' button found after {clicks} clicks: {e}")
                 break
 
-        html_content = driver.page_source
-        logger.info("Successfully fetched HTML content")
-        return html_content
+        logger.info(f"Total new articles fetched: {len(cursor.new_entries)}")
+        return cursor.new_entries
 
     except Exception as e:
         logger.error(f"Error fetching content: {e}")
@@ -133,7 +145,8 @@ def extract_title(card):
 
 
 def extract_date(card):
-    """Extract date using multiple fallback selectors and formats."""
+    """Extract date using multiple fallback selectors, trying each candidate
+    element's text as a date until one actually parses."""
     selectors = [
         # New layout selectors - time element is most reliable
         "time[class*='date']",
@@ -145,27 +158,16 @@ def extract_date(card):
         "div[class*='date']",
     ]
 
-    date_formats = [
-        "%b %d, %Y",
-        "%B %d, %Y",
-        "%b %d %Y",
-        "%B %d %Y",
-        "%Y-%m-%d",
-        "%m/%d/%Y",
-    ]
-
     for selector in selectors:
         # Use select() to get all matching elements, not just the first one
         elems = card.select(selector)
         for elem in elems:
             date_text = elem.text.strip()
-            # Try to parse it as a date
-            for date_format in date_formats:
-                try:
-                    date = datetime.strptime(date_text, date_format)
-                    return date.replace(tzinfo=pytz.UTC)
-                except ValueError:
-                    continue
+            try:
+                dt = date_parser.parse(date_text)
+            except (ValueError, TypeError, OverflowError):
+                continue
+            return dt if dt.tzinfo else dt.replace(tzinfo=pytz.UTC)
 
     return None
 
@@ -252,7 +254,7 @@ def parse_news_html(html_content):
                 continue
 
             # Build full URL
-            link = "https://www.anthropic.com" + href if href.startswith("/") else href
+            link = absolute_url(href, "https://www.anthropic.com")
 
             # Skip duplicates
             if link in seen_links:
@@ -364,23 +366,22 @@ def main(full_reset=False):
     """Main function to generate RSS feed from Anthropic's news page.
 
     Args:
-        full_reset: If True, fetch all articles (click "See more" up to 20 times).
-                   If False, do incremental update (click 2-3 times, merge with cache).
+        full_reset: If True, ignore cache and fetch until max_clicks is hit.
+            If False, click "See more" until a fold turns up nothing new, then merge with cache.
     """
     try:
         cache = load_cache(FEED_NAME)
         cached_articles = deserialize_entries(cache.get("entries", []))
 
+        mode = "full reset" if full_reset else "no cache exists" if not cached_articles else "incremental update"
+        logger.info(f"Running {mode}")
+        cursor = CacheCursor([] if full_reset else cached_articles)
+        new_articles = fetch_news_content(cursor, max_clicks=20)
+
         if full_reset or not cached_articles:
-            mode = "full reset" if full_reset else "no cache exists"
-            logger.info(f"Running full fetch ({mode})")
-            html_content = fetch_news_content(max_clicks=20)
-            articles = parse_news_html(html_content)
+            articles = new_articles
         else:
-            logger.info("Running incremental update (2 clicks only)")
-            html_content = fetch_news_content(max_clicks=2)
-            new_articles = parse_news_html(html_content)
-            logger.info(f"Found {len(new_articles)} articles from recent pages")
+            logger.info(f"Found {len(new_articles)} new articles")
             articles = merge_entries(new_articles, cached_articles)
 
         if not articles:
@@ -405,7 +406,4 @@ def main(full_reset=False):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate Anthropic News RSS feed")
-    parser.add_argument("--full", action="store_true", help="Force full reset (fetch all articles)")
-    args = parser.parse_args()
-    main(full_reset=args.full)
+    main(full_reset=parse_full_reset_flag("Generate Anthropic News RSS feed"))

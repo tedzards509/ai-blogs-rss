@@ -1,21 +1,21 @@
-import argparse
 import re
 
-import pytz
 import requests
 from bs4 import BeautifulSoup
-from dateutil import parser as date_parser
 from feed_generators.util.utils import (
+    CacheCursor,
+    absolute_url,
     deserialize_entries,
     fetch_page,
     load_cache,
     merge_entries,
+    parse_date,
+    parse_full_reset_flag,
     save_cache,
     save_rss_feed,
     setup_feed_links,
     setup_logging,
     sort_posts_for_feed,
-    stable_fallback_date,
 )
 from feedgen.feed import FeedGenerator
 
@@ -24,20 +24,6 @@ logger = setup_logging()
 FEED_NAME = "the_batch"
 BLOG_URL = "https://www.deeplearning.ai/the-batch/"
 MAX_PAGES = 30  # Safety limit for pagination
-
-
-def parse_date(value: str | None, fallback_id: str = ""):
-    """Parse date text/datetime strings into timezone-aware datetime."""
-    if not value:
-        return stable_fallback_date(fallback_id)
-    try:
-        dt = date_parser.parse(value)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=pytz.UTC)
-        return dt
-    except (ValueError, TypeError) as exc:
-        logger.warning("Unable to parse date %r (%s); using fallback", value, exc)
-        return stable_fallback_date(fallback_id)
 
 
 def clean_text(text: str | None) -> str | None:
@@ -61,9 +47,7 @@ def is_valid_article_link(href: str) -> bool:
 
 def normalize_link(href: str) -> str:
     """Convert relative URL to absolute URL."""
-    if href.startswith("/"):
-        return f"https://www.deeplearning.ai{href}"
-    return href
+    return absolute_url(href, "https://www.deeplearning.ai")
 
 
 def extract_date_text(element) -> str | None:
@@ -216,11 +200,12 @@ def parse_articles_from_html(html_content: str) -> list[dict]:
     return articles
 
 
-def fetch_all_articles(max_pages: int = MAX_PAGES) -> list[dict]:
-    """Fetch all articles by iterating through paginated pages."""
-    all_articles = []
-    seen_links = set()
+def fetch_all_articles(cursor: CacheCursor, max_pages: int = MAX_PAGES) -> list[dict]:
+    """Fetch articles by iterating through paginated pages until a page turns
+    up nothing new (or something already cached), or max_pages is hit.
 
+    Returns cursor.new_entries: articles from this run not already cached.
+    """
     for page_num in range(1, max_pages + 1):
         # Construct page URL
         if page_num == 1:
@@ -252,22 +237,13 @@ def fetch_all_articles(max_pages: int = MAX_PAGES) -> list[dict]:
             logger.info(f"No articles found on page {page_num}, stopping pagination")
             break
 
-        # Deduplicate and add new articles
-        new_count = 0
-        for article in page_articles:
-            if article["link"] not in seen_links:
-                seen_links.add(article["link"])
-                all_articles.append(article)
-                new_count += 1
-
-        logger.info(f"Page {page_num}: Found {len(page_articles)} articles, {new_count} new")
-
-        if new_count == 0:
-            logger.info("No new articles found, stopping pagination")
+        logger.info(f"Page {page_num}: found {len(page_articles)} articles")
+        if not cursor.ingest(page_articles):
+            logger.info("No new articles (or hit cached article), stopping pagination")
             break
 
-    logger.info(f"Total articles fetched: {len(all_articles)}")
-    return all_articles
+    logger.info(f"Total new articles fetched: {len(cursor.new_entries)}")
+    return cursor.new_entries
 
 
 def build_feed(articles: list[dict]) -> FeedGenerator:
@@ -295,19 +271,21 @@ def main(full_reset=False):
     """Main function to generate RSS feed.
 
     Args:
-        full_reset: If True, fetch all pages. If False, fetch only first 3 pages and merge with cache.
+        full_reset: If True, ignore cache and fetch until max_pages is hit.
+            If False, fetch until a page turns up nothing new, then merge with cache.
     """
     cache = load_cache(FEED_NAME)
     cached_articles = deserialize_entries(cache.get("entries", []))
 
+    mode = "full reset" if full_reset else "no cache exists" if not cached_articles else "incremental update"
+    logger.info(f"Running {mode}")
+    cursor = CacheCursor([] if full_reset else cached_articles)
+    new_articles = fetch_all_articles(cursor, max_pages=MAX_PAGES)
+
     if full_reset or not cached_articles:
-        mode = "full reset" if full_reset else "no cache exists"
-        logger.info(f"Running full fetch ({mode})")
-        articles = fetch_all_articles(max_pages=MAX_PAGES)
+        articles = new_articles
     else:
-        logger.info("Running incremental update (3 pages only)")
-        new_articles = fetch_all_articles(max_pages=3)
-        logger.info(f"Found {len(new_articles)} articles from recent pages")
+        logger.info(f"Found {len(new_articles)} new articles")
         articles = merge_entries(new_articles, cached_articles)
 
     if not articles:
@@ -324,7 +302,4 @@ def main(full_reset=False):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate DeepLearning.AI The Batch RSS feed")
-    parser.add_argument("--full", action="store_true", help="Force full reset (fetch all pages)")
-    args = parser.parse_args()
-    main(full_reset=args.full)
+    main(full_reset=parse_full_reset_flag("Generate DeepLearning.AI The Batch RSS feed"))

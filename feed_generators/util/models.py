@@ -24,7 +24,7 @@ class FeedConfig(BaseModel):
     @field_validator("script")
     @classmethod
     def script_must_exist(cls, v: str) -> str:
-        script_path = Path(__file__).parent / v
+        script_path = Path(__file__).parent.parent / v
         if not script_path.exists():
             msg = f"Script not found: {v}"
             raise ValueError(msg)
@@ -52,7 +52,7 @@ def load_feed_registry() -> dict[str, FeedConfig]:
         FileNotFoundError: If feeds.yaml is missing.
         ValidationError: If any feed config is invalid.
     """
-    registry_path = Path(__file__).parent.parent / "feeds.yaml"
+    registry_path = Path(__file__).parent.parent.parent / "feeds.yaml"
     if not registry_path.exists():
         msg = f"Feed registry not found: {registry_path}"
         raise FileNotFoundError(msg)

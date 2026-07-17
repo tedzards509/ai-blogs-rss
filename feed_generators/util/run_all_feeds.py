@@ -4,7 +4,7 @@ import os
 import subprocess
 import sys
 
-from models import FeedConfig, FeedType, load_feed_registry
+from feed_generators.util.models import FeedConfig, FeedType, load_feed_registry
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -22,7 +22,7 @@ def run_feed(feed_name: str, config: FeedConfig, full: bool = False) -> bool:
     Returns:
         True if the generator succeeded, False otherwise.
     """
-    script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), config.script)
+    script_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), config.script)
     cmd = ["uv", "run", script_path]
     if full:
         cmd.append("--full")
