@@ -119,6 +119,10 @@ def fetch_page(url: str, timeout: int = 30, headers: dict | None = None) -> str:
         headers = DEFAULT_HEADERS
     response = requests.get(url, headers=headers, timeout=timeout)
     response.raise_for_status()
+    if "charset" not in response.headers.get("content-type", "").lower():
+        # Servers that omit charset make requests default to ISO-8859-1 per
+        # RFC 2616, mangling UTF-8 bytes. Sniff the real encoding instead.
+        response.encoding = response.apparent_encoding
     return response.text
 
 

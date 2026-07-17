@@ -25,10 +25,30 @@ feeds:
     type: selenium
     blog_url: https://www.anthropic.com/news
 
+  bfl:
+    script: bfl_blog.py
+    type: requests
+    blog_url: https://bfl.ai/blog
+
+  deepseek_updates:
+    script: deepseek_updates.py
+    type: requests
+    blog_url: https://api-docs.deepseek.com/updates
+
+  kimi:
+    script: kimi_blog.py
+    type: requests
+    blog_url: https://www.kimi.com/blog/
+
   meta_ai:
     script: meta_ai_blog.py
     type: selenium
     blog_url: https://ai.meta.com/blog/
+
+  minimax:
+    script: minimax_blog.py
+    type: requests
+    blog_url: https://www.minimax.io/blog
 
   mistral:
     script: mistral_blog.py
@@ -49,3 +69,8 @@ feeds:
     script: xainews_blog.py
     type: selenium
     blog_url: https://x.ai/news
+
+  zai_release_notes:
+    script: zai_release_notes.py
+    type: requests
+    blog_url: https://docs.z.ai/release-notes/new-released
