@@ -184,6 +184,14 @@ The main `<link>` element must point to the original blog, not the feed URL. Use
    - [ ] For cache-backed feeds: `cache/<source>_posts.json` is created on first run, and a second run logs an early stop (nothing new / hit cached entry) instead of refetching everything
    - [ ] `uv run ruff check feed_generators/` and `uv run ruff format --check feed_generators/` pass
 
+6. **Regenerate the README feeds table and `feeds.opml`**:
+
+   ```bash
+   uv run scripts/gen_readme_feeds_table.py
+   ```
+
+   This reads `feeds.yaml` and rewrites the table between the `<!-- FEEDS_TABLE_START -->`/`<!-- FEEDS_TABLE_END -->` markers in `README.md`, plus `feeds.opml`, so don't hand-edit either.
+
 ## Code Style
 
 Ruff handles both linting and formatting (config in `pyproject.toml`); pre-commit runs it automatically (`.pre-commit-config.yaml`, `uv sync --group dev && pre-commit install`).

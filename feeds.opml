@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>AI Blogs RSS</title>
+  </head>
+  <body>
+    <outline type="rss" text="anthropic news" title="anthropic news" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_anthropic_news.xml" htmlUrl="https://www.anthropic.com/news"/>
+    <outline type="rss" text="anthropic news product" title="anthropic news product" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_anthropic_news_product.xml" htmlUrl="https://www.anthropic.com/news"/>
+    <outline type="rss" text="bfl" title="bfl" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_bfl.xml" htmlUrl="https://bfl.ai/blog"/>
+    <outline type="rss" text="deepseek updates" title="deepseek updates" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_deepseek_updates.xml" htmlUrl="https://api-docs.deepseek.com/updates"/>
+    <outline type="rss" text="kimi" title="kimi" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_kimi.xml" htmlUrl="https://www.kimi.com/blog/"/>
+    <outline type="rss" text="meta ai" title="meta ai" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_meta_ai.xml" htmlUrl="https://ai.meta.com/blog/"/>
+    <outline type="rss" text="minimax" title="minimax" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_minimax.xml" htmlUrl="https://www.minimax.io/blog"/>
+    <outline type="rss" text="mistral" title="mistral" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_mistral.xml" htmlUrl="https://mistral.ai/news"/>
+    <outline type="rss" text="openai news product" title="openai news product" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_openai_news_product.xml" htmlUrl="https://openai.com/news"/>
+    <outline type="rss" text="the batch" title="the batch" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_the_batch.xml" htmlUrl="https://www.deeplearning.ai/the-batch/"/>
+    <outline type="rss" text="xainews" title="xainews" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_xainews.xml" htmlUrl="https://x.ai/news"/>
+    <outline type="rss" text="zai release notes" title="zai release notes" xmlUrl="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_zai_release_notes.xml" htmlUrl="https://docs.z.ai/release-notes/new-released"/>
+  </body>
+</opml>

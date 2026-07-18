@@ -5,7 +5,7 @@
 #   1. Create feed_generators/<name>.py
 #   2. Add an entry here
 #   3. Add a Make target in makefiles/feeds.mk
-#   4. Update README.md
+#   4. Run `uv run scripts/gen_readme_feeds_table.py` to regenerate the README table and feeds.opml
 #
 # To disable a feed temporarily:
 #   some_feed:
