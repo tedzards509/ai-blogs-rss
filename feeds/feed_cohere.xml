@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 17:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 18:31:50 +0000</lastBuildDate>
+    <item>
+      <title>Cohere and the University of Toronto partner to advance responsible AI adoption at scale</title>
+      <link>https://cohere.com/blog/cohere-university-of-toronto-announcement</link>
+      <description>Cohere and the University of Toronto partner to advance responsible AI adoption at scale</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-university-of-toronto-announcement</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The total cost of AI ownership</title>
+      <link>https://cohere.com/blog/the-total-cost-of-ai-ownership</link>
+      <description>The total cost of AI ownership</description>
+      <guid isPermaLink="false">https://cohere.com/blog/the-total-cost-of-ai-ownership</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiny Aya in the wild: What people are building with open multilingual AI</title>
+      <link>https://cohere.com/blog/tiny-aya-in-the-wild</link>
+      <description>Tiny Aya in the wild: What people are building with open multilingual AI</description>
+      <guid isPermaLink="false">https://cohere.com/blog/tiny-aya-in-the-wild</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hardware-aware dynamic speculative decoding</title>
+      <link>https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding</link>
+      <description>Hardware-aware dynamic speculative decoding</description>
+      <guid isPermaLink="false">https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meet Cohere Transcribe Arabic</title>
       <link>https://cohere.com/blog/transcribe-arabic</link>

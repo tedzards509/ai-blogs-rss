@@ -36,12 +36,61 @@ BLOG_URL = "https://cohere.com/blog"
 MAX_PAGES = 30  # Safety limit for pagination
 
 
+def _parse_card(title_a) -> dict | None:
+    """Build an article dict from an `a.flex.flex-1.flex-col` card.
+
+    Its first `<p>` is the title, and the first `<p>` inside the trailing
+    `<span>` is the date (e.g. "Jul 07, 2026").
+    """
+    if not title_a.get("href"):
+        return None
+
+    title_p = title_a.find("p")
+    if not title_p:
+        return None
+    title = title_p.get_text(strip=True)
+    if not title:
+        return None
+
+    link = absolute_url(title_a["href"], "https://cohere.com")
+
+    date_p = title_a.find("span")
+    date_text = date_p.find("p").get_text(strip=True) if date_p and date_p.find("p") else None
+    date = parse_date(date_text, fallback_id=link)
+
+    return {"title": title, "link": link, "date": date, "description": title}
+
+
+def parse_featured_articles(html: str) -> list[dict]:
+    """Extract the 4 featured articles pinned above the "Browse all" grid.
+
+    They live in a two-column row: one large hero card (in a div matched by
+    `lg:max-w-[880px]`) plus 3 smaller cards in the sibling column. Both use
+    the same `a.flex.flex-1.flex-col` card markup as the paginated grid, but
+    aren't part of `ul.grid`/`section#blog-browse-all`, so `parse_articles`
+    never sees them and page 1 of pagination silently duplicates them later.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    hero = soup.select_one('div[class*="lg:max-w-[880px]"]')
+    if not hero:
+        return []
+    row = hero.parent
+
+    articles = []
+    for title_a in row.select("a.flex.flex-1.flex-col"):
+        article = _parse_card(title_a)
+        if article:
+            articles.append(article)
+
+    logger.info(f"Parsed {len(articles)} featured articles")
+    return articles
+
+
 def parse_articles(html: str) -> list[dict]:
     """Extract articles from the "Browse all" grid on a `/blog?page=N` response.
 
     Each card is an `<li>` in `ul.grid` wrapping an `a.flex.flex-1.flex-col`
-    that links to the post; its first `<p>` is the title, and the first
-    `<p>` inside the trailing `<span>` is the date (e.g. "Jul 07, 2026").
+    that links to the post.
     """
     soup = BeautifulSoup(html, "html.parser")
     section = soup.select_one("section#blog-browse-all")
@@ -54,23 +103,11 @@ def parse_articles(html: str) -> list[dict]:
     articles = []
     for li in grid.find_all("li", recursive=False):
         title_a = li.select_one("a.flex.flex-1.flex-col")
-        if not title_a or not title_a.get("href"):
+        if not title_a:
             continue
-
-        title_p = title_a.find("p")
-        if not title_p:
-            continue
-        title = title_p.get_text(strip=True)
-        if not title:
-            continue
-
-        link = absolute_url(title_a["href"], "https://cohere.com")
-
-        date_p = title_a.find("span")
-        date_text = date_p.find("p").get_text(strip=True) if date_p and date_p.find("p") else None
-        date = parse_date(date_text, fallback_id=link)
-
-        articles.append({"title": title, "link": link, "date": date, "description": title})
+        article = _parse_card(title_a)
+        if article:
+            articles.append(article)
 
     logger.info(f"Parsed {len(articles)} articles")
     return articles
@@ -98,6 +135,11 @@ def fetch_all_posts(cursor: CacheCursor, max_pages: int | None = MAX_PAGES) -> l
             break
 
         page_articles = parse_articles(html)
+        if page_num == 1:
+            featured = parse_featured_articles(html)
+            seen_links = {a["link"] for a in page_articles}
+            page_articles = [a for a in featured if a["link"] not in seen_links] + page_articles
+
         if not page_articles:
             logger.info(f"No articles found on page {page_num}, stopping pagination")
             break
