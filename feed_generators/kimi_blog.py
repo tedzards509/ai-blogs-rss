@@ -5,6 +5,8 @@ server-rendered directly into the initial HTML response, with no "load
 more"/pagination control on the page. No Selenium required.
 """
 
+import sys
+
 from bs4 import BeautifulSoup
 from feed_generators.util.utils import (
     absolute_url,
@@ -114,4 +116,4 @@ def main() -> bool:
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(0 if main() else 1)

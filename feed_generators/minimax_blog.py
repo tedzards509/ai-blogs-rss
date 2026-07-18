@@ -7,6 +7,8 @@ Each post is an <a href="/blog/..."> wrapping a title <h3>, a date span,
 and a description <article>.
 """
 
+import sys
+
 from bs4 import BeautifulSoup
 from feed_generators.util.utils import (
     absolute_url,
@@ -110,4 +112,4 @@ def main() -> bool:
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(0 if main() else 1)

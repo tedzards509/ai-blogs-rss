@@ -8,6 +8,8 @@ its content taken from the sibling elements that follow it up to the next
 <h2>/<h3>.
 """
 
+import sys
+
 from bs4 import BeautifulSoup
 from feed_generators.util.utils import (
     fetch_page,
@@ -108,4 +110,4 @@ def main() -> bool:
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(0 if main() else 1)

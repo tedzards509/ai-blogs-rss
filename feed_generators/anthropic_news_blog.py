@@ -1,4 +1,5 @@
 import contextlib
+import sys
 import xml.etree.ElementTree as ET
 
 import pytz
@@ -406,4 +407,4 @@ def main(full_reset=False):
 
 
 if __name__ == "__main__":
-    main(full_reset=parse_full_reset_flag("Generate Anthropic News RSS feed"))
+    sys.exit(0 if main(full_reset=parse_full_reset_flag("Generate Anthropic News RSS feed")) else 1)

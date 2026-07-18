@@ -1,4 +1,5 @@
 import re
+import sys
 
 from bs4 import BeautifulSoup
 from feed_generators.util.utils import (
@@ -249,4 +250,4 @@ def main(full_reset=False):
 
 
 if __name__ == "__main__":
-    main(full_reset=parse_full_reset_flag("Generate xAI News RSS feed"))
+    sys.exit(0 if main(full_reset=parse_full_reset_flag("Generate xAI News RSS feed")) else 1)

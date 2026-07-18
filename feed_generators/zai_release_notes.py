@@ -7,6 +7,8 @@ release entry. Each entry is a `div.update` block with `id="YYYY-MM-DD"`,
 a short title label, and a content section.
 """
 
+import sys
+
 from bs4 import BeautifulSoup
 from feed_generators.util.utils import (
     fetch_page,
@@ -92,4 +94,4 @@ def main() -> bool:
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(0 if main() else 1)

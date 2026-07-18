@@ -1,4 +1,5 @@
 import re
+import sys
 
 import requests
 from bs4 import BeautifulSoup
@@ -302,4 +303,4 @@ def main(full_reset=False):
 
 
 if __name__ == "__main__":
-    main(full_reset=parse_full_reset_flag("Generate DeepLearning.AI The Batch RSS feed"))
+    sys.exit(0 if main(full_reset=parse_full_reset_flag("Generate DeepLearning.AI The Batch RSS feed")) else 1)

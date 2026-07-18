@@ -6,6 +6,8 @@ a separate script (own FEED_NAME, own cache file) per the "multiple feeds
 from one site" pattern described in AGENTS.md.
 """
 
+import sys
+
 from feed_generators.util.utils import (
     CacheCursor,
     deserialize_entries,
@@ -100,4 +102,4 @@ def main(full_reset=False):
 
 
 if __name__ == "__main__":
-    main(full_reset=parse_full_reset_flag("Generate Anthropic News 'Product' RSS feed"))
+    sys.exit(0 if main(full_reset=parse_full_reset_flag("Generate Anthropic News 'Product' RSS feed")) else 1)

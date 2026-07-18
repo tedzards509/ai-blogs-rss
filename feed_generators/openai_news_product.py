@@ -6,6 +6,7 @@ whose <category> is "Product". Simple Static pattern (no cache needed): the
 source feed is small and always returns its full history.
 """
 
+import sys
 import xml.etree.ElementTree as ET
 
 from feed_generators.util.utils import (
@@ -111,4 +112,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(0 if main() else 1)

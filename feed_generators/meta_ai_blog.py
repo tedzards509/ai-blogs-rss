@@ -9,6 +9,7 @@ Closes upstream issue #61.
 
 import contextlib
 import re
+import sys
 import time
 from datetime import datetime
 
@@ -307,4 +308,4 @@ def main(full_reset: bool = False) -> bool:
 
 
 if __name__ == "__main__":
-    main(full_reset=parse_full_reset_flag("Generate AI at Meta Blog RSS feed"))
+    sys.exit(0 if main(full_reset=parse_full_reset_flag("Generate AI at Meta Blog RSS feed")) else 1)
