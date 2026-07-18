@@ -3,6 +3,7 @@ import logging
 import os
 import subprocess
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from feed_generators.util.models import FeedConfig, FeedType, load_feed_registry
@@ -32,12 +33,14 @@ def run_feed(feed_name: str, config: FeedConfig, full: bool = False) -> bool:
         cmd.append("--full")
 
     logger.info(f"Running {feed_name}: {script_path}")
+    start = time.time()
     result = subprocess.run(cmd, capture_output=True, text=True)
+    time_in_seconds = round(time.time() - start)
     if result.returncode == 0:
-        logger.info(f"Successfully ran: {feed_name}")
+        logger.info(f"Successfully ran: {feed_name} in {time_in_seconds}s")
         return True
     else:
-        logger.error(f"Error running {feed_name}:\n{result.stderr}")
+        logger.error(f"Error running {feed_name} after {time_in_seconds}s:\n{result.stderr}")
         return False
 
 
