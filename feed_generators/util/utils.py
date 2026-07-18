@@ -456,6 +456,7 @@ def get_binary_path(candidates: list[str]) -> str | None:
     for path in candidates:
         resolved = path if os.path.isabs(path) and os.path.exists(path) else shutil.which(path)
         if resolved:
+            logger.info(f"Found binary at {resolved}")
             return resolved
     return None
 
@@ -480,6 +481,25 @@ def get_chrome_major_version(binary_path: str | None) -> int | None:
         pass
     logger.warning("Could not detect browser version, using undetected_chromedriver default")
     return None
+
+
+def ensure_writable_driver_copy(driver_path: str) -> str:
+    """Return a path to *driver_path* that the current user can write to.
+
+    undetected_chromedriver patches its chromedriver binary in place
+    (opens it "r+b" and rewrites it) to evade bot detection. A
+    distro-installed driver (e.g. ``/usr/bin/chromedriver``) is typically
+    root-owned and not writable, which makes that patch step fail with a
+    PermissionError. Copy it into our cache dir first so it stays
+    patchable without needing elevated permissions.
+    """
+    if os.access(driver_path, os.W_OK):
+        return driver_path
+    cached_copy = get_cache_dir() / "chromedriver"
+    if not cached_copy.exists() or cached_copy.stat().st_mtime < os.path.getmtime(driver_path):
+        shutil.copy2(driver_path, cached_copy)
+        cached_copy.chmod(0o755)
+    return str(cached_copy)
 
 
 def setup_selenium_driver():
@@ -511,6 +531,8 @@ def setup_selenium_driver():
         logger.warning("Could not locate Chrome/Chromium binary.")
     version = get_chrome_major_version(binary_path)
     driver_path = get_binary_path(CHROMEDRIVER_CANDIDATES)
+    if driver_path:
+        driver_path = ensure_writable_driver_copy(driver_path)
     return uc.Chrome(
         options=options,
         version_main=version,
