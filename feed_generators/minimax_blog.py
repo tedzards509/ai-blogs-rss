@@ -23,7 +23,7 @@ from feedgen.feed import FeedGenerator
 
 logger = setup_logging()
 
-FEED_NAME = "minimax_blog"
+FEED_NAME = "minimax"
 BLOG_URL = "https://www.minimax.io/blog"
 
 
