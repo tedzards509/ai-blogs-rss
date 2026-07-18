@@ -30,6 +30,11 @@ feeds:
     type: requests
     blog_url: https://bfl.ai/blog
 
+  cohere:
+    script: cohere_blog.py
+    type: requests
+    blog_url: https://cohere.com/blog
+
   deepseek_updates:
     script: deepseek_updates.py
     type: requests

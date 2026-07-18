@@ -14,6 +14,7 @@ All feeds below, bundled as an OPML file for one-click import into an RSS reader
 | anthropic news | [https://www.anthropic.com/news](https://www.anthropic.com/news) | [feed_anthropic_news.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_anthropic_news.xml) |
 | anthropic news product | [https://www.anthropic.com/news](https://www.anthropic.com/news) | [feed_anthropic_news_product.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_anthropic_news_product.xml) |
 | bfl | [https://bfl.ai/blog](https://bfl.ai/blog) | [feed_bfl.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_bfl.xml) |
+| cohere | [https://cohere.com/blog](https://cohere.com/blog) | [feed_cohere.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_cohere.xml) |
 | deepseek updates | [https://api-docs.deepseek.com/updates](https://api-docs.deepseek.com/updates) | [feed_deepseek_updates.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_deepseek_updates.xml) |
 | kimi | [https://www.kimi.com/blog/](https://www.kimi.com/blog/) | [feed_kimi.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_kimi.xml) |
 | meta ai | [https://ai.meta.com/blog/](https://ai.meta.com/blog/) | [feed_meta_ai.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_meta_ai.xml) |
