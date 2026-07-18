@@ -3,12 +3,16 @@ import logging
 import os
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from feed_generators.util.models import FeedConfig, FeedType, load_feed_registry
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
+
+# Cap concurrent "requests"-type feed runs.
+MAX_WORKERS = 4
 
 
 def run_feed(feed_name: str, config: FeedConfig, full: bool = False) -> bool:
@@ -72,6 +76,8 @@ def run_all_feeds(
     failed_scripts = []
     successful_scripts = []
     skipped_scripts = []
+    selenium_to_run: list[tuple[str, FeedConfig]] = []
+    requests_to_run: list[tuple[str, FeedConfig]] = []
 
     for name, config in sorted(registry.items()):
         if not config.enabled:
@@ -91,11 +97,28 @@ def run_all_feeds(
             skipped_scripts.append(name)
             continue
 
-        ok = run_feed(name, config, full=full)
-        if ok:
-            successful_scripts.append(name)
-        else:
-            failed_scripts.append(name)
+        (selenium_to_run if is_selenium else requests_to_run).append((name, config))
+
+    # Selenium feeds run one at a time (each launches its own headless Chrome,
+    # which gets flaky under contention); requests-based feeds run in parallel.
+    # The two groups run concurrently with each other.
+    with (
+        ThreadPoolExecutor(max_workers=1) as selenium_executor,
+        ThreadPoolExecutor(max_workers=MAX_WORKERS) as requests_executor,
+    ):
+        futures = {
+            **{selenium_executor.submit(run_feed, name, config, full): name for name, config in selenium_to_run},
+            **{requests_executor.submit(run_feed, name, config, full): name for name, config in requests_to_run},
+        }
+        for future in as_completed(futures):
+            name = futures[future]
+            if future.result():
+                successful_scripts.append(name)
+            else:
+                failed_scripts.append(name)
+
+    successful_scripts.sort()
+    failed_scripts.sort()
 
     # Summary
     logger.info(f"\n{'=' * 60}")

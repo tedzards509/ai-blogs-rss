@@ -54,6 +54,12 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m 'Update RSS feeds (Selenium)'
-            git push || { git pull --rebase && git push; }
+            last_author=$(git log -1 --format='%ae')
+            if [ "$last_author" = 'github-actions[bot]@users.noreply.github.com' ]; then
+              git commit --amend -m 'Update RSS feeds'
+              git push --force-with-lease || { git pull --rebase && git push --force-with-lease; }
+            else
+              git commit -m 'Update RSS feeds'
+              git push || { git pull --rebase && git push; }
+            fi
           fi

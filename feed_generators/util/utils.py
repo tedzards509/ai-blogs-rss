@@ -451,6 +451,7 @@ def get_chrome_binary_path() -> str | None:
         resolved = path if os.path.isabs(path) and os.path.exists(path) else shutil.which(path)
         if resolved:
             return resolved
+    logger.warning("Could not locate Chrome/Chromium binary.")
     return None
 
 
