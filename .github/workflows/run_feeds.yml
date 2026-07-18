@@ -36,15 +36,17 @@ jobs:
           chrome-version: stable
           install-chromedriver: true
 
-      - name: Install dependencies and run Selenium feeds
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run Selenium feeds
+        id: run_feeds
         timeout-minutes: 45
-        run: |
-          set -e
-          uv sync
-          uv run feed_generators/util/run_all_feeds.py
+        continue-on-error: true
+        run: uv run feed_generators/util/run_all_feeds.py
 
       - name: Commit and push feeds
-        if: github.ref == 'refs/heads/main'
+        if: always() && github.ref == 'refs/heads/main'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -65,3 +67,9 @@ jobs:
               git push || { git pull --rebase && git push; }
             fi
           fi
+
+      - name: Fail job if any feed generator failed
+        if: steps.run_feeds.outcome == 'failure'
+        run: |
+          echo "One or more feed generators failed; feeds that succeeded were still pushed above." >&2
+          exit 1
