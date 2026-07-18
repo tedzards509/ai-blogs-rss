@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Anthropic News - Product</title>
+    <link>https://www.anthropic.com/news</link>
+    <description>Product updates from Anthropic's newsroom</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news_product.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://www.anthropic.com/images/icons/apple-touch-icon.png</url>
+      <title>Anthropic News - Product</title>
+      <link>https://www.anthropic.com/news</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jul 2026 00:05:36 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Claude for Teachers</title>
+      <link>https://www.anthropic.com/news/claude-for-teachers</link>
+      <description>Introducing Claude for Teachers</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-for-teachers</guid>
+      <category>Product</category>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 5</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
+      <description>Introducing Claude Sonnet 5</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-5</guid>
+      <category>Product</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Tag</title>
+      <link>https://www.anthropic.com/news/introducing-claude-tag</link>
+      <description>Introducing Claude Tag</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/introducing-claude-tag</guid>
+      <category>Product</category>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Opus 4.8</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-8</link>
+      <description>Introducing Claude Opus 4.8</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-opus-4-8</guid>
+      <category>Product</category>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Design by Anthropic Labs</title>
+      <link>https://www.anthropic.com/news/claude-design-anthropic-labs</link>
+      <description>Introducing Claude Design by Anthropic Labs</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
+      <category>Product</category>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Opus 4.7</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-7</link>
+      <description>Introducing Claude Opus 4.7</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-opus-4-7</guid>
+      <category>Product</category>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 4.6</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-4-6</link>
+      <description>Introducing Claude Sonnet 4.6</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-4-6</guid>
+      <category>Product</category>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple’s Xcode now supports the Claude Agent SDK</title>
+      <link>https://www.anthropic.com/news/apple-xcode-claude-agent-sdk</link>
+      <description>Apple’s Xcode now supports the Claude Agent SDK</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/apple-xcode-claude-agent-sdk</guid>
+      <category>Product</category>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude now available in Microsoft Foundry and Microsoft 365 Copilot</title>
+      <link>https://www.anthropic.com/news/claude-in-microsoft-foundry</link>
+      <description>Claude now available in Microsoft Foundry and Microsoft 365 Copilot</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-in-microsoft-foundry</guid>
+      <category>Product</category>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measuring political bias in Claude</title>
+      <link>https://www.anthropic.com/news/political-even-handedness</link>
+      <description>Measuring political bias in Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/political-even-handedness</guid>
+      <category>Product</category>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Haiku 4.5</title>
+      <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
+      <description>Introducing Claude Haiku 4.5</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-haiku-4-5</guid>
+      <category>Product</category>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enabling Claude Code to work more autonomously</title>
+      <link>https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</link>
+      <description>Enabling Claude Code to work more autonomously</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</guid>
+      <category>Product</category>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude is now generally available in Xcode</title>
+      <link>https://www.anthropic.com/news/claude-in-xcode</link>
+      <description>Claude is now generally available in Xcode</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-in-xcode</guid>
+      <category>Product</category>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updates to Consumer Terms and Privacy Policy</title>
+      <link>https://www.anthropic.com/news/updates-to-our-consumer-terms</link>
+      <description>Updates to Consumer Terms and Privacy Policy</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/updates-to-our-consumer-terms</guid>
+      <category>Product</category>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code and new admin controls for business plans</title>
+      <link>https://www.anthropic.com/news/claude-code-on-team-and-enterprise</link>
+      <description>Claude Code and new admin controls for business plans</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-code-on-team-and-enterprise</guid>
+      <category>Product</category>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building safeguards for Claude</title>
+      <link>https://www.anthropic.com/news/building-safeguards-for-claude</link>
+      <description>Building safeguards for Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/building-safeguards-for-claude</guid>
+      <category>Product</category>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude for Financial Services</title>
+      <link>https://www.anthropic.com/news/claude-for-financial-services</link>
+      <description>Claude for Financial Services</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-for-financial-services</guid>
+      <category>Product</category>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing Claude for Education</title>
+      <link>https://www.anthropic.com/news/advancing-claude-for-education</link>
+      <description>Advancing Claude for Education</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/advancing-claude-for-education</guid>
+      <category>Product</category>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Contextual Retrieval</title>
+      <link>https://www.anthropic.com/news/contextual-retrieval</link>
+      <description>Introducing Contextual Retrieval</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/contextual-retrieval</guid>
+      <category>Product</category>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fine-tune Claude 3 Haiku in Amazon Bedrock</title>
+      <link>https://www.anthropic.com/news/fine-tune-claude-3-haiku</link>
+      <description>Fine-tune Claude 3 Haiku in Amazon Bedrock</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/fine-tune-claude-3-haiku</guid>
+      <category>Product</category>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collaborate with Claude on Projects</title>
+      <link>https://www.anthropic.com/news/projects</link>
+      <description>Collaborate with Claude on Projects</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/projects</guid>
+      <category>Product</category>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Golden Gate Claude</title>
+      <link>https://www.anthropic.com/news/golden-gate-claude</link>
+      <description>Golden Gate Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/golden-gate-claude</guid>
+      <category>Product</category>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prompt engineering for business performance</title>
+      <link>https://www.anthropic.com/news/prompt-engineering-for-business-performance</link>
+      <description>Prompt engineering for business performance</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/prompt-engineering-for-business-performance</guid>
+      <category>Product</category>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude 2.1</title>
+      <link>https://www.anthropic.com/news/claude-2-1</link>
+      <description>Introducing Claude 2.1</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-2-1</guid>
+      <category>Product</category>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prompt engineering for Claude's long context window</title>
+      <link>https://www.anthropic.com/news/prompting-long-context</link>
+      <description>Prompt engineering for Claude's long context window</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/prompting-long-context</guid>
+      <category>Product</category>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

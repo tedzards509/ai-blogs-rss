@@ -1,0 +1,1152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>OpenAI News - Product</title>
+    <link>https://openai.com/news</link>
+    <description>Product updates from OpenAI's newsroom</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_openai_news_product.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jul 2026 00:05:00 +0000</lastBuildDate>
+    <item>
+      <title>GPT-5.6 is now the preferred model in Microsoft 365 Copilot</title>
+      <link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
+      <description>Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</guid>
+      <category>Product</category>
+      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT is now a partner for your most ambitious work</title>
+      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
+      <description>ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
+      <category>Product</category>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.6: Frontier intelligence that scales with your ambition</title>
+      <link>https://openai.com/index/gpt-5-6</link>
+      <description>More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
+      <category>Product</category>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-Live</title>
+      <link>https://openai.com/index/introducing-gpt-live</link>
+      <description>A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live</guid>
+      <category>Product</category>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Previewing GPT-5.6 Sol: a next-generation model</title>
+      <link>https://openai.com/index/previewing-gpt-5-6-sol</link>
+      <description>OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.</description>
+      <guid isPermaLink="false">https://openai.com/index/previewing-gpt-5-6-sol</guid>
+      <category>Product</category>
+      <pubDate>Fri, 26 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New usage analytics and updated spend controls for enterprises</title>
+      <link>https://openai.com/index/chatgpt-enterprise-spend-controls</link>
+      <description>OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-enterprise-spend-controls</guid>
+      <category>Product</category>
+      <pubDate>Thu, 18 Jun 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving health intelligence in ChatGPT</title>
+      <link>https://openai.com/index/improving-health-intelligence-in-chatgpt</link>
+      <description>Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.</description>
+      <guid isPermaLink="false">https://openai.com/index/improving-health-intelligence-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Thu, 18 Jun 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the OpenAI Partner Network</title>
+      <link>https://openai.com/index/introducing-openai-partner-network</link>
+      <description>OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-partner-network</guid>
+      <category>Product</category>
+      <pubDate>Sun, 14 Jun 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing new capabilities to GPT-Rosalind</title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
+      <description>GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
+      <category>Product</category>
+      <pubDate>Wed, 03 Jun 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex for every role, tool, and workflow</title>
+      <link>https://openai.com/index/codex-for-every-role-tool-workflow</link>
+      <description>Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.</description>
+      <guid isPermaLink="false">https://openai.com/index/codex-for-every-role-tool-workflow</guid>
+      <category>Product</category>
+      <pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI frontier models and Codex are now available on AWS</title>
+      <link>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</link>
+      <description>OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.</description>
+      <guid isPermaLink="false">https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</guid>
+      <category>Product</category>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strengthening societal resilience with Rosalind Biodefense</title>
+      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</link>
+      <description>OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.</description>
+      <guid isPermaLink="false">https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</guid>
+      <category>Product</category>
+      <pubDate>Fri, 29 May 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new personal finance experience in ChatGPT</title>
+      <link>https://openai.com/index/personal-finance-chatgpt</link>
+      <description>Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.</description>
+      <guid isPermaLink="false">https://openai.com/index/personal-finance-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Work with Codex from anywhere</title>
+      <link>https://openai.com/index/work-with-codex-from-anywhere</link>
+      <description>Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.</description>
+      <guid isPermaLink="false">https://openai.com/index/work-with-codex-from-anywhere</guid>
+      <category>Product</category>
+      <pubDate>Thu, 14 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing voice intelligence with new models in the API</title>
+      <link>https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</link>
+      <description>Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.</description>
+      <guid isPermaLink="false">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</guid>
+      <category>Product</category>
+      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.5 Instant: smarter, clearer, and more personalized</title>
+      <link>https://openai.com/index/gpt-5-5-instant</link>
+      <description>GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-5-instant</guid>
+      <category>Product</category>
+      <pubDate>Tue, 05 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ways to buy ChatGPT ads</title>
+      <link>https://openai.com/index/new-ways-to-buy-chatgpt-ads</link>
+      <description>OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.</description>
+      <guid isPermaLink="false">https://openai.com/index/new-ways-to-buy-chatgpt-ads</guid>
+      <category>Product</category>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Advanced Account Security</title>
+      <link>https://openai.com/index/advanced-account-security</link>
+      <description>Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.</description>
+      <guid isPermaLink="false">https://openai.com/index/advanced-account-security</guid>
+      <category>Product</category>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI models, Codex, and Managed Agents come to AWS</title>
+      <link>https://openai.com/index/openai-on-aws</link>
+      <description>OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.</description>
+      <guid isPermaLink="false">https://openai.com/index/openai-on-aws</guid>
+      <category>Product</category>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.5</title>
+      <link>https://openai.com/index/introducing-gpt-5-5</link>
+      <description>Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-5</guid>
+      <category>Product</category>
+      <pubDate>Thu, 23 Apr 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making ChatGPT better for clinicians</title>
+      <link>https://openai.com/index/making-chatgpt-better-for-clinicians</link>
+      <description>OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.</description>
+      <guid isPermaLink="false">https://openai.com/index/making-chatgpt-better-for-clinicians</guid>
+      <category>Product</category>
+      <pubDate>Wed, 22 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing workspace agents in ChatGPT</title>
+      <link>https://openai.com/index/introducing-workspace-agents-in-chatgpt</link>
+      <description>Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-workspace-agents-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Images 2.0</title>
+      <link>https://openai.com/index/introducing-chatgpt-images-2-0</link>
+      <description>ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-images-2-0</guid>
+      <category>Product</category>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex for (almost) everything</title>
+      <link>https://openai.com/index/codex-for-almost-everything</link>
+      <description>The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.</description>
+      <guid isPermaLink="false">https://openai.com/index/codex-for-almost-everything</guid>
+      <category>Product</category>
+      <pubDate>Thu, 16 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The next evolution of the Agents SDK</title>
+      <link>https://openai.com/index/the-next-evolution-of-the-agents-sdk</link>
+      <description>OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.</description>
+      <guid isPermaLink="false">https://openai.com/index/the-next-evolution-of-the-agents-sdk</guid>
+      <category>Product</category>
+      <pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex now offers more flexible pricing for teams</title>
+      <link>https://openai.com/index/codex-flexible-pricing-for-teams</link>
+      <description>Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.</description>
+      <guid isPermaLink="false">https://openai.com/index/codex-flexible-pricing-for-teams</guid>
+      <category>Product</category>
+      <pubDate>Thu, 02 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Powering product discovery in ChatGPT</title>
+      <link>https://openai.com/index/powering-product-discovery-in-chatgpt</link>
+      <description>ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.</description>
+      <guid isPermaLink="false">https://openai.com/index/powering-product-discovery-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Codex Security Doesn’t Include a SAST Report</title>
+      <link>https://openai.com/index/why-codex-security-doesnt-include-sast</link>
+      <description>A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.</description>
+      <guid isPermaLink="false">https://openai.com/index/why-codex-security-doesnt-include-sast</guid>
+      <category>Product</category>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ways to learn math and science in ChatGPT</title>
+      <link>https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt</link>
+      <description>ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.</description>
+      <guid isPermaLink="false">https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex Security: now in research preview</title>
+      <link>https://openai.com/index/codex-security-now-in-research-preview</link>
+      <description>Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.</description>
+      <guid isPermaLink="false">https://openai.com/index/codex-security-now-in-research-preview</guid>
+      <category>Product</category>
+      <pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.4</title>
+      <link>https://openai.com/index/introducing-gpt-5-4</link>
+      <description>Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-4</guid>
+      <category>Product</category>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT for Excel and new financial data integrations</title>
+      <link>https://openai.com/index/chatgpt-for-excel</link>
+      <description>OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-excel</guid>
+      <category>Product</category>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.3 Instant: Smoother, more useful everyday conversations</title>
+      <link>https://openai.com/index/gpt-5-3-instant</link>
+      <description>GPT-5.3 Instant: Smoother, more useful everyday conversations</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-3-instant</guid>
+      <category>Product</category>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.3-Codex-Spark</title>
+      <link>https://openai.com/index/introducing-gpt-5-3-codex-spark</link>
+      <description>Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-3-codex-spark</guid>
+      <category>Product</category>
+      <pubDate>Thu, 12 Feb 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing OpenAI Frontier</title>
+      <link>https://openai.com/index/introducing-openai-frontier</link>
+      <description>OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-frontier</guid>
+      <category>Product</category>
+      <pubDate>Thu, 05 Feb 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.3-Codex</title>
+      <link>https://openai.com/index/introducing-gpt-5-3-codex</link>
+      <description>GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-3-codex</guid>
+      <category>Product</category>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Sora feed philosophy</title>
+      <link>https://openai.com/index/sora-feed-philosophy</link>
+      <description>Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.</description>
+      <guid isPermaLink="false">https://openai.com/index/sora-feed-philosophy</guid>
+      <category>Product</category>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Codex app</title>
+      <link>https://openai.com/index/introducing-the-codex-app</link>
+      <description>Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-codex-app</guid>
+      <category>Product</category>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT</title>
+      <link>https://openai.com/index/retiring-gpt-4o-and-older-models</link>
+      <description>On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.</description>
+      <guid isPermaLink="false">https://openai.com/index/retiring-gpt-4o-and-older-models</guid>
+      <category>Product</category>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Prism</title>
+      <link>https://openai.com/index/introducing-prism</link>
+      <description>Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-prism</guid>
+      <category>Product</category>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Go, now available worldwide</title>
+      <link>https://openai.com/index/introducing-chatgpt-go</link>
+      <description>ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-go</guid>
+      <category>Product</category>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI for Healthcare</title>
+      <link>https://openai.com/index/openai-for-healthcare</link>
+      <description>OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.</description>
+      <guid isPermaLink="false">https://openai.com/index/openai-for-healthcare</guid>
+      <category>Product</category>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Health</title>
+      <link>https://openai.com/index/introducing-chatgpt-health</link>
+      <description>ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-health</guid>
+      <category>Product</category>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.2-Codex</title>
+      <link>https://openai.com/index/introducing-gpt-5-2-codex</link>
+      <description>GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-2-codex</guid>
+      <category>Product</category>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Developers can now submit apps to ChatGPT</title>
+      <link>https://openai.com/index/developers-can-now-submit-apps-to-chatgpt</link>
+      <description>Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.</description>
+      <guid isPermaLink="false">https://openai.com/index/developers-can-now-submit-apps-to-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The new ChatGPT Images is here</title>
+      <link>https://openai.com/index/new-chatgpt-images-is-here</link>
+      <description>The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.</description>
+      <guid isPermaLink="false">https://openai.com/index/new-chatgpt-images-is-here</guid>
+      <category>Product</category>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora</title>
+      <link>https://openai.com/index/disney-sora-agreement</link>
+      <description>Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.</description>
+      <guid isPermaLink="false">https://openai.com/index/disney-sora-agreement</guid>
+      <category>Product</category>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.2</title>
+      <link>https://openai.com/index/introducing-gpt-5-2</link>
+      <description>GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-2</guid>
+      <category>Product</category>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding data residency access to business customers worldwide</title>
+      <link>https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide</link>
+      <description>OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.</description>
+      <guid isPermaLink="false">https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide</guid>
+      <category>Product</category>
+      <pubDate>Tue, 25 Nov 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing shopping research in ChatGPT</title>
+      <link>https://openai.com/index/chatgpt-shopping-research</link>
+      <description>Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-shopping-research</guid>
+      <category>Product</category>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building more with GPT-5.1-Codex-Max</title>
+      <link>https://openai.com/index/gpt-5-1-codex-max</link>
+      <description>Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-1-codex-max</guid>
+      <category>Product</category>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A free version of ChatGPT built for teachers</title>
+      <link>https://openai.com/index/chatgpt-for-teachers</link>
+      <description>ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-teachers</guid>
+      <category>Product</category>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.1 for developers</title>
+      <link>https://openai.com/index/gpt-5-1-for-developers</link>
+      <description>GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-1-for-developers</guid>
+      <category>Product</category>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing group chats in ChatGPT</title>
+      <link>https://openai.com/index/group-chats-in-chatgpt</link>
+      <description>Collaborate with others, and ChatGPT, in the same conversation.</description>
+      <guid isPermaLink="false">https://openai.com/index/group-chats-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.1: A smarter, more conversational ChatGPT</title>
+      <link>https://openai.com/index/gpt-5-1</link>
+      <description>We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-1</guid>
+      <category>Product</category>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing gpt-oss-safeguard</title>
+      <link>https://openai.com/index/introducing-gpt-oss-safeguard</link>
+      <description>OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-oss-safeguard</guid>
+      <category>Product</category>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Work smarter with your company knowledge in ChatGPT</title>
+      <link>https://openai.com/index/introducing-company-knowledge</link>
+      <description>Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-company-knowledge</guid>
+      <category>Product</category>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Continue your ChatGPT experience beyond WhatsApp</title>
+      <link>https://openai.com/index/chatgpt-whatsapp-transition</link>
+      <description>ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-whatsapp-transition</guid>
+      <category>Product</category>
+      <pubDate>Tue, 21 Oct 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Atlas, the browser with ChatGPT built in</title>
+      <link>https://openai.com/index/introducing-chatgpt-atlas</link>
+      <description>ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-atlas</guid>
+      <category>Product</category>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex is now generally available</title>
+      <link>https://openai.com/index/codex-now-generally-available</link>
+      <description>OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.</description>
+      <guid isPermaLink="false">https://openai.com/index/codex-now-generally-available</guid>
+      <category>Product</category>
+      <pubDate>Mon, 06 Oct 2025 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing apps in ChatGPT and the new Apps SDK</title>
+      <link>https://openai.com/index/introducing-apps-in-chatgpt</link>
+      <description>We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-apps-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Mon, 06 Oct 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing AgentKit, new Evals, and RFT for agents</title>
+      <link>https://openai.com/index/introducing-agentkit</link>
+      <description>Today, we’re releasing  new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-agentkit</guid>
+      <category>Product</category>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing parental controls</title>
+      <link>https://openai.com/index/introducing-parental-controls</link>
+      <description>We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-parental-controls</guid>
+      <category>Product</category>
+      <pubDate>Mon, 29 Sep 2025 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol</title>
+      <link>https://openai.com/index/buy-it-in-chatgpt</link>
+      <description>We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together.</description>
+      <guid isPermaLink="false">https://openai.com/index/buy-it-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More ways to work with your team and tools in ChatGPT</title>
+      <link>https://openai.com/index/more-ways-to-work-with-your-team</link>
+      <description>New shared projects, smarter connectors, and compliance and security updates help teams get more done.</description>
+      <guid isPermaLink="false">https://openai.com/index/more-ways-to-work-with-your-team</guid>
+      <category>Product</category>
+      <pubDate>Thu, 25 Sep 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Pulse</title>
+      <link>https://openai.com/index/introducing-chatgpt-pulse</link>
+      <description>Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-pulse</guid>
+      <category>Product</category>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing gpt-realtime and Realtime API updates</title>
+      <link>https://openai.com/index/introducing-gpt-realtime</link>
+      <description>We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-realtime</guid>
+      <category>Product</category>
+      <pubDate>Thu, 28 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5 for developers</title>
+      <link>https://openai.com/index/introducing-gpt-5-for-developers</link>
+      <description>Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-for-developers</guid>
+      <category>Product</category>
+      <pubDate>Thu, 07 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5 and the new era of work</title>
+      <link>https://openai.com/index/gpt-5-new-era-of-work</link>
+      <description>GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-new-era-of-work</guid>
+      <category>Product</category>
+      <pubDate>Thu, 07 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing study mode in ChatGPT</title>
+      <link>https://openai.com/index/chatgpt-study-mode</link>
+      <description>Introducing study mode in ChatGPT, a new learning experience that helps you work through problems step by step, guiding students with questions, scaffolding, and feedback for deeper learning.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-study-mode</guid>
+      <category>Product</category>
+      <pubDate>Tue, 29 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT agent</title>
+      <link>https://openai.com/index/introducing-chatgpt-agent</link>
+      <description>Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-agent</guid>
+      <category>Product</category>
+      <pubDate>Thu, 17 Jul 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New tools and features in the Responses API</title>
+      <link>https://openai.com/index/new-tools-and-features-in-the-responses-api</link>
+      <description>New tools and features in the Responses API</description>
+      <guid isPermaLink="false">https://openai.com/index/new-tools-and-features-in-the-responses-api</guid>
+      <category>Product</category>
+      <pubDate>Wed, 21 May 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing data residency in Asia</title>
+      <link>https://openai.com/index/introducing-data-residency-in-asia</link>
+      <description>Data residency builds on OpenAI’s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-data-residency-in-asia</guid>
+      <category>Product</category>
+      <pubDate>Wed, 07 May 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding on what we missed with sycophancy</title>
+      <link>https://openai.com/index/expanding-on-sycophancy</link>
+      <description>A deeper dive on our findings, what went wrong, and future changes we’re making.</description>
+      <guid isPermaLink="false">https://openai.com/index/expanding-on-sycophancy</guid>
+      <category>Product</category>
+      <pubDate>Fri, 02 May 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sycophancy in GPT-4o: what happened and what we’re doing about it</title>
+      <link>https://openai.com/index/sycophancy-in-gpt-4o</link>
+      <description>We have rolled back last week’s GPT‑4o update in ChatGPT so people are now using an earlier version with more balanced behavior. The update we removed was overly flattering or agreeable—often described as sycophantic.</description>
+      <guid isPermaLink="false">https://openai.com/index/sycophancy-in-gpt-4o</guid>
+      <category>Product</category>
+      <pubDate>Tue, 29 Apr 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing our latest image generation model in the API</title>
+      <link>https://openai.com/index/image-generation-api</link>
+      <description>Our latest image generation model is now available in the API via ‘gpt-image-1’—enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools and platforms.</description>
+      <guid isPermaLink="false">https://openai.com/index/image-generation-api</guid>
+      <category>Product</category>
+      <pubDate>Wed, 23 Apr 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-4.1 in the API</title>
+      <link>https://openai.com/index/gpt-4-1</link>
+      <description>Introducing GPT-4.1 in the API—a new family of models with across-the-board improvements, including major gains in coding, instruction following, and long-context understanding. We’re also releasing our first nano model. Available to developers worldwide starting today.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-4-1</guid>
+      <category>Product</category>
+      <pubDate>Mon, 14 Apr 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing 4o Image Generation</title>
+      <link>https://openai.com/index/introducing-4o-image-generation</link>
+      <description>At OpenAI, we have long believed image generation should be a primary capability of our language models. That’s why we’ve built our most advanced image generator yet into GPT‑4o. The result—image generation that is not only beautiful, but useful.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-4o-image-generation</guid>
+      <category>Product</category>
+      <pubDate>Tue, 25 Mar 2025 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New tools for building agents</title>
+      <link>https://openai.com/index/new-tools-for-building-agents</link>
+      <description>New tools for building agents</description>
+      <guid isPermaLink="false">https://openai.com/index/new-tools-for-building-agents</guid>
+      <category>Product</category>
+      <pubDate>Tue, 11 Mar 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing data residency in Europe</title>
+      <link>https://openai.com/index/introducing-data-residency-in-europe</link>
+      <description>Data residency builds on OpenAI’s enterprise-grade data privacy, security, and compliance programs supporting customers worldwide.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-data-residency-in-europe</guid>
+      <category>Product</category>
+      <pubDate>Wed, 05 Feb 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Operator</title>
+      <link>https://openai.com/index/introducing-operator</link>
+      <description>Introducing Operator</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-operator</guid>
+      <category>Product</category>
+      <pubDate>Thu, 23 Jan 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI o1 and new tools for developers</title>
+      <link>https://openai.com/index/o1-and-new-tools-for-developers</link>
+      <description>Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and more for developers.</description>
+      <guid isPermaLink="false">https://openai.com/index/o1-and-new-tools-for-developers</guid>
+      <category>Product</category>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sora is here</title>
+      <link>https://openai.com/index/sora-is-here</link>
+      <description>Our video generation model, Sora, is now available to use at sora.com. Users can generate videos up to 1080p resolution, up to 20 sec long, and in widescreen, vertical or square aspect ratios. You can bring your own assets to extend, remix, and blend, or generate entirely new content from text.</description>
+      <guid isPermaLink="false">https://openai.com/index/sora-is-here</guid>
+      <category>Product</category>
+      <pubDate>Mon, 09 Dec 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Pro</title>
+      <link>https://openai.com/index/introducing-chatgpt-pro</link>
+      <description>Broadening usage of frontier AI</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-pro</guid>
+      <category>Product</category>
+      <pubDate>Thu, 05 Dec 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT search</title>
+      <link>https://openai.com/index/introducing-chatgpt-search</link>
+      <description>Get fast, timely answers with links to relevant web sources</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-search</guid>
+      <category>Product</category>
+      <pubDate>Thu, 31 Oct 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing canvas, a new way to write and code with ChatGPT.</title>
+      <link>https://openai.com/index/introducing-canvas</link>
+      <description>Introducing canvas</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-canvas</guid>
+      <category>Product</category>
+      <pubDate>Thu, 03 Oct 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Realtime API</title>
+      <link>https://openai.com/index/introducing-the-realtime-api</link>
+      <description>Developers can now build fast speech-to-speech experiences into their applications</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-realtime-api</guid>
+      <category>Product</category>
+      <pubDate>Tue, 01 Oct 2024 10:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing vision to the fine-tuning API</title>
+      <link>https://openai.com/index/introducing-vision-to-the-fine-tuning-api</link>
+      <description>Developers can now fine-tune GPT-4o with images and text to improve vision capabilities</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-vision-to-the-fine-tuning-api</guid>
+      <category>Product</category>
+      <pubDate>Tue, 01 Oct 2024 10:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prompt Caching in the API</title>
+      <link>https://openai.com/index/api-prompt-caching</link>
+      <description>Offering automatic discounts on inputs that the model has recently seen</description>
+      <guid isPermaLink="false">https://openai.com/index/api-prompt-caching</guid>
+      <category>Product</category>
+      <pubDate>Tue, 01 Oct 2024 10:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Model Distillation in the API</title>
+      <link>https://openai.com/index/api-model-distillation</link>
+      <description>Fine-tune a cost-efficient model with the outputs of a large frontier model–all on the OpenAI platform</description>
+      <guid isPermaLink="false">https://openai.com/index/api-model-distillation</guid>
+      <category>Product</category>
+      <pubDate>Tue, 01 Oct 2024 10:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upgrading the Moderation API with our new multimodal moderation model</title>
+      <link>https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model</link>
+      <description>We’re introducing a new model built on GPT-4o that is more accurate at detecting harmful text and images, enabling developers to build more robust moderation systems.</description>
+      <guid isPermaLink="false">https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model</guid>
+      <category>Product</category>
+      <pubDate>Thu, 26 Sep 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing OpenAI o1</title>
+      <link>https://openai.com/index/introducing-openai-o1-preview</link>
+      <description>Introducing OpenAI o1</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-o1-preview</guid>
+      <category>Product</category>
+      <pubDate>Thu, 12 Sep 2024 10:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fine-tuning now available for GPT-4o</title>
+      <link>https://openai.com/index/gpt-4o-fine-tuning</link>
+      <description>Fine-tuning now available for GPT-4o</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-4o-fine-tuning</guid>
+      <category>Product</category>
+      <pubDate>Tue, 20 Aug 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Structured Outputs in the API</title>
+      <link>https://openai.com/index/introducing-structured-outputs-in-the-api</link>
+      <description>We are introducing Structured Outputs in the API—model outputs now reliably adhere to developer-supplied JSON Schemas.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-structured-outputs-in-the-api</guid>
+      <category>Product</category>
+      <pubDate>Tue, 06 Aug 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SearchGPT is a prototype of new AI search features</title>
+      <link>https://openai.com/index/searchgpt-prototype</link>
+      <description>We’re testing SearchGPT, a temporary prototype of new search features that give you fast and timely answers with clear and relevant sources.</description>
+      <guid isPermaLink="false">https://openai.com/index/searchgpt-prototype</guid>
+      <category>Product</category>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New compliance and administrative tools for ChatGPT Enterprise</title>
+      <link>https://openai.com/index/new-tools-for-chatgpt-enterprise</link>
+      <description>Compliance API integrations, SCIM, and GPT controls to support compliance programs, data security, and user access at scale</description>
+      <guid isPermaLink="false">https://openai.com/index/new-tools-for-chatgpt-enterprise</guid>
+      <category>Product</category>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing OpenAI for Nonprofits</title>
+      <link>https://openai.com/index/introducing-openai-for-nonprofits</link>
+      <description>We’re launching a new initiative to enhance the accessibility of our tools for nonprofit organizations, including discounted rates for ChatGPT Team and Enterprise.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-nonprofits</guid>
+      <category>Product</category>
+      <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI for Education</title>
+      <link>https://openai.com/index/introducing-chatgpt-edu</link>
+      <description>An affordable offering for universities to responsibly bring AI to campus.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-edu</guid>
+      <category>Product</category>
+      <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the voices for ChatGPT were chosen</title>
+      <link>https://openai.com/index/how-the-voices-for-chatgpt-were-chosen</link>
+      <description>How the voices for ChatGPT were chosen
+We worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices.</description>
+      <guid isPermaLink="false">https://openai.com/index/how-the-voices-for-chatgpt-were-chosen</guid>
+      <category>Product</category>
+      <pubDate>Sun, 19 May 2024 23:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improvements to data analysis in ChatGPT</title>
+      <link>https://openai.com/index/improvements-to-data-analysis-in-chatgpt</link>
+      <description>Improvements to data analysis in ChatGPT
+Interact with tables and charts and add files directly from Google Drive and Microsoft OneDrive.</description>
+      <guid isPermaLink="false">https://openai.com/index/improvements-to-data-analysis-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Thu, 16 May 2024 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-4o and more tools to ChatGPT free users</title>
+      <link>https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free</link>
+      <description>Introducing GPT-4o and more tools to ChatGPT free users
+We are launching our newest flagship model and making more capabilities available for free in ChatGPT.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free</guid>
+      <category>Product</category>
+      <pubDate>Mon, 13 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT and Whisper APIs</title>
+      <link>https://openai.com/index/introducing-chatgpt-and-whisper-apis</link>
+      <description>Introducing ChatGPT and Whisper APIs</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-and-whisper-apis</guid>
+      <category>Product</category>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-4 API general availability and deprecation of older models in the Completions API</title>
+      <link>https://openai.com/index/gpt-4-api-general-availability</link>
+      <description>GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-4-api-general-availability</guid>
+      <category>Product</category>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing more enterprise-grade features for API customers</title>
+      <link>https://openai.com/index/more-enterprise-grade-features-for-api-customers</link>
+      <description>Increasing enterprise support with more security features and controls, updates to our Assistants API, and tools to better manage costs.</description>
+      <guid isPermaLink="false">https://openai.com/index/more-enterprise-grade-features-for-api-customers</guid>
+      <category>Product</category>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing improvements to the fine-tuning API and expanding our custom models program</title>
+      <link>https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program</link>
+      <description>We’re adding new features to help developers have more control over fine-tuning and announcing new ways to build custom models with OpenAI.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program</guid>
+      <category>Product</category>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Start using ChatGPT instantly</title>
+      <link>https://openai.com/index/start-using-chatgpt-instantly</link>
+      <description>We’re making it easier for people to experience the benefits of AI without needing to sign up</description>
+      <guid isPermaLink="false">https://openai.com/index/start-using-chatgpt-instantly</guid>
+      <category>Product</category>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navigating the challenges and opportunities of synthetic voices</title>
+      <link>https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices</link>
+      <description>We’re sharing lessons from a small scale preview of Voice Engine, a model for creating custom voices.</description>
+      <guid isPermaLink="false">https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices</guid>
+      <category>Product</category>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sora first impressions</title>
+      <link>https://openai.com/index/sora-first-impressions</link>
+      <description>Since we introduced Sora to the world last month, we’ve been working with artists to learn how Sora might aid in their creative process.</description>
+      <guid isPermaLink="false">https://openai.com/index/sora-first-impressions</guid>
+      <category>Product</category>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Memory and new controls for ChatGPT</title>
+      <link>https://openai.com/index/memory-and-new-controls-for-chatgpt</link>
+      <description>We’re testing the ability for ChatGPT to remember things you discuss to make future chats more helpful. You’re in control of ChatGPT’s memory.</description>
+      <guid isPermaLink="false">https://openai.com/index/memory-and-new-controls-for-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New embedding models and API updates</title>
+      <link>https://openai.com/index/new-embedding-models-and-api-updates</link>
+      <description>New embedding models and API updates</description>
+      <guid isPermaLink="false">https://openai.com/index/new-embedding-models-and-api-updates</guid>
+      <category>Product</category>
+      <pubDate>Thu, 25 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the GPT Store</title>
+      <link>https://openai.com/index/introducing-the-gpt-store</link>
+      <description>Introducing the GPT Store</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-gpt-store</guid>
+      <category>Product</category>
+      <pubDate>Wed, 10 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Team</title>
+      <link>https://openai.com/index/introducing-chatgpt-team</link>
+      <description>We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-team</guid>
+      <category>Product</category>
+      <pubDate>Wed, 10 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New models and developer products announced at DevDay</title>
+      <link>https://openai.com/index/new-models-and-developer-products-announced-at-devday</link>
+      <description>GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL·E 3 API, and more.</description>
+      <guid isPermaLink="false">https://openai.com/index/new-models-and-developer-products-announced-at-devday</guid>
+      <category>Product</category>
+      <pubDate>Mon, 06 Nov 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPTs</title>
+      <link>https://openai.com/index/introducing-gpts</link>
+      <description>You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpts</guid>
+      <category>Product</category>
+      <pubDate>Mon, 06 Nov 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DALL·E 3 is now available in ChatGPT Plus and Enterprise</title>
+      <link>https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise</link>
+      <description>We developed a safety mitigation stack to ready DALL·E 3 for wider release and are sharing updates on our provenance research.</description>
+      <guid isPermaLink="false">https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise</guid>
+      <category>Product</category>
+      <pubDate>Thu, 19 Oct 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT can now see, hear, and speak</title>
+      <link>https://openai.com/index/chatgpt-can-now-see-hear-and-speak</link>
+      <description>ChatGPT can now see, hear, and speak</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-can-now-see-hear-and-speak</guid>
+      <category>Product</category>
+      <pubDate>Mon, 25 Sep 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI partners with Scale to provide support for enterprises fine-tuning models</title>
+      <link>https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models</link>
+      <description>OpenAI’s customers can leverage Scale’s AI expertise to customize our most advanced models.</description>
+      <guid isPermaLink="false">https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models</guid>
+      <category>Product</category>
+      <pubDate>Thu, 24 Aug 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom instructions for ChatGPT</title>
+      <link>https://openai.com/index/custom-instructions-for-chatgpt</link>
+      <description>We’re rolling out custom instructions to give you more control over how ChatGPT responds. Set your preferences, and ChatGPT will keep them in mind for all future conversations.</description>
+      <guid isPermaLink="false">https://openai.com/index/custom-instructions-for-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Thu, 20 Jul 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Function calling and other API updates</title>
+      <link>https://openai.com/index/function-calling-and-other-api-updates</link>
+      <description>We’re announcing updates including more steerable API models, function calling capabilities, longer context, and lower prices.</description>
+      <guid isPermaLink="false">https://openai.com/index/function-calling-and-other-api-updates</guid>
+      <category>Product</category>
+      <pubDate>Tue, 13 Jun 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the ChatGPT app for iOS</title>
+      <link>https://openai.com/index/introducing-the-chatgpt-app-for-ios</link>
+      <description>The ChatGPT app syncs your conversations, supports voice input, and brings our latest model improvements to your fingertips.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-chatgpt-app-for-ios</guid>
+      <category>Product</category>
+      <pubDate>Thu, 18 May 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ways to manage your data in ChatGPT</title>
+      <link>https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt</link>
+      <description>ChatGPT users can now turn off chat history, allowing you to choose which conversations can be used to train our models.</description>
+      <guid isPermaLink="false">https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Tue, 25 Apr 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT plugins</title>
+      <link>https://openai.com/index/chatgpt-plugins</link>
+      <description>We’ve implemented initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-plugins</guid>
+      <category>Product</category>
+      <pubDate>Thu, 23 Mar 2023 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Plus</title>
+      <link>https://openai.com/index/chatgpt-plus</link>
+      <description>We’re launching a pilot subscription plan for ChatGPT, a conversational AI that can chat with you, answer follow-up questions, and challenge incorrect assumptions.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-plus</guid>
+      <category>Product</category>
+      <pubDate>Wed, 01 Feb 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New AI classifier for indicating AI-written text</title>
+      <link>https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text</link>
+      <description>We’re launching a classifier trained to distinguish between AI-written and human-written text.</description>
+      <guid isPermaLink="false">https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text</guid>
+      <category>Product</category>
+      <pubDate>Tue, 31 Jan 2023 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New and improved embedding model</title>
+      <link>https://openai.com/index/new-and-improved-embedding-model</link>
+      <description>We are excited to announce a new embedding model which is significantly more capable, cost effective, and simpler to use.</description>
+      <guid isPermaLink="false">https://openai.com/index/new-and-improved-embedding-model</guid>
+      <category>Product</category>
+      <pubDate>Thu, 15 Dec 2022 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT</title>
+      <link>https://openai.com/index/chatgpt</link>
+      <description>We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Wed, 30 Nov 2022 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DALL·E API now available in public beta</title>
+      <link>https://openai.com/index/dall-e-api-now-available-in-public-beta</link>
+      <description>Starting today, developers can begin building apps with the DALL·E API.</description>
+      <guid isPermaLink="false">https://openai.com/index/dall-e-api-now-available-in-public-beta</guid>
+      <category>Product</category>
+      <pubDate>Thu, 03 Nov 2022 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DALL·E now available without waitlist</title>
+      <link>https://openai.com/index/dall-e-now-available-without-waitlist</link>
+      <description>New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible.</description>
+      <guid isPermaLink="false">https://openai.com/index/dall-e-now-available-without-waitlist</guid>
+      <category>Product</category>
+      <pubDate>Wed, 28 Sep 2022 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DALL·E: Introducing outpainting</title>
+      <link>https://openai.com/index/dall-e-introducing-outpainting</link>
+      <description>Extend creativity and tell a bigger story with DALL·E images of any size.</description>
+      <guid isPermaLink="false">https://openai.com/index/dall-e-introducing-outpainting</guid>
+      <category>Product</category>
+      <pubDate>Wed, 31 Aug 2022 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New and improved content moderation tooling</title>
+      <link>https://openai.com/index/new-and-improved-content-moderation-tooling</link>
+      <description>We are introducing a new and improved content moderation tool. The Moderation endpoint improves upon our previous content filter, and is available for free today to OpenAI API developers.</description>
+      <guid isPermaLink="false">https://openai.com/index/new-and-improved-content-moderation-tooling</guid>
+      <category>Product</category>
+      <pubDate>Wed, 10 Aug 2022 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DALL·E now available in beta</title>
+      <link>https://openai.com/index/dall-e-now-available-in-beta</link>
+      <description>We’ll invite 1 million people from our waitlist over the coming weeks. Users can create with DALL·E using free credits that refill every month, and buy additional credits in 115-generation increments for $15.</description>
+      <guid isPermaLink="false">https://openai.com/index/dall-e-now-available-in-beta</guid>
+      <category>Product</category>
+      <pubDate>Wed, 20 Jul 2022 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reducing bias and improving safety in DALL·E 2</title>
+      <link>https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2</link>
+      <description>Today, we are implementing a new technique so that DALL·E generates images of people that more accurately reflect the diversity of the world’s population.</description>
+      <guid isPermaLink="false">https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2</guid>
+      <category>Product</category>
+      <pubDate>Mon, 18 Jul 2022 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Powering next generation applications with OpenAI Codex</title>
+      <link>https://openai.com/index/codex-apps</link>
+      <description>Codex is now powering 70 different applications across a variety of use cases through the OpenAI API.</description>
+      <guid isPermaLink="false">https://openai.com/index/codex-apps</guid>
+      <category>Product</category>
+      <pubDate>Tue, 24 May 2022 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DALL·E 2 research preview update</title>
+      <link>https://openai.com/index/dall-e-2-update</link>
+      <description>Early users have created over 3 million images to date and helped us improve our safety processes. We’re excited to begin adding up to 1,000 new users from our waitlist each week.</description>
+      <guid isPermaLink="false">https://openai.com/index/dall-e-2-update</guid>
+      <category>Product</category>
+      <pubDate>Wed, 18 May 2022 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New GPT-3 capabilities: Edit &amp; insert</title>
+      <link>https://openai.com/index/gpt-3-edit-insert</link>
+      <description>We’ve released new versions of GPT-3 and Codex which can edit or insert content into existing text, rather than just completing existing text.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-3-edit-insert</guid>
+      <category>Product</category>
+      <pubDate>Tue, 15 Mar 2022 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing text and code embeddings</title>
+      <link>https://openai.com/index/introducing-text-and-code-embeddings</link>
+      <description>We are introducing embeddings, a new endpoint in the OpenAI API that makes it easy to perform natural language and code tasks like semantic search, clustering, topic modeling, and classification.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-text-and-code-embeddings</guid>
+      <category>Product</category>
+      <pubDate>Tue, 25 Jan 2022 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customizing GPT-3 for your application</title>
+      <link>https://openai.com/index/customizing-gpt-3</link>
+      <description>Fine-tune with a single command.</description>
+      <guid isPermaLink="false">https://openai.com/index/customizing-gpt-3</guid>
+      <category>Product</category>
+      <pubDate>Tue, 14 Dec 2021 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s API now available with no waitlist</title>
+      <link>https://openai.com/index/api-no-waitlist</link>
+      <description>Wider availability made possible by safety progress.</description>
+      <guid isPermaLink="false">https://openai.com/index/api-no-waitlist</guid>
+      <category>Product</category>
+      <pubDate>Thu, 18 Nov 2021 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Codex</title>
+      <link>https://openai.com/index/openai-codex</link>
+      <description>We’ve created an improved version of OpenAI Codex, our AI system that translates natural language to code, and we are releasing it through our API in private beta starting today.</description>
+      <guid isPermaLink="false">https://openai.com/index/openai-codex</guid>
+      <category>Product</category>
+      <pubDate>Tue, 10 Aug 2021 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-3 powers the next generation of apps</title>
+      <link>https://openai.com/index/gpt-3-apps</link>
+      <description>Over 300 applications are delivering GPT-3–powered search, conversation, text completion, and other advanced AI features through our API.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-3-apps</guid>
+      <category>Product</category>
+      <pubDate>Thu, 25 Mar 2021 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI licenses GPT-3 technology to Microsoft</title>
+      <link>https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft</link>
+      <description>OpenAI has agreed to license GPT-3 to Microsoft for their own products and services.</description>
+      <guid isPermaLink="false">https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft</guid>
+      <category>Product</category>
+      <pubDate>Tue, 22 Sep 2020 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI API</title>
+      <link>https://openai.com/index/openai-api</link>
+      <description>We’re releasing an API for accessing new AI models developed by OpenAI.</description>
+      <guid isPermaLink="false">https://openai.com/index/openai-api</guid>
+      <category>Product</category>
+      <pubDate>Thu, 11 Jun 2020 07:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

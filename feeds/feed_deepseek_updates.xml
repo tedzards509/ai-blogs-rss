@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>DeepSeek API Change Log</title>
+    <link>https://api-docs.deepseek.com/updates</link>
+    <description>API updates and model releases from DeepSeek</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_deepseek_updates.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jul 2026 00:05:00 +0000</lastBuildDate>
+    <item>
+      <title>DeepSeek-V4</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-v4</link>
+      <description>The DeepSeek API now supports V4-Pro and V4-Flash, available via both the OpenAI ChatCompletions interface and the Anthropic interface. To access the new models, the base_url remains unchanged, and the model parameter should be set to deepseek-v4-pro or deepseek-v4-flash . The two legacy API model names, deepseek-chat and deepseek-reasoner , will be discontinued in three months (2026-07-24). During the current period, these two model names point to the non-thinking mode and thinking mode of deep</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-v4</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-V3.2-Speciale</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-v32-speciale</link>
+      <description>DeepSeek-V3.2-Speciale is served via a temporary endpoint: base_url=" https://api.deepseek.com/v3.2_speciale_expires_on_20251215 ". Same pricing as V3.2, no tool calls, available until Dec 15th, 2025, 15:59 (UTC Time). For more details, please refer to this documentation .</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-v32-speciale</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-V3.2</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-v32</link>
+      <description>Both deepseek-chat and deepseek-reasoner have been upgraded to DeepSeek-V3.2. deepseek-chat corresponds to DeepSeek-V3.2's non-thinking mode deepseek-reasoner corresponds to DeepSeek-V3.2's thinking mode</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-v32</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-V3.2-Exp</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-v32-exp</link>
+      <description>Both deepseek-chat and deepseek-reasoner have been upgraded to DeepSeek-V3.2-Exp. deepseek-chat corresponds to DeepSeek-V3.2-Exp's non-thinking mode deepseek-reasoner corresponds to DeepSeek-V3.2-Exp's thinking mode For more details, please refer to this documentation .</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-v32-exp</guid>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-V3.1-Terminus</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-v31-terminus</link>
+      <description>Both deepseek-chat and deepseek-reasoner have been upgraded to DeepSeek-V3.1-Terminus. deepseek-chat corresponds to DeepSeek-V3.1-Terminus's non-thinking mode , while deepseek-reasoner corresponds to its thinking mode . This update maintains the model's original capabilities while addressing issues reported by users, including: Language consistency: Reduced occurrences of Chinese-English mixing and occasional abnormal characters; Agent capabilities: Further optimized the performance of the Code </description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-v31-terminus</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-V3.1</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-v31</link>
+      <description>Both deepseek-chat and deepseek-reasoner have been upgraded to DeepSeek-V3.1. deepseek-chat corresponds to DeepSeek-V3.1's non-thinking mode , while deepseek-reasoner corresponds to its thinking mode . Key updates in DeepSeek-V3.1: Hybrid reasoning architecture : A single model supports both thinking mode and non-thinking mode Improved reasoning efficiency : Compared to DeepSeek-R1-0528, DeepSeek-V3.1-Think provides answers in significantly less time Enhanced agent capabilities : With post-train</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-v31</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-reasoner</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-reasoner</link>
+      <description>deepseek-reasoner Model Upgraded to DeepSeek-R1-0528: Enhanced Reasoning Capabilities Significant benchmark improvements (Pass@1) AIME 2025: 70.0 → 87.5 (+17.5) GPQA: 71.5 → 81.0 (+9.5) LCB_v6: 63.5 → 73.3 (+9.8) Aider: 57.0 → 71.6 (+14.6) Note: Complex reasoning tasks may consume more tokens compared to legacy R1 version. Optimized Front-end Development Generated web pages and games now feature improved aesthetics. Reduced Hallucinations Significantly suppressed hallucination issues present in </description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-reasoner</guid>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-chat</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-chat</link>
+      <description>deepseek-chat Model Upgraded to DeepSeek-V3-0324: Enhanced Reasoning Capabilities Significant improvements in benchmark performance: MMLU-Pro: 75.9 → 81.2 (+5.3) GPQA: 59.1 → 68.4 (+9.3) AIME: 39.6 → 59.4 (+19.8) LiveCodeBench: 39.2 → 49.2 (+10.0) Optimized Front-End Web Development Improved accuracy in code generation More aesthetically pleasing web pages and game front-ends Upgraded Chinese Writing Proficiency Enhanced style and content quality: Aligned with the R1 writing style Better quality</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-chat</guid>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-reasoner</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-reasoner-1</link>
+      <description>deepseek-reasoner is our new model DeepSeek-R1. You can invoke DeepSeek-V3 by specifying model='deepseek-reasoner' . For details, please refer to: DeepSeek-R1 Release For guides, please refer to: Thinking Mode</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-reasoner-1</guid>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-chat</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-chat-1</link>
+      <description>The deepseek-chat model has been upgraded to DeepSeek-V3. The API remains unchanged. You can invoke DeepSeek-V3 by specifying model='deepseek-chat' . For details, please refer to: introducing DeepSeek-V3</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-chat-1</guid>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-chat</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-chat-2</link>
+      <description>The deepseek-chat model has been upgraded to DeepSeek-V2.5-1210 , with improvements across various capabilities. Relevant benchmarking results include: Mathematical: Performance on the MATH-500 benchmark has improved from 74.8% to 82.8% . Coding: Accuracy on the LiveCodebench (08.01 - 12.01) benchmark has increased from 29.2% to 34.38% . Writing and Reasoning: Corresponding improvements have been observed in internal test datasets. Additionally, the new version of the model has optimized the use</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-chat-2</guid>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-coder&amp;deepseek-chatUpgraded to DeepSeek V2.5 Model</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-coder--deepseek-chat-upgraded-to-deepseek-v25-model</link>
+      <description>The DeepSeek V2 Chat and DeepSeek Coder V2 models have been merged and upgraded into the new model, DeepSeek V2.5. For backward compatibility, API users can access the new model through either deepseek-coder or deepseek-chat . The new model significantly surpasses the previous versions in both general capabilities and code abilities. The new model better aligns with human preferences and has been optimized in various areas such as writing tasks and instruction following: ArenaHard win rate impro</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-coder--deepseek-chat-upgraded-to-deepseek-v25-model</guid>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>API Launches Context Caching on Disk Technology</title>
+      <link>https://api-docs.deepseek.com/updates#api-launches-context-caching-on-disk-technology</link>
+      <description>The DeepSeek API has innovatively adopted hard disk caching, reducing prices by another order of magnitude. For more details on the update, please refer to the documentation Context Caching is Available 2024/08/02 .</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#api-launches-context-caching-on-disk-technology</guid>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New API Features</title>
+      <link>https://api-docs.deepseek.com/updates#new-api-features</link>
+      <description>Update API /chat/completions JSON Mode Function Calling Chat Prefix Completion（Beta） 8K max_tokens （Beta） New API /completions FIM Completion（Beta） For more details, please check the documentation New API Features 2024/07/25</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#new-api-features</guid>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-coder</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-coder</link>
+      <description>The deepseek-coder model has been upgraded to DeepSeek-Coder-V2-0724.</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-coder</guid>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-chat</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-chat-3</link>
+      <description>The deepseek-chat model has been upgraded to DeepSeek-V2-0628. Model's reasoning capabilities have improved, as shown in relevant benchmarks: Coding: HumanEval Pass@1 79.88% -&gt; 84.76% Mathematics: MATH ACC@1 55.02% -&gt; 71.02% Reasoning: BBH 78.56% -&gt; 83.40% In the Arena-Hard evaluation, the win rate against GPT-4-0314 increased from 41.6% to 68.3%. The model's role-playing capabilities have significantly enhanced, allowing it to act as different characters as requested during conversations.</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-chat-3</guid>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-coder</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-coder-1</link>
+      <description>The deepseek-coder model has been upgraded to DeepSeek-Coder-V2-0614, significantly enhancing its coding capabilities. It has reached the level of GPT-4-Turbo-0409 in code generation, code understanding, code debugging, and code completion. Additionally, it possesses excellent mathematical and reasoning abilities, and its general capabilities are on par with DeepSeek-V2-0517.</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-coder-1</guid>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deepseek-chat</title>
+      <link>https://api-docs.deepseek.com/updates#deepseek-chat-4</link>
+      <description>The deepseek-chat model has been upgraded to DeepSeek-V2-0517. The model has seen a significant improvement in following instructions, with the IFEval Benchmark Prompt-Level accuracy jumping from 63.9% to 77.6%. Additionally, on API end, we have optimized model ability to follow instruction filled in the ``system" part. This optimization has significantly elevated the user experience across a variety of tasks, including immersive translation, Retrieval-Augmented Generation (RAG), and more. The m</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates#deepseek-chat-4</guid>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

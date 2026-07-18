@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Black Forest Labs Blog</title>
+    <link>https://bfl.ai/blog</link>
+    <description>The team behind the FLUX family of models</description>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_bfl.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jul 2026 00:04:59 +0000</lastBuildDate>
+    <item>
+      <title>Our co-founder and CEO urges G7 leaders to back open innovation</title>
+      <link>https://bfl.ai/blog/our-co-founder-and-ceo-urges-g7-leaders-to-back-open-innovation</link>
+      <description>At the G7, our co-founder and CEO, Robin Rombach, joined President Trump, President von der Leyen, President Macron, and other world leaders to advocate for open innovation in AI. With openness under pressure around the world, Robin called on governments and industry to make open and responsible AI development the norm, not the exception. Read his speech below.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/our-co-founder-and-ceo-urges-g7-leaders-to-back-open-innovation</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Envato Built Its Creative AI Engine on FLUX</title>
+      <link>https://bfl.ai/blog/how-envato-built-its-creative-ai-engine-on-flux</link>
+      <description>How one of the world's largest creative platforms turned a careful evaluation into core infrastructure: 51 million+ images, three creative workflows, and a FLUX.2 launch on day zero.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/how-envato-built-its-creative-ai-engine-on-flux</guid>
+      <pubDate>Wed, 17 Jun 2026 14:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX.2 is now on device: ASUS ProArt laptops now support Klein models</title>
+      <link>https://bfl.ai/blog/flux2-klein-on-device</link>
+      <description>For the first time a FLUX model will ship on consumer hardware. In partnership with ASUS and NVIDIA, creators picking up a new ASUS ProArt laptop will find FLUX.2 [klein] optimized for the device.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux2-klein-on-device</guid>
+      <pubDate>Thu, 04 Jun 2026 00:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX VTO: Virtual Try-On at scale</title>
+      <link>https://bfl.ai/blog/flux-vto-virtual-try-on-at-catalog-scale</link>
+      <description>FLUX Virtual Try-On allows users to seem themselves in outfits before they buy with high accuracy and garment consistency. Gives you sub‑4 second generations across thousands of products at low cost and low latency.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-vto-virtual-try-on-at-catalog-scale</guid>
+      <pubDate>Thu, 28 May 2026 16:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX Erase: Remove anything, leave no trace</title>
+      <link>https://bfl.ai/blog/flux-erase-remove-anything-leave-no-trace</link>
+      <description>FLUX Erase removes whatever you mask — object, shadow, reflection, and all — and reconstructs the scene behind it without touching the rest of the image.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-erase-remove-anything-leave-no-trace</guid>
+      <pubDate>Thu, 21 May 2026 08:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX Outpainting: Extend any image, in any direction</title>
+      <link>https://bfl.ai/blog/outpainting-extend-any-image-in-any-direction</link>
+      <description>FLUX Outpainting extends images beyond their original frame in any direction, preserving lighting, texture, and composition without visible seams.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/outpainting-extend-any-image-in-any-direction</guid>
+      <pubDate>Thu, 14 May 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Our Forward Deployed Engineers Work with Customers</title>
+      <link>https://bfl.ai/blog/how-we-get-the-most-out-of-our-models-for-our-partners</link>
+      <description>Our engineers help partners turn FLUX into real systems: prompts, pipelines, fine-tunes, and infra tuned for real-world use cases.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/how-we-get-the-most-out-of-our-models-for-our-partners</guid>
+      <pubDate>Thu, 07 May 2026 21:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capable, Open, and Safe: Combating AI Misuse</title>
+      <link>https://bfl.ai/blog/capable-open-and-safe-combating-ai-misuse</link>
+      <description>Today, Black Forest Labs’ FLUX models are among the most popular AI models for visual generation. We are excited to share early results that help validate our efforts to mitigate emerging risks.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/capable-open-and-safe-combating-ai-misuse</guid>
+      <pubDate>Tue, 24 Feb 2026 20:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX.2 [klein]: Towards Interactive Visual Intelligence</title>
+      <link>https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence</link>
+      <description>Introducing FLUX.2 [klein], our fastest image models. Unified generation and editing in under a second, on hardware you already own. Apache 2.0 on 4B.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence</guid>
+      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Laying the Foundations for Visual Intelligence—Our $300M Series B</title>
+      <link>https://bfl.ai/blog/our-300m-series-b</link>
+      <description>Today, we're excited to announce our Series B of $300M at a $3.25B post-money valuation.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/our-300m-series-b</guid>
+      <pubDate>Mon, 01 Dec 2025 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX.2: Frontier Visual Intelligence</title>
+      <link>https://bfl.ai/blog/flux-2</link>
+      <description>Today, we release FLUX.2, our most capable model to date.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-2</guid>
+      <pubDate>Tue, 25 Nov 2025 15:11:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX.1 Kontext now in Adobe Photoshop: Powering Every Pixel</title>
+      <link>https://bfl.ai/blog/flux1-kontext-now-in-adobe-photoshop-powering-every-pixel</link>
+      <description>By pairing Photoshop’s professional editing environment with FLUX.1 Kontext [Pro]’s accuracy and unmatched speed, creators everywhere gain the freedom to push imagination further.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux1-kontext-now-in-adobe-photoshop-powering-every-pixel</guid>
+      <pubDate>Thu, 25 Sep 2025 13:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenArt transforms video storytelling with FLUX.1 Kontext: Making video creation accessible beyond traditional creators</title>
+      <link>https://bfl.ai/blog/openart-with-flux1-kontext</link>
+      <description>OpenArt transformed video storytelling with FLUX.1 Kontext integration, enabling creators who couldn't access video production before to create professional-quality content.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/openart-with-flux1-kontext</guid>
+      <pubDate>Fri, 22 Aug 2025 08:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Burda transforms Comic Creation with Black Forest Labs' FLUX.1 Models</title>
+      <link>https://bfl.ai/blog/burda-lissipony-universe</link>
+      <description>Burda - a major publisher in the DACH region - transformed their comic creation process for the LissyPony series, one of the most recognized children’s magazines in central Europe.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/burda-lissipony-universe</guid>
+      <pubDate>Wed, 06 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX Models Launch on Azure AI Foundry for Enterprise-Ready Image Generation</title>
+      <link>https://bfl.ai/blog/flux-azure-ai-foundry</link>
+      <description>Starting today, Black Forest Labs’ flagship models are available directly from Microsoft on Azure AI Foundry.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-azure-ai-foundry</guid>
+      <pubDate>Tue, 05 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX.1 Krea [dev]: An ‘Opinionated’ Text-to-Image Model</title>
+      <link>https://bfl.ai/blog/flux-1-krea-dev</link>
+      <description>The BFL model garden just got an exciting update: We are proud to release FLUX.1 Krea [dev], developed in collaboration with Krea AI.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-1-krea-dev</guid>
+      <pubDate>Thu, 31 Jul 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FLUX.1 Kontext [dev] - Open Weights for Image Editing</title>
+      <link>https://bfl.ai/blog/flux-1-kontext-dev</link>
+      <description>Up until today, all capable generative image editing models were only available as proprietary tools.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-1-kontext-dev</guid>
+      <pubDate>Thu, 26 Jun 2025 17:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing FLUX.1 Kontext and the BFL Playground</title>
+      <link>https://bfl.ai/blog/flux-1-kontext</link>
+      <description>Today, we are excited to release FLUX.1 Kontext, a suite of generative flow matching models that allows you to generate and edit images.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-1-kontext</guid>
+      <pubDate>Thu, 29 May 2025 17:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing the FLUX Pro Finetuning API</title>
+      <link>https://bfl.ai/blog/25-01-16-finetuning</link>
+      <description>Black Forest Labs is excited to announce the launch of the FLUX Pro Finetuning API, bringing unprecedented customization capabilities to our flagship FLUX Pro model line.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/25-01-16-finetuning</guid>
+      <pubDate>Thu, 16 Jan 2025 14:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing Lightning-Fast FLUX Performance to More Creators in Collaboration with NVIDIA</title>
+      <link>https://bfl.ai/blog/25-01-03-nvidia</link>
+      <description>Our new collaboration with NVIDIA marks a significant leap forward in making our FLUX models more universally accessible and efficient.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/25-01-03-nvidia</guid>
+      <pubDate>Thu, 02 Jan 2025 14:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing FLUX1.1 [pro] Ultra and Raw Modes</title>
+      <link>https://bfl.ai/blog/24-11-06-ultra</link>
+      <description>Today, we are adding new high-resolution capabilities to FLUX1.1 [pro], extending its functionality to support 4x higher image resolutions (up to 4MP) while maintaining an impressive generation time of only 10 seconds per sample.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/24-11-06-ultra</guid>
+      <pubDate>Wed, 06 Nov 2024 14:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing FLUX.1 Tools</title>
+      <link>https://bfl.ai/blog/24-11-21-tools</link>
+      <description>Today, we are excited to release FLUX.1 Tools, a suite of models designed to add control and steerability to our base text-to-image model FLUX.1</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/24-11-21-tools</guid>
+      <pubDate>Fri, 01 Nov 2024 14:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing FLUX1.1 [pro] and the BFL API</title>
+      <link>https://bfl.ai/blog/24-10-02-flux</link>
+      <description>Today, we release FLUX1.1 [pro], our most advanced and efficient model yet, alongside the general availability of the beta BFL API. This release marks a significant step forward in our mission to empower creators, developers, and enterprises with scalable, state-of-the-art generative technology.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/24-10-02-flux</guid>
+      <pubDate>Wed, 02 Oct 2024 14:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing Black Forest Labs</title>
+      <link>https://bfl.ai/blog/24-08-01-bfl</link>
+      <description>Today, we are excited to announce the launch of Black Forest Labs.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/24-08-01-bfl</guid>
+      <pubDate>Thu, 01 Aug 2024 14:56:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
