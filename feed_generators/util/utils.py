@@ -21,9 +21,7 @@ from feedgen.feed import FeedGenerator
 # Constants
 # ---------------------------------------------------------------------------
 
-DEFAULT_USER_AGENT = (
-    "Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
-)
+DEFAULT_USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 DEFAULT_HEADERS = {"User-Agent": DEFAULT_USER_AGENT}
 
 # ---------------------------------------------------------------------------
