@@ -440,18 +440,23 @@ CHROME_BINARY_CANDIDATES = [
     "chromium",
 ]
 
+CHROMEDRIVER_CANDIDATES = [
+    "chromedriver",
+    "/usr/bin/chromedriver",
+    "/usr/lib/chromium-browser/chromedriver",
+    "/usr/lib/chromium/chromedriver",
+]
 
-def get_chrome_binary_path() -> str | None:
-    """Resolve an absolute path to an installed Chrome/Chromium binary.
 
-    Tries each candidate in CHROME_BINARY_CANDIDATES, resolving bare
-    commands (e.g. "google-chrome", "chromium-browser") via PATH.
+def get_binary_path(candidates: list[str]) -> str | None:
+    """Resolve an absolute path to the first existing binary in *candidates*.
+
+    Entries may be absolute paths or bare commands (resolved via PATH).
     """
-    for path in CHROME_BINARY_CANDIDATES:
+    for path in candidates:
         resolved = path if os.path.isabs(path) and os.path.exists(path) else shutil.which(path)
         if resolved:
             return resolved
-    logger.warning("Could not locate Chrome/Chromium binary.")
     return None
 
 
@@ -483,6 +488,14 @@ def setup_selenium_driver():
     Automatically locates an installed Chrome or Chromium binary (see
     CHROME_BINARY_CANDIDATES) and detects its version to avoid chromedriver
     version mismatches.
+
+    Also looks for a distro-installed chromedriver (see
+    CHROMEDRIVER_CANDIDATES) and uses it instead of letting
+    undetected_chromedriver download its own. undetected_chromedriver's
+    downloaded binaries are only published for x86_64/arm64 desktop
+    platforms, so on other architectures (e.g. Raspberry Pi armhf) they
+    fail with ``OSError: Exec format error``; an apt-installed
+    chromedriver matches the host's real architecture.
     """
     import undetected_chromedriver as uc
 
@@ -493,6 +506,14 @@ def setup_selenium_driver():
     options.add_argument("--window-size=1920,1080")
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument(f"--user-agent={DEFAULT_USER_AGENT}")
-    binary_path = get_chrome_binary_path()
+    binary_path = get_binary_path(CHROME_BINARY_CANDIDATES)
+    if not binary_path:
+        logger.warning("Could not locate Chrome/Chromium binary.")
     version = get_chrome_major_version(binary_path)
-    return uc.Chrome(options=options, version_main=version, browser_executable_path=binary_path)
+    driver_path = get_binary_path(CHROMEDRIVER_CANDIDATES)
+    return uc.Chrome(
+        options=options,
+        version_main=version,
+        browser_executable_path=binary_path,
+        driver_executable_path=driver_path,
+    )
