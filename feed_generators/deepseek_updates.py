@@ -24,7 +24,7 @@ from feedgen.feed import FeedGenerator
 logger = setup_logging()
 
 FEED_NAME = "deepseek_updates"
-BLOG_URL = "https://api-docs.deepseek.com/updates"
+BLOG_URL = "https://api-docs.deepseek.com/updates/"
 
 
 def parse_articles(html: str) -> list[dict]:
