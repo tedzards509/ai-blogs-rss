@@ -116,7 +116,9 @@ For blogs where all content is available in a single request (or a source RSS fe
 
 #### 2. Cache-Backed Incremental Fetch <!-- omit in toc -->
 
-For blogs with pagination (`deeplearningai_the_batch.py`) or a Selenium "Load more"/"See more" button (`anthropic_news_blog.py`, `anthropic_news_product.py`, `meta_ai_blog.py`, `mistral_blog.py`). These maintain a JSON cache in `cache/<feed_name>_posts.json` and fetch incrementally by default.
+For blogs with pagination (`deeplearningai_the_batch.py`) or a Selenium "Load more"/"See more" button (`anthropic_news_blog.py`, `meta_ai_blog.py`, `mistral_blog.py`). These maintain a JSON cache in `cache/<feed_name>_posts.json` and fetch incrementally by default.
+
+**One fetch, multiple feeds**: when a single page needs to produce more than one output feed (e.g. `anthropic_news_blog.py` also writes the "Product"-only `feed_anthropic_news_product.xml` by filtering the same fetched/cached article list), do it in one script rather than a second full fetch — a second Selenium run of the same page just to re-filter is wasted cost and doubles bot-detection exposure. Register each output feed as its own `feeds.yaml` entry (so README/OPML get a row and the file has its own `blog_url`/output path), but point every such entry's `script:` at the same shared generator; `run_all_feeds.py` dedupes registry entries by `script` path and runs each unique script once per invocation, fanning its result out to all feed names that map to it.
 
 **Key functions**:
 

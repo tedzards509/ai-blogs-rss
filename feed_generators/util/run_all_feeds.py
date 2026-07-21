@@ -102,6 +102,21 @@ def run_all_feeds(
 
         (selenium_to_run if is_selenium else requests_to_run).append((name, config))
 
+    # Some registry entries share a script (e.g. a single generator that
+    # writes multiple feed files from one fetch) — collapse those down to
+    # one subprocess run per unique script, and fan its result out to every
+    # feed name that maps to it.
+    def dedupe_by_script(entries: list[tuple[str, FeedConfig]]) -> dict[str, list[str]]:
+        by_script: dict[str, list[str]] = {}
+        for name, config in entries:
+            by_script.setdefault(config.script, []).append(name)
+        return by_script
+
+    selenium_by_script = dedupe_by_script(selenium_to_run)
+    requests_by_script = dedupe_by_script(requests_to_run)
+    selenium_configs = dict(selenium_to_run)
+    requests_configs = dict(requests_to_run)
+
     # Selenium feeds run one at a time (each launches its own headless Chrome,
     # which gets flaky under contention); requests-based feeds run in parallel.
     # The two groups run concurrently with each other.
@@ -110,15 +125,21 @@ def run_all_feeds(
         ThreadPoolExecutor(max_workers=MAX_WORKERS) as requests_executor,
     ):
         futures = {
-            **{selenium_executor.submit(run_feed, name, config, full): name for name, config in selenium_to_run},
-            **{requests_executor.submit(run_feed, name, config, full): name for name, config in requests_to_run},
+            **{
+                selenium_executor.submit(run_feed, names[0], selenium_configs[names[0]], full): names
+                for names in selenium_by_script.values()
+            },
+            **{
+                requests_executor.submit(run_feed, names[0], requests_configs[names[0]], full): names
+                for names in requests_by_script.values()
+            },
         }
         for future in as_completed(futures):
-            name = futures[future]
+            names = futures[future]
             if future.result():
-                successful_scripts.append(name)
+                successful_scripts.extend(names)
             else:
-                failed_scripts.append(name)
+                failed_scripts.extend(names)
 
     successful_scripts.sort()
     failed_scripts.sort()

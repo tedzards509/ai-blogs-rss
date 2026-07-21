@@ -21,7 +21,7 @@ feeds:
     blog_url: https://www.anthropic.com/news
 
   anthropic_news_product:
-    script: anthropic_news_product.py
+    script: anthropic_news_blog.py
     type: selenium
     blog_url: https://www.anthropic.com/news
 

@@ -26,6 +26,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 FEED_NAME = "anthropic_news"
+PRODUCT_FEED_NAME = "anthropic_news_product"
 BLOG_URL = "https://www.anthropic.com/news"
 
 logger = setup_logging()
@@ -310,19 +311,30 @@ def parse_news_html(html_content):
         raise
 
 
-def generate_rss_feed(articles):
-    """Generate RSS feed from news articles."""
+def filter_product_articles(articles):
+    """Keep only articles tagged "Product" (case-insensitive)."""
+    return [a for a in articles if (a.get("category") or "").strip().lower() == "product"]
+
+
+def generate_rss_feed(
+    articles,
+    feed_name=FEED_NAME,
+    title="Anthropic News",
+    description="Latest news and updates from Anthropic",
+    subtitle="Latest updates from Anthropic's newsroom",
+):
+    """Generate an RSS feed from a list of articles."""
     try:
         fg = FeedGenerator()
-        fg.title("Anthropic News")
-        fg.description("Latest news and updates from Anthropic")
+        fg.title(title)
+        fg.description(description)
         fg.language("en")
 
         # Set feed metadata
         fg.author({"name": "Anthropic News"})
         fg.logo("https://www.anthropic.com/images/icons/apple-touch-icon.png")
-        fg.subtitle("Latest updates from Anthropic's newsroom")
-        setup_feed_links(fg, blog_url=BLOG_URL, feed_name=FEED_NAME)
+        fg.subtitle(subtitle)
+        setup_feed_links(fg, blog_url=BLOG_URL, feed_name=feed_name)
 
         # Sort articles for correct feed order (newest first in output)
         articles_sorted = sort_posts_for_feed(articles, date_field="date")
@@ -337,11 +349,11 @@ def generate_rss_feed(articles):
             fe.category(term=article["category"])
             fe.id(article["link"])
 
-        logger.info("Successfully generated RSS feed")
+        logger.info(f"Successfully generated RSS feed: {feed_name}")
         return fg
 
     except Exception as e:
-        logger.error(f"Error generating RSS feed: {e!s}")
+        logger.error(f"Error generating RSS feed {feed_name}: {e!s}")
         raise
 
 
@@ -364,7 +376,11 @@ def get_existing_links_from_feed(feed_path):
 
 
 def main(full_reset=False):
-    """Main function to generate RSS feed from Anthropic's news page.
+    """Main function to generate RSS feeds from Anthropic's news page.
+
+    Fetches the news page once and generates two feeds from the same
+    article list: the full "anthropic_news" feed and the "Product"-only
+    "anthropic_news_product" feed (a filtered subset, not a second fetch).
 
     Args:
         full_reset: If True, ignore cache and fetch until max_clicks is hit.
@@ -392,13 +408,23 @@ def main(full_reset=False):
         # Save to cache
         save_cache(FEED_NAME, articles)
 
-        # Generate RSS feed with all articles
+        # Generate and save the full feed
         feed = generate_rss_feed(articles)
-
-        # Save feed to file
         save_rss_feed(feed, FEED_NAME)
-
         logger.info(f"Successfully generated RSS feed with {len(articles)} articles")
+
+        # Derive and save the "Product" feed from the same article list
+        product_articles = filter_product_articles(articles)
+        product_feed = generate_rss_feed(
+            product_articles,
+            feed_name=PRODUCT_FEED_NAME,
+            title="Anthropic News - Product",
+            description="Product announcements from Anthropic's newsroom",
+            subtitle="Product updates from Anthropic's newsroom",
+        )
+        save_rss_feed(product_feed, PRODUCT_FEED_NAME)
+        logger.info(f"Successfully generated RSS feed with {len(product_articles)} 'Product' articles")
+
         return True
 
     except Exception as e:
@@ -407,4 +433,4 @@ def main(full_reset=False):
 
 
 if __name__ == "__main__":
-    sys.exit(0 if main(full_reset=parse_full_reset_flag("Generate Anthropic News RSS feed")) else 1)
+    sys.exit(0 if main(full_reset=parse_full_reset_flag("Generate Anthropic News RSS feeds")) else 1)
