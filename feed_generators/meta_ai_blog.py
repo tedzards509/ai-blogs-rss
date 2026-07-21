@@ -143,7 +143,7 @@ def _extract_date_from_elements(elements, article_href: str) -> tuple[datetime |
     return None, ""
 
 
-def _append_article(articles, seen, href, title, date, category, description):
+def _append_article(articles, seen, href, title, date, category, description, thumbnail=None):
     """Append an article to the list if href is unseen. Mutates both collections."""
     if href in seen or href in ("/blog/", "/blog"):
         return
@@ -157,6 +157,7 @@ def _append_article(articles, seen, href, title, date, category, description):
             "date": date,
             "category": category,
             "description": description,
+            "thumbnail": thumbnail,
         }
     )
 
@@ -196,7 +197,11 @@ def extract_articles(soup: BeautifulSoup) -> list[dict]:
                     if cat_text:
                         category = cat_text.title() if cat_text.isupper() else cat_text
                         break
-                _append_article(articles, seen, href, title, date, category, title)
+                img_elem = hero.find("img")
+                thumbnail = (
+                    absolute_url(img_elem["src"], "https://ai.meta.com") if img_elem and img_elem.get("src") else None
+                )
+                _append_article(articles, seen, href, title, date, category, title, thumbnail)
 
     # Latest News grid (div._amda)
     for card in soup.select("div._amda"):
@@ -230,7 +235,10 @@ def extract_articles(soup: BeautifulSoup) -> list[dict]:
         if desc_elem:
             description = desc_elem.get_text(strip=True)[:300]
 
-        _append_article(articles, seen, href, title, date, category, description)
+        img_elem = card.find("img")
+        thumbnail = absolute_url(img_elem["src"], "https://ai.meta.com") if img_elem and img_elem.get("src") else None
+
+        _append_article(articles, seen, href, title, date, category, description, thumbnail)
 
     # "More from AI at Meta" grid (div._amsu)
     for card in soup.select("div._amsu"):
@@ -253,7 +261,10 @@ def extract_articles(soup: BeautifulSoup) -> list[dict]:
         desc_elem = card.find("p", class_="_amt3")
         description = desc_elem.get_text(strip=True)[:300] if desc_elem else title
 
-        _append_article(articles, seen, href, title, date, category, description)
+        img_elem = card.find("img")
+        thumbnail = absolute_url(img_elem["src"], "https://ai.meta.com") if img_elem and img_elem.get("src") else None
+
+        _append_article(articles, seen, href, title, date, category, description, thumbnail)
 
     logger.info(f"Parsed {len(articles)} articles")
     return articles
@@ -261,6 +272,7 @@ def extract_articles(soup: BeautifulSoup) -> list[dict]:
 
 def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
     fg = FeedGenerator()
+    fg.load_extension("media")
     fg.title("AI at Meta Blog")
     fg.description("Latest AI news and research from Meta")
     fg.language("en")
@@ -277,6 +289,9 @@ def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
         fe.category(term=article["category"])
         if article.get("date"):
             fe.published(article["date"])
+        if article.get("thumbnail"):
+            fe.media.content([{"url": article["thumbnail"], "medium": "image"}])
+            fe.media.thumbnail([{"url": article["thumbnail"]}])
 
     logger.info(f"Generated RSS feed with {len(articles)} entries")
     return fg

@@ -1,5 +1,6 @@
 import re
 import sys
+from urllib.parse import parse_qs, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -134,6 +135,29 @@ def extract_description(element) -> str | None:
     return None
 
 
+def extract_thumbnail(anchor) -> str | None:
+    """Find the card's cover image and resolve it to a direct URL.
+
+    Cards use Next.js `<Image>` with `loading="lazy"`, so the visible <img>'s
+    `src` is a base64 placeholder gif and the real image only appears in the
+    `<noscript>` fallback, proxied through `/_next/image?url=<encoded>`. Walk
+    up to the enclosing `<article>` card (the anchor itself has no img
+    descendant) and decode that proxy URL's `url` query param to get the
+    original CDN link.
+    """
+    card = anchor.find_parent("article") or anchor.parent
+    if not card:
+        return None
+
+    img = card.select_one("noscript img")
+    if not img or not img.get("src"):
+        return None
+
+    query = parse_qs(urlparse(img["src"]).query)
+    original = query.get("url", [None])[0]
+    return normalize_link(original) if original else None
+
+
 def parse_articles_from_html(html_content: str) -> list[dict]:
     """Parse articles from HTML content string.
 
@@ -188,12 +212,15 @@ def parse_articles_from_html(html_content: str) -> list[dict]:
         # Extract description from nearby paragraph or use title
         description = extract_description(anchor) or title
 
+        thumbnail = extract_thumbnail(anchor)
+
         articles.append(
             {
                 "title": title,
                 "link": link,
                 "date": date,
                 "description": description,
+                "thumbnail": thumbnail,
             }
         )
 
@@ -249,6 +276,7 @@ def fetch_all_articles(cursor: CacheCursor, max_pages: int = MAX_PAGES) -> list[
 
 def build_feed(articles: list[dict]) -> FeedGenerator:
     fg = FeedGenerator()
+    fg.load_extension("media")
     fg.title("The Batch | DeepLearning.AI")
     fg.description("Weekly AI news and insights from DeepLearning.AI's The Batch.")
     fg.language("en")
@@ -264,6 +292,9 @@ def build_feed(articles: list[dict]) -> FeedGenerator:
         entry.id(article["link"])
         entry.published(article["date"])
         entry.description(article["description"])
+        if article.get("thumbnail"):
+            entry.media.content([{"url": article["thumbnail"], "medium": "image"}])
+            entry.media.thumbnail([{"url": article["thumbnail"]}])
 
     return fg
 

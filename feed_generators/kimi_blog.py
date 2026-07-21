@@ -66,12 +66,16 @@ def parse_articles(html: str) -> list[dict]:
             logger.warning(f"Could not parse date for article: {title}")
             date = stable_fallback_date(link)
 
+        img_elem = card.find("img")
+        thumbnail = absolute_url(img_elem["src"], "https://www.kimi.com") if img_elem and img_elem.get("src") else None
+
         articles.append(
             {
                 "title": title,
                 "link": link,
                 "date": date,
                 "description": title,
+                "thumbnail": thumbnail,
             }
         )
 
@@ -81,6 +85,7 @@ def parse_articles(html: str) -> list[dict]:
 
 def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
     fg = FeedGenerator()
+    fg.load_extension("media")
     fg.title("Kimi Research")
     fg.description("Research articles, technical blogs, and benchmark releases from Kimi (Moonshot AI)")
     fg.language("en")
@@ -96,6 +101,9 @@ def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
         fe.id(article["link"])
         if article.get("date"):
             fe.published(article["date"])
+        if article.get("thumbnail"):
+            fe.media.content([{"url": article["thumbnail"], "medium": "image"}])
+            fe.media.thumbnail([{"url": article["thumbnail"]}])
 
     logger.info(f"Generated RSS feed with {len(articles)} entries")
     return fg

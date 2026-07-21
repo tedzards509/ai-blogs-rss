@@ -85,6 +85,9 @@ def parse_articles(html: str) -> list[dict]:
             logger.warning(f"Could not parse date for article: {title}")
             date = stable_fallback_date(link)
 
+        img_elem = article_elem.find("img")
+        thumbnail = absolute_url(img_elem["src"], "https://mistral.ai") if img_elem and img_elem.get("src") else None
+
         articles.append(
             {
                 "title": title,
@@ -92,6 +95,7 @@ def parse_articles(html: str) -> list[dict]:
                 "date": date,
                 "category": category,
                 "description": description,
+                "thumbnail": thumbnail,
             }
         )
 
@@ -101,6 +105,7 @@ def parse_articles(html: str) -> list[dict]:
 
 def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
     fg = FeedGenerator()
+    fg.load_extension("media")
     fg.title("Mistral AI News")
     fg.description("Latest news and updates from Mistral AI")
     fg.language("en")
@@ -117,6 +122,9 @@ def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
         fe.category(term=article["category"])
         if article.get("date"):
             fe.published(article["date"])
+        if article.get("thumbnail"):
+            fe.media.content([{"url": article["thumbnail"], "medium": "image"}])
+            fe.media.thumbnail([{"url": article["thumbnail"]}])
 
     logger.info(f"Generated RSS feed with {len(articles)} entries")
     return fg

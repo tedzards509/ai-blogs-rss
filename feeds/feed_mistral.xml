@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Mistral AI News</title>
     <link>https://mistral.ai/news/</link>
@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 12:46:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:07:11 +0000</lastBuildDate>
     <item>
       <title>Your Prompts and Skills need a system of record.</title>
       <link>https://mistral.ai/news/manage-prompts-and-skills-in-studio/</link>
@@ -16,6 +16,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/manage-prompts-and-skills-in-studio/</guid>
       <category>Product</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Skillsandprompts-1_Z8EXBB.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Skillsandprompts-1_Z8EXBB.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Robostral Navigate</title>
@@ -24,6 +28,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/robostral-navigate/</guid>
       <category>Research</category>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Robostral-navigate_2lHiJb.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Robostral-navigate_2lHiJb.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Leanstral 1.5: Proof Abundance for All</title>
@@ -32,6 +40,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/leanstral-1-5/</guid>
       <category>Research</category>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Leanstral_qmVno.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Leanstral_qmVno.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Bringing more control over your connectors</title>
@@ -40,6 +52,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/more-control-over-connectors/</guid>
       <category>Engineering</category>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-connectors_2oWK36.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-connectors_2oWK36.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Mistral OCR 4</title>
@@ -48,6 +64,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/ocr-4/</guid>
       <category>Research</category>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-OCR_Z1Jkuyv.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-OCR_Z1Jkuyv.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Search Toolkit</title>
@@ -56,6 +76,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/search-toolkit/</guid>
       <category>Product</category>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Illustration13_Z29pPCl.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Illustration13_Z29pPCl.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Vibe gets to work.</title>
@@ -64,6 +88,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/vibe-agent/</guid>
       <category>Product</category>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Solution-Vibe_Z2rsjBU.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Solution-Vibe_Z2rsjBU.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>AI Now Summit 2026</title>
@@ -72,6 +100,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/ai-now-summit-2026/</guid>
       <category>Company</category>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/AInowsummit_ZnXJky.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/AInowsummit_ZnXJky.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Physics AI research that’s shaping the industry.</title>
@@ -80,6 +112,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/physics-ai-research/</guid>
       <category>Research</category>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Manufacturing-Robotic%20Arm_Z1LoG43.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Manufacturing-Robotic%20Arm_Z1LoG43.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing physics AI at Mistral: the foundation for engineering acceleration.</title>
@@ -88,6 +124,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/introducing-physics-ai-at-mistral/</guid>
       <category>Solutions</category>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Solution-Factory_1CoUIm.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Solution-Factory_1CoUIm.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Emmi joins Mistral to accelerate the AI-native industry</title>
@@ -96,6 +136,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/accelerate-ai-native-industry/</guid>
       <category>Company</category>
       <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-EmmiAI_Z1QVFqa.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-EmmiAI_Z1QVFqa.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Connect the dots: Build with built-in and custom MCPs in Studio</title>
@@ -104,6 +148,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/connectors/</guid>
       <category>Product</category>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Solution-Studio_Z1tIkn0.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Solution-Studio_Z1tIkn0.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Remote agents in Vibe. Powered by Mistral Medium 3.5.</title>
@@ -112,6 +160,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/</guid>
       <category>Product</category>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Medium_1LAgDu.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Medium_1LAgDu.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Workflows for work that runs the business</title>
@@ -120,6 +172,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/workflows/</guid>
       <category>Product</category>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/workflow-thumbnail_7jK33.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/workflow-thumbnail_7jK33.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Speaking of Voxtral</title>
@@ -128,6 +184,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/voxtral-tts/</guid>
       <category>Research</category>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Voxtral-1_Z2s01JB.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Voxtral-1_Z2s01JB.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Forge</title>
@@ -136,6 +196,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/forge/</guid>
       <category>Product</category>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/voxtral-thumbnail_Q2i20.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/voxtral-thumbnail_Q2i20.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Leanstral: Open-Source foundation for trustworthy vibe-coding</title>
@@ -144,6 +208,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/leanstral/</guid>
       <category>Research</category>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Leanstral_1EHlSs.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Leanstral_1EHlSs.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral AI partners with NVIDIA to accelerate open frontier models</title>
@@ -152,6 +220,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/</guid>
       <category>Company</category>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Partner_1WWeag.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Partner_1WWeag.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Mistral Small 4</title>
@@ -160,6 +232,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-small-4/</guid>
       <category>Research</category>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Small_ZyGfKX.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Small_ZyGfKX.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Rails testing on autopilot: Building an agent that writes what developers won't</title>
@@ -168,6 +244,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/</guid>
       <category>Solutions</category>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-08_21lQQr.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-08_21lQQr.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Voxtral transcribes at the speed of sound.</title>
@@ -176,6 +256,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/voxtral-transcribe-2/</guid>
       <category>Research</category>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Voxtral_ojI3r.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Voxtral_ojI3r.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Terminally online Mistral Vibe.</title>
@@ -184,6 +268,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-vibe-2-0/</guid>
       <category>Product</category>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Solution-Vibe%20for%20code_Z5xpfj.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Solution-Vibe%20for%20code_Z5xpfj.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Heaps do lie: debugging a memory leak in vLLM.</title>
@@ -192,6 +280,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/debugging-memory-leak-in-vllm/</guid>
       <category>Engineering</category>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-04_1G3roi.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-04_1G3roi.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Mistral OCR 3</title>
@@ -200,6 +292,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-ocr-3/</guid>
       <category>Research</category>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-ocr_Z1cmkem.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-ocr_Z1cmkem.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing: Devstral 2 and Mistral Vibe CLI.</title>
@@ -208,6 +304,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/devstral-2-vibe-cli/</guid>
       <category>Research</category>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Devstral_Z1f1Srg.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Devstral_Z1f1Srg.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Mistral 3</title>
@@ -216,6 +316,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-3/</guid>
       <category>Research</category>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Mistral%203_1M7PB5.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Mistral%203_1M7PB5.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral AI - KI für Deutschland</title>
@@ -224,6 +328,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/ki-fur-deutschland/</guid>
       <category>Company</category>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-12_1y8T59.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-12_1y8T59.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Mistral AI Studio.</title>
@@ -232,6 +340,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/ai-studio/</guid>
       <category>Product</category>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Solution-Studio_Z1tIkn0.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Solution-Studio_Z1tIkn0.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral AI raises 1.7B€ to accelerate technological progress with AI</title>
@@ -240,6 +352,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/</guid>
       <category>Company</category>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Logo_Z8wTI3.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Logo_Z8wTI3.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Le Chat. Custom MCP connectors. Memories.</title>
@@ -248,6 +364,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/le-chat-mcp-connectors-memories/</guid>
       <category>Product</category>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-09_ZqEAFJ.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-09_ZqEAFJ.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Make Memory work for you.</title>
@@ -256,6 +376,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/memory/</guid>
       <category>Product</category>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-02_1vTeEI.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-02_1vTeEI.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Unlocking the potential of vision language models on satellite imagery through fine-tuning</title>
@@ -264,6 +388,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/</guid>
       <category>Solutions</category>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-04_1G3roi.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-04_1G3roi.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise</title>
@@ -272,6 +400,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/codestral-25-08/</guid>
       <category>Research</category>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Codestral_2g0FpI.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Codestral_2g0FpI.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Our contribution to a global environmental standard for AI</title>
@@ -280,6 +412,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai/</guid>
       <category>Company</category>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-07_ZANNpj.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-07_ZANNpj.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Le Chat dives deep.</title>
@@ -288,6 +424,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/le-chat-dives-deep/</guid>
       <category>Product</category>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-03_ZV7dRs.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-03_ZV7dRs.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Voxtral</title>
@@ -296,6 +436,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/voxtral/</guid>
       <category>Research</category>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Voxtral_ojI3r.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Voxtral_ojI3r.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Upgrading agentic coding capabilities with the new Devstral models</title>
@@ -304,6 +448,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/devstral-2507/</guid>
       <category>Research</category>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Devstral_Z1f1Srg.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Devstral_Z1f1Srg.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Announcing AI for Citizens</title>
@@ -312,6 +460,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/ai-for-citizens/</guid>
       <category>Solutions</category>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-06_1QcE7R.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-06_1QcE7R.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral Compute</title>
@@ -320,6 +472,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-compute/</guid>
       <category>Company</category>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Solution-Compute_Z1SL9j.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Solution-Compute_Z1SL9j.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Magistral</title>
@@ -328,6 +484,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/magistral/</guid>
       <category>Research</category>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Magistral_QezIy.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Magistral_QezIy.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Mistral Code</title>
@@ -336,6 +496,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-code/</guid>
       <category>Product</category>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Codestral Embed</title>
@@ -344,6 +508,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/codestral-embed/</guid>
       <category>Research</category>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Codestral%20Embed_27vXwP.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Codestral%20Embed_27vXwP.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Build AI agents with the Mistral Agents API</title>
@@ -352,6 +520,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/agents-api/</guid>
       <category>Product</category>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-08_21lQQr.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-08_21lQQr.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Devstral</title>
@@ -360,6 +532,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/devstral/</guid>
       <category>Research</category>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Devstral_Z1f1Srg.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Devstral_Z1f1Srg.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Medium is the new large.</title>
@@ -368,6 +544,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-medium-3/</guid>
       <category>Research</category>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Medium_1LAgDu.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Medium_1LAgDu.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Le Chat Enterprise</title>
@@ -376,6 +556,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/le-chat-enterprise/</guid>
       <category>Product</category>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-09_ZqEAFJ.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-09_ZqEAFJ.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Evaluating RAG with LLM as a Judge</title>
@@ -384,6 +568,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/llm-as-rag-judge/</guid>
       <category>Solutions</category>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-04_1G3roi.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-04_1G3roi.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral Small 3.1</title>
@@ -392,6 +580,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-small-3-1/</guid>
       <category>Research</category>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Small_ZyGfKX.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Small_ZyGfKX.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral OCR</title>
@@ -400,6 +592,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-ocr/</guid>
       <category>Research</category>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-OCR_Z1Jkuyv.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-OCR_Z1Jkuyv.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Empowering product development with an agentic workflow</title>
@@ -408,6 +604,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/</guid>
       <category>Solutions</category>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-02_1vTeEI.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-02_1vTeEI.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral Saba</title>
@@ -416,6 +616,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-saba/</guid>
       <category>Research</category>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Saba_Z2do6XY.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Saba_Z2do6XY.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>The all new le Chat: Your AI assistant for life and work</title>
@@ -424,6 +628,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/all-new-le-chat/</guid>
       <category>Product</category>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral Small 3</title>
@@ -432,6 +640,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-small-3/</guid>
       <category>Research</category>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Small_ZyGfKX.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Small_ZyGfKX.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Purr-fectly informed</title>
@@ -440,6 +652,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-afp/</guid>
       <category>Product</category>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-02_1vTeEI.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-02_1vTeEI.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Codestral 25.01</title>
@@ -448,6 +664,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/codestral-2501/</guid>
       <category>Research</category>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Codestral_2g0FpI.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Codestral_2g0FpI.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Pixtral Large</title>
@@ -456,6 +676,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/pixtral-large/</guid>
       <category>Research</category>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Pixtral_Z2aAq94.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Pixtral_Z2aAq94.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral has entered the chat</title>
@@ -464,6 +688,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-chat/</guid>
       <category>Product</category>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-11_Z141LbB.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-11_Z141LbB.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral Moderation API</title>
@@ -472,6 +700,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-moderation/</guid>
       <category>Research</category>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-12_1y8T59.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-12_1y8T59.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral Batch API</title>
@@ -480,6 +712,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/batch-api/</guid>
       <category>Product</category>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-08_21lQQr.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-08_21lQQr.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Un Ministral, des Ministraux</title>
@@ -488,6 +724,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/ministraux/</guid>
       <category>Research</category>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Ministraux_26hyDr.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Ministraux_26hyDr.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Announcing Pixtral 12B</title>
@@ -496,6 +736,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/pixtral-12b/</guid>
       <category>Research</category>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Pixtral_Z2aAq94.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Pixtral_Z2aAq94.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>AI in abundance</title>
@@ -504,6 +748,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/september-24-release/</guid>
       <category>Product</category>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-06_1QcE7R.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-06_1QcE7R.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Build, tweak, repeat</title>
@@ -512,6 +760,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/build-tweak-repeat/</guid>
       <category>Research</category>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-09_ZqEAFJ.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-09_ZqEAFJ.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Large Enough</title>
@@ -520,6 +772,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-large-2407/</guid>
       <category>Research</category>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Large%203_ZB2ydu.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Large%203_ZB2ydu.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral NeMo</title>
@@ -528,6 +784,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-nemo/</guid>
       <category>Research</category>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Nemo_jT3oj.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Nemo_jT3oj.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Codestral Mamba</title>
@@ -536,6 +796,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/codestral-mamba/</guid>
       <category>Research</category>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Codestral%20Mamba_1zSmNg.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Codestral%20Mamba_1zSmNg.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>MathΣtral</title>
@@ -544,6 +808,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mathstral/</guid>
       <category>Research</category>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Mathstral_19A83E.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Mathstral_19A83E.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral AI Fine-tuning Hackathon</title>
@@ -552,6 +820,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/2024-ft-hackathon/</guid>
       <category>Company</category>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-03_ZV7dRs.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-03_ZV7dRs.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>My Tailor is Mistral</title>
@@ -560,6 +832,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/customization/</guid>
       <category>Research</category>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-06_1QcE7R.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-06_1QcE7R.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>The Mistral AI Non-Production License</title>
@@ -568,6 +844,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-ai-non-production-license-mnpl/</guid>
       <category>Research</category>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-09_ZqEAFJ.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-09_ZqEAFJ.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Codestral</title>
@@ -576,6 +856,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/codestral/</guid>
       <category>Research</category>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Codestral_2g0FpI.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Codestral_2g0FpI.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Cheaper, Better, Faster, Stronger</title>
@@ -584,6 +868,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mixtral-8x22b/</guid>
       <category>Research</category>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-07_ZANNpj.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-07_ZANNpj.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Le Chat</title>
@@ -592,6 +880,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/le-chat-mistral/</guid>
       <category>Product</category>
       <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-03_ZV7dRs.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-03_ZV7dRs.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Au Large</title>
@@ -600,6 +892,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mistral-large/</guid>
       <category>Research</category>
       <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-Large%203_ZB2ydu.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-Large%203_ZB2ydu.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>La Plateforme</title>
@@ -608,6 +904,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/la-plateforme/</guid>
       <category>Product</category>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mixtral of experts</title>
@@ -616,6 +916,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/mixtral-of-experts/</guid>
       <category>Research</category>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/thumbnail-01_Z16gqB2.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/thumbnail-01_Z16gqB2.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Bringing open AI models to the frontier</title>
@@ -624,6 +928,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/about-mistral-ai/</guid>
       <category>Company</category>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Logo_Z8wTI3.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Logo_Z8wTI3.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
     <item>
       <title>Mistral 7B</title>
@@ -632,6 +940,10 @@
       <guid isPermaLink="false">https://mistral.ai/news/announcing-mistral-7b/</guid>
       <category>Research</category>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mistral.ai/_astro/Thumbnail-Model-7b_1JDtVD.webp?dpl=6a5f6c6ad16eb61537bc9379" medium="image"/>
+        <media:thumbnail url="https://mistral.ai/_astro/Thumbnail-Model-7b_1JDtVD.webp?dpl=6a5f6c6ad16eb61537bc9379"/>
+      </media:group>
     </item>
   </channel>
 </rss>

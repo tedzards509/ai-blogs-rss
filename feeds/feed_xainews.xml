@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>xAI News</title>
     <link>https://x.ai/news</link>
@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 12:46:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:08:38 +0000</lastBuildDate>
     <item>
       <title>Grok for Excel</title>
       <link>https://x.ai/news/introducing-excel-addin</link>
@@ -16,6 +16,10 @@
       <guid isPermaLink="false">https://x.ai/news/introducing-excel-addin</guid>
       <category>News</category>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-excel-addin-title.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-excel-addin-title.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
+      </media:group>
     </item>
     <item>
       <title>Automations in Grok</title>
@@ -24,6 +28,10 @@
       <guid isPermaLink="false">https://x.ai/news/grok-automations</guid>
       <category>News</category>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-automations-og.jpg&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-automations-og.jpg&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing Grok 4.5</title>
@@ -40,6 +48,10 @@
       <guid isPermaLink="false">https://x.ai/news/grok-build-open-source</guid>
       <category>News</category>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fopen-source-cover.png&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fopen-source-cover.png&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
+      </media:group>
     </item>
     <item>
       <title>21 New Flagship Grok Voices</title>
@@ -48,11 +60,15 @@
       <guid isPermaLink="false">https://x.ai/news/new-flagship-voices</guid>
       <category>News</category>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fnew-flagship-voices.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fnew-flagship-voices.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing the Voice Agent Builder</title>
       <link>https://x.ai/news/grok-voice-agent-builder</link>
-      <description>Introducing the Voice Agent Builder</description>
+      <description>Create a personalized voice agent in under 2 minutes without a single line of code.</description>
       <guid isPermaLink="false">https://x.ai/news/grok-voice-agent-builder</guid>
       <category>News</category>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>

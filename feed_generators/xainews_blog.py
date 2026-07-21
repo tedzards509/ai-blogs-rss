@@ -145,12 +145,16 @@ def extract_articles(soup):
                 logger.warning(f"Could not extract date for article: {title}")
                 date = stable_fallback_date(link)
 
+            img_elem = card.find("img")
+            thumbnail = absolute_url(img_elem["src"], "https://x.ai") if img_elem and img_elem.get("src") else None
+
             article = {
                 "title": title,
                 "link": link,
                 "date": date,
                 "category": "News",
                 "description": description,
+                "thumbnail": thumbnail,
             }
 
             articles.append(article)
@@ -177,6 +181,7 @@ def parse_news_html(html_content):
 def generate_rss_feed(articles):
     """Generate RSS feed from news articles."""
     fg = FeedGenerator()
+    fg.load_extension("media")
     fg.title("xAI News")
     fg.description("Latest news and updates from xAI")
     fg.language("en")
@@ -196,6 +201,9 @@ def generate_rss_feed(articles):
         fe.published(article["date"])
         fe.category(term=article["category"])
         fe.id(article["link"])
+        if article.get("thumbnail"):
+            fe.media.content([{"url": article["thumbnail"], "medium": "image"}])
+            fe.media.thumbnail([{"url": article["thumbnail"]}])
 
     logger.info("Successfully generated RSS feed")
     return fg

@@ -52,7 +52,10 @@ def parse_hero_article(soup: BeautifulSoup) -> dict | None:
     desc_elem = container.find("p")
     description = desc_elem.get_text(strip=True) if desc_elem else title
 
-    return {"title": title, "link": link, "date": date, "description": description}
+    img_elem = container.find("img")
+    thumbnail = absolute_url(img_elem["src"], "https://bfl.ai") if img_elem and img_elem.get("src") else None
+
+    return {"title": title, "link": link, "date": date, "description": description, "thumbnail": thumbnail}
 
 
 def parse_articles(html: str) -> list[dict]:
@@ -92,12 +95,16 @@ def parse_articles(html: str) -> list[dict]:
         desc_elem = art.find("p")
         description = desc_elem.get_text(strip=True) if desc_elem else title
 
+        img_elem = art.find("img")
+        thumbnail = absolute_url(img_elem["src"], "https://bfl.ai") if img_elem and img_elem.get("src") else None
+
         articles.append(
             {
                 "title": title,
                 "link": link,
                 "date": date,
                 "description": description,
+                "thumbnail": thumbnail,
             }
         )
 
@@ -107,6 +114,7 @@ def parse_articles(html: str) -> list[dict]:
 
 def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
     fg = FeedGenerator()
+    fg.load_extension("media")
     fg.title("Black Forest Labs Blog")
     fg.description("News, research, and product updates from Black Forest Labs")
     fg.language("en")
@@ -122,6 +130,9 @@ def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
         fe.id(article["link"])
         if article.get("date"):
             fe.published(article["date"])
+        if article.get("thumbnail"):
+            fe.media.content([{"url": article["thumbnail"], "medium": "image"}])
+            fe.media.thumbnail([{"url": article["thumbnail"]}])
 
     logger.info(f"Generated RSS feed with {len(articles)} entries")
     return fg

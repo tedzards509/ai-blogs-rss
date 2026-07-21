@@ -153,6 +153,37 @@ Reuse these instead of reimplementing per-script — see the file for full docst
 
 Some scripts still parse dates by scanning several candidate elements/selectors until one succeeds (e.g. `anthropic_news_blog.extract_date`, `meta_ai_blog.parse_date`) rather than calling `utils.parse_date` directly — `utils.parse_date` always returns a value (falling back on failure), which isn't the right fit for "keep trying selectors until one is a real date." Use `dateutil.parser.parse` inline with a narrow `except (ValueError, TypeError, OverflowError): continue` for that shape instead, and only call `utils.parse_date` at the final call site where a fallback is the natural default (see `mistral_blog.py`'s footer-date lookup for an example of this being safe to call directly).
 
+### Adding Thumbnails (Media RSS)
+
+When a source page/API exposes a cover image per post, emit it as Media RSS (`media:thumbnail` and `media:content`) so feed readers can show it. See `feed_generators/qwen_blog.py`, `bfl_blog.py`, `kimi_blog.py`, `minimax_blog.py`, `mistral_blog.py`, `meta_ai_blog.py`, `xainews_blog.py`, and `deeplearningai_the_batch.py` for working examples.
+
+1. **Load the extension once, at the feed level** (entries inherit it automatically):
+
+   ```python
+   fg = FeedGenerator()
+   fg.load_extension("media")
+   ```
+
+   Do **not** also call `fe.load_extension("media")` on an entry -- it's already inherited from `fg`, and calling it again raises `ImportError: Extension already loaded`.
+
+2. **Extract an image URL per post** alongside the other fields (`title`, `link`, `date`, ...), and resolve it to an absolute URL with `absolute_url()` if it's relative. Cards commonly hide the real image behind a lazy-loading placeholder:
+   - A plain `<img src="...">` in the card/article container -- the common case (`bfl_blog.py`, `kimi_blog.py`, `mistral_blog.py`).
+   - The image sits on a shared parent, not the anchor/card itself -- walk up to `find_parent(...)` or search the parent before falling back (`minimax_blog.py`).
+   - Next.js `<Image loading="lazy">` puts a base64 placeholder in the visible `<img src>` and the real image only in a `<noscript><img src="/_next/image?url=<encoded>&...">` fallback -- parse the `url` query param out of that proxy URL (`deeplearningai_the_batch.py`'s `extract_thumbnail()`).
+   - For Selenium-rendered pages, some cards only inject their `<img>` via an IntersectionObserver once scrolled into view, so the initial `driver.page_source` won't have it for every card -- that's a genuine site limitation, not a bug; just emit the tag when present (see `xainews_blog.py`).
+
+   Store it as `article["thumbnail"]` (or `None` if not found -- always treat this as optional, "if available").
+
+3. **Emit both elements per entry**, only when a thumbnail was found:
+
+   ```python
+   if article.get("thumbnail"):
+       fe.media.content([{"url": article["thumbnail"], "medium": "image"}])
+       fe.media.thumbnail([{"url": article["thumbnail"]}])
+   ```
+
+   Both render inside a shared `<media:group>`; `media:content` is what most readers use to display the image above the post body, `media:thumbnail` is the smaller preview variant. Emitting the same URL for both is fine.
+
 ### Feed Link Setup (Important)
 
 The main `<link>` element must point to the original blog, not the feed URL. Use `setup_feed_links(fg, blog_url, feed_name)` from `utils.py`.

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>MiniMax Blog</title>
     <link>https://www.minimax.io/blog</link>
@@ -8,13 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 12:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:09:45 +0000</lastBuildDate>
     <item>
       <title>MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Evolutionary Search</title>
       <link>https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</link>
       <description>In the M3 release post, we reported the performance of the M3 model on two international mathematical olympiad benchmarks: IMO 2025 and USAMO 2026. With the MaxProof framework, M3 exceeded the human gold-medal threshold on both. This article further elaborates on our technical path toward advancing mathematical proof capabilities, including base model enhancement, verifier alignment, refinement capability building, and the design of the test-time scaling framework MaxProof.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fmaxproof-cover-1781185313899-1781185423262.png&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fmaxproof-cover-1781185313899-1781185423262.png&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
     <item>
       <title>MiniMax M3: Frontier Coding, 1M Context, Native Multimodality — All in One Model</title>
@@ -22,6 +26,10 @@
       <description>M3 reaches frontier capability on coding and agentic tasks, introduces the brand-new MSA (MiniMax Sparse Attention) supporting up to 1M context, and is a natively multimodal model. It is the only domestic model combining all three Frontier essentials and will be the only open-source one in this class.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m3</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F11649e5b-3f76-477e-a73d-2abc4882211c.png&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F11649e5b-3f76-477e-a73d-2abc4882211c.png&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
     <item>
       <title>MiniMax Agent Team: Built for Long-Running Tasks and Continuous Evolution</title>
@@ -29,6 +37,10 @@
       <description>Today we are introducing the overall upgrade of MiniMax Agent. We have given the upgraded Agent a new name: Mavis — MiniMax as a Jarvis, your AI butler.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-agent-team-long-running-1779893953</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fagent-team-hero-1779893281286.jpeg&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fagent-team-hero-1779893281286.jpeg&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
     <item>
       <title>Why Can't the MiniMax LLM Say "Ma Jiaqi"? Internal Investigation of Sparse Token Forgetting</title>
@@ -36,6 +48,10 @@
       <description>The MiniMax M2 series has attracted widespread attention from the developer community. This article presents our internal investigation into the sparse token forgetting phenomenon.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/sparse-token-forgetting</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fsparse-token-forgetting-community-discussion-1779698066579.jpg&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fsparse-token-forgetting-community-discussion-1779698066579.jpg&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
     <item>
       <title>MiniMax M2.7: Early Echoes of Self-Evolution</title>
@@ -43,6 +59,10 @@
       <description>M2.7 is MiniMax's first model deeply participating in its own evolution, excelling at software engineering, professional work, and entertainment with native Agent Teams and self-evolving capabilities.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m27</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F86637d58-0e78-44f5-bb08-d149ed0c4418.png&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F86637d58-0e78-44f5-bb08-d149ed0c4418.png&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
     <item>
       <title>Forge: Scalable Agent RL Framework and Algorithm</title>
@@ -50,6 +70,10 @@
       <description>Scaling reinforcement learning for real-world agents runs into a three-way conflict: system throughput, training stability, and agent flexibility all pull in different directions, and that tension has</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/forge-scalable-agent-rl-en-1779896141</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fforge-hero-1779895280980.jpeg&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fforge-hero-1779895280980.jpeg&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
     <item>
       <title>MiniMax M2.5: Built for Real-World Productivity.</title>
@@ -57,6 +81,10 @@
       <description>MiniMax M2.5: Built for Real-World Productivity.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m25</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F97f76950-2c60-4a9b-bb96-228454afabe9.png&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F97f76950-2c60-4a9b-bb96-228454afabe9.png&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
     <item>
       <title>A Deep Dive into the MiniMax-M2-her</title>
@@ -64,6 +92,10 @@
       <description>Worlds to Dream, Stories to Live. How we built a Role-Play Agent for the production usage. This year marks our third year optimizing Role-Play in Talkie / Xingye. Three years is long enough for a pro</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m2-her</guid>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F4389b755-cb3c-4e72-853b-d6be303853b2.png&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F4389b755-cb3c-4e72-853b-d6be303853b2.png&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
     <item>
       <title>MiniMax M2.1: Significantly Enhanced Multi-Language Programming, Built for Real-World Complex Tasks</title>
@@ -71,6 +103,10 @@
       <description>MiniMax M2.1 delivers industry-leading multi-language programming capabilities across Rust, Java, Go, C++, TypeScript and more, with enhanced mobile development, aesthetic web design, concise responses, and robust Agent framework generalization.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m21</guid>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F1d46c2a2-6c36-4739-b820-cee832d1ecf9.png&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F1d46c2a2-6c36-4739-b820-cee832d1ecf9.png&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
     <item>
       <title>MiniMax M2 &amp; Agent: Ingenious in Simplicity</title>
@@ -78,6 +114,10 @@
       <description>MiniMax launches and open-sources M2, an agent-first model delivering top-tier coding, tool use, and deep search at 8% of Claude Sonnet's price with 2x speed. Free API and Agent product available.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m2-en-1748600000</guid>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F92084bb1-5fb4-44d9-bab1-ce7f2de81a62.png&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F92084bb1-5fb4-44d9-bab1-ce7f2de81a62.png&amp;w=828&amp;q=75"/>
+      </media:group>
     </item>
   </channel>
 </rss>

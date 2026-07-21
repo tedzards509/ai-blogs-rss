@@ -62,12 +62,18 @@ def parse_articles(html: str) -> list[dict]:
 
         description = desc_elem.get_text(" ", strip=True)[:500] or title
 
+        img_elem = anchor.find("img")
+        thumbnail = (
+            absolute_url(img_elem["src"], "https://www.minimax.io") if img_elem and img_elem.get("src") else None
+        )
+
         articles.append(
             {
                 "title": title,
                 "link": link,
                 "date": date,
                 "description": description,
+                "thumbnail": thumbnail,
             }
         )
 
@@ -77,6 +83,7 @@ def parse_articles(html: str) -> list[dict]:
 
 def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
     fg = FeedGenerator()
+    fg.load_extension("media")
     fg.title("MiniMax Blog")
     fg.description("Latest news and research from MiniMax")
     fg.language("en")
@@ -92,6 +99,9 @@ def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
         fe.id(article["link"])
         if article.get("date"):
             fe.published(article["date"])
+        if article.get("thumbnail"):
+            fe.media.content([{"url": article["thumbnail"], "medium": "image"}])
+            fe.media.thumbnail([{"url": article["thumbnail"]}])
 
     logger.info(f"Generated RSS feed with {len(articles)} entries")
     return fg
