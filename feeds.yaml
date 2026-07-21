@@ -65,6 +65,11 @@ feeds:
     type: requests
     blog_url: https://openai.com/news
 
+  qwen:
+    script: qwen_blog.py
+    type: requests
+    blog_url: https://qwen.ai/research/
+
   the_batch:
     script: deeplearningai_the_batch.py
     type: requests

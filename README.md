@@ -21,6 +21,7 @@ All feeds below, bundled as an OPML file for one-click import into an RSS reader
 | minimax | [https://www.minimax.io/blog](https://www.minimax.io/blog) | [feed_minimax.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_minimax.xml) |
 | mistral | [https://mistral.ai/news](https://mistral.ai/news) | [feed_mistral.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_mistral.xml) |
 | openai news product | [https://openai.com/news](https://openai.com/news) | [feed_openai_news_product.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_openai_news_product.xml) |
+| qwen | [https://qwen.ai/research/](https://qwen.ai/research/) | [feed_qwen.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_qwen.xml) |
 | the batch | [https://www.deeplearning.ai/the-batch/](https://www.deeplearning.ai/the-batch/) | [feed_the_batch.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_the_batch.xml) |
 | xainews | [https://x.ai/news](https://x.ai/news) | [feed_xainews.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_xainews.xml) |
 | zai release notes | [https://docs.z.ai/release-notes/new-released](https://docs.z.ai/release-notes/new-released) | [feed_zai_release_notes.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_zai_release_notes.xml) |
