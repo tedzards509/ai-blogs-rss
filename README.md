@@ -13,6 +13,7 @@ All feeds below, bundled as an OPML file for one-click import into an RSS reader
 | --- | --- | --- |
 | anthropic news | [https://www.anthropic.com/news](https://www.anthropic.com/news) | [feed_anthropic_news.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_anthropic_news.xml) |
 | anthropic news product | [https://www.anthropic.com/news](https://www.anthropic.com/news) | [feed_anthropic_news_product.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_anthropic_news_product.xml) |
+| artificialanalysis | [https://artificialanalysis.ai/articles](https://artificialanalysis.ai/articles) | [feed_artificialanalysis.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_artificialanalysis.xml) |
 | bfl | [https://bfl.ai/blog](https://bfl.ai/blog) | [feed_bfl.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_bfl.xml) |
 | cohere | [https://cohere.com/blog](https://cohere.com/blog) | [feed_cohere.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_cohere.xml) |
 | deepseek updates | [https://api-docs.deepseek.com/updates](https://api-docs.deepseek.com/updates) | [feed_deepseek_updates.xml](https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/refs/heads/main/feeds/feed_deepseek_updates.xml) |

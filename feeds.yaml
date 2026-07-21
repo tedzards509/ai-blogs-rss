@@ -25,6 +25,11 @@ feeds:
     type: selenium
     blog_url: https://www.anthropic.com/news
 
+  artificialanalysis:
+    script: artificialanalysis_blog.py
+    type: requests
+    blog_url: https://artificialanalysis.ai/articles
+
   bfl:
     script: bfl_blog.py
     type: requests

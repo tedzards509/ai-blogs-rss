@@ -1,0 +1,849 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Articles | Artificial Analysis</title>
+    <link>https://artificialanalysis.ai/articles</link>
+    <description>Independent AI model benchmarks and analysis from Artificial Analysis.</description>
+    <atom:link href="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/main/feeds/feed_artificialanalysis.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Jul 2026 14:14:13 +0000</lastBuildDate>
+    <item>
+      <title>Kimi K3 achieves #3 in the Artificial Analysis Intelligence Index, comparable to Opus 4.8 and GPT-5.5</title>
+      <link>https://artificialanalysis.ai/articles/kimi-k3-achieves-3-in-the-artificial-analysis-intelligence-index-comparable-to-opus-4-8-and-gpt-5-5</link>
+      <description>Kimi K3 achieves #3 in the Artificial Analysis Intelligence Index, comparable to Opus 4.8 and GPT-5.5</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-achieves-3-in-the-artificial-analysis-intelligence-index-comparable-to-opus-4-8-and-gpt-5-5</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/bda57050cbd813a667f735cfee6164aa46950d1b-1024x1024.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/bda57050cbd813a667f735cfee6164aa46950d1b-1024x1024.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Four frontier launches in eight days: six labs now field a model above 50 on the Artificial Analysis Intelligence Index</title>
+      <link>https://artificialanalysis.ai/articles/four-frontier-launches-in-eight-days-six-labs-now-field-a-model-above-50-on-the-artificial-analysis-intelligence-index</link>
+      <description>Four frontier launches in eight days: six labs now field a model above 50 on the Artificial Analysis Intelligence Index</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/four-frontier-launches-in-eight-days-six-labs-now-field-a-model-above-50-on-the-artificial-analysis-intelligence-index</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/283cbb80e8532a231710555198d54cd603da7f64-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/283cbb80e8532a231710555198d54cd603da7f64-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Thinking Machines has released Inkling, the new leading U.S. open weights model</title>
+      <link>https://artificialanalysis.ai/articles/thinking-machines-has-released-inkling-the-new-leading-u-s-open-weights-model</link>
+      <description>Thinking Machines has released Inkling, the new leading U.S. open weights model</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/thinking-machines-has-released-inkling-the-new-leading-u-s-open-weights-model</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/3174596a85fde5fa5cfce4c186e2168a0d50ce55-3840x2160.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/3174596a85fde5fa5cfce4c186e2168a0d50ce55-3840x2160.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How GPT-5.6 Sol, Terra, Luna compare on intelligence vs cost</title>
+      <link>https://artificialanalysis.ai/articles/gpt-5-6-intelligence-vs-cost-across-sol-terra-luna</link>
+      <description>How GPT-5.6 Sol, Terra, Luna compare on intelligence vs cost</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gpt-5-6-intelligence-vs-cost-across-sol-terra-luna</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/cfb81542a4d37f8646eb5af6854abf2321c4e34a-1024x1024.avif?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/cfb81542a4d37f8646eb5af6854abf2321c4e34a-1024x1024.avif?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Muse Spark 1.1: Meta gains 8 Intelligence Index points in three months</title>
+      <link>https://artificialanalysis.ai/articles/muse-spark-1-1-everything-you-need-to-know</link>
+      <description>Muse Spark 1.1: Meta gains 8 Intelligence Index points in three months</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/muse-spark-1-1-everything-you-need-to-know</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/65a49a83548c5e0e9cf444669949c10451f8a052-696x650.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/65a49a83548c5e0e9cf444669949c10451f8a052-696x650.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>GPT-5.6 benchmarks across Intelligence, Speed and Cost</title>
+      <link>https://artificialanalysis.ai/articles/gpt-5-6-has-landed</link>
+      <description>GPT-5.6 benchmarks across Intelligence, Speed and Cost</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gpt-5-6-has-landed</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/efd73f0ba7d3717cb7eb3d7d0c24ffec11cb8b09-1024x1024.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/efd73f0ba7d3717cb7eb3d7d0c24ffec11cb8b09-1024x1024.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Grok 4.5 brings SpaceXAI to the intelligence frontier</title>
+      <link>https://artificialanalysis.ai/articles/grok-4-5-brings-spacexai-to-the-the-intelligence-frontier</link>
+      <description>Grok 4.5 brings SpaceXAI to the intelligence frontier</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/grok-4-5-brings-spacexai-to-the-the-intelligence-frontier</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/a17185f728c7c1f29fa9c6c9bacf8d07fe559fc0-680x680.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/a17185f728c7c1f29fa9c6c9bacf8d07fe559fc0-680x680.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Announcing EnterpriseOps-Gym-AA</title>
+      <link>https://artificialanalysis.ai/articles/announcing-enterpriseops-gym-aa</link>
+      <description>Announcing EnterpriseOps-Gym-AA</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/announcing-enterpriseops-gym-aa</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/dfb27f3fbf2deab6573f4dd0197da52283fda5f3-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/dfb27f3fbf2deab6573f4dd0197da52283fda5f3-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Announcing Harvey LAB-AA: evaluating AI agents on real-world legal work</title>
+      <link>https://artificialanalysis.ai/articles/harvey-lab-aa</link>
+      <description>Announcing Harvey LAB-AA: evaluating AI agents on real-world legal work</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/harvey-lab-aa</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://artificialanalysiscdn.com/article-assets/2026/harvey-lab-aa.jpg" medium="image"/>
+        <media:thumbnail url="https://artificialanalysiscdn.com/article-assets/2026/harvey-lab-aa.jpg"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Announcing AutomationBench-AA</title>
+      <link>https://artificialanalysis.ai/articles/announcing-zapier-automationbench-aa</link>
+      <description>Announcing AutomationBench-AA</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/announcing-zapier-automationbench-aa</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/bd739e390615656f5cf8876cf2bbab557d4f5f36-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/bd739e390615656f5cf8876cf2bbab557d4f5f36-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claude Sonnet 5: strong agentic performance at a higher cost per task</title>
+      <link>https://artificialanalysis.ai/articles/claude-sonnet-5-agentic-cost</link>
+      <description>Claude Sonnet 5: strong agentic performance at a higher cost per task</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/claude-sonnet-5-agentic-cost</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/8901df4af8ab643f10928c1789f124e808651bf6-2880x1620.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/8901df4af8ab643f10928c1789f124e808651bf6-2880x1620.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Measuring time per task in AA-Briefcase</title>
+      <link>https://artificialanalysis.ai/articles/aa-briefcase-time-per-task</link>
+      <description>Measuring time per task in AA-Briefcase</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/aa-briefcase-time-per-task</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/1dbbfe1cf5ef15adcdb608ca92fdc51d9f173614-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/1dbbfe1cf5ef15adcdb608ca92fdc51d9f173614-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Announcing the Artificial Analysis Speech to Speech Index</title>
+      <link>https://artificialanalysis.ai/articles/announcing-the-artificial-analysis-speech-to-speech-index</link>
+      <description>Announcing the Artificial Analysis Speech to Speech Index</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/announcing-the-artificial-analysis-speech-to-speech-index</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/7de2cbcc470e5d2d4d324d5524bc27a18ae779c7-1024x1024.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/7de2cbcc470e5d2d4d324d5524bc27a18ae779c7-1024x1024.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Announcing AA-Briefcase: a frontier knowledge work evaluation</title>
+      <link>https://artificialanalysis.ai/articles/aa-briefcase</link>
+      <description>Announcing AA-Briefcase: a frontier knowledge work evaluation</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/aa-briefcase</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://artificialanalysiscdn.com/article-assets/2026/aa-briefcase.jpg" medium="image"/>
+        <media:thumbnail url="https://artificialanalysiscdn.com/article-assets/2026/aa-briefcase.jpg"/>
+      </media:group>
+    </item>
+    <item>
+      <title>GLM-5.2 is the new leading open weights model on the Artificial Analysis Intelligence Index</title>
+      <link>https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index</link>
+      <description>GLM-5.2 is the new leading open weights model on the Artificial Analysis Intelligence Index</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/204f6bd201e215286fd69d162a84dfdf4a24d197-768x768.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/204f6bd201e215286fd69d162a84dfdf4a24d197-768x768.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Artificial Analysis Intelligence Index v4.1: a shift toward agentic workloads</title>
+      <link>https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-1</link>
+      <description>Artificial Analysis Intelligence Index v4.1: a shift toward agentic workloads</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-1</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/aa70344d1689379a947bb71ed91795b979059794-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/aa70344d1689379a947bb71ed91795b979059794-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>First results from AA-AgentPerf: the hardware benchmark for the agent era</title>
+      <link>https://artificialanalysis.ai/articles/aa-agentperf</link>
+      <description>First results from AA-AgentPerf: the hardware benchmark for the agent era</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/aa-agentperf</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://artificialanalysiscdn.com/article-assets/2026/aa-agentperf-og.png" medium="image"/>
+        <media:thumbnail url="https://artificialanalysiscdn.com/article-assets/2026/aa-agentperf-og.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Benchmarking guardrail models for safety, refusal, and latency</title>
+      <link>https://artificialanalysis.ai/articles/guardrail-safety-benchmark</link>
+      <description>Benchmarking guardrail models for safety, refusal, and latency</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/guardrail-safety-benchmark</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://artificialanalysiscdn.com/article-assets/2026/guardrail-safety-benchmark.jpg" medium="image"/>
+        <media:thumbnail url="https://artificialanalysiscdn.com/article-assets/2026/guardrail-safety-benchmark.jpg"/>
+      </media:group>
+    </item>
+    <item>
+      <title>North Mini Code: Cohere's small coding-focused MoE model</title>
+      <link>https://artificialanalysis.ai/articles/north-mini-code-cohere-s-small-coding-focused-moe-model</link>
+      <description>North Mini Code: Cohere's small coding-focused MoE model</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/north-mini-code-cohere-s-small-coding-focused-moe-model</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/16bcc1e3299479f336bd7c1536aeb3c8a84d0558-3360x1890.avif?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/16bcc1e3299479f336bd7c1536aeb3c8a84d0558-3360x1890.avif?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claude Fable 5: the first public Mythos-class model</title>
+      <link>https://artificialanalysis.ai/articles/claude-fable-5-mythos</link>
+      <description>Claude Fable 5: the first public Mythos-class model</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/claude-fable-5-mythos</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/7802afd75b302cd3b08a7ceccbb6cce4e1a4bf5a-1448x1359.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/7802afd75b302cd3b08a7ceccbb6cce4e1a4bf5a-1448x1359.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claude Fable 5 Launches at #1 on the Artificial Analysis Intelligence Index</title>
+      <link>https://artificialanalysis.ai/articles/claude-fable-5-mythos-intelligence-index</link>
+      <description>Claude Fable 5 Launches at #1 on the Artificial Analysis Intelligence Index</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/claude-fable-5-mythos-intelligence-index</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/71d9e80a888deda4ad197e7e551dfda51bb8af63-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/71d9e80a888deda4ad197e7e551dfda51bb8af63-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MiniMax-M3: Leading open weights model, once the weights are released</title>
+      <link>https://artificialanalysis.ai/articles/minimax-m3</link>
+      <description>MiniMax-M3: Leading open weights model, once the weights are released</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/minimax-m3</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/195378d36bf1e52cf1e833ba7d7bc954ab57f62a-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/195378d36bf1e52cf1e833ba7d7bc954ab57f62a-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3 Ultra released: fast, intelligent, and open</title>
+      <link>https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-released</link>
+      <description>NVIDIA Nemotron 3 Ultra released: fast, intelligent, and open</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-released</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/199085b05f800f7935f531af3b2f1acf5dd04ea6-1300x1210.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/199085b05f800f7935f531af3b2f1acf5dd04ea6-1300x1210.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fun-Realtime-TTS: New Text to Speech model topping Artificial Analysis leaderboard</title>
+      <link>https://artificialanalysis.ai/articles/fun-realtime-tts-new-text-to-speech-model-topping-artificial-analysis-leaderboard</link>
+      <description>Fun-Realtime-TTS: New Text to Speech model topping Artificial Analysis leaderboard</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/fun-realtime-tts-new-text-to-speech-model-topping-artificial-analysis-leaderboard</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/dfc1aac7bad4ef55b5ab5b4f83a175bc0d29d0b8-1200x1200.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/dfc1aac7bad4ef55b5ab5b4f83a175bc0d29d0b8-1200x1200.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MAI-Transcribe-1.5: New Speech to Text model leading the accuracy-speed Pareto frontier</title>
+      <link>https://artificialanalysis.ai/articles/mai-transcribe-1-5-new-speech-to-text-model-leading-the-accuracy-speed-pareto-frontier</link>
+      <description>MAI-Transcribe-1.5: New Speech to Text model leading the accuracy-speed Pareto frontier</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/mai-transcribe-1-5-new-speech-to-text-model-leading-the-accuracy-speed-pareto-frontier</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/9013ca92aebc46c46321849b35f110916eb7afae-1024x1024.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/9013ca92aebc46c46321849b35f110916eb7afae-1024x1024.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>AA-WER Streaming: New Speech to Text Streaming Benchmark</title>
+      <link>https://artificialanalysis.ai/articles/new-streaming-speech-to-text-benchmark-aa-wer-streaming</link>
+      <description>AA-WER Streaming: New Speech to Text Streaming Benchmark</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/new-streaming-speech-to-text-benchmark-aa-wer-streaming</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/f93b612e33c0de28ae230f20eace70b5d2bdb594-1024x1024.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/f93b612e33c0de28ae230f20eace70b5d2bdb594-1024x1024.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Nemotron 3 Ultra announced: high-speed, leading US open weights intelligence</title>
+      <link>https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-launch-announced</link>
+      <description>Nemotron 3 Ultra announced: high-speed, leading US open weights intelligence</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-launch-announced</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/f0578202e4a9ed113c4ce32a1c320584c5fa034d-1303x1207.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/f0578202e4a9ed113c4ce32a1c320584c5fa034d-1303x1207.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claude Opus 4.8 - The new #1 AI model</title>
+      <link>https://artificialanalysis.ai/articles/claude-opus-4-8-analysis-and-benchmarks</link>
+      <description>Claude Opus 4.8 - The new #1 AI model</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/claude-opus-4-8-analysis-and-benchmarks</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/d8c5d41d4da51228d6c4eea89311d66d58326a9c-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/d8c5d41d4da51228d6c4eea89311d66d58326a9c-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>ITBench-AA: Agentic benchmark to test models on real-world SRE tasks</title>
+      <link>https://artificialanalysis.ai/articles/itbench-aa-launch</link>
+      <description>ITBench-AA: Agentic benchmark to test models on real-world SRE tasks</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/itbench-aa-launch</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/ecdd8b3e8c88f791517e3cb4420f0f15a10507e5-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/ecdd8b3e8c88f791517e3cb4420f0f15a10507e5-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MiniCPM5-1B: The leading 1B open weights model</title>
+      <link>https://artificialanalysis.ai/articles/minicpm5-1b-the-leading-1b-open-weights-model</link>
+      <description>MiniCPM5-1B: The leading 1B open weights model</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/minicpm5-1b-the-leading-1b-open-weights-model</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/53e99debdad99d71a7352037c6776e7c7b59282a-1024x1024.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/53e99debdad99d71a7352037c6776e7c7b59282a-1024x1024.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere launches open weights model Command A+, more than a year since the Command A release</title>
+      <link>https://artificialanalysis.ai/articles/cohere-launches-open-weights-model-command-a-more-than-a-year-since-the-command-a-release</link>
+      <description>Cohere launches open weights model Command A+, more than a year since the Command A release</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/cohere-launches-open-weights-model-command-a-more-than-a-year-since-the-command-a-release</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/94d6e2545222843153c9a07f69068e539a54f109-1200x630.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/94d6e2545222843153c9a07f69068e539a54f109-1200x630.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cursor’s Composer 2.5: third on the Coding Agent Index and ~10-60x lower cost than rivals</title>
+      <link>https://artificialanalysis.ai/articles/cursor-composer-2-5-coding-agent-index</link>
+      <description>Cursor’s Composer 2.5: third on the Coding Agent Index and ~10-60x lower cost than rivals</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/cursor-composer-2-5-coding-agent-index</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/fb55565eef864c9edb0cb80af004e0375ecc0801-1536x1536.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/fb55565eef864c9edb0cb80af004e0375ecc0801-1536x1536.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Gemini 3.5 Flash: The new leader in intelligence versus speed</title>
+      <link>https://artificialanalysis.ai/articles/gemini-3-5-flash-everything-you-need-to-know</link>
+      <description>Gemini 3.5 Flash: The new leader in intelligence versus speed</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gemini-3-5-flash-everything-you-need-to-know</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/a5147ed782f568ccbb30e28b39a9685fe3e8fc5f-680x680.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/a5147ed782f568ccbb30e28b39a9685fe3e8fc5f-680x680.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>OpenBMB launches MiniCPM-V 4.6 1.3B Instruct</title>
+      <link>https://artificialanalysis.ai/articles/openbmb-launches-minicpm-v-4-6-1-3b-instruct</link>
+      <description>OpenBMB launches MiniCPM-V 4.6 1.3B Instruct</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/openbmb-launches-minicpm-v-4-6-1-3b-instruct</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/7bbdabd63f5cd30d077ff2e5910968447e4882c3-190x190.svg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/7bbdabd63f5cd30d077ff2e5910968447e4882c3-190x190.svg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>xAI launches Grok 4.3 with improved agentic performance and lower pricing</title>
+      <link>https://artificialanalysis.ai/articles/xai-launches-grok-4-3-with-improved-agentic-performance-and-lower-pricing</link>
+      <description>xAI launches Grok 4.3 with improved agentic performance and lower pricing</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/xai-launches-grok-4-3-with-improved-agentic-performance-and-lower-pricing</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/9ba27dae181116e1a54c87f1d334605c65c522cd-450x450.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/9ba27dae181116e1a54c87f1d334605c65c522cd-450x450.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Recent open weights model launches</title>
+      <link>https://artificialanalysis.ai/articles/recent-open-weights-model-launches</link>
+      <description>Recent open weights model launches</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/recent-open-weights-model-launches</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/a6b77553494e557bd2381b15d3c0cd06bec19389-1024x1024.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/a6b77553494e557bd2381b15d3c0cd06bec19389-1024x1024.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DeepSeek is back among the leading open weights models with V4 Pro and V4 Flash</title>
+      <link>https://artificialanalysis.ai/articles/deepseek-is-back-among-the-leading-open-weights-models-with-v4-pro-and-v4-flash</link>
+      <description>DeepSeek is back among the leading open weights models with V4 Pro and V4 Flash</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/deepseek-is-back-among-the-leading-open-weights-models-with-v4-pro-and-v4-flash</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/aadc4fa5504c006df460651facc31b795af3e501-1376x1376.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/aadc4fa5504c006df460651facc31b795af3e501-1376x1376.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>OpenAI's GPT-5.5 is the new leading AI model</title>
+      <link>https://artificialanalysis.ai/articles/openai-gpt5-5-is-the-new-leading-AI-model</link>
+      <description>OpenAI's GPT-5.5 is the new leading AI model</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/openai-gpt5-5-is-the-new-leading-AI-model</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/606ad7d19ef51ffd764b6283ee2349cfcae902ab-1600x900.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/606ad7d19ef51ffd764b6283ee2349cfcae902ab-1600x900.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Kimi K2.6: The new leading open weights model</title>
+      <link>https://artificialanalysis.ai/articles/kimi-k2-6-the-new-leading-open-weights-model</link>
+      <description>Kimi K2.6: The new leading open weights model</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k2-6-the-new-leading-open-weights-model</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/a6f78acdd98559ee315f95e21e6accaec46d145f-1374x1374.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/a6f78acdd98559ee315f95e21e6accaec46d145f-1374x1374.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Opus 4.7: Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/opus-4-7-everything-you-need-to-know</link>
+      <description>Opus 4.7: Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/opus-4-7-everything-you-need-to-know</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/de196f0017aaa468a73a50ef88b483de16679e6a-1080x1080.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/de196f0017aaa468a73a50ef88b483de16679e6a-1080x1080.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Sub-32B Open Weights</title>
+      <link>https://artificialanalysis.ai/articles/sub-32b-open-weights</link>
+      <description>Sub-32B Open Weights</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/sub-32b-open-weights</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/df799bb2018bb418ff2666a64710b39687e06bfc-1024x1024.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/df799bb2018bb418ff2666a64710b39687e06bfc-1024x1024.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A new look for Artificial Analysis</title>
+      <link>https://artificialanalysis.ai/articles/a-new-look-for-artificial-analysis</link>
+      <description>A new look for Artificial Analysis</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/a-new-look-for-artificial-analysis</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/c4a3363cfc47b7cfdc4fe780243d963c4e51e000-700x700.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/c4a3363cfc47b7cfdc4fe780243d963c4e51e000-700x700.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Muse Spark: Meta is back in the AI race</title>
+      <link>https://artificialanalysis.ai/articles/muse-spark-everything-you-need-to-know</link>
+      <description>Muse Spark: Meta is back in the AI race</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/muse-spark-everything-you-need-to-know</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/5009f295e67e752615b7f5405979e5f36608e071-1080x1080.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/5009f295e67e752615b7f5405979e5f36608e071-1080x1080.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Gemma 4: Google on the American open weights frontier</title>
+      <link>https://artificialanalysis.ai/articles/gemma-4-everything-you-need-to-know</link>
+      <description>Gemma 4: Google on the American open weights frontier</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gemma-4-everything-you-need-to-know</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/0cb55ec69b0af3ce002f2e797e63d260c5d93a10-887x887.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/0cb55ec69b0af3ce002f2e797e63d260c5d93a10-887x887.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MAI-Transcribe-1: Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/mai-transcribe-1-everything-you-need-to-know</link>
+      <description>MAI-Transcribe-1: Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/mai-transcribe-1-everything-you-need-to-know</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/c2d4f89551c73fc0fd7613bee2f66129ef9cb0c2-2048x2048.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/c2d4f89551c73fc0fd7613bee2f66129ef9cb0c2-2048x2048.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Sarvam 105B and Sarvam 30B: India enters the open-weights race</title>
+      <link>https://artificialanalysis.ai/articles/sarvam-105b-Sarvam-30b-everything-you-need-to-know</link>
+      <description>Sarvam 105B and Sarvam 30B: India enters the open-weights race</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/sarvam-105b-Sarvam-30b-everything-you-need-to-know</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/562d672d05fac5aa2c003036072f917d3947bf9d-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/562d672d05fac5aa2c003036072f917d3947bf9d-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MiniMax M2.7: Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/minimax-m2-7-everything-you-need-to-know</link>
+      <description>MiniMax M2.7: Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/minimax-m2-7-everything-you-need-to-know</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/75935e59948249b31850461b995e69a5b697108c-618x618.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/75935e59948249b31850461b995e69a5b697108c-618x618.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MiMo-V2-Pro: Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/mimo-v2-pro-everything-you-need-to-know</link>
+      <description>MiMo-V2-Pro: Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/mimo-v2-pro-everything-you-need-to-know</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/ead9d00c727da4ad5680272dcf812f4f0a1f7beb-600x600.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/ead9d00c727da4ad5680272dcf812f4f0a1f7beb-600x600.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3 VoiceChat: Leading the Open Weights Frontier of Conversational Dynamics vs. Speech Reasoning</title>
+      <link>https://artificialanalysis.ai/articles/nemotron-3-voicechat-leader-speech-pareto</link>
+      <description>NVIDIA Nemotron 3 VoiceChat: Leading the Open Weights Frontier of Conversational Dynamics vs. Speech Reasoning</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/nemotron-3-voicechat-leader-speech-pareto</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/f5d4ffb695940d80955119478e341fe06f1d87fe-2048x2560.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/f5d4ffb695940d80955119478e341fe06f1d87fe-2048x2560.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3 Super: The new leader in open, efficient intelligence</title>
+      <link>https://artificialanalysis.ai/articles/nvidia-nemotron-3-super-the-new-leader-in-open-efficient-intelligence</link>
+      <description>NVIDIA Nemotron 3 Super: The new leader in open, efficient intelligence</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/nvidia-nemotron-3-super-the-new-leader-in-open-efficient-intelligence</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/52c9df0481d62ef91979dbb357a392ea5659be5c-1130x1047.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/52c9df0481d62ef91979dbb357a392ea5659be5c-1130x1047.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Qwen3.5 small models: Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/qwen3-5-small-models</link>
+      <description>Qwen3.5 small models: Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/qwen3-5-small-models</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/a2ed192984499713100714f7168ddc57bbfcc053-1024x1024.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/a2ed192984499713100714f7168ddc57bbfcc053-1024x1024.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Gemini 3.1 Pro Preview: The new leader in AI</title>
+      <link>https://artificialanalysis.ai/articles/gemini-3-1-pro-preview-new-leader-in-ai</link>
+      <description>Gemini 3.1 Pro Preview: The new leader in AI</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gemini-3-1-pro-preview-new-leader-in-ai</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/20c244d5fdf2ef3e718f39b8e4908fa484ebf1be-1182x1182.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/20c244d5fdf2ef3e718f39b8e4908fa484ebf1be-1182x1182.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Sonnet 4.6 - Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/sonnet-4-6-everything-you-need-to-know</link>
+      <description>Sonnet 4.6 - Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/sonnet-4-6-everything-you-need-to-know</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/0a5e9966e82067d6e1a900613cd385e3f213eaa5-1306x1306.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/0a5e9966e82067d6e1a900613cd385e3f213eaa5-1306x1306.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Qwen3.5-397B-A17B - Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/qwen3-5-397b-a17b-everything-you-need-to-know</link>
+      <description>Qwen3.5-397B-A17B - Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/qwen3-5-397b-a17b-everything-you-need-to-know</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/7dab7c5a70d8da6df41074364d396c6ce7f2b2f8-1093x1093.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/7dab7c5a70d8da6df41074364d396c6ce7f2b2f8-1093x1093.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claude Sonnet 4.6 - New leader in GDPval-AA</title>
+      <link>https://artificialanalysis.ai/articles/claude-sonnet-4-6-gdpval</link>
+      <description>Claude Sonnet 4.6 - New leader in GDPval-AA</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/claude-sonnet-4-6-gdpval</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/8be83bcd9ec10ac0d8c8a2c57528f73968d215e5-1000x1000.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/8be83bcd9ec10ac0d8c8a2c57528f73968d215e5-1000x1000.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>AA-WER v2.0: Speech to Text Accuracy Benchmark</title>
+      <link>https://artificialanalysis.ai/articles/aa-wer-v2</link>
+      <description>AA-WER v2.0: Speech to Text Accuracy Benchmark</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/aa-wer-v2</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/fdea40debe9220e9e964351c55384aa263c3d502-923x923.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/fdea40debe9220e9e964351c55384aa263c3d502-923x923.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MiniMax-M2.5: Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/minimax-m2-5-everything-you-need-to-know</link>
+      <description>MiniMax-M2.5: Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/minimax-m2-5-everything-you-need-to-know</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/35a08223f535b3ca0678cb8606f448077e5dce4a-1080x1080.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/35a08223f535b3ca0678cb8606f448077e5dce4a-1080x1080.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>GLM-5 - Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/glm-5-everything-you-need-to-know</link>
+      <description>GLM-5 - Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/glm-5-everything-you-need-to-know</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/97e0f0ce8720788b36dd8272aa27d599ddea7da8-800x800.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/97e0f0ce8720788b36dd8272aa27d599ddea7da8-800x800.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Opus 4.6 - Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/opus-4-6-everything-you-need-to-know</link>
+      <description>Opus 4.6 - Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/opus-4-6-everything-you-need-to-know</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/e5bbbeb9add4a402c4bb231cfc93036d7cb25dce-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/e5bbbeb9add4a402c4bb231cfc93036d7cb25dce-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Opus 4.6 Takes Lead in Agentic Real-World Knowledge Tasks</title>
+      <link>https://artificialanalysis.ai/articles/opus-4-6-takes-lead-in-agentic-real-world-knowledge-tasks</link>
+      <description>Opus 4.6 Takes Lead in Agentic Real-World Knowledge Tasks</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/opus-4-6-takes-lead-in-agentic-real-world-knowledge-tasks</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/521e481f6327c45bae8cc81fad481a6c41b8c7c0-958x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/521e481f6327c45bae8cc81fad481a6c41b8c7c0-958x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Qwen3 Max Thinking Benchmarks and Analysis</title>
+      <link>https://artificialanalysis.ai/articles/qwen3-max-thinking-everything-you-need-to-know</link>
+      <description>Qwen3 Max Thinking Benchmarks and Analysis</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/qwen3-max-thinking-everything-you-need-to-know</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/3838cf933efd7b56dfea2331bafbfb69292856e8-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/3838cf933efd7b56dfea2331bafbfb69292856e8-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Kimi K2.5 - Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/kimi-k2-5-everything-you-need-to-know</link>
+      <description>Kimi K2.5 - Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k2-5-everything-you-need-to-know</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/a2866e55c8daadc21442342a8fdbd7b1d922ef4e-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/a2866e55c8daadc21442342a8fdbd7b1d922ef4e-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Gemini 3 Flash - Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/gemini-3-flash-everything-you-need-to-know</link>
+      <description>Gemini 3 Flash - Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gemini-3-flash-everything-you-need-to-know</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/a251c4848c44bd90692d8d9bc2a513058798ec6e-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/a251c4848c44bd90692d8d9bc2a513058798ec6e-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Stirrup: Our new open source framework for building agents</title>
+      <link>https://artificialanalysis.ai/articles/stirrup-open-source-framework-agents</link>
+      <description>Stirrup: Our new open source framework for building agents</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/stirrup-open-source-framework-agents</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/c2defda4f57fa0e0b57fb251712aaa4d7048cf76-560x560.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/c2defda4f57fa0e0b57fb251712aaa4d7048cf76-560x560.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Introducing the Artificial Analysis Openness Index</title>
+      <link>https://artificialanalysis.ai/articles/announcing-artificial-analysis-openness-index</link>
+      <description>Introducing the Artificial Analysis Openness Index</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/announcing-artificial-analysis-openness-index</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/274ab91237eb39e0121af4ad5a20860c70304e69-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/274ab91237eb39e0121af4ad5a20860c70304e69-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claude Opus 4.5 Benchmarks and Analysis</title>
+      <link>https://artificialanalysis.ai/articles/claude-opus-4-5-benchmarks-and-analysis</link>
+      <description>Claude Opus 4.5 Benchmarks and Analysis</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/claude-opus-4-5-benchmarks-and-analysis</guid>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/b2c3662f4b6de7a3ce9b39f57722d7c71a52c5ec-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/b2c3662f4b6de7a3ce9b39f57722d7c71a52c5ec-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Gemini 3 Pro - Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/gemini-3-pro-everything-you-need-to-know</link>
+      <description>Gemini 3 Pro - Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gemini-3-pro-everything-you-need-to-know</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/779fddaf892ab930fdc1ebc7cfe337e69e6e549b-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/779fddaf892ab930fdc1ebc7cfe337e69e6e549b-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>AA-Omniscience: Knowledge and Hallucination Benchmark</title>
+      <link>https://artificialanalysis.ai/articles/aa-omniscience-knowledge-hallucination-benchmark</link>
+      <description>AA-Omniscience: Knowledge and Hallucination Benchmark</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/aa-omniscience-knowledge-hallucination-benchmark</guid>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/41a86d1ca2378a7445bbcad322638e73ede913c0-774x774.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/41a86d1ca2378a7445bbcad322638e73ede913c0-774x774.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Kimi K2-Thinking - Everything you need to know</title>
+      <link>https://artificialanalysis.ai/articles/kimi-k2-thinking-everything-you-need-to-know</link>
+      <description>Kimi K2-Thinking - Everything you need to know</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k2-thinking-everything-you-need-to-know</guid>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/c2cbea799a70f99aaee0b33f75cbd0e24a0fbf43-600x600.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/c2cbea799a70f99aaee0b33f75cbd0e24a0fbf43-600x600.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MiniMax M2 Benchmarks &amp; Analysis</title>
+      <link>https://artificialanalysis.ai/articles/minimax-m2-benchmarks-and-analysis</link>
+      <description>MiniMax M2 Benchmarks &amp; Analysis</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/minimax-m2-benchmarks-and-analysis</guid>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/cf44dda6dc28a1b113c0a52e62cc4b111b280c7c-1104x1104.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/cf44dda6dc28a1b113c0a52e62cc4b111b280c7c-1104x1104.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>GPT-5 Benchmarks and Analysis</title>
+      <link>https://artificialanalysis.ai/articles/gpt-5-benchmarks-and-analysis</link>
+      <description>GPT-5 Benchmarks and Analysis</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gpt-5-benchmarks-and-analysis</guid>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/fa9bb209403956e1638efe91fd8a8b8eec97ea2d-1920x1920.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/fa9bb209403956e1638efe91fd8a8b8eec97ea2d-1920x1920.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Analysis of OpenAI's gpt-oss models</title>
+      <link>https://artificialanalysis.ai/articles/analysis-openai-gpt-oss-models</link>
+      <description>Analysis of OpenAI's gpt-oss models</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/analysis-openai-gpt-oss-models</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/ca1fa17040569a3375e98e5423af34bd679a8325-1080x1080.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/ca1fa17040569a3375e98e5423af34bd679a8325-1080x1080.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Announcing Artificial Analysis Long Context Reasoning (AA-LCR)</title>
+      <link>https://artificialanalysis.ai/articles/announcing-aa-lcr</link>
+      <description>Announcing Artificial Analysis Long Context Reasoning (AA-LCR)</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/announcing-aa-lcr</guid>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/55a335e40a31ea83a4cd2edd76c6ff3969124be1-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/55a335e40a31ea83a4cd2edd76c6ff3969124be1-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Independent Performance Analysis of Leading GPUs</title>
+      <link>https://artificialanalysis.ai/articles/independent-analysis-of-leading-gpus-amd-nvidia</link>
+      <description>Independent Performance Analysis of Leading GPUs</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/independent-analysis-of-leading-gpus-amd-nvidia</guid>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/32df805469f6e9b6bb1f09536e09ce518128ad62-1999x706.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/32df805469f6e9b6bb1f09536e09ce518128ad62-1999x706.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DeepSeek R1 Update</title>
+      <link>https://artificialanalysis.ai/articles/deepseek-r1-update</link>
+      <description>DeepSeek R1 Update</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/deepseek-r1-update</guid>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/d45dfcf92b28b6b75159e734dba1b8f17cde8cc6-600x600.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/d45dfcf92b28b6b75159e734dba1b8f17cde8cc6-600x600.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Overview of Google I/O Benchmarking Results</title>
+      <link>https://artificialanalysis.ai/articles/google-io-2024-benchmarking-results</link>
+      <description>Overview of Google I/O Benchmarking Results</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/google-io-2024-benchmarking-results</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/d999806205505a29309c8278ab1dfecc8342adf7-800x800.jpg?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/d999806205505a29309c8278ab1dfecc8342adf7-800x800.jpg?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+  </channel>
+</rss>
