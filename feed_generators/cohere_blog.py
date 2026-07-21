@@ -36,6 +36,32 @@ BLOG_URL = "https://cohere.com/blog"
 MAX_PAGES = 30  # Safety limit for pagination
 
 
+def _extract_thumbnail(title_a) -> str | None:
+    """Find the card's cover image.
+
+    The title anchor (`a.flex.flex-1.flex-col`) only wraps the text content;
+    the `<img>` lives in a sibling "image" div under the same outer card
+    container (`title_a.parent.parent`), both for grid cards and the
+    featured/hero cards -- e.g.:
+
+        <div class="h-full ... flex-col ...">      <!-- outer card container -->
+          <div class="... aspect-video">            <!-- image div -->
+            <a href="..."><img src="..." srcset="..."/></a>
+          </div>
+          <div class="flex h-full flex-col ...">     <!-- title_a.parent -->
+            <a class="flex flex-1 flex-col" href="...">...</a>  <!-- title_a -->
+          </div>
+        </div>
+    """
+    container = title_a.parent.parent if title_a.parent else None
+    if not container:
+        return None
+    img = container.find("img")
+    if not img or not img.get("src"):
+        return None
+    return absolute_url(img["src"], "https://cohere.com")
+
+
 def _parse_card(title_a) -> dict | None:
     """Build an article dict from an `a.flex.flex-1.flex-col` card.
 
@@ -58,7 +84,9 @@ def _parse_card(title_a) -> dict | None:
     date_text = date_p.find("p").get_text(strip=True) if date_p and date_p.find("p") else None
     date = parse_date(date_text, fallback_id=link)
 
-    return {"title": title, "link": link, "date": date, "description": title}
+    thumbnail = _extract_thumbnail(title_a)
+
+    return {"title": title, "link": link, "date": date, "description": title, "thumbnail": thumbnail}
 
 
 def parse_featured_articles(html: str) -> list[dict]:
@@ -157,6 +185,7 @@ def fetch_all_posts(cursor: CacheCursor, max_pages: int | None = MAX_PAGES) -> l
 
 def build_feed(posts: list[dict]) -> FeedGenerator:
     fg = FeedGenerator()
+    fg.load_extension("media")
     fg.title("Cohere Blog")
     fg.description("Latest news, research, and product updates from Cohere")
     fg.language("en")
@@ -170,6 +199,9 @@ def build_feed(posts: list[dict]) -> FeedGenerator:
         fe.id(post["link"])
         fe.published(post["date"])
         fe.description(post["description"])
+        if post.get("thumbnail"):
+            fe.media.content([{"url": post["thumbnail"], "medium": "image"}])
+            fe.media.thumbnail([{"url": post["thumbnail"]}])
 
     return fg
 
