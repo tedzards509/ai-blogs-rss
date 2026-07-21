@@ -39,7 +39,7 @@ class GlobalSettings(BaseSettings):
 
     model_config = {"env_prefix": "RSS_"}
 
-    repo_slug: str = "Olshansk/rss-feeds"
+    repo_slug: str = "tedzards509/ai-blogs-rss"
 
 
 def load_feed_registry() -> dict[str, FeedConfig]:

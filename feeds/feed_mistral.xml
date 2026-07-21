@@ -4,11 +4,11 @@
     <title>Mistral AI News</title>
     <link>https://mistral.ai/news/</link>
     <description>News, research, and product updates from Mistral AI</description>
-    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml" rel="self"/>
+    <atom:link href="https://raw.githubusercontent.com/tedzards509/ai-blogs-rss/main/feeds/feed_mistral.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 10:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 12:46:03 +0000</lastBuildDate>
     <item>
       <title>Your Prompts and Skills need a system of record.</title>
       <link>https://mistral.ai/news/manage-prompts-and-skills-in-studio/</link>
