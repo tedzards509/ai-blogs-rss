@@ -89,6 +89,7 @@ def generate_rss_feed(articles: list[dict]) -> FeedGenerator:
         if article.get("date"):
             fe.published(article["date"])
         if article.get("thumbnail"):
+            fe.media.content([{"url": article["thumbnail"], "medium": "image"}])
             fe.media.thumbnail([{"url": article["thumbnail"]}])
 
     logger.info(f"Generated RSS feed with {len(articles)} entries")
