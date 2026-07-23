@@ -8,30 +8,86 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:42:30 +0000</lastBuildDate>
+    <item>
+      <title>Grok 4.5 in GitHub Copilot</title>
+      <link>https://x.ai/news/grok-github-copilot</link>
+      <description>Grok 4.5 in GitHub Copilot</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-github-copilot</guid>
+      <category>News</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fog-github-copilot.webp&amp;w=3840&amp;q=75&amp;dpl=9ea881ad5b6edaae48cab985a9c5a3291a7fef70" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fog-github-copilot.webp&amp;w=3840&amp;q=75&amp;dpl=9ea881ad5b6edaae48cab985a9c5a3291a7fef70"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Introducing Build Mode</title>
+      <link>https://x.ai/news/grok-build-mode</link>
+      <description>Introducing Build Mode</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-build-mode</guid>
+      <category>News</category>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-build-mode-og.png&amp;w=3840&amp;q=75&amp;dpl=9ea881ad5b6edaae48cab985a9c5a3291a7fef70" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-build-mode-og.png&amp;w=3840&amp;q=75&amp;dpl=9ea881ad5b6edaae48cab985a9c5a3291a7fef70"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Grok in Google Workspace</title>
+      <link>https://x.ai/news/introducing-google-workspace-addon</link>
+      <description>Grok in Google Workspace</description>
+      <guid isPermaLink="false">https://x.ai/news/introducing-google-workspace-addon</guid>
+      <category>News</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-in-google-workspace-og.png&amp;w=3840&amp;q=75&amp;dpl=9ea881ad5b6edaae48cab985a9c5a3291a7fef70" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-in-google-workspace-og.png&amp;w=3840&amp;q=75&amp;dpl=9ea881ad5b6edaae48cab985a9c5a3291a7fef70"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Workflows in Grok Build</title>
+      <link>https://x.ai/news/workflows</link>
+      <description>Workflows in Grok Build</description>
+      <guid isPermaLink="false">https://x.ai/news/workflows</guid>
+      <category>News</category>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fworkflows-og.png&amp;w=3840&amp;q=75&amp;dpl=9ea881ad5b6edaae48cab985a9c5a3291a7fef70" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fworkflows-og.png&amp;w=3840&amp;q=75&amp;dpl=9ea881ad5b6edaae48cab985a9c5a3291a7fef70"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Bringing Grok 4.5 to iOS, Android, Web, and X</title>
+      <link>https://x.ai/news/grok-4-5-everywhere</link>
+      <description>Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android.</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-4-5-everywhere</guid>
+      <category>News</category>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok for Outlook</title>
+      <link>https://x.ai/news/introducing-outlook-addin</link>
+      <description>Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized.</description>
+      <guid isPermaLink="false">https://x.ai/news/introducing-outlook-addin</guid>
+      <category>News</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Grok for Excel</title>
       <link>https://x.ai/news/introducing-excel-addin</link>
-      <description>Grok for Excel</description>
+      <description>Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook.</description>
       <guid isPermaLink="false">https://x.ai/news/introducing-excel-addin</guid>
       <category>News</category>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-excel-addin-title.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
-        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-excel-addin-title.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
-      </media:group>
     </item>
     <item>
       <title>Automations in Grok</title>
       <link>https://x.ai/news/grok-automations</link>
-      <description>Automations in Grok</description>
+      <description>Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back.</description>
       <guid isPermaLink="false">https://x.ai/news/grok-automations</guid>
       <category>News</category>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-automations-og.jpg&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
-        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-automations-og.jpg&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
-      </media:group>
     </item>
     <item>
       <title>Introducing Grok 4.5</title>
@@ -44,26 +100,18 @@
     <item>
       <title>Grok Build is Now Open Source</title>
       <link>https://x.ai/news/grok-build-open-source</link>
-      <description>Grok Build is Now Open Source</description>
+      <description>Explore the harness behind our coding agent and TUI.</description>
       <guid isPermaLink="false">https://x.ai/news/grok-build-open-source</guid>
       <category>News</category>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fopen-source-cover.png&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
-        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fopen-source-cover.png&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
-      </media:group>
     </item>
     <item>
       <title>21 New Flagship Grok Voices</title>
       <link>https://x.ai/news/new-flagship-voices</link>
-      <description>21 New Flagship Grok Voices</description>
+      <description>New multilingual voices for Grok Voice, plus improved naturalness for the original five.</description>
       <guid isPermaLink="false">https://x.ai/news/new-flagship-voices</guid>
       <category>News</category>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fnew-flagship-voices.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
-        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fnew-flagship-voices.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
-      </media:group>
     </item>
     <item>
       <title>Introducing the Voice Agent Builder</title>

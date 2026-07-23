@@ -8,7 +8,62 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:41:36 +0000</lastBuildDate>
+    <item>
+      <title>Opus 5: Fable 5 level intelligence at a lower cost per task</title>
+      <link>https://artificialanalysis.ai/articles/opus-5</link>
+      <description>Opus 5: Fable 5 level intelligence at a lower cost per task</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/opus-5</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/9f1aa105f66463e176f9851d40880d84703a5cd8-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/9f1aa105f66463e176f9851d40880d84703a5cd8-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claude Opus 5: the new leader in agentic knowledge work</title>
+      <link>https://artificialanalysis.ai/articles/claude-opus-5-leader-agentic-knowledge-work</link>
+      <description>Claude Opus 5: the new leader in agentic knowledge work</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/claude-opus-5-leader-agentic-knowledge-work</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/60d6f7c0886fd59d3c0a76fe172f1ab51e111753-1023x1023.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/60d6f7c0886fd59d3c0a76fe172f1ab51e111753-1023x1023.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How Thinking Machines Lab’s Inkling performs on agentic knowledge work</title>
+      <link>https://artificialanalysis.ai/articles/how-thinking-machines-lab-s-inkling-performs-on-agentic-knowledge-work</link>
+      <description>How Thinking Machines Lab’s Inkling performs on agentic knowledge work</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/how-thinking-machines-lab-s-inkling-performs-on-agentic-knowledge-work</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/3174596a85fde5fa5cfce4c186e2168a0d50ce55-3840x2160.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/3174596a85fde5fa5cfce4c186e2168a0d50ce55-3840x2160.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Gemini 3.6 Flash and Gemini 3.5 Flash-Lite: Halving Time per Task</title>
+      <link>https://artificialanalysis.ai/articles/gemini-3-6-flash-3-5-flash-lite-halving-time</link>
+      <description>Gemini 3.6 Flash and Gemini 3.5 Flash-Lite: Halving Time per Task</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gemini-3-6-flash-3-5-flash-lite-halving-time</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/887319386fb1c7cbde5da378a2ea6e141f6367f9-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/887319386fb1c7cbde5da378a2ea6e141f6367f9-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Kimi K3: second only to Fable 5 on AA-Briefcase</title>
+      <link>https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark</link>
+      <description>Kimi K3: second only to Fable 5 on AA-Briefcase</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/fbc6088bbe886e04943ac98253836dd2b66f8bfc-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/fbc6088bbe886e04943ac98253836dd2b66f8bfc-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
     <item>
       <title>Kimi K3 achieves #3 in the Artificial Analysis Intelligence Index, comparable to Opus 4.8 and GPT-5.5</title>
       <link>https://artificialanalysis.ai/articles/kimi-k3-achieves-3-in-the-artificial-analysis-intelligence-index-comparable-to-opus-4-8-and-gpt-5-5</link>
