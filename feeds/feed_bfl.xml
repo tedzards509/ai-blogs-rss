@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 15:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:17:04 +0000</lastBuildDate>
     <item>
       <title>FLUX 3 x mimic: The Next Generation of Video-Action Models</title>
       <link>https://bfl.ai/blog/flux-3-mimic</link>
@@ -62,6 +62,18 @@
       <media:group>
         <media:content url="https://cdn.sanity.io/images/2gpum2i6/production/d928eda4a655c5dbd8cbe277cd59e1df38950703-3840x2245.png" medium="image"/>
         <media:thumbnail url="https://cdn.sanity.io/images/2gpum2i6/production/d928eda4a655c5dbd8cbe277cd59e1df38950703-3840x2245.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title> Martin Scorsese is an advisor to Black Forest Labs</title>
+      <link>https://bfl.ai/blog/martin-scorsese-bfl-advisor</link>
+      <description>Martin Scorsese has spent six decades bringing stories to life.
+Now, he’s helping us shape visual intelligence as an advisor.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/martin-scorsese-bfl-advisor</guid>
+      <pubDate>Wed, 03 Jun 2026 01:22:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/2gpum2i6/production/94cbee9fe95939f83b01c577fcdc17aaeeef62a2-2252x1270.png" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/2gpum2i6/production/94cbee9fe95939f83b01c577fcdc17aaeeef62a2-2252x1270.png"/>
       </media:group>
     </item>
     <item>

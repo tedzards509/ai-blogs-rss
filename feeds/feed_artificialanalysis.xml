@@ -8,7 +8,40 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:17:15 +0000</lastBuildDate>
+    <item>
+      <title>How Thinking Machines Lab’s Inkling performs on agentic knowledge work</title>
+      <link>https://artificialanalysis.ai/articles/how-thinking-machines-lab-s-inkling-performs-on-agentic-knowledge-work</link>
+      <description>How Thinking Machines Lab’s Inkling performs on agentic knowledge work</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/how-thinking-machines-lab-s-inkling-performs-on-agentic-knowledge-work</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/3174596a85fde5fa5cfce4c186e2168a0d50ce55-3840x2160.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/3174596a85fde5fa5cfce4c186e2168a0d50ce55-3840x2160.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Gemini 3.6 Flash and Gemini 3.5 Flash-Lite: Halving Time per Task</title>
+      <link>https://artificialanalysis.ai/articles/gemini-3-6-flash-3-5-flash-lite-halving-time</link>
+      <description>Gemini 3.6 Flash and Gemini 3.5 Flash-Lite: Halving Time per Task</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gemini-3-6-flash-3-5-flash-lite-halving-time</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/887319386fb1c7cbde5da378a2ea6e141f6367f9-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/887319386fb1c7cbde5da378a2ea6e141f6367f9-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Kimi K3: second only to Fable 5 on AA-Briefcase</title>
+      <link>https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark</link>
+      <description>Kimi K3: second only to Fable 5 on AA-Briefcase</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/fbc6088bbe886e04943ac98253836dd2b66f8bfc-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/fbc6088bbe886e04943ac98253836dd2b66f8bfc-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
     <item>
       <title>Kimi K3 achieves #3 in the Artificial Analysis Intelligence Index, comparable to Opus 4.8 and GPT-5.5</title>
       <link>https://artificialanalysis.ai/articles/kimi-k3-achieves-3-in-the-artificial-analysis-intelligence-index-comparable-to-opus-4-8-and-gpt-5-5</link>

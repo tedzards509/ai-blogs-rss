@@ -8,7 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 12:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:17:07 +0000</lastBuildDate>
+    <item>
+      <title>Launching Health in ChatGPT</title>
+      <link>https://openai.com/index/health-in-chatgpt</link>
+      <description>Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.</description>
+      <guid isPermaLink="false">https://openai.com/index/health-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing OpenAI Presence</title>
+      <link>https://openai.com/index/introducing-openai-presence</link>
+      <description>Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-presence</guid>
+      <category>Product</category>
+      <pubDate>Wed, 22 Jul 2026 05:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>GPT-5.6 is now the preferred model in Microsoft 365 Copilot</title>
       <link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
@@ -546,18 +562,18 @@
       <pubDate>Thu, 28 Aug 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-5 and the new era of work</title>
-      <link>https://openai.com/index/gpt-5-new-era-of-work</link>
-      <description>GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work.</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-new-era-of-work</guid>
-      <category>Product</category>
-      <pubDate>Thu, 07 Aug 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing GPT-5 for developers</title>
       <link>https://openai.com/index/introducing-gpt-5-for-developers</link>
       <description>Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-for-developers</guid>
+      <category>Product</category>
+      <pubDate>Thu, 07 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5 and the new era of work</title>
+      <link>https://openai.com/index/gpt-5-new-era-of-work</link>
+      <description>GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-new-era-of-work</guid>
       <category>Product</category>
       <pubDate>Thu, 07 Aug 2025 10:00:00 +0000</pubDate>
     </item>
@@ -893,18 +909,18 @@ We are launching our newest flagship model and making more capabilities availabl
       <pubDate>Thu, 25 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing the GPT Store</title>
-      <link>https://openai.com/index/introducing-the-gpt-store</link>
-      <description>Introducing the GPT Store</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-gpt-store</guid>
-      <category>Product</category>
-      <pubDate>Wed, 10 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing ChatGPT Team</title>
       <link>https://openai.com/index/introducing-chatgpt-team</link>
       <description>We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-team</guid>
+      <category>Product</category>
+      <pubDate>Wed, 10 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the GPT Store</title>
+      <link>https://openai.com/index/introducing-the-gpt-store</link>
+      <description>Introducing the GPT Store</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-gpt-store</guid>
       <category>Product</category>
       <pubDate>Wed, 10 Jan 2024 08:00:00 +0000</pubDate>
     </item>
