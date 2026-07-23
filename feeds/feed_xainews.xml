@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 14:42:16 +0000</lastBuildDate>
-    <item>
-      <title>Grok for Outlook</title>
-      <link>https://x.ai/news/introducing-outlook-addin</link>
-      <description>Grok for Outlook</description>
-      <guid isPermaLink="false">https://x.ai/news/introducing-outlook-addin</guid>
-      <category>News</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-outlook-addin-og.jpg&amp;w=3840&amp;q=75&amp;dpl=f2ae5ed3866a27b95d4132a59d8164a80f6df39f" medium="image"/>
-        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-outlook-addin-og.jpg&amp;w=3840&amp;q=75&amp;dpl=f2ae5ed3866a27b95d4132a59d8164a80f6df39f"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 13:08:38 +0000</lastBuildDate>
     <item>
       <title>Grok for Excel</title>
       <link>https://x.ai/news/introducing-excel-addin</link>
@@ -29,8 +17,8 @@
       <category>News</category>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-excel-addin-title.webp&amp;w=3840&amp;q=75&amp;dpl=f2ae5ed3866a27b95d4132a59d8164a80f6df39f" medium="image"/>
-        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-excel-addin-title.webp&amp;w=3840&amp;q=75&amp;dpl=f2ae5ed3866a27b95d4132a59d8164a80f6df39f"/>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-excel-addin-title.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fintroducing-excel-addin-title.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
       </media:group>
     </item>
     <item>
@@ -41,8 +29,8 @@
       <category>News</category>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-automations-og.jpg&amp;w=3840&amp;q=75&amp;dpl=f2ae5ed3866a27b95d4132a59d8164a80f6df39f" medium="image"/>
-        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-automations-og.jpg&amp;w=3840&amp;q=75&amp;dpl=f2ae5ed3866a27b95d4132a59d8164a80f6df39f"/>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-automations-og.jpg&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fgrok-automations-og.jpg&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
       </media:group>
     </item>
     <item>
@@ -61,17 +49,21 @@
       <category>News</category>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fopen-source-cover.png&amp;w=3840&amp;q=75&amp;dpl=f2ae5ed3866a27b95d4132a59d8164a80f6df39f" medium="image"/>
-        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fopen-source-cover.png&amp;w=3840&amp;q=75&amp;dpl=f2ae5ed3866a27b95d4132a59d8164a80f6df39f"/>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fopen-source-cover.png&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fopen-source-cover.png&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
       </media:group>
     </item>
     <item>
       <title>21 New Flagship Grok Voices</title>
       <link>https://x.ai/news/new-flagship-voices</link>
-      <description>New multilingual voices for Grok Voice, plus improved naturalness for the original five.</description>
+      <description>21 New Flagship Grok Voices</description>
       <guid isPermaLink="false">https://x.ai/news/new-flagship-voices</guid>
       <category>News</category>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fnew-flagship-voices.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc" medium="image"/>
+        <media:thumbnail url="https://x.ai/_next/image?url=%2Fimages%2Fnews%2Fnew-flagship-voices.webp&amp;w=3840&amp;q=75&amp;dpl=e18824caadc6cbb8754ae282bd4074a67392e3fc"/>
+      </media:group>
     </item>
     <item>
       <title>Introducing the Voice Agent Builder</title>

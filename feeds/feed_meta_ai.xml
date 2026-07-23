@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 14:42:12 +0000</lastBuildDate>
-    <item>
-      <title>How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects</title>
-      <link>https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/</link>
-      <description>How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects</description>
-      <guid isPermaLink="false">https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/</guid>
-      <category>Open Source</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/752631850_918439901272497_2117962010845605116_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9k3fGev_SH8Q7kNvwG9ra6i&amp;_nc_oc=Adpw8Pi0p6Dy1LTrVbZNwXj_TnKlClYFN0bOgHKIZbPbT8Ej_YlOffy6tY2Tb0m_GrK52MPOgFxF9b3EvG18zour&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQBNE0OTxhFVayEBUbvSWiYQeAu_0z9pVzO8xidrCUjHhw&amp;oe=6A7C5AFE" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/752631850_918439901272497_2117962010845605116_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9k3fGev_SH8Q7kNvwG9ra6i&amp;_nc_oc=Adpw8Pi0p6Dy1LTrVbZNwXj_TnKlClYFN0bOgHKIZbPbT8Ej_YlOffy6tY2Tb0m_GrK52MPOgFxF9b3EvG18zour&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQBNE0OTxhFVayEBUbvSWiYQeAu_0z9pVzO8xidrCUjHhw&amp;oe=6A7C5AFE"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 13:08:32 +0000</lastBuildDate>
     <item>
       <title>Introducing Muse Spark 1.1</title>
       <link>https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</link>
@@ -29,8 +17,8 @@
       <category>Research</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Nhv72h2cSS0Q7kNvwG02-Um&amp;_nc_oc=AdrRI59Tt4Zzbn2cp2cH5ybqAUa-J_Lv6M2zgCYczIznnNg1Z86sI0UHPFT1Xb6VmUn6BbIK73Fj1QhZ7FAIStgs&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQBCJeslIDhiTkc4tZiM7ciETykfxWD2pQ0SX9XaQXOzLg&amp;oe=6A7C5BA6" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Nhv72h2cSS0Q7kNvwG02-Um&amp;_nc_oc=AdrRI59Tt4Zzbn2cp2cH5ybqAUa-J_Lv6M2zgCYczIznnNg1Z86sI0UHPFT1Xb6VmUn6BbIK73Fj1QhZ7FAIStgs&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQBCJeslIDhiTkc4tZiM7ciETykfxWD2pQ0SX9XaQXOzLg&amp;oe=6A7C5BA6"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Nhv72h2cSS0Q7kNvwHAwCJx&amp;_nc_oc=AdpbnmPmH5-qqlknfe1vu5bEiEnYjVRkHT2dLB5IR3iwxgAL5mI3GgHiI592ezww_LTJ6URcTc4HI-QCdEOHAuB5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQDUSlK2KF_NCGLQtuvg1TCddRNC1rtStoBrtDBK6JZpTg&amp;oe=6A79B8A6" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Nhv72h2cSS0Q7kNvwHAwCJx&amp;_nc_oc=AdpbnmPmH5-qqlknfe1vu5bEiEnYjVRkHT2dLB5IR3iwxgAL5mI3GgHiI592ezww_LTJ6URcTc4HI-QCdEOHAuB5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQDUSlK2KF_NCGLQtuvg1TCddRNC1rtStoBrtDBK6JZpTg&amp;oe=6A79B8A6"/>
       </media:group>
     </item>
     <item>
@@ -41,8 +29,8 @@
       <category>Research</category>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/741068613_1340710804837358_5615612072287059343_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=TbR75EP7DPgQ7kNvwFhKiQn&amp;_nc_oc=AdppfNbOKgs4rdA3zMr6LBt1LOcZviOD6IMKitI-j4P3la-FFxBP4rXyf-4mWd4iG9dMLgFgZrnZ0ARk8SczoS8m&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQAzFdusoCna1UnVQ4LcqL9tjwpXogJYXtZo9dP_A8TeXw&amp;oe=6A7C8432" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/741068613_1340710804837358_5615612072287059343_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=TbR75EP7DPgQ7kNvwFhKiQn&amp;_nc_oc=AdppfNbOKgs4rdA3zMr6LBt1LOcZviOD6IMKitI-j4P3la-FFxBP4rXyf-4mWd4iG9dMLgFgZrnZ0ARk8SczoS8m&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQAzFdusoCna1UnVQ4LcqL9tjwpXogJYXtZo9dP_A8TeXw&amp;oe=6A7C8432"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/741068613_1340710804837358_5615612072287059343_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ckyeV_zAiQwQ7kNvwEp4OGy&amp;_nc_oc=AdpC1dap8Kfs8iUVJD32o-M6kqyxQoMHa5keGOucq3le48riaHwRx2yGApVqcOLzB7xHG0wSHwOH_2LJ84PMHTyX&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQCPGg4hIVDfDK3_fjFq4c-by_XO6uwQNjJEOmA3eG7QaQ&amp;oe=6A79A8F2" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/741068613_1340710804837358_5615612072287059343_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ckyeV_zAiQwQ7kNvwEp4OGy&amp;_nc_oc=AdpC1dap8Kfs8iUVJD32o-M6kqyxQoMHa5keGOucq3le48riaHwRx2yGApVqcOLzB7xHG0wSHwOH_2LJ84PMHTyX&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQCPGg4hIVDfDK3_fjFq4c-by_XO6uwQNjJEOmA3eG7QaQ&amp;oe=6A79A8F2"/>
       </media:group>
     </item>
     <item>
@@ -53,19 +41,20 @@
       <category>Research</category>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ki93jYYzgn8Q7kNvwGUjp9n&amp;_nc_oc=Adrxv0IPzmwUUYRqw6yjHMGNnMxuo3jUBlHV9Zfx-e74SEwajKYDjZjugpBTCdHOWvWnCtLtOMGQOkehaEoqtdCY&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQBtvaK9jr4dgc6zI33C_7t-Rw9Nbk8rI8JG5TBSFn9dBw&amp;oe=6A7C6EAD" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ki93jYYzgn8Q7kNvwGUjp9n&amp;_nc_oc=Adrxv0IPzmwUUYRqw6yjHMGNnMxuo3jUBlHV9Zfx-e74SEwajKYDjZjugpBTCdHOWvWnCtLtOMGQOkehaEoqtdCY&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQBtvaK9jr4dgc6zI33C_7t-Rw9Nbk8rI8JG5TBSFn9dBw&amp;oe=6A7C6EAD"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=lF2bV5gTwUsQ7kNvwGk4GSQ&amp;_nc_oc=Adr7rsvb0jIhYizUJBdL3uM92Vsw4LPpszLrA1IqWY18Qh38fIP3LTNL-bpkPjf8xKcrsRGGz2GXdOpwoDZVv8FX&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQAl7ElEauO8AIffNJ40q--nyaNmBXCJHmXMtR3zyZ4ZCg&amp;oe=6A79CBAD" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/731147471_987177500749005_1892166673921917145_n.gif?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=lF2bV5gTwUsQ7kNvwGk4GSQ&amp;_nc_oc=Adr7rsvb0jIhYizUJBdL3uM92Vsw4LPpszLrA1IqWY18Qh38fIP3LTNL-bpkPjf8xKcrsRGGz2GXdOpwoDZVv8FX&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQAl7ElEauO8AIffNJ40q--nyaNmBXCJHmXMtR3zyZ4ZCg&amp;oe=6A79CBAD"/>
       </media:group>
     </item>
     <item>
       <title>Introducing Muse Spark: Scaling Towards Personal Superintelligence</title>
       <link>https://ai.meta.com/blog/introducing-muse-spark-msl/</link>
+      <description>Introducing Muse Spark: Scaling Towards Personal Superintelligence</description>
       <guid isPermaLink="false">https://ai.meta.com/blog/introducing-muse-spark-msl/</guid>
-      <category></category>
+      <category>AI</category>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/667507363_1871749950191919_4996140970371485757_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Eh8QMYiEvF8Q7kNvwE8B5cz&amp;_nc_oc=AdrMvCjItlB7zSmVBR4BqkC3V0qOHjN7y6EyMJuAX14-kA2qTwWapPWzeMZotSFqyoQfu30-FPG4-6dTX0Ix4_IC&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=dXiYLIbTxLIT63QlR8_Tiw&amp;_nc_ss=7b289&amp;oh=00_AQBBxQ5UMyfTVCn_jT8sHECR0VZOjCqASQeYCK14OBpwQw&amp;oe=6A7C65AC" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/667507363_1871749950191919_4996140970371485757_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Eh8QMYiEvF8Q7kNvwE8B5cz&amp;_nc_oc=AdrMvCjItlB7zSmVBR4BqkC3V0qOHjN7y6EyMJuAX14-kA2qTwWapPWzeMZotSFqyoQfu30-FPG4-6dTX0Ix4_IC&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=dXiYLIbTxLIT63QlR8_Tiw&amp;_nc_ss=7b289&amp;oh=00_AQBBxQ5UMyfTVCn_jT8sHECR0VZOjCqASQeYCK14OBpwQw&amp;oe=6A7C65AC"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/667507363_1871749950191919_4996140970371485757_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=a9H69Ng-Vg0Q7kNvwF4gAlJ&amp;_nc_oc=AdqLGYh9JjoSb66jN0P8m178Eg8UmTyDH3JInfSlDtSRpeoVqhtNKtrOm9Mx1fYNd7l81FzZAb2X9uD84hfuZYSF&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQD5kmgYA-YpATa9b9bjrBjJX5kpy47ndFikzJpBC6YKQg&amp;oe=6A79C2AC" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/667507363_1871749950191919_4996140970371485757_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=a9H69Ng-Vg0Q7kNvwF4gAlJ&amp;_nc_oc=AdqLGYh9JjoSb66jN0P8m178Eg8UmTyDH3JInfSlDtSRpeoVqhtNKtrOm9Mx1fYNd7l81FzZAb2X9uD84hfuZYSF&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQD5kmgYA-YpATa9b9bjrBjJX5kpy47ndFikzJpBC6YKQg&amp;oe=6A79C2AC"/>
       </media:group>
     </item>
     <item>
@@ -76,8 +65,8 @@
       <category>Research</category>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/668130848_1453339552354697_3291493920555502062_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=5OPWMmtzAUUQ7kNvwFlZiPW&amp;_nc_oc=AdqV1KPYNBk0qytMqa1KGVC4Z0pCSaPD_jiW_MtZ84NGMTRP-cnQ-hmDsdNuMK1Uuzv5VsA2AIZZWu5FcQccTKDm&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQB3t__VbRxJJNso9xilHtxojeHkVoApY7IqSdixe09EMA&amp;oe=6A7C616E" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/668130848_1453339552354697_3291493920555502062_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=5OPWMmtzAUUQ7kNvwFlZiPW&amp;_nc_oc=AdqV1KPYNBk0qytMqa1KGVC4Z0pCSaPD_jiW_MtZ84NGMTRP-cnQ-hmDsdNuMK1Uuzv5VsA2AIZZWu5FcQccTKDm&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=NTqTV14kjzRqKyFoc5Tpow&amp;_nc_ss=7b289&amp;oh=00_AQB3t__VbRxJJNso9xilHtxojeHkVoApY7IqSdixe09EMA&amp;oe=6A7C616E"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/668130848_1453339552354697_3291493920555502062_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=xdAXtMjy228Q7kNvwFHBWth&amp;_nc_oc=AdprLcVDHrOxSdi-nVtXjc5mk4am6xSzcRUrPr7Q0qtib0gOm3lkPDgERociR5NLOzfBxLmVSJVgJAdhM8MnHQiM&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQAjEQv0A61-RZRy9LMkhxsRHB3bCbsoNwM5VqGvE1n_Xw&amp;oe=6A79BE6E" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/668130848_1453339552354697_3291493920555502062_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=xdAXtMjy228Q7kNvwFHBWth&amp;_nc_oc=AdprLcVDHrOxSdi-nVtXjc5mk4am6xSzcRUrPr7Q0qtib0gOm3lkPDgERociR5NLOzfBxLmVSJVgJAdhM8MnHQiM&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=DduONSUwD10VkKbxvl_Jtw&amp;_nc_ss=7b289&amp;oh=00_AQAjEQv0A61-RZRy9LMkhxsRHB3bCbsoNwM5VqGvE1n_Xw&amp;oe=6A79BE6E"/>
       </media:group>
     </item>
     <item>
@@ -87,8 +76,8 @@
       <category>Computer Vision</category>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/658967078_993415586351079_325919381939729048_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=rqtO1IqHzPAQ7kNvwEqubKw&amp;_nc_oc=Adqa5XLNRYppTFxOUzzgH-CnK2693DfDvDhsdUINkBCIIQP-MxOc6aLfoRjDw53Tp_rJ6EebqM_bJL1Du6ImWDnR&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=dXiYLIbTxLIT63QlR8_Tiw&amp;_nc_ss=7b289&amp;oh=00_AQAIe2tCkmwFLYCejwUq1IhhpDUoG1GpNBAdJxvdoTnbVQ&amp;oe=6A7C7E12" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/658967078_993415586351079_325919381939729048_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=rqtO1IqHzPAQ7kNvwEqubKw&amp;_nc_oc=Adqa5XLNRYppTFxOUzzgH-CnK2693DfDvDhsdUINkBCIIQP-MxOc6aLfoRjDw53Tp_rJ6EebqM_bJL1Du6ImWDnR&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=dXiYLIbTxLIT63QlR8_Tiw&amp;_nc_ss=7b289&amp;oh=00_AQAIe2tCkmwFLYCejwUq1IhhpDUoG1GpNBAdJxvdoTnbVQ&amp;oe=6A7C7E12"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/658967078_993415586351079_325919381939729048_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=5k8hR2R8kKwQ7kNvwFdT1cz&amp;_nc_oc=AdryKvBEq-RI4a03mvXTkcXlCp7xLgKVmnSsExcY6iUvZhfEBZEDM8641q3WMRzTYCiaB4t0hmrYk-xWlf_PpCdk&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=hBI0Jap_MoNDRRV-8v-JrQ&amp;_nc_ss=7b289&amp;oh=00_AQB9jNloWyjvbt0F8s0R77gWgQwGwCpOo1hoXB9JFmG8hQ&amp;oe=6A79A2D2" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/658967078_993415586351079_325919381939729048_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=5k8hR2R8kKwQ7kNvwFdT1cz&amp;_nc_oc=AdryKvBEq-RI4a03mvXTkcXlCp7xLgKVmnSsExcY6iUvZhfEBZEDM8641q3WMRzTYCiaB4t0hmrYk-xWlf_PpCdk&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=hBI0Jap_MoNDRRV-8v-JrQ&amp;_nc_ss=7b289&amp;oh=00_AQB9jNloWyjvbt0F8s0R77gWgQwGwCpOo1hoXB9JFmG8hQ&amp;oe=6A79A2D2"/>
       </media:group>
     </item>
     <item>
@@ -98,8 +87,8 @@
       <category>Computer Vision</category>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/583339165_852765810541557_5592130597432767690_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=UiXR8R9nnTAQ7kNvwEfH5dB&amp;_nc_oc=AdqbCXdJh6qS8GJ5SeeG7alBowzZiGjCyJpgjZDw4ct67tZaKjvMqbx1rHwnAaUYzcrQ8pwij48Pu-tdMYmbYXJz&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=dXiYLIbTxLIT63QlR8_Tiw&amp;_nc_ss=7b289&amp;oh=00_AQBMxeIP2Q3y1t_hLIP1BuXawtFIqrksvIVpfrb10YYTyw&amp;oe=6A7C63E1" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/583339165_852765810541557_5592130597432767690_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=UiXR8R9nnTAQ7kNvwEfH5dB&amp;_nc_oc=AdqbCXdJh6qS8GJ5SeeG7alBowzZiGjCyJpgjZDw4ct67tZaKjvMqbx1rHwnAaUYzcrQ8pwij48Pu-tdMYmbYXJz&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=dXiYLIbTxLIT63QlR8_Tiw&amp;_nc_ss=7b289&amp;oh=00_AQBMxeIP2Q3y1t_hLIP1BuXawtFIqrksvIVpfrb10YYTyw&amp;oe=6A7C63E1"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/583339165_852765810541557_5592130597432767690_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=UiXR8R9nnTAQ7kNvwGgP8HI&amp;_nc_oc=AdoRAEe2S1RM9POCrDHuGsR71lAMVw1yGmL8ivR_q9nhYKfi8SrOv5X2ztlvGkL9UJakp82IcjatQzqdGioX3R17&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=hBI0Jap_MoNDRRV-8v-JrQ&amp;_nc_ss=7b289&amp;oh=00_AQDF-wtncLCzx1l9lnqeVs3eMbCf_A-3PaqVXyPEu1BjyA&amp;oe=6A79C0E1" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/583339165_852765810541557_5592130597432767690_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=UiXR8R9nnTAQ7kNvwGgP8HI&amp;_nc_oc=AdoRAEe2S1RM9POCrDHuGsR71lAMVw1yGmL8ivR_q9nhYKfi8SrOv5X2ztlvGkL9UJakp82IcjatQzqdGioX3R17&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=hBI0Jap_MoNDRRV-8v-JrQ&amp;_nc_ss=7b289&amp;oh=00_AQDF-wtncLCzx1l9lnqeVs3eMbCf_A-3PaqVXyPEu1BjyA&amp;oe=6A79C0E1"/>
       </media:group>
     </item>
     <item>
@@ -109,8 +98,8 @@
       <category>Research</category>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/659112495_952140057346056_1728296311373871062_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=cdFLeVlCBpoQ7kNvwEukO9R&amp;_nc_oc=AdqCNOLtd7fhC1uZfY3m6exDTMzpSS4MF4QXykASV3NNGU7zUYE4E8_AtuM91_CTLQi8MDI1uxcNtuBqDx9-7aVA&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=WYsrnsHbrUIGA5L92kerdw&amp;_nc_ss=7b289&amp;oh=00_AQB2eWr8zh_Fmj7Dj6qTQv-exlaTPxvFyaQVqZsnBRO7cA&amp;oe=6A7C7B2B" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/659112495_952140057346056_1728296311373871062_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=cdFLeVlCBpoQ7kNvwEukO9R&amp;_nc_oc=AdqCNOLtd7fhC1uZfY3m6exDTMzpSS4MF4QXykASV3NNGU7zUYE4E8_AtuM91_CTLQi8MDI1uxcNtuBqDx9-7aVA&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=WYsrnsHbrUIGA5L92kerdw&amp;_nc_ss=7b289&amp;oh=00_AQB2eWr8zh_Fmj7Dj6qTQv-exlaTPxvFyaQVqZsnBRO7cA&amp;oe=6A7C7B2B"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/659112495_952140057346056_1728296311373871062_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=NJ7LndN2FwIQ7kNvwEeyYvd&amp;_nc_oc=AdoHW_8Tc-I1_OWjPyFbpxPIa919qmeFNDep4TcVDMYHE-xnhW_gJSpYD6tmUHZwGMN63OvMFl6zcgUbViNCQdEy&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=hBI0Jap_MoNDRRV-8v-JrQ&amp;_nc_ss=7b289&amp;oh=00_AQAkk0pcOeKoJvw5EK17ZiozKnQPq0VBdzTsjltzipMFXQ&amp;oe=6A799FEB" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/659112495_952140057346056_1728296311373871062_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=NJ7LndN2FwIQ7kNvwEeyYvd&amp;_nc_oc=AdoHW_8Tc-I1_OWjPyFbpxPIa919qmeFNDep4TcVDMYHE-xnhW_gJSpYD6tmUHZwGMN63OvMFl6zcgUbViNCQdEy&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=hBI0Jap_MoNDRRV-8v-JrQ&amp;_nc_ss=7b289&amp;oh=00_AQAkk0pcOeKoJvw5EK17ZiozKnQPq0VBdzTsjltzipMFXQ&amp;oe=6A799FEB"/>
       </media:group>
     </item>
     <item>
@@ -121,8 +110,8 @@
       <category>Computer Vision</category>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=h1Y7HgvEfnMQ7kNvwFwa2Hd&amp;_nc_oc=AdrYhOS6cfAhlf5fhaTRHjz4B8HFyYWwJorsZ9jsjK-_HRX8ITr1JbiFZOXH6V_FIwDZOT4_kLwF45lFfXkGWlyg&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=WYsrnsHbrUIGA5L92kerdw&amp;_nc_ss=7b289&amp;oh=00_AQB_umlz2GZeYn4OgGg98vjrpYuA0RagUnnoBjHxIQqcPw&amp;oe=6A7C6986" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=h1Y7HgvEfnMQ7kNvwFwa2Hd&amp;_nc_oc=AdrYhOS6cfAhlf5fhaTRHjz4B8HFyYWwJorsZ9jsjK-_HRX8ITr1JbiFZOXH6V_FIwDZOT4_kLwF45lFfXkGWlyg&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=WYsrnsHbrUIGA5L92kerdw&amp;_nc_ss=7b289&amp;oh=00_AQB_umlz2GZeYn4OgGg98vjrpYuA0RagUnnoBjHxIQqcPw&amp;oe=6A7C6986"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=h1Y7HgvEfnMQ7kNvwEnmIx3&amp;_nc_oc=AdpSNsbKJD_VEUjrONv5wbWE9tMAt1f8OKQd1aHmGTl6FucN46VRe_Z2IyvEtGvIX0JpCqrBrnrgk3xd7Z7TUQiX&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=GamD2xweZGdGFwv1yIwe9A&amp;_nc_ss=7b289&amp;oh=00_AQBvgjhrF9K6ImHGrB24sLNwoJ3psT-cLuIJys97UQQLDw&amp;oe=6A79C686" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/644822799_1500169394861918_3213642176014981812_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=h1Y7HgvEfnMQ7kNvwEnmIx3&amp;_nc_oc=AdpSNsbKJD_VEUjrONv5wbWE9tMAt1f8OKQd1aHmGTl6FucN46VRe_Z2IyvEtGvIX0JpCqrBrnrgk3xd7Z7TUQiX&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=GamD2xweZGdGFwv1yIwe9A&amp;_nc_ss=7b289&amp;oh=00_AQBvgjhrF9K6ImHGrB24sLNwoJ3psT-cLuIJys97UQQLDw&amp;oe=6A79C686"/>
       </media:group>
     </item>
     <item>
@@ -133,8 +122,8 @@
       <category>Computer Vision</category>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=mkH49ZEi95sQ7kNvwE5DqS6&amp;_nc_oc=AdoCphPB6m5uH_1n_7KMw-EU-ly88UFCfFKFZaT7pXjkIea2jZvf5Fx-F8d8AvnDDLi2vrN1KBHJxW1zGYHKstRi&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=WYsrnsHbrUIGA5L92kerdw&amp;_nc_ss=7b289&amp;oh=00_AQDTNrpDHNGWURT040J_veVSFMqV6ICXsCnOf7VII2mZpQ&amp;oe=6A7C5E7F" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=mkH49ZEi95sQ7kNvwE5DqS6&amp;_nc_oc=AdoCphPB6m5uH_1n_7KMw-EU-ly88UFCfFKFZaT7pXjkIea2jZvf5Fx-F8d8AvnDDLi2vrN1KBHJxW1zGYHKstRi&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=WYsrnsHbrUIGA5L92kerdw&amp;_nc_ss=7b289&amp;oh=00_AQDTNrpDHNGWURT040J_veVSFMqV6ICXsCnOf7VII2mZpQ&amp;oe=6A7C5E7F"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=uxLNNg84D-IQ7kNvwEatPTi&amp;_nc_oc=Ado-T41RgW8TCdeWDQGADpftF-jB6S-OCKYi5GoTnC6n-U8_6Ul4MxLWPccvQkQqfvGfvydasDrMns-F6BoLHENm&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=GamD2xweZGdGFwv1yIwe9A&amp;_nc_ss=7b289&amp;oh=00_AQAxkZ7Bfoq4685B_JFB21Y09qZPreMZ0kaHCqpL16uzwg&amp;oe=6A79BB7F" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/631673937_4911145895833160_8225979506389394021_n.gif?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=uxLNNg84D-IQ7kNvwEatPTi&amp;_nc_oc=Ado-T41RgW8TCdeWDQGADpftF-jB6S-OCKYi5GoTnC6n-U8_6Ul4MxLWPccvQkQqfvGfvydasDrMns-F6BoLHENm&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=GamD2xweZGdGFwv1yIwe9A&amp;_nc_ss=7b289&amp;oh=00_AQAxkZ7Bfoq4685B_JFB21Y09qZPreMZ0kaHCqpL16uzwg&amp;oe=6A79BB7F"/>
       </media:group>
     </item>
     <item>
@@ -145,8 +134,8 @@
       <category>Computer Vision</category>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=dEppLKzP4TQQ7kNvwHN4XHC&amp;_nc_oc=Ado3forDyIcodZYRoW_OoVfHfO8ZH3Ok_RgQFTeQ9L8Dsy_E-mf0pTGcO6XWrcdfPo3NExWMXfIgzV5KwQygdOrt&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=o-Qz1zNbu5T2kYp7mLzpFA&amp;_nc_ss=7b289&amp;oh=00_AQCE-0mrPyF_CFbUcDgUJYLgnI6fTZCem4ZJ1wl34072hA&amp;oe=6A7C8417" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=dEppLKzP4TQQ7kNvwHN4XHC&amp;_nc_oc=Ado3forDyIcodZYRoW_OoVfHfO8ZH3Ok_RgQFTeQ9L8Dsy_E-mf0pTGcO6XWrcdfPo3NExWMXfIgzV5KwQygdOrt&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=o-Qz1zNbu5T2kYp7mLzpFA&amp;_nc_ss=7b289&amp;oh=00_AQCE-0mrPyF_CFbUcDgUJYLgnI6fTZCem4ZJ1wl34072hA&amp;oe=6A7C8417"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=dEppLKzP4TQQ7kNvwHU5Aix&amp;_nc_oc=AdrUUiC4O9gwwoQNrm2YG1L-vAK2oYrOkZeDoQxS-sQYIj7AUYF073QohUtfvp0emE-PiUdDlhN6u5ddcMfQkq11&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=GamD2xweZGdGFwv1yIwe9A&amp;_nc_ss=7b289&amp;oh=00_AQCkcWTDHTvUDB8VJhYtSLCgfh2smBxHeG01jUdUAyc_3A&amp;oe=6A79A8D7" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/600304853_1519099669397813_6606203512792368025_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=dEppLKzP4TQQ7kNvwHU5Aix&amp;_nc_oc=AdrUUiC4O9gwwoQNrm2YG1L-vAK2oYrOkZeDoQxS-sQYIj7AUYF073QohUtfvp0emE-PiUdDlhN6u5ddcMfQkq11&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=GamD2xweZGdGFwv1yIwe9A&amp;_nc_ss=7b289&amp;oh=00_AQCkcWTDHTvUDB8VJhYtSLCgfh2smBxHeG01jUdUAyc_3A&amp;oe=6A79A8D7"/>
       </media:group>
     </item>
     <item>
@@ -157,8 +146,8 @@
       <category>Computer Vision</category>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=pVONF2bR0-oQ7kNvwFwQDn6&amp;_nc_oc=Adqw2rJCYMCp-OcH8firzHmOs7dPD6kxgf_Fwa1FDvOUZ4bSF9Kn-JBnitnniNCELOOGAUnDq_kRXfj2No-7XaBz&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=WYsrnsHbrUIGA5L92kerdw&amp;_nc_ss=7b289&amp;oh=00_AQDx2m37Aq4E6gGT5GuPH89vqJ7y_AXRPghgM_Chbs6ijg&amp;oe=6A7C67B7" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=pVONF2bR0-oQ7kNvwFwQDn6&amp;_nc_oc=Adqw2rJCYMCp-OcH8firzHmOs7dPD6kxgf_Fwa1FDvOUZ4bSF9Kn-JBnitnniNCELOOGAUnDq_kRXfj2No-7XaBz&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=WYsrnsHbrUIGA5L92kerdw&amp;_nc_ss=7b289&amp;oh=00_AQDx2m37Aq4E6gGT5GuPH89vqJ7y_AXRPghgM_Chbs6ijg&amp;oe=6A7C67B7"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=qjmfzGlbhtMQ7kNvwGCo9cS&amp;_nc_oc=Adpem2rVXQrqVwodCbsIbp93kPUaZkoahuM4JUFOOET5dyi2PTcI2aa-5112UU_fzRCxf_jkYlLlQujXRfdt5Ws0&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=GamD2xweZGdGFwv1yIwe9A&amp;_nc_ss=7b289&amp;oh=00_AQBHO0FJsRwGYoQil-fmMB05SEOkhLuDDREogwrqpmLHjQ&amp;oe=6A79C4B7" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/597680380_857278207264023_6561532616114241333_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=qjmfzGlbhtMQ7kNvwGCo9cS&amp;_nc_oc=Adpem2rVXQrqVwodCbsIbp93kPUaZkoahuM4JUFOOET5dyi2PTcI2aa-5112UU_fzRCxf_jkYlLlQujXRfdt5Ws0&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=GamD2xweZGdGFwv1yIwe9A&amp;_nc_ss=7b289&amp;oh=00_AQBHO0FJsRwGYoQil-fmMB05SEOkhLuDDREogwrqpmLHjQ&amp;oe=6A79C4B7"/>
       </media:group>
     </item>
     <item>
@@ -169,8 +158,8 @@
       <category>Computer Vision</category>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VQl-u0XQOxIQ7kNvwFDDuM3&amp;_nc_oc=AdooSH7rKYPMRNRGoHTu4H2DXoxaGH5Pj7_zBbOst65jgcz3I8f1E6pRPF29T_kDnAg3dYdjC8zG-EQhG79qWW5t&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=o-Qz1zNbu5T2kYp7mLzpFA&amp;_nc_ss=7b289&amp;oh=00_AQAqHI1OL5IdtsTnW-zNZERYxOLGPKOJB-PFr2UiDXxbDA&amp;oe=6A7C81DB" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VQl-u0XQOxIQ7kNvwFDDuM3&amp;_nc_oc=AdooSH7rKYPMRNRGoHTu4H2DXoxaGH5Pj7_zBbOst65jgcz3I8f1E6pRPF29T_kDnAg3dYdjC8zG-EQhG79qWW5t&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=o-Qz1zNbu5T2kYp7mLzpFA&amp;_nc_ss=7b289&amp;oh=00_AQAqHI1OL5IdtsTnW-zNZERYxOLGPKOJB-PFr2UiDXxbDA&amp;oe=6A7C81DB"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VQl-u0XQOxIQ7kNvwFzfAFH&amp;_nc_oc=Adp0ODZ-VmUXLL-4-UTjaEAbo3k3w6aEHGRF9E4X0wB2TbRQ-QWKb3We86TQRZxg8jhnuQPI_b7gTJJ7zsKmwytO&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zc43E8-TyU8ZFnjdjUiTKA&amp;_nc_ss=7b289&amp;oh=00_AQAm1tYEutEdbd2SfA2t23HhqTRmo0lRBrIor6ddW0sPOw&amp;oe=6A79A69B" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/600517835_858099609958067_2071268735982577268_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VQl-u0XQOxIQ7kNvwFzfAFH&amp;_nc_oc=Adp0ODZ-VmUXLL-4-UTjaEAbo3k3w6aEHGRF9E4X0wB2TbRQ-QWKb3We86TQRZxg8jhnuQPI_b7gTJJ7zsKmwytO&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zc43E8-TyU8ZFnjdjUiTKA&amp;_nc_ss=7b289&amp;oh=00_AQAm1tYEutEdbd2SfA2t23HhqTRmo0lRBrIor6ddW0sPOw&amp;oe=6A79A69B"/>
       </media:group>
     </item>
     <item>
@@ -181,8 +170,8 @@
       <category>Computer Vision</category>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=hnLJO4n4oBUQ7kNvwGx-q9s&amp;_nc_oc=Adplf4obNg6sQ7CGDIZoOHkST1Zn-s9rbO8yuxEMJhn0mTg9qdcTXpWdG9yJj2sg9h1_Kgu-pGeXzz8sb_4bWZTT&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=o-Qz1zNbu5T2kYp7mLzpFA&amp;_nc_ss=7b289&amp;oh=00_AQBpOv6eR09GKG7H8lBEM0q9Y8j_0TleDrSmP52M43maWA&amp;oe=6A7C6F2B" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=hnLJO4n4oBUQ7kNvwGx-q9s&amp;_nc_oc=Adplf4obNg6sQ7CGDIZoOHkST1Zn-s9rbO8yuxEMJhn0mTg9qdcTXpWdG9yJj2sg9h1_Kgu-pGeXzz8sb_4bWZTT&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=o-Qz1zNbu5T2kYp7mLzpFA&amp;_nc_ss=7b289&amp;oh=00_AQBpOv6eR09GKG7H8lBEM0q9Y8j_0TleDrSmP52M43maWA&amp;oe=6A7C6F2B"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=0I4M4UPAWaEQ7kNvwFev6yZ&amp;_nc_oc=AdpoKIzzCK8RnW2Nl9bB0Ial2l1Wvmyq4AINTI10vCQPoKLXEqKSBJk_MZNuXpCPuRHst8VwpF_y5yjvn6d5Qsi1&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zc43E8-TyU8ZFnjdjUiTKA&amp;_nc_ss=7b289&amp;oh=00_AQDFUlIlNfPcROPTINFNZVvXSZ4QiTdya2NRhhlm5IpXjQ&amp;oe=6A79CC2B" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/589235106_836376255703702_5425697337216362311_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=0I4M4UPAWaEQ7kNvwFev6yZ&amp;_nc_oc=AdpoKIzzCK8RnW2Nl9bB0Ial2l1Wvmyq4AINTI10vCQPoKLXEqKSBJk_MZNuXpCPuRHst8VwpF_y5yjvn6d5Qsi1&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zc43E8-TyU8ZFnjdjUiTKA&amp;_nc_ss=7b289&amp;oh=00_AQDFUlIlNfPcROPTINFNZVvXSZ4QiTdya2NRhhlm5IpXjQ&amp;oe=6A79CC2B"/>
       </media:group>
     </item>
     <item>
@@ -193,8 +182,8 @@
       <category>Open Source</category>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/584941381_5168395573385858_5485960442423333156_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=3JnKJEAw7t8Q7kNvwE-OH-R&amp;_nc_oc=Adphv1udAp3k3BPTG6qTxIIGLKh8qTQaWYJPaLd1CpqfDYy8wqqJcHe6Pm5R9Yy5b9Eh_01Z7z4ts7EUKIfoLeDV&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=o-Qz1zNbu5T2kYp7mLzpFA&amp;_nc_ss=7b289&amp;oh=00_AQAArs0yaXZFUP8r_f934uervrMfy5YzFQ1ttV0zQdsw3w&amp;oe=6A7C529A" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/584941381_5168395573385858_5485960442423333156_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=3JnKJEAw7t8Q7kNvwE-OH-R&amp;_nc_oc=Adphv1udAp3k3BPTG6qTxIIGLKh8qTQaWYJPaLd1CpqfDYy8wqqJcHe6Pm5R9Yy5b9Eh_01Z7z4ts7EUKIfoLeDV&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=o-Qz1zNbu5T2kYp7mLzpFA&amp;_nc_ss=7b289&amp;oh=00_AQAArs0yaXZFUP8r_f934uervrMfy5YzFQ1ttV0zQdsw3w&amp;oe=6A7C529A"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/584941381_5168395573385858_5485960442423333156_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=P_Gb7Ko-3qIQ7kNvwFlKVrm&amp;_nc_oc=Adr5NyWaaIEsTMkIJVjSVBC03BfmAb0jP49DQjS_Hy2X4PVbZmFVWDzTJ34Ij8Rjgp87mkzzDIWWcSiOqHArEQ9m&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zc43E8-TyU8ZFnjdjUiTKA&amp;_nc_ss=7b289&amp;oh=00_AQAmq1FIGIbuMPDN6ITkGxSWQ5Wyeglrpdui64KO7Mv3cQ&amp;oe=6A79AF9A" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/584941381_5168395573385858_5485960442423333156_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=P_Gb7Ko-3qIQ7kNvwFlKVrm&amp;_nc_oc=Adr5NyWaaIEsTMkIJVjSVBC03BfmAb0jP49DQjS_Hy2X4PVbZmFVWDzTJ34Ij8Rjgp87mkzzDIWWcSiOqHArEQ9m&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zc43E8-TyU8ZFnjdjUiTKA&amp;_nc_ss=7b289&amp;oh=00_AQAmq1FIGIbuMPDN6ITkGxSWQ5Wyeglrpdui64KO7Mv3cQ&amp;oe=6A79AF9A"/>
       </media:group>
     </item>
     <item>
@@ -205,8 +194,8 @@
       <category>Computer Vision</category>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/583931919_1783535642295128_8712700203892128333_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VTsbGoTbtc4Q7kNvwFVKkIs&amp;_nc_oc=AdpogPjITmw-ooUH6DhHM7e4Gvf8N8YJG5vv0bPopMAUonSEW5qSX2bu-QYUrE1ApYCz3ryYKYRigyDQ0eClIlaQ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=QHv5EV_LXv8B75Jaw8rBbw&amp;_nc_ss=7b289&amp;oh=00_AQBTogDaLuH0n5QiiPl32wfbiq2NO17EnhweOkYOIv0Kwg&amp;oe=6A7C716F" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/583931919_1783535642295128_8712700203892128333_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VTsbGoTbtc4Q7kNvwFVKkIs&amp;_nc_oc=AdpogPjITmw-ooUH6DhHM7e4Gvf8N8YJG5vv0bPopMAUonSEW5qSX2bu-QYUrE1ApYCz3ryYKYRigyDQ0eClIlaQ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=QHv5EV_LXv8B75Jaw8rBbw&amp;_nc_ss=7b289&amp;oh=00_AQBTogDaLuH0n5QiiPl32wfbiq2NO17EnhweOkYOIv0Kwg&amp;oe=6A7C716F"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/583931919_1783535642295128_8712700203892128333_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=23ZgysQEMOsQ7kNvwG5IdW7&amp;_nc_oc=AdoryJbXPLqYeVU9l0oSeoiKcFqqalfCQMTt2BK7LnawWwHUrcFo3gcMwfOKy40ctqiB5o8biBBHA8qMuDcQIQZr&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zc43E8-TyU8ZFnjdjUiTKA&amp;_nc_ss=7b289&amp;oh=00_AQAA31BD3AWuXbCMAE3vhHVywcNIJPQPu7iScDLC248uWw&amp;oe=6A79962F" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/583931919_1783535642295128_8712700203892128333_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=23ZgysQEMOsQ7kNvwG5IdW7&amp;_nc_oc=AdoryJbXPLqYeVU9l0oSeoiKcFqqalfCQMTt2BK7LnawWwHUrcFo3gcMwfOKy40ctqiB5o8biBBHA8qMuDcQIQZr&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zc43E8-TyU8ZFnjdjUiTKA&amp;_nc_ss=7b289&amp;oh=00_AQAA31BD3AWuXbCMAE3vhHVywcNIJPQPu7iScDLC248uWw&amp;oe=6A79962F"/>
       </media:group>
     </item>
     <item>
@@ -217,8 +206,8 @@
       <category>Open Source</category>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/581855023_816579381137154_229426021835484086_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Dpls-rKsZRoQ7kNvwG_rm3H&amp;_nc_oc=Adq0xtnSXW721UU_S-fuRsLK4XVlZsvolI7F0xr0N-unfofhLlodALwOENE_nzNPXZXn1OKUoVXZR4VEgio7nYc5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=QHv5EV_LXv8B75Jaw8rBbw&amp;_nc_ss=7b289&amp;oh=00_AQA7kzMlQ-55XNHDCvJ_JGhtIVJeJNOqmtYcxNfXJ_zIIg&amp;oe=6A7C7016" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/581855023_816579381137154_229426021835484086_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Dpls-rKsZRoQ7kNvwG_rm3H&amp;_nc_oc=Adq0xtnSXW721UU_S-fuRsLK4XVlZsvolI7F0xr0N-unfofhLlodALwOENE_nzNPXZXn1OKUoVXZR4VEgio7nYc5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=QHv5EV_LXv8B75Jaw8rBbw&amp;_nc_ss=7b289&amp;oh=00_AQA7kzMlQ-55XNHDCvJ_JGhtIVJeJNOqmtYcxNfXJ_zIIg&amp;oe=6A7C7016"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/581855023_816579381137154_229426021835484086_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Dpls-rKsZRoQ7kNvwG9TRWk&amp;_nc_oc=AdpsB0oynlbARmGFHW1f7YIkRfVtXtOXJZ9xMhKH6CJsXKoq3hv1DJlzHhXtD3HJy3C256b1QuPr6kluE8SkMa0H&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Vbh0A29o0oR1MBXS1XkA2A&amp;_nc_ss=7b289&amp;oh=00_AQBbX88V7SYuan6sNtGe5SOmQGfdRlURC24bqfrkqfNRYg&amp;oe=6A79CD16" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/581855023_816579381137154_229426021835484086_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Dpls-rKsZRoQ7kNvwG9TRWk&amp;_nc_oc=AdpsB0oynlbARmGFHW1f7YIkRfVtXtOXJZ9xMhKH6CJsXKoq3hv1DJlzHhXtD3HJy3C256b1QuPr6kluE8SkMa0H&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Vbh0A29o0oR1MBXS1XkA2A&amp;_nc_ss=7b289&amp;oh=00_AQBbX88V7SYuan6sNtGe5SOmQGfdRlURC24bqfrkqfNRYg&amp;oe=6A79CD16"/>
       </media:group>
     </item>
     <item>
@@ -228,8 +217,8 @@
       <category></category>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/569630476_853480637349455_6406966111987148057_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=blE-Lwa5Pw4Q7kNvwGED_Ng&amp;_nc_oc=AdqCgF7GrK1dCG5TEcva-__ehqXiFmrKRVBvFzm15oxwXBHQW1HUxulFOVGWAnHz5yDre0d7RyiRv-J4kVre0Myz&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=QHv5EV_LXv8B75Jaw8rBbw&amp;_nc_ss=7b289&amp;oh=00_AQBVVToHtzWwa9g-tFC7uB0TVkwNjM9WkHlf7EzLU2-4Eg&amp;oe=6A7C7CBB" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/569630476_853480637349455_6406966111987148057_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=blE-Lwa5Pw4Q7kNvwGED_Ng&amp;_nc_oc=AdqCgF7GrK1dCG5TEcva-__ehqXiFmrKRVBvFzm15oxwXBHQW1HUxulFOVGWAnHz5yDre0d7RyiRv-J4kVre0Myz&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=QHv5EV_LXv8B75Jaw8rBbw&amp;_nc_ss=7b289&amp;oh=00_AQBVVToHtzWwa9g-tFC7uB0TVkwNjM9WkHlf7EzLU2-4Eg&amp;oe=6A7C7CBB"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/569630476_853480637349455_6406966111987148057_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=CN5RVG-XPw4Q7kNvwH7OQCg&amp;_nc_oc=Adpusqoq1la_YOUrUOqfmBs-7eNMrwrlm8KUuXgVOE0NUkAYAsO2u59TDNy4lXTBW0X9AHWWi-XgJy-o64vMemNf&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Vbh0A29o0oR1MBXS1XkA2A&amp;_nc_ss=7b289&amp;oh=00_AQC7jhIklqxw0DNbgUTme6KPqBNwbzvPqJizz6uWCDmDMQ&amp;oe=6A79A17B" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/569630476_853480637349455_6406966111987148057_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=CN5RVG-XPw4Q7kNvwH7OQCg&amp;_nc_oc=Adpusqoq1la_YOUrUOqfmBs-7eNMrwrlm8KUuXgVOE0NUkAYAsO2u59TDNy4lXTBW0X9AHWWi-XgJy-o64vMemNf&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Vbh0A29o0oR1MBXS1XkA2A&amp;_nc_ss=7b289&amp;oh=00_AQC7jhIklqxw0DNbgUTme6KPqBNwbzvPqJizz6uWCDmDMQ&amp;oe=6A79A17B"/>
       </media:group>
     </item>
     <item>
@@ -240,8 +229,8 @@
       <category>Open Source</category>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/565130010_785216494329337_302671122406187281_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=tlNEVy-iLfcQ7kNvwH_z51v&amp;_nc_oc=AdqhKGZxs138aYgAEWOJ-a6lXJT7hfEGbajqIDbVXyc9rqjTzIToZtf3v7ZSTYGC3Lih9zQlSiijfE84gY7aDUE2&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=QHv5EV_LXv8B75Jaw8rBbw&amp;_nc_ss=7b289&amp;oh=00_AQBrEQBBB-b4LAMl3hP2SJfXj0Lfaf60Guyu_T-Mx9Hk5g&amp;oe=6A7C6205" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/565130010_785216494329337_302671122406187281_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=tlNEVy-iLfcQ7kNvwH_z51v&amp;_nc_oc=AdqhKGZxs138aYgAEWOJ-a6lXJT7hfEGbajqIDbVXyc9rqjTzIToZtf3v7ZSTYGC3Lih9zQlSiijfE84gY7aDUE2&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=QHv5EV_LXv8B75Jaw8rBbw&amp;_nc_ss=7b289&amp;oh=00_AQBrEQBBB-b4LAMl3hP2SJfXj0Lfaf60Guyu_T-Mx9Hk5g&amp;oe=6A7C6205"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/565130010_785216494329337_302671122406187281_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1t-D_amGPIoQ7kNvwGrjpXL&amp;_nc_oc=Ado4JsdUktwLf7nSJpglJmhZUaKIhpmgYyapZfE7-MlhKit48F01WQRFSN1EsmR2E_vlPRYIE_uR2YjHM9GTr9KV&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Vbh0A29o0oR1MBXS1XkA2A&amp;_nc_ss=7b289&amp;oh=00_AQABiQH0RHyw97v35zKxUHWrRPSlHRoO9XZM8jHj3mw06A&amp;oe=6A79BF05" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/565130010_785216494329337_302671122406187281_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1t-D_amGPIoQ7kNvwGrjpXL&amp;_nc_oc=Ado4JsdUktwLf7nSJpglJmhZUaKIhpmgYyapZfE7-MlhKit48F01WQRFSN1EsmR2E_vlPRYIE_uR2YjHM9GTr9KV&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Vbh0A29o0oR1MBXS1XkA2A&amp;_nc_ss=7b289&amp;oh=00_AQABiQH0RHyw97v35zKxUHWrRPSlHRoO9XZM8jHj3mw06A&amp;oe=6A79BF05"/>
       </media:group>
     </item>
     <item>
@@ -252,8 +241,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/532059419_1159626692796432_4760051607316339037_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jR_j8P-sDgAQ7kNvwFRTgAz&amp;_nc_oc=Adr7Lkx4pfGDxI9aCqSd4NPc8OPIR9LDDt9rUTYJuVZgCtXMiHIcXMrgmTtodstlOkjC2C1FWE1ba7HTD5DqzyVt&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=I9PgQeHdxYvoAIE5Qo0sUg&amp;_nc_ss=7b289&amp;oh=00_AQAgm2YrBR6fVbOTb9OpDkrKfy8V9NAbaDqNT9RFxVSPbA&amp;oe=6A7C4E53" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/532059419_1159626692796432_4760051607316339037_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jR_j8P-sDgAQ7kNvwFRTgAz&amp;_nc_oc=Adr7Lkx4pfGDxI9aCqSd4NPc8OPIR9LDDt9rUTYJuVZgCtXMiHIcXMrgmTtodstlOkjC2C1FWE1ba7HTD5DqzyVt&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=I9PgQeHdxYvoAIE5Qo0sUg&amp;_nc_ss=7b289&amp;oh=00_AQAgm2YrBR6fVbOTb9OpDkrKfy8V9NAbaDqNT9RFxVSPbA&amp;oe=6A7C4E53"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/532059419_1159626692796432_4760051607316339037_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=JQMo6wCRQmYQ7kNvwFEOiW0&amp;_nc_oc=AdrcQoHDz4nMujNGb4UYWNNPoKRVRQbxua-kp3UxaQlBsXu4gdADpsPPNjscL07b5ucYtwAhgAcNagHfZbYxUvcl&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Vbh0A29o0oR1MBXS1XkA2A&amp;_nc_ss=7b289&amp;oh=00_AQDc2Gzz4gnBpdZxzjSn6MG0V-ciV_eSWx26jZU_3079kw&amp;oe=6A79AB53" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/532059419_1159626692796432_4760051607316339037_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=JQMo6wCRQmYQ7kNvwFEOiW0&amp;_nc_oc=AdrcQoHDz4nMujNGb4UYWNNPoKRVRQbxua-kp3UxaQlBsXu4gdADpsPPNjscL07b5ucYtwAhgAcNagHfZbYxUvcl&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Vbh0A29o0oR1MBXS1XkA2A&amp;_nc_ss=7b289&amp;oh=00_AQDc2Gzz4gnBpdZxzjSn6MG0V-ciV_eSWx26jZU_3079kw&amp;oe=6A79AB53"/>
       </media:group>
     </item>
     <item>
@@ -264,8 +253,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/532553566_774197078627099_5292500968323138459_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=O5uSfa7LqQsQ7kNvwHV1nEk&amp;_nc_oc=AdqDG8jiaBiq4TzA6Xz6KbH_L0iHEQKvvM596jBdFBfxaimEoMQRpBRktPNL_uI31FwyESA_1oR5qYxLb4Z-xO8d&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=I9PgQeHdxYvoAIE5Qo0sUg&amp;_nc_ss=7b289&amp;oh=00_AQAj5urjFhWFGawXxiB745zEYFO6ZOyQ-yaEJKVl0-KrEg&amp;oe=6A7C5F75" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/532553566_774197078627099_5292500968323138459_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=O5uSfa7LqQsQ7kNvwHV1nEk&amp;_nc_oc=AdqDG8jiaBiq4TzA6Xz6KbH_L0iHEQKvvM596jBdFBfxaimEoMQRpBRktPNL_uI31FwyESA_1oR5qYxLb4Z-xO8d&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=I9PgQeHdxYvoAIE5Qo0sUg&amp;_nc_ss=7b289&amp;oh=00_AQAj5urjFhWFGawXxiB745zEYFO6ZOyQ-yaEJKVl0-KrEg&amp;oe=6A7C5F75"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/532553566_774197078627099_5292500968323138459_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=n9KEP-VOM1IQ7kNvwEGqFVI&amp;_nc_oc=Adox0yJZM_ODTgIyJfwTBSp7wz1ZhqQ9JLCS8wfN3Qqy0wReFz1W5t146DwgFgMNci610-cNNYhtwg8Ysndn6hDm&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7VrHqtnBpSCBpYNbpLzISg&amp;_nc_ss=7b289&amp;oh=00_AQBPsO9pBhEs2JTXPu5xtA8fbv7vicVAiw8LMaQSmHkTcw&amp;oe=6A79BC75" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/532553566_774197078627099_5292500968323138459_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=n9KEP-VOM1IQ7kNvwEGqFVI&amp;_nc_oc=Adox0yJZM_ODTgIyJfwTBSp7wz1ZhqQ9JLCS8wfN3Qqy0wReFz1W5t146DwgFgMNci610-cNNYhtwg8Ysndn6hDm&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7VrHqtnBpSCBpYNbpLzISg&amp;_nc_ss=7b289&amp;oh=00_AQBPsO9pBhEs2JTXPu5xtA8fbv7vicVAiw8LMaQSmHkTcw&amp;oe=6A79BC75"/>
       </media:group>
     </item>
     <item>
@@ -276,8 +265,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/527921411_2457172288013343_1323178884043439975_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yPqZAA_l_1wQ7kNvwEcMgPf&amp;_nc_oc=Adqoqt9rd6eDQkuj22gnfjZdatt7EgNhc_SQMPe67vXJEXFHQXwcSqSWXCg7GD-Nfj9Up8rWDNXyNTPP5s_lk9uK&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=I9PgQeHdxYvoAIE5Qo0sUg&amp;_nc_ss=7b289&amp;oh=00_AQBhCKm_1QQxygBtLFLlzK5U3NzhVyQCZLoAOwYu21eGqQ&amp;oe=6A7C5C45" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/527921411_2457172288013343_1323178884043439975_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yPqZAA_l_1wQ7kNvwEcMgPf&amp;_nc_oc=Adqoqt9rd6eDQkuj22gnfjZdatt7EgNhc_SQMPe67vXJEXFHQXwcSqSWXCg7GD-Nfj9Up8rWDNXyNTPP5s_lk9uK&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=I9PgQeHdxYvoAIE5Qo0sUg&amp;_nc_ss=7b289&amp;oh=00_AQBhCKm_1QQxygBtLFLlzK5U3NzhVyQCZLoAOwYu21eGqQ&amp;oe=6A7C5C45"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/527921411_2457172288013343_1323178884043439975_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9yXEQiWVG94Q7kNvwGYKosn&amp;_nc_oc=AdrtFAX8HypuT_9A9bpcABL-QLRx4JrGzW3A8sAHtxu108P9M3RtPBsfiBjAmlKmHhtFtSoqCKwhCcX36cnWYxg7&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7VrHqtnBpSCBpYNbpLzISg&amp;_nc_ss=7b289&amp;oh=00_AQBX-n7b2k31k15ktjozRw-kaOOgglNSeCg3OMjf_vs09Q&amp;oe=6A79B945" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/527921411_2457172288013343_1323178884043439975_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9yXEQiWVG94Q7kNvwGYKosn&amp;_nc_oc=AdrtFAX8HypuT_9A9bpcABL-QLRx4JrGzW3A8sAHtxu108P9M3RtPBsfiBjAmlKmHhtFtSoqCKwhCcX36cnWYxg7&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7VrHqtnBpSCBpYNbpLzISg&amp;_nc_ss=7b289&amp;oh=00_AQBX-n7b2k31k15ktjozRw-kaOOgglNSeCg3OMjf_vs09Q&amp;oe=6A79B945"/>
       </media:group>
     </item>
     <item>
@@ -288,8 +277,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/531962783_1221397443074543_4195342750351180590_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=dMy59Cg2nWoQ7kNvwFeBd54&amp;_nc_oc=Adr8dR2jmYubinMhfMDOM6RzM6hmMxX78mn9Ra5ZvHn9OsqT7YlZ1QwXWNmsr4Fbks8o7Gc0vmbHMYt2F2HoXtAd&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=I9PgQeHdxYvoAIE5Qo0sUg&amp;_nc_ss=7b289&amp;oh=00_AQCBsrRu12lzwv-kJV1dgXS1PLSiXLxMNNvl7mo-xM_M_g&amp;oe=6A7C7BA9" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/531962783_1221397443074543_4195342750351180590_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=dMy59Cg2nWoQ7kNvwFeBd54&amp;_nc_oc=Adr8dR2jmYubinMhfMDOM6RzM6hmMxX78mn9Ra5ZvHn9OsqT7YlZ1QwXWNmsr4Fbks8o7Gc0vmbHMYt2F2HoXtAd&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=I9PgQeHdxYvoAIE5Qo0sUg&amp;_nc_ss=7b289&amp;oh=00_AQCBsrRu12lzwv-kJV1dgXS1PLSiXLxMNNvl7mo-xM_M_g&amp;oe=6A7C7BA9"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/531962783_1221397443074543_4195342750351180590_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=tBkqWXcbqvgQ7kNvwHkE24q&amp;_nc_oc=AdpDGo0aLwuTwtiah5zuhLHFLIQUeSbxfwoJXHAt98n_EC9_GQELkiwxl1nJABi55W26HaWFu-verfHONu5484R3&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7VrHqtnBpSCBpYNbpLzISg&amp;_nc_ss=7b289&amp;oh=00_AQAGKyEhIZN1RNWPiP6b5U8ShAMV3dkeM9DpFSzK6TXMqg&amp;oe=6A79A069" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/531962783_1221397443074543_4195342750351180590_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=tBkqWXcbqvgQ7kNvwHkE24q&amp;_nc_oc=AdpDGo0aLwuTwtiah5zuhLHFLIQUeSbxfwoJXHAt98n_EC9_GQELkiwxl1nJABi55W26HaWFu-verfHONu5484R3&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7VrHqtnBpSCBpYNbpLzISg&amp;_nc_ss=7b289&amp;oh=00_AQAGKyEhIZN1RNWPiP6b5U8ShAMV3dkeM9DpFSzK6TXMqg&amp;oe=6A79A069"/>
       </media:group>
     </item>
     <item>
@@ -300,8 +289,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/528410853_4083892945184275_6100634806326674200_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yNLuSAlxW8IQ7kNvwH1wHQR&amp;_nc_oc=Adp1NRSRRGkvceJ0qRzNYqw62iJHPz3YV4mxgLMYrgoRoWKcdjf1cw5JyMQZVUJWtxIneVnWVtXdKAZ-Ul2DarzS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=ft2c1O2CleyP3OOmpfdC5A&amp;_nc_ss=7b289&amp;oh=00_AQB5cEwrwg2Wbz2DgEblr2fplKaYsnKUSBzxwfH7bRAAcw&amp;oe=6A7C50B7" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/528410853_4083892945184275_6100634806326674200_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yNLuSAlxW8IQ7kNvwH1wHQR&amp;_nc_oc=Adp1NRSRRGkvceJ0qRzNYqw62iJHPz3YV4mxgLMYrgoRoWKcdjf1cw5JyMQZVUJWtxIneVnWVtXdKAZ-Ul2DarzS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=ft2c1O2CleyP3OOmpfdC5A&amp;_nc_ss=7b289&amp;oh=00_AQB5cEwrwg2Wbz2DgEblr2fplKaYsnKUSBzxwfH7bRAAcw&amp;oe=6A7C50B7"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/528410853_4083892945184275_6100634806326674200_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yNLuSAlxW8IQ7kNvwGxg7H1&amp;_nc_oc=AdrN2ByoOufWwjYtEKmX8Bv4GHSmVL2O2ANO5Pd7pGFeC82UI-fGh3AvOTrKjkdxr1EPsFdeafCbpGCYlWVyYkbr&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7VrHqtnBpSCBpYNbpLzISg&amp;_nc_ss=7b289&amp;oh=00_AQDB81_r30x6__3vGovPBr6yS9SwPnJgFPA8oS8sCdaWrg&amp;oe=6A79ADB7" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/528410853_4083892945184275_6100634806326674200_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yNLuSAlxW8IQ7kNvwGxg7H1&amp;_nc_oc=AdrN2ByoOufWwjYtEKmX8Bv4GHSmVL2O2ANO5Pd7pGFeC82UI-fGh3AvOTrKjkdxr1EPsFdeafCbpGCYlWVyYkbr&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7VrHqtnBpSCBpYNbpLzISg&amp;_nc_ss=7b289&amp;oh=00_AQDB81_r30x6__3vGovPBr6yS9SwPnJgFPA8oS8sCdaWrg&amp;oe=6A79ADB7"/>
       </media:group>
     </item>
     <item>
@@ -312,8 +301,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/525911517_763583199523319_1148911740457961155_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Yg6WyD2A-_cQ7kNvwE2QYlw&amp;_nc_oc=AdqUNZI42ns9U7Fu0hlImrJqupnt7DbBSxzq13qEGl_9x7rkjwWSELUH8OjGH_aLEG6Mz6D6Rs9w28BspgVXvfAj&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=ft2c1O2CleyP3OOmpfdC5A&amp;_nc_ss=7b289&amp;oh=00_AQC_5tFwQ1K23_hQbWF6yeRfP0o8C8t2VjrOahh-8cwEyQ&amp;oe=6A7C5C98" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/525911517_763583199523319_1148911740457961155_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Yg6WyD2A-_cQ7kNvwE2QYlw&amp;_nc_oc=AdqUNZI42ns9U7Fu0hlImrJqupnt7DbBSxzq13qEGl_9x7rkjwWSELUH8OjGH_aLEG6Mz6D6Rs9w28BspgVXvfAj&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=ft2c1O2CleyP3OOmpfdC5A&amp;_nc_ss=7b289&amp;oh=00_AQC_5tFwQ1K23_hQbWF6yeRfP0o8C8t2VjrOahh-8cwEyQ&amp;oe=6A7C5C98"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/525911517_763583199523319_1148911740457961155_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Yg6WyD2A-_cQ7kNvwGsgaeH&amp;_nc_oc=AdqLgZ_aSmYDyXU9VMNMxNdakf6scBnEjnT1n7x9yZ5QGh_OEaPPfgxtjdYqNDixblzfatCywC6QqYlzG153t8mc&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=U1rfZ68wbPXzikOp7HIvHA&amp;_nc_ss=7b289&amp;oh=00_AQC3KPkaRcCxP3xoJaSbStE6b2X048_MZwtNfJ-5WfeODg&amp;oe=6A79B998" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/525911517_763583199523319_1148911740457961155_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Yg6WyD2A-_cQ7kNvwGsgaeH&amp;_nc_oc=AdqLgZ_aSmYDyXU9VMNMxNdakf6scBnEjnT1n7x9yZ5QGh_OEaPPfgxtjdYqNDixblzfatCywC6QqYlzG153t8mc&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=U1rfZ68wbPXzikOp7HIvHA&amp;_nc_ss=7b289&amp;oh=00_AQC3KPkaRcCxP3xoJaSbStE6b2X048_MZwtNfJ-5WfeODg&amp;oe=6A79B998"/>
       </media:group>
     </item>
     <item>
@@ -324,8 +313,8 @@
       <category>Open Source</category>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/519420961_903925431933844_6571497333803218581_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=3YnZ8HreRNoQ7kNvwEW3j63&amp;_nc_oc=AdoZTzEr0aI0DkkV-wXARa0fHhXiDW8vD9nasoZ55VRqp6-2wHjorVN9x1f4CQ7wQdU70ALHgjp16hCYgheGeFxa&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=ft2c1O2CleyP3OOmpfdC5A&amp;_nc_ss=7b289&amp;oh=00_AQC9IW9JL2VhE4ofj2SEOmg5RerqjOcFVOP1SC2ontdQlQ&amp;oe=6A7C7A85" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/519420961_903925431933844_6571497333803218581_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=3YnZ8HreRNoQ7kNvwEW3j63&amp;_nc_oc=AdoZTzEr0aI0DkkV-wXARa0fHhXiDW8vD9nasoZ55VRqp6-2wHjorVN9x1f4CQ7wQdU70ALHgjp16hCYgheGeFxa&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=ft2c1O2CleyP3OOmpfdC5A&amp;_nc_ss=7b289&amp;oh=00_AQC9IW9JL2VhE4ofj2SEOmg5RerqjOcFVOP1SC2ontdQlQ&amp;oe=6A7C7A85"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/519420961_903925431933844_6571497333803218581_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=K9L26n3IikAQ7kNvwHWfQLh&amp;_nc_oc=AdoreNF7ia0x9JkLCnj2a1eNpLtQ-aBFFivtx2e9QhMC-KddoSL5LnfnVS8DBe4YkX-962CTTGr55K8IEJdyJBVq&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=U1rfZ68wbPXzikOp7HIvHA&amp;_nc_ss=7b289&amp;oh=00_AQAHNavHiPxUmQvjks-VRi9qk58qyPZQzRjD94LMptSOoA&amp;oe=6A799F45" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/519420961_903925431933844_6571497333803218581_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=K9L26n3IikAQ7kNvwHWfQLh&amp;_nc_oc=AdoreNF7ia0x9JkLCnj2a1eNpLtQ-aBFFivtx2e9QhMC-KddoSL5LnfnVS8DBe4YkX-962CTTGr55K8IEJdyJBVq&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=U1rfZ68wbPXzikOp7HIvHA&amp;_nc_ss=7b289&amp;oh=00_AQAHNavHiPxUmQvjks-VRi9qk58qyPZQzRjD94LMptSOoA&amp;oe=6A799F45"/>
       </media:group>
     </item>
     <item>
@@ -335,8 +324,8 @@
       <category>Open Source</category>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/513299632_1777929793108543_6083053408152212084_n.gif?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=3V4NZg-bizsQ7kNvwGTnfde&amp;_nc_oc=AdrNOntRoZud8IQuRoynZRdD87OQ9nrCvYBbW4kJq5oJJf6fBNCb7S0YC-uJVc-HbkvX-I8AoNAgEWCk6UlZSjLf&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=ft2c1O2CleyP3OOmpfdC5A&amp;_nc_ss=7b289&amp;oh=00_AQCzgT5uEwMc7bTedDgGLCOYLFRUEPTFKClIAIUMng9ckg&amp;oe=6A7C5740" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/513299632_1777929793108543_6083053408152212084_n.gif?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=3V4NZg-bizsQ7kNvwGTnfde&amp;_nc_oc=AdrNOntRoZud8IQuRoynZRdD87OQ9nrCvYBbW4kJq5oJJf6fBNCb7S0YC-uJVc-HbkvX-I8AoNAgEWCk6UlZSjLf&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=ft2c1O2CleyP3OOmpfdC5A&amp;_nc_ss=7b289&amp;oh=00_AQCzgT5uEwMc7bTedDgGLCOYLFRUEPTFKClIAIUMng9ckg&amp;oe=6A7C5740"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/513299632_1777929793108543_6083053408152212084_n.gif?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=rGS5b28aWiQQ7kNvwFp7AVr&amp;_nc_oc=AdqxPPUTFcD80sx2-pxuWPkTEQSbfV78Xmg_ZQkC_p8Q0WB4ZPNvMicM1kfVKKFYszXMSIkjE6xG9jRPZyZ6ty7L&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=U1rfZ68wbPXzikOp7HIvHA&amp;_nc_ss=7b289&amp;oh=00_AQCTvqkYVBiI737UGYNvRTcta1Pc_3huBuL1Optg22wTfw&amp;oe=6A79B440" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/513299632_1777929793108543_6083053408152212084_n.gif?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=rGS5b28aWiQQ7kNvwFp7AVr&amp;_nc_oc=AdqxPPUTFcD80sx2-pxuWPkTEQSbfV78Xmg_ZQkC_p8Q0WB4ZPNvMicM1kfVKKFYszXMSIkjE6xG9jRPZyZ6ty7L&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=U1rfZ68wbPXzikOp7HIvHA&amp;_nc_ss=7b289&amp;oh=00_AQCTvqkYVBiI737UGYNvRTcta1Pc_3huBuL1Optg22wTfw&amp;oe=6A79B440"/>
       </media:group>
     </item>
     <item>
@@ -347,8 +336,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/506435837_623618166663466_4115418445989642949_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=c5xofcQo_oAQ7kNvwFGXUH9&amp;_nc_oc=Adp9H8JeTg7_YL7Qmsxk7-DGBXyOeUCeVKVpvUOCRGV0zMhDUpAOLUia2-hCGJODuonCGPHGnmN5P54KB7onKvut&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=gt4xYJwPfadie35jDX23pA&amp;_nc_ss=7b289&amp;oh=00_AQCIgD-r0EkFp5zFGR6He_-mkZgZfhyls5Za82SNw7uO0g&amp;oe=6A7C7F04" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/506435837_623618166663466_4115418445989642949_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=c5xofcQo_oAQ7kNvwFGXUH9&amp;_nc_oc=Adp9H8JeTg7_YL7Qmsxk7-DGBXyOeUCeVKVpvUOCRGV0zMhDUpAOLUia2-hCGJODuonCGPHGnmN5P54KB7onKvut&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=gt4xYJwPfadie35jDX23pA&amp;_nc_ss=7b289&amp;oh=00_AQCIgD-r0EkFp5zFGR6He_-mkZgZfhyls5Za82SNw7uO0g&amp;oe=6A7C7F04"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/506435837_623618166663466_4115418445989642949_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VOAzQ13DqoIQ7kNvwEciCMg&amp;_nc_oc=AdqbjSKJZ5cyCOYJ9u6bV5Codur2IAFxMGIrvqkRqp9Q6GOGzeIHl1ZGlenPA_DFamZC82hU-c1K4Sops-jCCl8E&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=U1rfZ68wbPXzikOp7HIvHA&amp;_nc_ss=7b289&amp;oh=00_AQChIW0Zol4852z5KW7nTH-NrkgZgvAbokuRe815Mov59g&amp;oe=6A79A3C4" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/506435837_623618166663466_4115418445989642949_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VOAzQ13DqoIQ7kNvwEciCMg&amp;_nc_oc=AdqbjSKJZ5cyCOYJ9u6bV5Codur2IAFxMGIrvqkRqp9Q6GOGzeIHl1ZGlenPA_DFamZC82hU-c1K4Sops-jCCl8E&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=U1rfZ68wbPXzikOp7HIvHA&amp;_nc_ss=7b289&amp;oh=00_AQChIW0Zol4852z5KW7nTH-NrkgZgvAbokuRe815Mov59g&amp;oe=6A79A3C4"/>
       </media:group>
     </item>
     <item>
@@ -359,8 +348,8 @@
       <category>Large Language Model</category>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/507991940_2503258366721326_3148808797188197104_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=E84zsOoJCbgQ7kNvwFeOtR8&amp;_nc_oc=AdpZOX2JtlkG6tGFoqqF7MshzG9-tUV0RzOecl1aex_AF0f6zNz1uLBTEl7sNGRg8MSGdx9MCiajD55-YZbzVx9b&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=gt4xYJwPfadie35jDX23pA&amp;_nc_ss=7b289&amp;oh=00_AQB99S_2UY4bRgFeioyyMSno5VRkL9sw7OOMJvXAqSUuiw&amp;oe=6A7C7C03" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/507991940_2503258366721326_3148808797188197104_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=E84zsOoJCbgQ7kNvwFeOtR8&amp;_nc_oc=AdpZOX2JtlkG6tGFoqqF7MshzG9-tUV0RzOecl1aex_AF0f6zNz1uLBTEl7sNGRg8MSGdx9MCiajD55-YZbzVx9b&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=gt4xYJwPfadie35jDX23pA&amp;_nc_ss=7b289&amp;oh=00_AQB99S_2UY4bRgFeioyyMSno5VRkL9sw7OOMJvXAqSUuiw&amp;oe=6A7C7C03"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/507991940_2503258366721326_3148808797188197104_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=vdOl0cn1tSsQ7kNvwEzf55g&amp;_nc_oc=Ado2hw3c5ApjQgpTzLQRVIoBNeLgYAmE6WSZqnfPKs1m30RiI3MGUPlEb_tV3Xg8QsPXx_Uq9voecWtBa_Mw-t9Z&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=q2GmbyS5EseNNPhZMHkG5w&amp;_nc_ss=7b289&amp;oh=00_AQDo1gsV7PcJld7YsPT_HStFyrKWl4zhCFmBQ_omiGtDug&amp;oe=6A79A0C3" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/507991940_2503258366721326_3148808797188197104_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=vdOl0cn1tSsQ7kNvwEzf55g&amp;_nc_oc=Ado2hw3c5ApjQgpTzLQRVIoBNeLgYAmE6WSZqnfPKs1m30RiI3MGUPlEb_tV3Xg8QsPXx_Uq9voecWtBa_Mw-t9Z&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=q2GmbyS5EseNNPhZMHkG5w&amp;_nc_ss=7b289&amp;oh=00_AQDo1gsV7PcJld7YsPT_HStFyrKWl4zhCFmBQ_omiGtDug&amp;oe=6A79A0C3"/>
       </media:group>
     </item>
     <item>
@@ -371,8 +360,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/504788816_1208173911008707_3714412997070718731_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=FrHZ4gOEosEQ7kNvwEu3Bb-&amp;_nc_oc=AdrTeDtgLTQaxwHJ7vEQfDCQIenqn0DYLO6vEWppcfD4PGdwwjDa22WU1aXv9bg7lSxv5hoNrePEpeujT0Btqz0E&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=gt4xYJwPfadie35jDX23pA&amp;_nc_ss=7b289&amp;oh=00_AQDEFAfwoLsfzkJlUKEAWDJJQOjrd5J6RMO4YWNFiwlRKw&amp;oe=6A7C7AF2" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/504788816_1208173911008707_3714412997070718731_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=FrHZ4gOEosEQ7kNvwEu3Bb-&amp;_nc_oc=AdrTeDtgLTQaxwHJ7vEQfDCQIenqn0DYLO6vEWppcfD4PGdwwjDa22WU1aXv9bg7lSxv5hoNrePEpeujT0Btqz0E&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=gt4xYJwPfadie35jDX23pA&amp;_nc_ss=7b289&amp;oh=00_AQDEFAfwoLsfzkJlUKEAWDJJQOjrd5J6RMO4YWNFiwlRKw&amp;oe=6A7C7AF2"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/504788816_1208173911008707_3714412997070718731_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Gt6CgtfM7dkQ7kNvwEzVjp6&amp;_nc_oc=AdoLgbykjIY2qWoMjIjZ6C4V1x7XELse6WRjS_c9f2hF61_Y52SfqC6skVPvANnUIwz6HRGiuKeha9os362dpETb&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=q2GmbyS5EseNNPhZMHkG5w&amp;_nc_ss=7b289&amp;oh=00_AQB5-19781-GBJkZevcKbppcgluCH_1S7e6oKL-bWVp1EQ&amp;oe=6A799FB2" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/504788816_1208173911008707_3714412997070718731_n.gif?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Gt6CgtfM7dkQ7kNvwEzVjp6&amp;_nc_oc=AdoLgbykjIY2qWoMjIjZ6C4V1x7XELse6WRjS_c9f2hF61_Y52SfqC6skVPvANnUIwz6HRGiuKeha9os362dpETb&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=q2GmbyS5EseNNPhZMHkG5w&amp;_nc_ss=7b289&amp;oh=00_AQB5-19781-GBJkZevcKbppcgluCH_1S7e6oKL-bWVp1EQ&amp;oe=6A799FB2"/>
       </media:group>
     </item>
     <item>
@@ -383,8 +372,8 @@
       <category>Computer Vision</category>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/503840852_1356809175421153_4577550651855465362_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jLo3gqwx-agQ7kNvwHnvhyV&amp;_nc_oc=AdpaFEVk3Wgq4g_Cu5-kOafc6uPeKxIQoT-NLR85dRoHKa7rPgy7Yw4uj95wMHslZeRD6oXrOGKl_L6rD_5RL9nP&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=gt4xYJwPfadie35jDX23pA&amp;_nc_ss=7b289&amp;oh=00_AQB_Pd7OGvRXk_DGfZF3Mz-AbNiWjdUJyaxxsyg2vj_ICQ&amp;oe=6A7C657F" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/503840852_1356809175421153_4577550651855465362_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jLo3gqwx-agQ7kNvwHnvhyV&amp;_nc_oc=AdpaFEVk3Wgq4g_Cu5-kOafc6uPeKxIQoT-NLR85dRoHKa7rPgy7Yw4uj95wMHslZeRD6oXrOGKl_L6rD_5RL9nP&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=gt4xYJwPfadie35jDX23pA&amp;_nc_ss=7b289&amp;oh=00_AQB_Pd7OGvRXk_DGfZF3Mz-AbNiWjdUJyaxxsyg2vj_ICQ&amp;oe=6A7C657F"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/503840852_1356809175421153_4577550651855465362_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=WaVKXY3FH-MQ7kNvwGnYLDH&amp;_nc_oc=AdqF54a_xsWOAo57H_K9iqh7sa_j0lvjp0BL10FxhJuvBY3S7aSCmzfwYOryMjFoRbrmvWWF5pEriojJN49tclMT&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=q2GmbyS5EseNNPhZMHkG5w&amp;_nc_ss=7b289&amp;oh=00_AQD8nv8ED3hC62Hrki_4h9qlJ4kdKDWom_67Fz-l2x3yWw&amp;oe=6A79C27F" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/503840852_1356809175421153_4577550651855465362_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=WaVKXY3FH-MQ7kNvwGnYLDH&amp;_nc_oc=AdqF54a_xsWOAo57H_K9iqh7sa_j0lvjp0BL10FxhJuvBY3S7aSCmzfwYOryMjFoRbrmvWWF5pEriojJN49tclMT&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=q2GmbyS5EseNNPhZMHkG5w&amp;_nc_ss=7b289&amp;oh=00_AQD8nv8ED3hC62Hrki_4h9qlJ4kdKDWom_67Fz-l2x3yWw&amp;oe=6A79C27F"/>
       </media:group>
     </item>
     <item>
@@ -395,8 +384,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/499922417_1384263996247312_415429031181363111_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=QwV6_ol8rOkQ7kNvwENXBAo&amp;_nc_oc=Adq_hN9MkNKhsaO4AYcODaPj4KvLenBS1PMi1At-RMJxCtPoYNuOEbYWZkXBcQ1yv3RPfRcLyQnHzOgX5ONEw96e&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=mhitKxxp-CQswPoSQFS57g&amp;_nc_ss=7b289&amp;oh=00_AQA2tTeHf1_wu7Bt0MTy30U3Oo6vTSFunIqhomZag63Qzg&amp;oe=6A7C7193" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/499922417_1384263996247312_415429031181363111_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=QwV6_ol8rOkQ7kNvwENXBAo&amp;_nc_oc=Adq_hN9MkNKhsaO4AYcODaPj4KvLenBS1PMi1At-RMJxCtPoYNuOEbYWZkXBcQ1yv3RPfRcLyQnHzOgX5ONEw96e&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=mhitKxxp-CQswPoSQFS57g&amp;_nc_ss=7b289&amp;oh=00_AQA2tTeHf1_wu7Bt0MTy30U3Oo6vTSFunIqhomZag63Qzg&amp;oe=6A7C7193"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/499922417_1384263996247312_415429031181363111_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=3X8tqc5i6-AQ7kNvwG_wZ-6&amp;_nc_oc=Adr8sLMsyWqL2NJFSmPxoe4VLj3xyiGDRypdfKXmFBhc1yqilwyoSslsJh6VqiAE5fQk3VVfz1Lgphmwrr7utvNZ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=q2GmbyS5EseNNPhZMHkG5w&amp;_nc_ss=7b289&amp;oh=00_AQD1m0Vhfeyfita4nm5cL9KWPhSTGEqo3HAIJss6JxOSIg&amp;oe=6A799653" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/499922417_1384263996247312_415429031181363111_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=3X8tqc5i6-AQ7kNvwG_wZ-6&amp;_nc_oc=Adr8sLMsyWqL2NJFSmPxoe4VLj3xyiGDRypdfKXmFBhc1yqilwyoSslsJh6VqiAE5fQk3VVfz1Lgphmwrr7utvNZ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=q2GmbyS5EseNNPhZMHkG5w&amp;_nc_ss=7b289&amp;oh=00_AQD1m0Vhfeyfita4nm5cL9KWPhSTGEqo3HAIJss6JxOSIg&amp;oe=6A799653"/>
       </media:group>
     </item>
     <item>
@@ -407,8 +396,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/497542937_2218508975246242_3757869616509789355_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=vMYuWkpu7YEQ7kNvwGorRl_&amp;_nc_oc=AdpFp4nWDacEpL39F3p3RnZG_nOu53DQckXlPXg7effh8MYJoIPJVhEKVXQ0AZvkxsLPDP1tJP5vqFzNZWgYgMmP&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=mhitKxxp-CQswPoSQFS57g&amp;_nc_ss=7b289&amp;oh=00_AQD1t-EtEqe6MrHMTBd2hMoyjaUREMdMt4-RE29nJox3Dg&amp;oe=6A7C5BD2" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/497542937_2218508975246242_3757869616509789355_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=vMYuWkpu7YEQ7kNvwGorRl_&amp;_nc_oc=AdpFp4nWDacEpL39F3p3RnZG_nOu53DQckXlPXg7effh8MYJoIPJVhEKVXQ0AZvkxsLPDP1tJP5vqFzNZWgYgMmP&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=mhitKxxp-CQswPoSQFS57g&amp;_nc_ss=7b289&amp;oh=00_AQD1t-EtEqe6MrHMTBd2hMoyjaUREMdMt4-RE29nJox3Dg&amp;oe=6A7C5BD2"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/497542937_2218508975246242_3757869616509789355_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=o_DzB5r9cOYQ7kNvwFd3OXJ&amp;_nc_oc=Adp94ojfmNYkAsAX1QTIAI2crTpO4RYxALHHx6cXdqFZKgAnBOnyIDX2NTONMwMF9H1HWOkBfkEwGsMsSAxrCRbJ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=HaGzkVuUe43fA9l35wxiLg&amp;_nc_ss=7b289&amp;oh=00_AQAt8Egysh7BnoKzpFp6A00TsAmc1Lf6LvyPMRpQoSgu7A&amp;oe=6A79B8D2" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/497542937_2218508975246242_3757869616509789355_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=o_DzB5r9cOYQ7kNvwFd3OXJ&amp;_nc_oc=Adp94ojfmNYkAsAX1QTIAI2crTpO4RYxALHHx6cXdqFZKgAnBOnyIDX2NTONMwMF9H1HWOkBfkEwGsMsSAxrCRbJ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=HaGzkVuUe43fA9l35wxiLg&amp;_nc_ss=7b289&amp;oh=00_AQAt8Egysh7BnoKzpFp6A00TsAmc1Lf6LvyPMRpQoSgu7A&amp;oe=6A79B8D2"/>
       </media:group>
     </item>
     <item>
@@ -419,8 +408,8 @@
       <category>Open Source</category>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494134411_699401399234633_1333780142842534318_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=TEHqCheO9rYQ7kNvwGY24yt&amp;_nc_oc=AdomU0IqdZ0SAMOuRTrwQXxms2Qg92WGQtJjjt1ZnYZGzIGcKfP-PbpJWwsSS7Zab9_IDOYkdDFsF9tw31RdPqwH&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=mhitKxxp-CQswPoSQFS57g&amp;_nc_ss=7b289&amp;oh=00_AQC4t3b9rw4ebV0K53-KQ4AN58QJH30u9Ink9DiopTq24A&amp;oe=6A7C6C46" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494134411_699401399234633_1333780142842534318_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=TEHqCheO9rYQ7kNvwGY24yt&amp;_nc_oc=AdomU0IqdZ0SAMOuRTrwQXxms2Qg92WGQtJjjt1ZnYZGzIGcKfP-PbpJWwsSS7Zab9_IDOYkdDFsF9tw31RdPqwH&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=mhitKxxp-CQswPoSQFS57g&amp;_nc_ss=7b289&amp;oh=00_AQC4t3b9rw4ebV0K53-KQ4AN58QJH30u9Ink9DiopTq24A&amp;oe=6A7C6C46"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494134411_699401399234633_1333780142842534318_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=2ya5Lgb-_D8Q7kNvwFpBCjb&amp;_nc_oc=AdqQSYFkFsSjzWyJbZAfq7e6Sdx8UDcsliwMqRxtn9qo5m_xslMDb03Juo2tFaI_8GHv_DhhXSJEmiGAB3zp-GY2&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=HaGzkVuUe43fA9l35wxiLg&amp;_nc_ss=7b289&amp;oh=00_AQDKwaQOPn531JC-4fMHxUm9em5kmavoGTkEtGBZA0212Q&amp;oe=6A79C946" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494134411_699401399234633_1333780142842534318_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=2ya5Lgb-_D8Q7kNvwFpBCjb&amp;_nc_oc=AdqQSYFkFsSjzWyJbZAfq7e6Sdx8UDcsliwMqRxtn9qo5m_xslMDb03Juo2tFaI_8GHv_DhhXSJEmiGAB3zp-GY2&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=HaGzkVuUe43fA9l35wxiLg&amp;_nc_ss=7b289&amp;oh=00_AQDKwaQOPn531JC-4fMHxUm9em5kmavoGTkEtGBZA0212Q&amp;oe=6A79C946"/>
       </media:group>
     </item>
     <item>
@@ -431,8 +420,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494869291_675722388414399_3920867064992224787_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=2O53i9cBZ7IQ7kNvwGh7-0d&amp;_nc_oc=AdoxKij63FX-n_GuMTBpPYCFSeJHdfs6msZKVBA3dNy-9TCDsXLl9Sqalj8joLeAWwHhYAWVf5MkJ3IL6kaRMjJB&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Muit-3A2NDWxJIPQPBnIDA&amp;_nc_ss=7b289&amp;oh=00_AQChFh7pT_TaWeh9Pbqde1B5dL1dZtdP_MgU24YAdyx7qA&amp;oe=6A7C7E2E" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494869291_675722388414399_3920867064992224787_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=2O53i9cBZ7IQ7kNvwGh7-0d&amp;_nc_oc=AdoxKij63FX-n_GuMTBpPYCFSeJHdfs6msZKVBA3dNy-9TCDsXLl9Sqalj8joLeAWwHhYAWVf5MkJ3IL6kaRMjJB&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Muit-3A2NDWxJIPQPBnIDA&amp;_nc_ss=7b289&amp;oh=00_AQChFh7pT_TaWeh9Pbqde1B5dL1dZtdP_MgU24YAdyx7qA&amp;oe=6A7C7E2E"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494869291_675722388414399_3920867064992224787_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=2O53i9cBZ7IQ7kNvwEYOjnf&amp;_nc_oc=Adr7wQcnbgBZrwscI8_YujSBi3ej0xr76muK3t9H7SakRbl8GRt8W2M0kHerevTP7AgiTCsD6S3_pMz71q7X7MHy&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=HaGzkVuUe43fA9l35wxiLg&amp;_nc_ss=7b289&amp;oh=00_AQBNnwamQmx8Ssn9L8wTDjzKkbDQR9FFtpEcj8zy0wvkbQ&amp;oe=6A79A2EE" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494869291_675722388414399_3920867064992224787_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=2O53i9cBZ7IQ7kNvwEYOjnf&amp;_nc_oc=Adr7wQcnbgBZrwscI8_YujSBi3ej0xr76muK3t9H7SakRbl8GRt8W2M0kHerevTP7AgiTCsD6S3_pMz71q7X7MHy&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=HaGzkVuUe43fA9l35wxiLg&amp;_nc_ss=7b289&amp;oh=00_AQBNnwamQmx8Ssn9L8wTDjzKkbDQR9FFtpEcj8zy0wvkbQ&amp;oe=6A79A2EE"/>
       </media:group>
     </item>
     <item>
@@ -443,8 +432,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494446574_684303637887364_271333996116083632_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=udTQAjZXyzoQ7kNvwEqiVrQ&amp;_nc_oc=AdrZQfSqgfllOwalUvzbYMU35FQNzZncftDRfhRIvu-HyjFPYzYijvZ0m9EWsJl2o48gZIYYCxAKGHxl8PS97WWz&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=mhitKxxp-CQswPoSQFS57g&amp;_nc_ss=7b289&amp;oh=00_AQBlMHhoFh-RYRlrTqJdwoCYap_baFdvxPUSH8HUoQMSbA&amp;oe=6A7C6E1B" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494446574_684303637887364_271333996116083632_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=udTQAjZXyzoQ7kNvwEqiVrQ&amp;_nc_oc=AdrZQfSqgfllOwalUvzbYMU35FQNzZncftDRfhRIvu-HyjFPYzYijvZ0m9EWsJl2o48gZIYYCxAKGHxl8PS97WWz&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=mhitKxxp-CQswPoSQFS57g&amp;_nc_ss=7b289&amp;oh=00_AQBlMHhoFh-RYRlrTqJdwoCYap_baFdvxPUSH8HUoQMSbA&amp;oe=6A7C6E1B"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494446574_684303637887364_271333996116083632_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Mzn36ydowzEQ7kNvwEtUdtS&amp;_nc_oc=Adoyj_nX4ru4XFqjYqQ_8UcT-mCIR4mkUCXD4virULK2A1lGNdWHCShloGExQZcXESb1BfeVVPyv5Y0niR3S8Gig&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=HaGzkVuUe43fA9l35wxiLg&amp;_nc_ss=7b289&amp;oh=00_AQBQqYQZK5lMxIt655EVXI2hbp4jXLcGXadsb8nIH0rTrw&amp;oe=6A79CB1B" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/494446574_684303637887364_271333996116083632_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Mzn36ydowzEQ7kNvwEtUdtS&amp;_nc_oc=Adoyj_nX4ru4XFqjYqQ_8UcT-mCIR4mkUCXD4virULK2A1lGNdWHCShloGExQZcXESb1BfeVVPyv5Y0niR3S8Gig&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=HaGzkVuUe43fA9l35wxiLg&amp;_nc_ss=7b289&amp;oh=00_AQBQqYQZK5lMxIt655EVXI2hbp4jXLcGXadsb8nIH0rTrw&amp;oe=6A79CB1B"/>
       </media:group>
     </item>
     <item>
@@ -455,8 +444,8 @@
       <category>Open Source</category>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/493340882_1363289474727356_6058337847885698893_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=nWFgLapgPk4Q7kNvwFKrulH&amp;_nc_oc=AdoF0JLhWpaBSxrtqluMEiNki2f4hd2q6AIE8G5_1PJTwy1egwWWjHtSC4IlyvMXfZRjAiWQFe3tkc9M9daCTkxp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Muit-3A2NDWxJIPQPBnIDA&amp;_nc_ss=7b289&amp;oh=00_AQDJPZWWnk7996kDGaDi6v8aB2l9r9hH4qErmF2V4kO5KQ&amp;oe=6A7C7AB2" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/493340882_1363289474727356_6058337847885698893_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=nWFgLapgPk4Q7kNvwFKrulH&amp;_nc_oc=AdoF0JLhWpaBSxrtqluMEiNki2f4hd2q6AIE8G5_1PJTwy1egwWWjHtSC4IlyvMXfZRjAiWQFe3tkc9M9daCTkxp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Muit-3A2NDWxJIPQPBnIDA&amp;_nc_ss=7b289&amp;oh=00_AQDJPZWWnk7996kDGaDi6v8aB2l9r9hH4qErmF2V4kO5KQ&amp;oe=6A7C7AB2"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/493340882_1363289474727356_6058337847885698893_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=8Hl-gL6bkUkQ7kNvwGpuKeH&amp;_nc_oc=AdqRMoCWYyS0Ln3K50t-hGsMoY_L7WPdeT4D0DY3luWkPDwn259g9nYwLmvNNKOA7fvKp_mz5YxmqLUEo3qNPyso&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=0DjLcIsKYpg_syMHb93T5g&amp;_nc_ss=7b289&amp;oh=00_AQDm2YqIcizJeOMT4RIhHjluArZ2qXYWIflwJY1oTCzQtg&amp;oe=6A799F72" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/493340882_1363289474727356_6058337847885698893_n.png?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=8Hl-gL6bkUkQ7kNvwGpuKeH&amp;_nc_oc=AdqRMoCWYyS0Ln3K50t-hGsMoY_L7WPdeT4D0DY3luWkPDwn259g9nYwLmvNNKOA7fvKp_mz5YxmqLUEo3qNPyso&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=0DjLcIsKYpg_syMHb93T5g&amp;_nc_ss=7b289&amp;oh=00_AQDm2YqIcizJeOMT4RIhHjluArZ2qXYWIflwJY1oTCzQtg&amp;oe=6A799F72"/>
       </media:group>
     </item>
     <item>
@@ -467,8 +456,8 @@
       <category>Open Source</category>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/490414961_1240604227411923_2781313039051156303_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=t1KvyGSd9CIQ7kNvwFyZ5WG&amp;_nc_oc=AdrS0kDXKF05fydclQ-t3tHCq9EBECPnk8GQGBev97ADIOO71CPGkW6gsl2sTh2nfVkX7pCXc0CY25uFSU8yu943&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Muit-3A2NDWxJIPQPBnIDA&amp;_nc_ss=7b289&amp;oh=00_AQBrZdouaoU75-X9fudn4EueuLHy73QTx_jDHBMQNSKszg&amp;oe=6A7C4DF5" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/490414961_1240604227411923_2781313039051156303_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=t1KvyGSd9CIQ7kNvwFyZ5WG&amp;_nc_oc=AdrS0kDXKF05fydclQ-t3tHCq9EBECPnk8GQGBev97ADIOO71CPGkW6gsl2sTh2nfVkX7pCXc0CY25uFSU8yu943&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Muit-3A2NDWxJIPQPBnIDA&amp;_nc_ss=7b289&amp;oh=00_AQBrZdouaoU75-X9fudn4EueuLHy73QTx_jDHBMQNSKszg&amp;oe=6A7C4DF5"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/490414961_1240604227411923_2781313039051156303_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=eh3icfusTeUQ7kNvwE5sXXg&amp;_nc_oc=AdqT6eNc9YKsyS41KjuRWgtlVvAZlFpCH2vwHj-mr_yjw8wLQnIfDc67iUCDMVLZVBTwpBG4K1ls40x4-GTTCso2&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=0DjLcIsKYpg_syMHb93T5g&amp;_nc_ss=7b289&amp;oh=00_AQALWloUWZ2nmL5-M4PZZRm4sQ9jDDdyIG1espWIokWs5w&amp;oe=6A79AAF5" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/490414961_1240604227411923_2781313039051156303_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=eh3icfusTeUQ7kNvwE5sXXg&amp;_nc_oc=AdqT6eNc9YKsyS41KjuRWgtlVvAZlFpCH2vwHj-mr_yjw8wLQnIfDc67iUCDMVLZVBTwpBG4K1ls40x4-GTTCso2&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=0DjLcIsKYpg_syMHb93T5g&amp;_nc_ss=7b289&amp;oh=00_AQALWloUWZ2nmL5-M4PZZRm4sQ9jDDdyIG1espWIokWs5w&amp;oe=6A79AAF5"/>
       </media:group>
     </item>
     <item>
@@ -479,8 +468,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/491803555_608552825565351_6160270902190253619_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=H9c1HqVNbbYQ7kNvwFV4CAm&amp;_nc_oc=Adr-pQz42ru4Yrf8gfV9DWxmZvj9RNlzAaxgdlfFwkzi1oFgdc6EnG4rri1y2WPsk10YhF4HMcXE5KvEzCaSa_mM&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Muit-3A2NDWxJIPQPBnIDA&amp;_nc_ss=7b289&amp;oh=00_AQCgPDl3CuH860K0m5m3Jw5xC4Xa_hzEYiSjx-Ly5Z99-A&amp;oe=6A7C52B3" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/491803555_608552825565351_6160270902190253619_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=H9c1HqVNbbYQ7kNvwFV4CAm&amp;_nc_oc=Adr-pQz42ru4Yrf8gfV9DWxmZvj9RNlzAaxgdlfFwkzi1oFgdc6EnG4rri1y2WPsk10YhF4HMcXE5KvEzCaSa_mM&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Muit-3A2NDWxJIPQPBnIDA&amp;_nc_ss=7b289&amp;oh=00_AQCgPDl3CuH860K0m5m3Jw5xC4Xa_hzEYiSjx-Ly5Z99-A&amp;oe=6A7C52B3"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/491803555_608552825565351_6160270902190253619_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1pofb2zpZWoQ7kNvwH6vMQF&amp;_nc_oc=AdqJth0y7NXke7yDyHghfZonyPLtilI2xf4x2N2HE23y2fnYScJzv5vN_nfNI4L28FKnJjgudviAbdkwcNmmtIEl&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=0DjLcIsKYpg_syMHb93T5g&amp;_nc_ss=7b289&amp;oh=00_AQBOTLff9hhwC58u26D46l9iTyDTJh8AANOiepaway1Eow&amp;oe=6A79AFB3" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/491803555_608552825565351_6160270902190253619_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1pofb2zpZWoQ7kNvwH6vMQF&amp;_nc_oc=AdqJth0y7NXke7yDyHghfZonyPLtilI2xf4x2N2HE23y2fnYScJzv5vN_nfNI4L28FKnJjgudviAbdkwcNmmtIEl&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=0DjLcIsKYpg_syMHb93T5g&amp;_nc_ss=7b289&amp;oh=00_AQBOTLff9hhwC58u26D46l9iTyDTJh8AANOiepaway1Eow&amp;oe=6A79AFB3"/>
       </media:group>
     </item>
     <item>
@@ -491,8 +480,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/492216842_576463918172339_3408275426150658552_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=08OLfabHmyQQ7kNvwEM5Zaz&amp;_nc_oc=Adpugc9nlFlwBsJf1HBmEK5RrCQf7nrfDGJpxGmZOIWeOW0HnM1pXwtUSNsyJMRLocgkh3kctSufUoRPBgd-LK7L&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=x5b36akOqio7OMXXkHo17w&amp;_nc_ss=7b289&amp;oh=00_AQC8RNLod7_v2wqLimRJv9RQUMyn05Mjjr-5zcKdA8qWMg&amp;oe=6A7C7E56" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/492216842_576463918172339_3408275426150658552_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=08OLfabHmyQQ7kNvwEM5Zaz&amp;_nc_oc=Adpugc9nlFlwBsJf1HBmEK5RrCQf7nrfDGJpxGmZOIWeOW0HnM1pXwtUSNsyJMRLocgkh3kctSufUoRPBgd-LK7L&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=x5b36akOqio7OMXXkHo17w&amp;_nc_ss=7b289&amp;oh=00_AQC8RNLod7_v2wqLimRJv9RQUMyn05Mjjr-5zcKdA8qWMg&amp;oe=6A7C7E56"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/492216842_576463918172339_3408275426150658552_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=08OLfabHmyQQ7kNvwFihCs0&amp;_nc_oc=Adqrm0sn6-Kxgk6olNLlP41fMbUpiB_wvZ65c1nFSoAjZNHaXU4g93ZPSDXNoOPD0iTfug4onP-8G_RMagmKONbq&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=0DjLcIsKYpg_syMHb93T5g&amp;_nc_ss=7b289&amp;oh=00_AQCcZz7w6b3vlSM9PKqavt5AcspsA-BhfpvQ8LdsHiWTtQ&amp;oe=6A79A316" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/492216842_576463918172339_3408275426150658552_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=08OLfabHmyQQ7kNvwFihCs0&amp;_nc_oc=Adqrm0sn6-Kxgk6olNLlP41fMbUpiB_wvZ65c1nFSoAjZNHaXU4g93ZPSDXNoOPD0iTfug4onP-8G_RMagmKONbq&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=0DjLcIsKYpg_syMHb93T5g&amp;_nc_ss=7b289&amp;oh=00_AQCcZz7w6b3vlSM9PKqavt5AcspsA-BhfpvQ8LdsHiWTtQ&amp;oe=6A79A316"/>
       </media:group>
     </item>
     <item>
@@ -503,8 +492,8 @@
       <category>Large Language Model</category>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/488639590_2182781778834283_7341615399691839509_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=mMiZxQ7tZwAQ7kNvwF2U3ez&amp;_nc_oc=Adrbqc6ADJzP61JF5i73GDJYhEuNPc4z7suBWgfcY7RwitpwAlYHAhDtyXt8LHWo_lZ9_ujoWKCU6vHpoGGSsRIa&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=x5b36akOqio7OMXXkHo17w&amp;_nc_ss=7b289&amp;oh=00_AQBgK10PcDfeFFs0HPIEZJQFA1BaKC1XxPRyAvYrIj8wqA&amp;oe=6A7C51E0" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/488639590_2182781778834283_7341615399691839509_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=mMiZxQ7tZwAQ7kNvwF2U3ez&amp;_nc_oc=Adrbqc6ADJzP61JF5i73GDJYhEuNPc4z7suBWgfcY7RwitpwAlYHAhDtyXt8LHWo_lZ9_ujoWKCU6vHpoGGSsRIa&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=x5b36akOqio7OMXXkHo17w&amp;_nc_ss=7b289&amp;oh=00_AQBgK10PcDfeFFs0HPIEZJQFA1BaKC1XxPRyAvYrIj8wqA&amp;oe=6A7C51E0"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/488639590_2182781778834283_7341615399691839509_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=glXKdPZ-npAQ7kNvwE-7AhS&amp;_nc_oc=AdqfQhcaEbUukPH0boPTWTYGH5EomcWOa4l8_CCwZLtoMXvvRwaCt1y0KHa6smItab2wYQMo0VvmXepvTXKZOb0Z&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=adGF3o12O-1pYWhVayWrcw&amp;_nc_ss=7b289&amp;oh=00_AQCC3xpljwDYSTE89js6lIBlFRs64uaqv5q460xGqc7KLA&amp;oe=6A79AEE0" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/488639590_2182781778834283_7341615399691839509_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=glXKdPZ-npAQ7kNvwE-7AhS&amp;_nc_oc=AdqfQhcaEbUukPH0boPTWTYGH5EomcWOa4l8_CCwZLtoMXvvRwaCt1y0KHa6smItab2wYQMo0VvmXepvTXKZOb0Z&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=adGF3o12O-1pYWhVayWrcw&amp;_nc_ss=7b289&amp;oh=00_AQCC3xpljwDYSTE89js6lIBlFRs64uaqv5q460xGqc7KLA&amp;oe=6A79AEE0"/>
       </media:group>
     </item>
     <item>
@@ -515,8 +504,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/488586469_9970779082933104_8207881810600772950_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=XFSapSAjTdwQ7kNvwFy_2bp&amp;_nc_oc=AdpQwmaBTTKp43tTti69vF6UzFVXNryOJ4C1xHBDEd1CyUG1lgwI90p7pUUfQ3T2rytNo4nTY_6r6LNz3iYZb827&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=x5b36akOqio7OMXXkHo17w&amp;_nc_ss=7b289&amp;oh=00_AQBO6nmrRjwoW8mUkJGFL8F0ymwWtZOH3q8uIX0o2X0TvQ&amp;oe=6A7C4E45" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/488586469_9970779082933104_8207881810600772950_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=XFSapSAjTdwQ7kNvwFy_2bp&amp;_nc_oc=AdpQwmaBTTKp43tTti69vF6UzFVXNryOJ4C1xHBDEd1CyUG1lgwI90p7pUUfQ3T2rytNo4nTY_6r6LNz3iYZb827&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=x5b36akOqio7OMXXkHo17w&amp;_nc_ss=7b289&amp;oh=00_AQBO6nmrRjwoW8mUkJGFL8F0ymwWtZOH3q8uIX0o2X0TvQ&amp;oe=6A7C4E45"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/488586469_9970779082933104_8207881810600772950_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=MFdVPOGqAi8Q7kNvwF-kMF0&amp;_nc_oc=Adqd01yte-O4Rt0d3uwVpoNt1IRdbjhasR5jgSB9J4oEXLsXf7s5tGB0dAMQLJFSkP2GqkquuEVvf6DF81lViLLk&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=adGF3o12O-1pYWhVayWrcw&amp;_nc_ss=7b289&amp;oh=00_AQBQAbf3Vx85LhNzOb6xV1vzHzmDfyvzPGgAewBoWiWV_w&amp;oe=6A79AB45" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/488586469_9970779082933104_8207881810600772950_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=MFdVPOGqAi8Q7kNvwF-kMF0&amp;_nc_oc=Adqd01yte-O4Rt0d3uwVpoNt1IRdbjhasR5jgSB9J4oEXLsXf7s5tGB0dAMQLJFSkP2GqkquuEVvf6DF81lViLLk&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=adGF3o12O-1pYWhVayWrcw&amp;_nc_ss=7b289&amp;oh=00_AQBQAbf3Vx85LhNzOb6xV1vzHzmDfyvzPGgAewBoWiWV_w&amp;oe=6A79AB45"/>
       </media:group>
     </item>
     <item>
@@ -527,8 +516,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/484929527_989202926647838_7881924869305321776_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=dX3iRXbmar0Q7kNvwEMGZ8G&amp;_nc_oc=AdqM7x8Xq2WHorNMAmvWdbJ7pkwjwHoGMZyYOVk09vCQhlZtfDAJcZpCvWiXvVFsgBwWsb8w9V-Hl0En-PfCohxV&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=x5b36akOqio7OMXXkHo17w&amp;_nc_ss=7b289&amp;oh=00_AQAp36JQf_Ye_SEkHlUSgoXW--TX3knuxSiH0de6vjz_fQ&amp;oe=6A7C620E" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/484929527_989202926647838_7881924869305321776_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=dX3iRXbmar0Q7kNvwEMGZ8G&amp;_nc_oc=AdqM7x8Xq2WHorNMAmvWdbJ7pkwjwHoGMZyYOVk09vCQhlZtfDAJcZpCvWiXvVFsgBwWsb8w9V-Hl0En-PfCohxV&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=x5b36akOqio7OMXXkHo17w&amp;_nc_ss=7b289&amp;oh=00_AQAp36JQf_Ye_SEkHlUSgoXW--TX3knuxSiH0de6vjz_fQ&amp;oe=6A7C620E"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/484929527_989202926647838_7881924869305321776_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=JYZ0dZQyQBAQ7kNvwHIaGMZ&amp;_nc_oc=AdoLP6TTdC86SfbZV5Mhe5XCrHPaS2yvTFVr2IWzPTax0juZt8qpN44luqb2aLtacqN6bIpwKjhJcJACEn4trbrK&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=adGF3o12O-1pYWhVayWrcw&amp;_nc_ss=7b289&amp;oh=00_AQCLXgLLL9p-cssOH2zhv3pHEYXt56UZD_m4l2GQUOAcpA&amp;oe=6A79BF0E" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/484929527_989202926647838_7881924869305321776_n.png?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=JYZ0dZQyQBAQ7kNvwHIaGMZ&amp;_nc_oc=AdoLP6TTdC86SfbZV5Mhe5XCrHPaS2yvTFVr2IWzPTax0juZt8qpN44luqb2aLtacqN6bIpwKjhJcJACEn4trbrK&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=adGF3o12O-1pYWhVayWrcw&amp;_nc_ss=7b289&amp;oh=00_AQCLXgLLL9p-cssOH2zhv3pHEYXt56UZD_m4l2GQUOAcpA&amp;oe=6A79BF0E"/>
       </media:group>
     </item>
     <item>
@@ -539,8 +528,8 @@
       <category>Open Source</category>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481235374_1166958361738624_685709197379928348_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=K6Wxl_g9PIMQ7kNvwEbd9mp&amp;_nc_oc=AdrgCmGnjj8HojCnF-1GiaexTuPhGRf1uh6pbgjI9P68DQJRQNTEqRWYRwUcLqO7GWyPt9-WcqX61lkU2RCEOmmE&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7O2_dPXvq2UPqVs2ExMtoA&amp;_nc_ss=7b289&amp;oh=00_AQBdTBBjAdCOnR0u9vQCG03L3_iyS_xC3MHbohG63NI8HQ&amp;oe=6A7C57B2" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481235374_1166958361738624_685709197379928348_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=K6Wxl_g9PIMQ7kNvwEbd9mp&amp;_nc_oc=AdrgCmGnjj8HojCnF-1GiaexTuPhGRf1uh6pbgjI9P68DQJRQNTEqRWYRwUcLqO7GWyPt9-WcqX61lkU2RCEOmmE&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7O2_dPXvq2UPqVs2ExMtoA&amp;_nc_ss=7b289&amp;oh=00_AQBdTBBjAdCOnR0u9vQCG03L3_iyS_xC3MHbohG63NI8HQ&amp;oe=6A7C57B2"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481235374_1166958361738624_685709197379928348_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=K6Wxl_g9PIMQ7kNvwFwbLg7&amp;_nc_oc=AdozFoUkjVxIZeEtzmPCm0o3o8aF5RP3M7q-7J2531rfWJzRCse8Zk8rnzeO311-4qSnNVHA16t6B6FfcPqRzqV5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=P-sB0wztOwtFEE0qUBThSg&amp;_nc_ss=7b289&amp;oh=00_AQBrzqJAyGO5-h8O_OgRDOTzcobh76zsA5d1jR9pgHYDHA&amp;oe=6A79B4B2" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481235374_1166958361738624_685709197379928348_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=K6Wxl_g9PIMQ7kNvwFwbLg7&amp;_nc_oc=AdozFoUkjVxIZeEtzmPCm0o3o8aF5RP3M7q-7J2531rfWJzRCse8Zk8rnzeO311-4qSnNVHA16t6B6FfcPqRzqV5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=P-sB0wztOwtFEE0qUBThSg&amp;_nc_ss=7b289&amp;oh=00_AQBrzqJAyGO5-h8O_OgRDOTzcobh76zsA5d1jR9pgHYDHA&amp;oe=6A79B4B2"/>
       </media:group>
     </item>
     <item>
@@ -551,8 +540,8 @@
       <category>Open Source</category>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/484065280_638766765464592_8309880061157933235_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=DJl-v1RnUOoQ7kNvwEAbhYH&amp;_nc_oc=AdoFqFzzuaN2K3R-vh9ws3GNUmMUq4VCqX32Ns4jbAmlJMRgsL9m4Yg_xAUXk7dmad74QrTmuFczjRNnBcwT41rp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7O2_dPXvq2UPqVs2ExMtoA&amp;_nc_ss=7b289&amp;oh=00_AQCh9wUfKVmTMtF7UTqLVraoPjXLApswtdN1SsUGzN_E5Q&amp;oe=6A7C615E" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/484065280_638766765464592_8309880061157933235_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=DJl-v1RnUOoQ7kNvwEAbhYH&amp;_nc_oc=AdoFqFzzuaN2K3R-vh9ws3GNUmMUq4VCqX32Ns4jbAmlJMRgsL9m4Yg_xAUXk7dmad74QrTmuFczjRNnBcwT41rp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7O2_dPXvq2UPqVs2ExMtoA&amp;_nc_ss=7b289&amp;oh=00_AQCh9wUfKVmTMtF7UTqLVraoPjXLApswtdN1SsUGzN_E5Q&amp;oe=6A7C615E"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/484065280_638766765464592_8309880061157933235_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Y9a6HH3YBuIQ7kNvwFCnxA-&amp;_nc_oc=AdpFsGHZqXUBTzJQeyuni3MVxdvSzJepmitERIAXIpMmr8qz8Cja6gyrdWhU-ACjxfCoNEdAX72UQI3Vf1TXv1Ri&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=adGF3o12O-1pYWhVayWrcw&amp;_nc_ss=7b289&amp;oh=00_AQBnD63KamvFD8V3GhkeB7Ruwp1nDWxKaDk9zgLHXSvKVg&amp;oe=6A79BE5E" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/484065280_638766765464592_8309880061157933235_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=Y9a6HH3YBuIQ7kNvwFCnxA-&amp;_nc_oc=AdpFsGHZqXUBTzJQeyuni3MVxdvSzJepmitERIAXIpMmr8qz8Cja6gyrdWhU-ACjxfCoNEdAX72UQI3Vf1TXv1Ri&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=adGF3o12O-1pYWhVayWrcw&amp;_nc_ss=7b289&amp;oh=00_AQBnD63KamvFD8V3GhkeB7Ruwp1nDWxKaDk9zgLHXSvKVg&amp;oe=6A79BE5E"/>
       </media:group>
     </item>
     <item>
@@ -563,8 +552,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476430290_986685453399809_7599704609713723291_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=adM0WdY3uNIQ7kNvwFkhFAz&amp;_nc_oc=AdqbFjErlSwtMqbKqeb1qcqH2vGUiycS2gR2dJ_qMOJ9pToyJaiWcB5_mT86LIhpnd10xanLD68pS6KvBMaOmMs5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7O2_dPXvq2UPqVs2ExMtoA&amp;_nc_ss=7b289&amp;oh=00_AQCjM1mVFKfT5P5Zj7aOvbOu7XzKkj9457as5urbmNlhmw&amp;oe=6A7C5327" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476430290_986685453399809_7599704609713723291_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=adM0WdY3uNIQ7kNvwFkhFAz&amp;_nc_oc=AdqbFjErlSwtMqbKqeb1qcqH2vGUiycS2gR2dJ_qMOJ9pToyJaiWcB5_mT86LIhpnd10xanLD68pS6KvBMaOmMs5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7O2_dPXvq2UPqVs2ExMtoA&amp;_nc_ss=7b289&amp;oh=00_AQCjM1mVFKfT5P5Zj7aOvbOu7XzKkj9457as5urbmNlhmw&amp;oe=6A7C5327"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476430290_986685453399809_7599704609713723291_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=adM0WdY3uNIQ7kNvwHTVt3L&amp;_nc_oc=AdoNNQK7G25SfzfInf6ToWvWjyo0cbDRV0nO0kyx3FUgNjYidxDe0JGL3hc4q6W8qpCwzBy7eONmX8w1EbAu_cAt&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=P-sB0wztOwtFEE0qUBThSg&amp;_nc_ss=7b289&amp;oh=00_AQAXlm_HY1j5elmAjOTmj9yGmo9dCukK_lnBqlQ1KitjNA&amp;oe=6A79B027" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476430290_986685453399809_7599704609713723291_n.png?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=adM0WdY3uNIQ7kNvwHTVt3L&amp;_nc_oc=AdoNNQK7G25SfzfInf6ToWvWjyo0cbDRV0nO0kyx3FUgNjYidxDe0JGL3hc4q6W8qpCwzBy7eONmX8w1EbAu_cAt&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=P-sB0wztOwtFEE0qUBThSg&amp;_nc_ss=7b289&amp;oh=00_AQAXlm_HY1j5elmAjOTmj9yGmo9dCukK_lnBqlQ1KitjNA&amp;oe=6A79B027"/>
       </media:group>
     </item>
     <item>
@@ -575,8 +564,8 @@
       <category></category>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481715129_947451144215761_9024520131796679257_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=BFXq8DHqSDQQ7kNvwEOzUmE&amp;_nc_oc=AdreCtiJRE18NlsA38KHj0m436dillghGICpDj1iVWy74LmkIsMxWCIoeNeqBR46eiQh46uvi5ylqCRypngqvu83&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7O2_dPXvq2UPqVs2ExMtoA&amp;_nc_ss=7b289&amp;oh=00_AQCrQs1SVlbjmIARetVeTaTX95CMnc27KHfeECpc0PvY4g&amp;oe=6A7C66B0" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481715129_947451144215761_9024520131796679257_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=BFXq8DHqSDQQ7kNvwEOzUmE&amp;_nc_oc=AdreCtiJRE18NlsA38KHj0m436dillghGICpDj1iVWy74LmkIsMxWCIoeNeqBR46eiQh46uvi5ylqCRypngqvu83&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=7O2_dPXvq2UPqVs2ExMtoA&amp;_nc_ss=7b289&amp;oh=00_AQCrQs1SVlbjmIARetVeTaTX95CMnc27KHfeECpc0PvY4g&amp;oe=6A7C66B0"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481715129_947451144215761_9024520131796679257_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1DC6aH_rDsAQ7kNvwGxrtfR&amp;_nc_oc=AdoCd1tNEwjsABfrcBU7KFT_PevHQzbyts9eHt9FRYPHBUL-WJ3NzIccUPw3U1DmegaGZD-74X92vh8mgQrb20e-&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=P-sB0wztOwtFEE0qUBThSg&amp;_nc_ss=7b289&amp;oh=00_AQDbKMf7nIWc1R1w45vmoocpB6KOssfKkkw5S20HfwSDqg&amp;oe=6A79C3B0" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481715129_947451144215761_9024520131796679257_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1DC6aH_rDsAQ7kNvwGxrtfR&amp;_nc_oc=AdoCd1tNEwjsABfrcBU7KFT_PevHQzbyts9eHt9FRYPHBUL-WJ3NzIccUPw3U1DmegaGZD-74X92vh8mgQrb20e-&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=P-sB0wztOwtFEE0qUBThSg&amp;_nc_ss=7b289&amp;oh=00_AQDbKMf7nIWc1R1w45vmoocpB6KOssfKkkw5S20HfwSDqg&amp;oe=6A79C3B0"/>
       </media:group>
     </item>
     <item>
@@ -587,8 +576,8 @@
       <category></category>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481189099_422310184277360_5922276941421368133_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yU6e1ZXrlYQQ7kNvwGA5a-7&amp;_nc_oc=AdoFRJ-NZmf-yxiT9dmrJXwNdsOVmhj8zIN2yhZ_W3VjGQ5_l5Plm84H0jJ7FvQs2eiIQFsS8hXufTUKdNWlOf-J&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=XMt8J1faT8y6Vyy_6zJ8kQ&amp;_nc_ss=7b289&amp;oh=00_AQA5TXzIpog2YEGVBu-n0XwUC0p7NYshsr8ECATvDbiv2w&amp;oe=6A7C7777" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481189099_422310184277360_5922276941421368133_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yU6e1ZXrlYQQ7kNvwGA5a-7&amp;_nc_oc=AdoFRJ-NZmf-yxiT9dmrJXwNdsOVmhj8zIN2yhZ_W3VjGQ5_l5Plm84H0jJ7FvQs2eiIQFsS8hXufTUKdNWlOf-J&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=XMt8J1faT8y6Vyy_6zJ8kQ&amp;_nc_ss=7b289&amp;oh=00_AQA5TXzIpog2YEGVBu-n0XwUC0p7NYshsr8ECATvDbiv2w&amp;oe=6A7C7777"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481189099_422310184277360_5922276941421368133_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yU6e1ZXrlYQQ7kNvwHkpaEp&amp;_nc_oc=AdphfKH4AduUiCV5nf-vWIrt0nbMy64u8ILf6LjRPIGIQYxR0-_lnriUdEvl9ubKjjWUm96ZxczVeLg4lxr854cL&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=P-sB0wztOwtFEE0qUBThSg&amp;_nc_ss=7b289&amp;oh=00_AQBy6KfAf4D98gmjM8YBzwHW6XNRewVrE-9qMmHXJpKLgA&amp;oe=6A799C37" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481189099_422310184277360_5922276941421368133_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yU6e1ZXrlYQQ7kNvwHkpaEp&amp;_nc_oc=AdphfKH4AduUiCV5nf-vWIrt0nbMy64u8ILf6LjRPIGIQYxR0-_lnriUdEvl9ubKjjWUm96ZxczVeLg4lxr854cL&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=P-sB0wztOwtFEE0qUBThSg&amp;_nc_ss=7b289&amp;oh=00_AQBy6KfAf4D98gmjM8YBzwHW6XNRewVrE-9qMmHXJpKLgA&amp;oe=6A799C37"/>
       </media:group>
     </item>
     <item>
@@ -599,8 +588,8 @@
       <category>Open Source</category>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480457472_530944076174486_7354825982659691759_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fOCc4oaBkV8Q7kNvwGsPHo0&amp;_nc_oc=Adrl6okbZ4KeAxyAaOdg6zkPLsmYm_UAleseeMiJPwZo7DID0grYmzQTjzyiq052t8uzCRwuHdplvyXohdfauEKW&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=XMt8J1faT8y6Vyy_6zJ8kQ&amp;_nc_ss=7b289&amp;oh=00_AQDasXsTCHZOh3BWhvVBl00DiesUt7LpuSS5U8SGAIZQcw&amp;oe=6A7C6514" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480457472_530944076174486_7354825982659691759_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fOCc4oaBkV8Q7kNvwGsPHo0&amp;_nc_oc=Adrl6okbZ4KeAxyAaOdg6zkPLsmYm_UAleseeMiJPwZo7DID0grYmzQTjzyiq052t8uzCRwuHdplvyXohdfauEKW&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=XMt8J1faT8y6Vyy_6zJ8kQ&amp;_nc_ss=7b289&amp;oh=00_AQDasXsTCHZOh3BWhvVBl00DiesUt7LpuSS5U8SGAIZQcw&amp;oe=6A7C6514"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480457472_530944076174486_7354825982659691759_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fOCc4oaBkV8Q7kNvwFHuv6c&amp;_nc_oc=Adoqgmtk3tp22E8XOHmT5foCrNviLMuecaD7-uwum77IlEyKRvJ9kZyGfp5BwH91G8sn5SYYW3nz8YjeDf1Lti7t&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=8ouJXkO-UeYf9rqCM7RLYA&amp;_nc_ss=7b289&amp;oh=00_AQBQh-D2p-n5XAaBEj8YU1P91B5PVBOUjUf1HWVAYo3ZAA&amp;oe=6A79C214" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480457472_530944076174486_7354825982659691759_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fOCc4oaBkV8Q7kNvwFHuv6c&amp;_nc_oc=Adoqgmtk3tp22E8XOHmT5foCrNviLMuecaD7-uwum77IlEyKRvJ9kZyGfp5BwH91G8sn5SYYW3nz8YjeDf1Lti7t&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=8ouJXkO-UeYf9rqCM7RLYA&amp;_nc_ss=7b289&amp;oh=00_AQBQh-D2p-n5XAaBEj8YU1P91B5PVBOUjUf1HWVAYo3ZAA&amp;oe=6A79C214"/>
       </media:group>
     </item>
     <item>
@@ -611,8 +600,8 @@
       <category></category>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480460718_649637170770478_3994719197111548806_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=04YlSWVOFHkQ7kNvwGbAGAY&amp;_nc_oc=AdpB0D6D6cIt1amLtDvpUP1OGbfrip-UlBjZBjJ2ZR99cTmgGg6HW4IIsaAcpDBK_p8y_IUb8yu4d0rAmUt350eS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=XMt8J1faT8y6Vyy_6zJ8kQ&amp;_nc_ss=7b289&amp;oh=00_AQA983XoM3JN6J-CA907QsXCA1Ebi4ng16mbO6C-eS4e8w&amp;oe=6A7C56A7" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480460718_649637170770478_3994719197111548806_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=04YlSWVOFHkQ7kNvwGbAGAY&amp;_nc_oc=AdpB0D6D6cIt1amLtDvpUP1OGbfrip-UlBjZBjJ2ZR99cTmgGg6HW4IIsaAcpDBK_p8y_IUb8yu4d0rAmUt350eS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=XMt8J1faT8y6Vyy_6zJ8kQ&amp;_nc_ss=7b289&amp;oh=00_AQA983XoM3JN6J-CA907QsXCA1Ebi4ng16mbO6C-eS4e8w&amp;oe=6A7C56A7"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480460718_649637170770478_3994719197111548806_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=5NfUEn2oWeoQ7kNvwFsUowx&amp;_nc_oc=Adoy58f3WyQRWV4HI4yJHrTjaYR086a_rfD2f5YQ0RSd6R6ytHSl92jjDY5dBPzxcQjTVMqvCV5f-m08kOyDgrWl&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=8ouJXkO-UeYf9rqCM7RLYA&amp;_nc_ss=7b289&amp;oh=00_AQBLO4WjWJ1MZCqALazcNdUs5NDA3UhRI7EUv7vRj_fJsg&amp;oe=6A79B3A7" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480460718_649637170770478_3994719197111548806_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=5NfUEn2oWeoQ7kNvwFsUowx&amp;_nc_oc=Adoy58f3WyQRWV4HI4yJHrTjaYR086a_rfD2f5YQ0RSd6R6ytHSl92jjDY5dBPzxcQjTVMqvCV5f-m08kOyDgrWl&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=8ouJXkO-UeYf9rqCM7RLYA&amp;_nc_ss=7b289&amp;oh=00_AQBLO4WjWJ1MZCqALazcNdUs5NDA3UhRI7EUv7vRj_fJsg&amp;oe=6A79B3A7"/>
       </media:group>
     </item>
     <item>
@@ -623,8 +612,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480438918_3035965436565756_2227604333898547542_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=QHlQhAkyPbEQ7kNvwGbUXCr&amp;_nc_oc=AdoAH0VTzQSNanGcqqxrv-gPKeoctqSwobe0OL055M3cKHTnYZUHPNwIWKxw0HycRqRDhUGMAzZclBEJIv7moT5E&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=csGorsnbI2v3ekS1SOyi8g&amp;_nc_ss=7b289&amp;oh=00_AQCEtg1GS-04bNNrv-4b4oCh-_CHqRqTZOcNukPTid7gmw&amp;oe=6A7C5C18" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480438918_3035965436565756_2227604333898547542_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=QHlQhAkyPbEQ7kNvwGbUXCr&amp;_nc_oc=AdoAH0VTzQSNanGcqqxrv-gPKeoctqSwobe0OL055M3cKHTnYZUHPNwIWKxw0HycRqRDhUGMAzZclBEJIv7moT5E&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=csGorsnbI2v3ekS1SOyi8g&amp;_nc_ss=7b289&amp;oh=00_AQCEtg1GS-04bNNrv-4b4oCh-_CHqRqTZOcNukPTid7gmw&amp;oe=6A7C5C18"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480438918_3035965436565756_2227604333898547542_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=QHlQhAkyPbEQ7kNvwGTaXwY&amp;_nc_oc=AdqiQvoQtVSMuf3cdm2M9HcXYHZHs9yehbfM02oSvbSxwYhXDnwl7eH63sWPd8L3nuOGMCM4ZhzNTiYiHz5jnfMo&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=8ouJXkO-UeYf9rqCM7RLYA&amp;_nc_ss=7b289&amp;oh=00_AQDLGL18s9rddFzFpcD27AU0ZFOeQSZ91vwfZg9JY4C86A&amp;oe=6A79B918" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480438918_3035965436565756_2227604333898547542_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=QHlQhAkyPbEQ7kNvwGTaXwY&amp;_nc_oc=AdqiQvoQtVSMuf3cdm2M9HcXYHZHs9yehbfM02oSvbSxwYhXDnwl7eH63sWPd8L3nuOGMCM4ZhzNTiYiHz5jnfMo&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=8ouJXkO-UeYf9rqCM7RLYA&amp;_nc_ss=7b289&amp;oh=00_AQDLGL18s9rddFzFpcD27AU0ZFOeQSZ91vwfZg9JY4C86A&amp;oe=6A79B918"/>
       </media:group>
     </item>
     <item>
@@ -635,8 +624,8 @@
       <category></category>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480572637_914797320734670_280007310711747247_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=36mB4iiycX0Q7kNvwF72gog&amp;_nc_oc=Adpj4e6phNE1j0L9uq9M3qFikt_LA65zGIrlvNe7uKo59ZYGsBUZ93Xc92429591cSuteClVXJbMNyXVXWez8mHx&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=XMt8J1faT8y6Vyy_6zJ8kQ&amp;_nc_ss=7b289&amp;oh=00_AQAmRc-SNKNcKaPPUnkWtOBLrjy55OvQom6tEdUDNDPkxw&amp;oe=6A7C6A20" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480572637_914797320734670_280007310711747247_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=36mB4iiycX0Q7kNvwF72gog&amp;_nc_oc=Adpj4e6phNE1j0L9uq9M3qFikt_LA65zGIrlvNe7uKo59ZYGsBUZ93Xc92429591cSuteClVXJbMNyXVXWez8mHx&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=XMt8J1faT8y6Vyy_6zJ8kQ&amp;_nc_ss=7b289&amp;oh=00_AQAmRc-SNKNcKaPPUnkWtOBLrjy55OvQom6tEdUDNDPkxw&amp;oe=6A7C6A20"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480572637_914797320734670_280007310711747247_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=36mB4iiycX0Q7kNvwGxtkun&amp;_nc_oc=Ado2X7Z-6GxrY9jZIqTF7ntA96B-gjjjJP8O0aiO1pBFVBRayvErK_-wAh6oHwM19FZRTeS2doU4dIt9KXV8aaKy&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=8ouJXkO-UeYf9rqCM7RLYA&amp;_nc_ss=7b289&amp;oh=00_AQDwXUx8Vd7aHGxjVlI2Sojy3djguvdx_Av1bBFFjz1Euw&amp;oe=6A79C720" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/480572637_914797320734670_280007310711747247_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=36mB4iiycX0Q7kNvwGxtkun&amp;_nc_oc=Ado2X7Z-6GxrY9jZIqTF7ntA96B-gjjjJP8O0aiO1pBFVBRayvErK_-wAh6oHwM19FZRTeS2doU4dIt9KXV8aaKy&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=8ouJXkO-UeYf9rqCM7RLYA&amp;_nc_ss=7b289&amp;oh=00_AQDwXUx8Vd7aHGxjVlI2Sojy3djguvdx_Av1bBFFjz1Euw&amp;oe=6A79C720"/>
       </media:group>
     </item>
     <item>
@@ -647,8 +636,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481248376_2043767466047615_6586752919560908169_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=i1aOH_omDOAQ7kNvwGfA7b9&amp;_nc_oc=Adq2cizXYrqYqXz_NwTFNpRTsX-EjUjzS2UcolyQVA83DO8zTreJYaK3NYubhSC9TvC1eg6j-Shcchd-wEc-cNvh&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=csGorsnbI2v3ekS1SOyi8g&amp;_nc_ss=7b289&amp;oh=00_AQCH13MpT1766K4EbtFwM_-uJ47OoVAnHw25hkW_5-Kzmw&amp;oe=6A7C711A" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481248376_2043767466047615_6586752919560908169_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=i1aOH_omDOAQ7kNvwGfA7b9&amp;_nc_oc=Adq2cizXYrqYqXz_NwTFNpRTsX-EjUjzS2UcolyQVA83DO8zTreJYaK3NYubhSC9TvC1eg6j-Shcchd-wEc-cNvh&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=csGorsnbI2v3ekS1SOyi8g&amp;_nc_ss=7b289&amp;oh=00_AQCH13MpT1766K4EbtFwM_-uJ47OoVAnHw25hkW_5-Kzmw&amp;oe=6A7C711A"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481248376_2043767466047615_6586752919560908169_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=i1aOH_omDOAQ7kNvwHJ9CUf&amp;_nc_oc=Adon_vfMLpuCNPB1HHgreyE223eKMP9ZdhMHc-PieSW9Bu0H0-TunjW1JUoorxsG8X-JXIExFS0XBGdszi39-P2v&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=vs8-XRyY4UD4wwKW9Ca1RQ&amp;_nc_ss=7b289&amp;oh=00_AQBNSghGIyWZWJIYJ-KgNMoc83T0liDR8wx9JhXtboFlIg&amp;oe=6A7995DA" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/481248376_2043767466047615_6586752919560908169_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=i1aOH_omDOAQ7kNvwHJ9CUf&amp;_nc_oc=Adon_vfMLpuCNPB1HHgreyE223eKMP9ZdhMHc-PieSW9Bu0H0-TunjW1JUoorxsG8X-JXIExFS0XBGdszi39-P2v&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=vs8-XRyY4UD4wwKW9Ca1RQ&amp;_nc_ss=7b289&amp;oh=00_AQBNSghGIyWZWJIYJ-KgNMoc83T0liDR8wx9JhXtboFlIg&amp;oe=6A7995DA"/>
       </media:group>
     </item>
     <item>
@@ -659,8 +648,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/452747932_1053583143002082_4713150710221877593_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=SFY94AnbxfoQ7kNvwE0vbUI&amp;_nc_oc=AdpiRcnyQ5Oz30g6EBmrNDLBinGIKuv_9_9UrvAtS57Li0U1G1w8Dynzi2NsV6PZ0bQPdy1c77g5NMvWJX0TSpJq&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=csGorsnbI2v3ekS1SOyi8g&amp;_nc_ss=7b289&amp;oh=00_AQDQJDug6F93f5KcFSUwMpcb6y-Pu4EMS_zVLTUkyGIW8A&amp;oe=6A7C5989" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/452747932_1053583143002082_4713150710221877593_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=SFY94AnbxfoQ7kNvwE0vbUI&amp;_nc_oc=AdpiRcnyQ5Oz30g6EBmrNDLBinGIKuv_9_9UrvAtS57Li0U1G1w8Dynzi2NsV6PZ0bQPdy1c77g5NMvWJX0TSpJq&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=csGorsnbI2v3ekS1SOyi8g&amp;_nc_ss=7b289&amp;oh=00_AQDQJDug6F93f5KcFSUwMpcb6y-Pu4EMS_zVLTUkyGIW8A&amp;oe=6A7C5989"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/452747932_1053583143002082_4713150710221877593_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=T5Xpi5e39uIQ7kNvwE2mvZc&amp;_nc_oc=AdpYVTpLRKqF8rgGXbf8bf6K81uxE-hiC3cJQQhgEucr4UdZq7Fj0D-qGgl8D4F74ZHJr08M66kAjtToxZdRECuS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=vs8-XRyY4UD4wwKW9Ca1RQ&amp;_nc_ss=7b289&amp;oh=00_AQAjybnUDvwSvZnx9xKcCzuCfmXsy0Z2fihPuEZ45x9a-w&amp;oe=6A79B689" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/452747932_1053583143002082_4713150710221877593_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=T5Xpi5e39uIQ7kNvwE2mvZc&amp;_nc_oc=AdpYVTpLRKqF8rgGXbf8bf6K81uxE-hiC3cJQQhgEucr4UdZq7Fj0D-qGgl8D4F74ZHJr08M66kAjtToxZdRECuS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=vs8-XRyY4UD4wwKW9Ca1RQ&amp;_nc_ss=7b289&amp;oh=00_AQAjybnUDvwSvZnx9xKcCzuCfmXsy0Z2fihPuEZ45x9a-w&amp;oe=6A79B689"/>
       </media:group>
     </item>
     <item>
@@ -671,8 +660,8 @@
       <category></category>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476846846_1065850471964076_5840774190356489879_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=YBvZAyY9xSsQ7kNvwHDHIUz&amp;_nc_oc=AdoviQc1pDKm4PNcSGImxjVnNwhPdoSuS4feH8q5OAox_ogfI8El5bXE2wndDu9OK2kdeyIfVCi5_m3rjBG5qKGI&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=csGorsnbI2v3ekS1SOyi8g&amp;_nc_ss=7b289&amp;oh=00_AQCOkfvHxtkQYnl7ZzCZ54oBO6-XswiVUeopCRoROWH5sg&amp;oe=6A7C8391" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476846846_1065850471964076_5840774190356489879_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=YBvZAyY9xSsQ7kNvwHDHIUz&amp;_nc_oc=AdoviQc1pDKm4PNcSGImxjVnNwhPdoSuS4feH8q5OAox_ogfI8El5bXE2wndDu9OK2kdeyIfVCi5_m3rjBG5qKGI&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=csGorsnbI2v3ekS1SOyi8g&amp;_nc_ss=7b289&amp;oh=00_AQCOkfvHxtkQYnl7ZzCZ54oBO6-XswiVUeopCRoROWH5sg&amp;oe=6A7C8391"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476846846_1065850471964076_5840774190356489879_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=iLnpVnP6Cl8Q7kNvwEmUMZm&amp;_nc_oc=Adqs86O0rFXbwve0dn0AN4C5oOBUh1ppe7o2z5kRmm0jjTxdPzz-MpyBtBosAYahVCtvVqR7yIU5oJGj02Bjwu5A&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=vs8-XRyY4UD4wwKW9Ca1RQ&amp;_nc_ss=7b289&amp;oh=00_AQCP9zoOmcoJbMSULrKHeE1kf0KNRfKRk6woM6-SyDx4sw&amp;oe=6A79A851" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476846846_1065850471964076_5840774190356489879_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=iLnpVnP6Cl8Q7kNvwEmUMZm&amp;_nc_oc=Adqs86O0rFXbwve0dn0AN4C5oOBUh1ppe7o2z5kRmm0jjTxdPzz-MpyBtBosAYahVCtvVqR7yIU5oJGj02Bjwu5A&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=vs8-XRyY4UD4wwKW9Ca1RQ&amp;_nc_ss=7b289&amp;oh=00_AQCP9zoOmcoJbMSULrKHeE1kf0KNRfKRk6woM6-SyDx4sw&amp;oe=6A79A851"/>
       </media:group>
     </item>
     <item>
@@ -683,8 +672,8 @@
       <category>Research</category>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475953576_2885433131755414_7907212147273826314_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=E7TlZCMn_PUQ7kNvwF8pvl7&amp;_nc_oc=AdpfG0gENzUeXgjZ_FvMmlGqnt153kl_11mNrkgkeGnjh4p2zpTbpmvd6u2xYKj0hzoq41NhRSQOHeUOsY7z8GzG&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Q6evuypp-dYiBLcPmRPKzw&amp;_nc_ss=7b289&amp;oh=00_AQBkGSVYrMmwZrTya_bdbZAWKVOxITv-rKFoFN7UbimdtQ&amp;oe=6A7C504A" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475953576_2885433131755414_7907212147273826314_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=E7TlZCMn_PUQ7kNvwF8pvl7&amp;_nc_oc=AdpfG0gENzUeXgjZ_FvMmlGqnt153kl_11mNrkgkeGnjh4p2zpTbpmvd6u2xYKj0hzoq41NhRSQOHeUOsY7z8GzG&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Q6evuypp-dYiBLcPmRPKzw&amp;_nc_ss=7b289&amp;oh=00_AQBkGSVYrMmwZrTya_bdbZAWKVOxITv-rKFoFN7UbimdtQ&amp;oe=6A7C504A"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475953576_2885433131755414_7907212147273826314_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1ZTzzXY-a-gQ7kNvwGXGzff&amp;_nc_oc=AdpwirNoFHY4JfUEZx1lY-K0_lfTOx_zSu8RKkCQQgL9Y7I_zavDj6HBsBq6Nz_CwTkUQdolJah1aTrkdF-wAmTo&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=LG2kKdkfH7SwBIVADNIWbQ&amp;_nc_ss=7b289&amp;oh=00_AQC5vEURSA6hI7GXtAdKLXDDfr5V60DglRPM_e1w_7pAnQ&amp;oe=6A79AD4A" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475953576_2885433131755414_7907212147273826314_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1ZTzzXY-a-gQ7kNvwGXGzff&amp;_nc_oc=AdpwirNoFHY4JfUEZx1lY-K0_lfTOx_zSu8RKkCQQgL9Y7I_zavDj6HBsBq6Nz_CwTkUQdolJah1aTrkdF-wAmTo&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=LG2kKdkfH7SwBIVADNIWbQ&amp;_nc_ss=7b289&amp;oh=00_AQC5vEURSA6hI7GXtAdKLXDDfr5V60DglRPM_e1w_7pAnQ&amp;oe=6A79AD4A"/>
       </media:group>
     </item>
     <item>
@@ -695,8 +684,8 @@
       <category></category>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476277621_1657111108571585_1619174158963619715_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=8xN7SzD7OfwQ7kNvwHSjwmt&amp;_nc_oc=AdpPP0BSsPed1X8Illkuikc_3ulIGxOFNwclPvMR6PhsCKouxGNs_P3XAI1_AR0AG0MLiL4GNhoyuYh07fX0ZIeO&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Q6evuypp-dYiBLcPmRPKzw&amp;_nc_ss=7b289&amp;oh=00_AQBfAcPRlmInitF8MOMZhtaRI18AK-y09_KCGuKxyRNktg&amp;oe=6A7C8479" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476277621_1657111108571585_1619174158963619715_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=8xN7SzD7OfwQ7kNvwHSjwmt&amp;_nc_oc=AdpPP0BSsPed1X8Illkuikc_3ulIGxOFNwclPvMR6PhsCKouxGNs_P3XAI1_AR0AG0MLiL4GNhoyuYh07fX0ZIeO&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Q6evuypp-dYiBLcPmRPKzw&amp;_nc_ss=7b289&amp;oh=00_AQBfAcPRlmInitF8MOMZhtaRI18AK-y09_KCGuKxyRNktg&amp;oe=6A7C8479"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476277621_1657111108571585_1619174158963619715_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=MtQ4FCKXHaIQ7kNvwHL9lkc&amp;_nc_oc=AdpEDXZIQuMZSVZcaFV8Srj_OgJqmkpnkClLTlzNLXORK7nMhkYsybaPEZItq5_2oBdQVpKdrgNvncIQR3lknhMn&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=vs8-XRyY4UD4wwKW9Ca1RQ&amp;_nc_ss=7b289&amp;oh=00_AQAxAAlU9QxPFDx25Qk2H7O8kqKX4BLGVEm7m4N5m-T7VA&amp;oe=6A79A939" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/476277621_1657111108571585_1619174158963619715_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=MtQ4FCKXHaIQ7kNvwHL9lkc&amp;_nc_oc=AdpEDXZIQuMZSVZcaFV8Srj_OgJqmkpnkClLTlzNLXORK7nMhkYsybaPEZItq5_2oBdQVpKdrgNvncIQR3lknhMn&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=vs8-XRyY4UD4wwKW9Ca1RQ&amp;_nc_ss=7b289&amp;oh=00_AQAxAAlU9QxPFDx25Qk2H7O8kqKX4BLGVEm7m4N5m-T7VA&amp;oe=6A79A939"/>
       </media:group>
     </item>
     <item>
@@ -707,8 +696,8 @@
       <category></category>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475442193_1139391954638253_4488241762301996338_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=r8rU9IH-eSIQ7kNvwGHWCHw&amp;_nc_oc=AdqGo8VcEiaKH9Y-j2hNwCJeRnDEgMFQcW9J2OMCScb_nW0Xa42dcFQF0rHNj0cLOXfwxiNgSmGGMjWR-dBpYJMp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Q6evuypp-dYiBLcPmRPKzw&amp;_nc_ss=7b289&amp;oh=00_AQDgXTJmkT-AkTovPw2wDT_ZceAam0ZVHazi2mQOKB1syw&amp;oe=6A7C7C8A" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475442193_1139391954638253_4488241762301996338_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=r8rU9IH-eSIQ7kNvwGHWCHw&amp;_nc_oc=AdqGo8VcEiaKH9Y-j2hNwCJeRnDEgMFQcW9J2OMCScb_nW0Xa42dcFQF0rHNj0cLOXfwxiNgSmGGMjWR-dBpYJMp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Q6evuypp-dYiBLcPmRPKzw&amp;_nc_ss=7b289&amp;oh=00_AQDgXTJmkT-AkTovPw2wDT_ZceAam0ZVHazi2mQOKB1syw&amp;oe=6A7C7C8A"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475442193_1139391954638253_4488241762301996338_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=uTY1JK4tFTcQ7kNvwFbGZJ9&amp;_nc_oc=AdrZyRVEuJcUcY0bBWoKJ3bxndJeKHAEQ1WtEsiBSMrb_CfZ-LTyt1nMQntbb7LuCY8cZT8rpvgiMBzwyP3f7E5p&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=LG2kKdkfH7SwBIVADNIWbQ&amp;_nc_ss=7b289&amp;oh=00_AQA_rAkOgXfUPm3zEdin3kYBpSZJrDJDBNxYjw94fu8YoA&amp;oe=6A79A14A" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475442193_1139391954638253_4488241762301996338_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=uTY1JK4tFTcQ7kNvwFbGZJ9&amp;_nc_oc=AdrZyRVEuJcUcY0bBWoKJ3bxndJeKHAEQ1WtEsiBSMrb_CfZ-LTyt1nMQntbb7LuCY8cZT8rpvgiMBzwyP3f7E5p&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=LG2kKdkfH7SwBIVADNIWbQ&amp;_nc_ss=7b289&amp;oh=00_AQA_rAkOgXfUPm3zEdin3kYBpSZJrDJDBNxYjw94fu8YoA&amp;oe=6A79A14A"/>
       </media:group>
     </item>
     <item>
@@ -719,8 +708,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475442386_628715093004217_6111217761845511232_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=kpXTIfYqHFwQ7kNvwEnHKD6&amp;_nc_oc=AdqFv5BqEyCFOsKiQ7YUt7EhChy_PKJ2VCVisBYJjBwSPo7y_Z4IuqRtNLQaJ62U2p137M7986mKx04wBdNVlI6s&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Q6evuypp-dYiBLcPmRPKzw&amp;_nc_ss=7b289&amp;oh=00_AQAK_HBuFvFwPA9xXGstDFrshlXPmMVkHlRhenRXYDUCSw&amp;oe=6A7C791C" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475442386_628715093004217_6111217761845511232_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=kpXTIfYqHFwQ7kNvwEnHKD6&amp;_nc_oc=AdqFv5BqEyCFOsKiQ7YUt7EhChy_PKJ2VCVisBYJjBwSPo7y_Z4IuqRtNLQaJ62U2p137M7986mKx04wBdNVlI6s&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Q6evuypp-dYiBLcPmRPKzw&amp;_nc_ss=7b289&amp;oh=00_AQAK_HBuFvFwPA9xXGstDFrshlXPmMVkHlRhenRXYDUCSw&amp;oe=6A7C791C"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475442386_628715093004217_6111217761845511232_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=XE1UBO4iBpIQ7kNvwG6jBEu&amp;_nc_oc=AdocWFs2xeThcSCZtc-B-PaiJZWPNkCn6UeqRBgNVzyGzceUHtd0sIzWMlo_L0zLo5UauCuxqL1a6ZCzVGekrDxm&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=LG2kKdkfH7SwBIVADNIWbQ&amp;_nc_ss=7b289&amp;oh=00_AQBdoVbwPnBMLKldLHrNrKPiSoN8F7IGFLDDgjk1jKg2Kw&amp;oe=6A799DDC" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/475442386_628715093004217_6111217761845511232_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=XE1UBO4iBpIQ7kNvwG6jBEu&amp;_nc_oc=AdocWFs2xeThcSCZtc-B-PaiJZWPNkCn6UeqRBgNVzyGzceUHtd0sIzWMlo_L0zLo5UauCuxqL1a6ZCzVGekrDxm&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=LG2kKdkfH7SwBIVADNIWbQ&amp;_nc_ss=7b289&amp;oh=00_AQBdoVbwPnBMLKldLHrNrKPiSoN8F7IGFLDDgjk1jKg2Kw&amp;oe=6A799DDC"/>
       </media:group>
     </item>
     <item>
@@ -731,8 +720,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/474635704_2787768371429260_8450766302590669338_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=u_MjjqBQ8KsQ7kNvwEydxjX&amp;_nc_oc=AdrxjIGHQbkwv944cb3xoFXzrk6ahi1VqEzhIhhTPA0e4xVFtX0VxMb5aZLuhrgKggZwfBejWY8I63t3SZ2xrcs5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=po6Mj7PfamAO0EOpHFZnoA&amp;_nc_ss=7b289&amp;oh=00_AQBgSyocf5ONugyKRsVTC-Q2JC8KBiybsqM7GgznX80PUg&amp;oe=6A7C7311" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/474635704_2787768371429260_8450766302590669338_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=u_MjjqBQ8KsQ7kNvwEydxjX&amp;_nc_oc=AdrxjIGHQbkwv944cb3xoFXzrk6ahi1VqEzhIhhTPA0e4xVFtX0VxMb5aZLuhrgKggZwfBejWY8I63t3SZ2xrcs5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=po6Mj7PfamAO0EOpHFZnoA&amp;_nc_ss=7b289&amp;oh=00_AQBgSyocf5ONugyKRsVTC-Q2JC8KBiybsqM7GgznX80PUg&amp;oe=6A7C7311"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/474635704_2787768371429260_8450766302590669338_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=WNwnX-yQiJ0Q7kNvwGLXSht&amp;_nc_oc=AdpFQWoTzX5UCNCCQ9M6k5NpZbi7DeBSN3skWOJA9rdmQgP4J43-1ekn6eZEN-rVqwLYwDTVEj5zsdY2M55jzmRM&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=LG2kKdkfH7SwBIVADNIWbQ&amp;_nc_ss=7b289&amp;oh=00_AQA0QRfrqceZMS9toc2sjqhl0RmRyjU0EznBriQmXm5mYw&amp;oe=6A7997D1" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/474635704_2787768371429260_8450766302590669338_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=WNwnX-yQiJ0Q7kNvwGLXSht&amp;_nc_oc=AdpFQWoTzX5UCNCCQ9M6k5NpZbi7DeBSN3skWOJA9rdmQgP4J43-1ekn6eZEN-rVqwLYwDTVEj5zsdY2M55jzmRM&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=LG2kKdkfH7SwBIVADNIWbQ&amp;_nc_ss=7b289&amp;oh=00_AQA0QRfrqceZMS9toc2sjqhl0RmRyjU0EznBriQmXm5mYw&amp;oe=6A7997D1"/>
       </media:group>
     </item>
     <item>
@@ -743,8 +732,8 @@
       <category></category>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/474494013_1294285175111624_2386974560823932072_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=X-q8OI3ETQcQ7kNvwH9b_7l&amp;_nc_oc=Ado21wmh6WSNYUHiFMaKsXvvgXhAv-9aMKJO6a9aCN3uBLjDI4F0dQLU-5QBgb6o5_VVyB9WDxEpty5Q3nDJfjUG&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=po6Mj7PfamAO0EOpHFZnoA&amp;_nc_ss=7b289&amp;oh=00_AQCMrtIl9bnIjHzennkYWs36SOPZK17qjTpYAcZFKpYePg&amp;oe=6A7C5D83" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/474494013_1294285175111624_2386974560823932072_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=X-q8OI3ETQcQ7kNvwH9b_7l&amp;_nc_oc=Ado21wmh6WSNYUHiFMaKsXvvgXhAv-9aMKJO6a9aCN3uBLjDI4F0dQLU-5QBgb6o5_VVyB9WDxEpty5Q3nDJfjUG&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=po6Mj7PfamAO0EOpHFZnoA&amp;_nc_ss=7b289&amp;oh=00_AQCMrtIl9bnIjHzennkYWs36SOPZK17qjTpYAcZFKpYePg&amp;oe=6A7C5D83"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/474494013_1294285175111624_2386974560823932072_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=zlsuIkN2A50Q7kNvwG4CxJm&amp;_nc_oc=AdqYP42Im5MhcU-XtttfWN_sznic0XBCmjOffZWBhlGN-40DfCThGJlcNSoHPiqTZYBEbVQvUbzucMRN9-mccYUP&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=s587dD0OZtYwgp4v32B5Yg&amp;_nc_ss=7b289&amp;oh=00_AQByEMDXJXOMN1NqjtsLPrJM34cASatq1hXa7KRfjMSNxg&amp;oe=6A79BA83" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/474494013_1294285175111624_2386974560823932072_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=zlsuIkN2A50Q7kNvwG4CxJm&amp;_nc_oc=AdqYP42Im5MhcU-XtttfWN_sznic0XBCmjOffZWBhlGN-40DfCThGJlcNSoHPiqTZYBEbVQvUbzucMRN9-mccYUP&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=s587dD0OZtYwgp4v32B5Yg&amp;_nc_ss=7b289&amp;oh=00_AQByEMDXJXOMN1NqjtsLPrJM34cASatq1hXa7KRfjMSNxg&amp;oe=6A79BA83"/>
       </media:group>
     </item>
     <item>
@@ -755,8 +744,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473269448_536896079384311_6029060232028468818_n.gif?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=OkXtCwLm6wwQ7kNvwE7M743&amp;_nc_oc=Adric27eYju6lMS8Bk_0tDUj4ehhL3UNbpBgqJYbCrg6VhK_umPoCQuRF-dxNqcg9l53UhJ_UfQThTo3qpUpolfG&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=po6Mj7PfamAO0EOpHFZnoA&amp;_nc_ss=7b289&amp;oh=00_AQD09-92rb4Lrz5VgHLyhdi8ACucG-APRCAFEY2MRMyC6w&amp;oe=6A7C7D94" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473269448_536896079384311_6029060232028468818_n.gif?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=OkXtCwLm6wwQ7kNvwE7M743&amp;_nc_oc=Adric27eYju6lMS8Bk_0tDUj4ehhL3UNbpBgqJYbCrg6VhK_umPoCQuRF-dxNqcg9l53UhJ_UfQThTo3qpUpolfG&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=po6Mj7PfamAO0EOpHFZnoA&amp;_nc_ss=7b289&amp;oh=00_AQD09-92rb4Lrz5VgHLyhdi8ACucG-APRCAFEY2MRMyC6w&amp;oe=6A7C7D94"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473269448_536896079384311_6029060232028468818_n.gif?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=OkXtCwLm6wwQ7kNvwGX84Gf&amp;_nc_oc=AdrOr-ou60C9hLsR19TJywzop7HPOdgoYn_dUVohCPOKWCTo9ykYBJtT8vdegMrHX5mDRVb2_XElmDPvH3MeUBWR&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=s587dD0OZtYwgp4v32B5Yg&amp;_nc_ss=7b289&amp;oh=00_AQB3IQOUBlf3XHjKSvgKQPXW6U6oyfFaVdybBwBl1_afEg&amp;oe=6A79A254" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473269448_536896079384311_6029060232028468818_n.gif?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=OkXtCwLm6wwQ7kNvwGX84Gf&amp;_nc_oc=AdrOr-ou60C9hLsR19TJywzop7HPOdgoYn_dUVohCPOKWCTo9ykYBJtT8vdegMrHX5mDRVb2_XElmDPvH3MeUBWR&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=s587dD0OZtYwgp4v32B5Yg&amp;_nc_ss=7b289&amp;oh=00_AQB3IQOUBlf3XHjKSvgKQPXW6U6oyfFaVdybBwBl1_afEg&amp;oe=6A79A254"/>
       </media:group>
     </item>
     <item>
@@ -767,8 +756,8 @@
       <category></category>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473795657_588818653779798_1995210483788545818_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jWQNLw9PwXwQ7kNvwHmTg_j&amp;_nc_oc=AdoCZOYfLKdbagG5nUNKliCTUASW9YVhLeq7_PHUH83uEqnEU4Hpa9uchnWkv8tssiNe0id7QWhGmY-QDGSVD_us&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=po6Mj7PfamAO0EOpHFZnoA&amp;_nc_ss=7b289&amp;oh=00_AQB0NmpnIZkVevbr2t2O7LWzapYM_L9rlEfw6k7Gj0DO4g&amp;oe=6A7C5FFA" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473795657_588818653779798_1995210483788545818_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jWQNLw9PwXwQ7kNvwHmTg_j&amp;_nc_oc=AdoCZOYfLKdbagG5nUNKliCTUASW9YVhLeq7_PHUH83uEqnEU4Hpa9uchnWkv8tssiNe0id7QWhGmY-QDGSVD_us&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=po6Mj7PfamAO0EOpHFZnoA&amp;_nc_ss=7b289&amp;oh=00_AQB0NmpnIZkVevbr2t2O7LWzapYM_L9rlEfw6k7Gj0DO4g&amp;oe=6A7C5FFA"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473795657_588818653779798_1995210483788545818_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=UKSL7dVLqVcQ7kNvwEgIz2q&amp;_nc_oc=AdpiNCM_vwYW37F_FW8w-bk7pJv-c9PrcFN-vvdV2uzoGn5mH0vFp_zcqkKQjJelc3ObcG7ETMnbkUKGxDfUQ7zk&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=s587dD0OZtYwgp4v32B5Yg&amp;_nc_ss=7b289&amp;oh=00_AQAKwczQXICRAuTyyh7gNsdCZ0jDkGbvUxUcGz__3JPFQw&amp;oe=6A79BCFA" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473795657_588818653779798_1995210483788545818_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=UKSL7dVLqVcQ7kNvwEgIz2q&amp;_nc_oc=AdpiNCM_vwYW37F_FW8w-bk7pJv-c9PrcFN-vvdV2uzoGn5mH0vFp_zcqkKQjJelc3ObcG7ETMnbkUKGxDfUQ7zk&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=s587dD0OZtYwgp4v32B5Yg&amp;_nc_ss=7b289&amp;oh=00_AQAKwczQXICRAuTyyh7gNsdCZ0jDkGbvUxUcGz__3JPFQw&amp;oe=6A79BCFA"/>
       </media:group>
     </item>
     <item>
@@ -779,8 +768,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473101279_1645868346340102_7456548078941859130_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9jveSXRO0xwQ7kNvwEgn4CO&amp;_nc_oc=Adp3y2IhoaUHU324Hz89CFZrHSgHBHmCQKv2Ry5KzJ2264BOWYC2UhxhbBwWJy_Qxr2IvplA3fdUxjyFgjGBrtpN&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Z5Wtml_chYibKY2gFLz2sg&amp;_nc_ss=7b289&amp;oh=00_AQDgWwafOb9fQrzNyDutPMumvVdaByN6d92uCeM6UHYIGw&amp;oe=6A7C82B7" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473101279_1645868346340102_7456548078941859130_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9jveSXRO0xwQ7kNvwEgn4CO&amp;_nc_oc=Adp3y2IhoaUHU324Hz89CFZrHSgHBHmCQKv2Ry5KzJ2264BOWYC2UhxhbBwWJy_Qxr2IvplA3fdUxjyFgjGBrtpN&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Z5Wtml_chYibKY2gFLz2sg&amp;_nc_ss=7b289&amp;oh=00_AQDgWwafOb9fQrzNyDutPMumvVdaByN6d92uCeM6UHYIGw&amp;oe=6A7C82B7"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473101279_1645868346340102_7456548078941859130_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ImeiS7hNuj0Q7kNvwHLI-Mn&amp;_nc_oc=AdpZUdAdQUPZ4HKhJkzY4wnM9PBKjW6-53PPd5PKDBITgYDgJYkv94mC02pNByoWWe6SE4REw07-dZgah5YoqIaM&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=s587dD0OZtYwgp4v32B5Yg&amp;_nc_ss=7b289&amp;oh=00_AQDuec1pwlHhRTKjnB5VLYz8eeHxF32fLXzolJu1ctpxAg&amp;oe=6A79A777" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/473101279_1645868346340102_7456548078941859130_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ImeiS7hNuj0Q7kNvwHLI-Mn&amp;_nc_oc=AdpZUdAdQUPZ4HKhJkzY4wnM9PBKjW6-53PPd5PKDBITgYDgJYkv94mC02pNByoWWe6SE4REw07-dZgah5YoqIaM&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=s587dD0OZtYwgp4v32B5Yg&amp;_nc_ss=7b289&amp;oh=00_AQDuec1pwlHhRTKjnB5VLYz8eeHxF32fLXzolJu1ctpxAg&amp;oe=6A79A777"/>
       </media:group>
     </item>
     <item>
@@ -791,8 +780,8 @@
       <category></category>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/472652524_965786522125464_1650295222816465612_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=gHwC9qsZBxwQ7kNvwGbAx3C&amp;_nc_oc=Adp0KkBdQMkzIK3ngf2lRaGZcdDTI7C-7Y1RhApVEZ-dA_VxtEG7bmCF43T8z13BDQNxpzxuvxZqZrqPID5jkV6D&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Z5Wtml_chYibKY2gFLz2sg&amp;_nc_ss=7b289&amp;oh=00_AQAVwBA2mWe1Fo3T1otui_KK5_1_nUYq-7nQ81X7m88SsQ&amp;oe=6A7C61F2" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/472652524_965786522125464_1650295222816465612_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=gHwC9qsZBxwQ7kNvwGbAx3C&amp;_nc_oc=Adp0KkBdQMkzIK3ngf2lRaGZcdDTI7C-7Y1RhApVEZ-dA_VxtEG7bmCF43T8z13BDQNxpzxuvxZqZrqPID5jkV6D&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Z5Wtml_chYibKY2gFLz2sg&amp;_nc_ss=7b289&amp;oh=00_AQAVwBA2mWe1Fo3T1otui_KK5_1_nUYq-7nQ81X7m88SsQ&amp;oe=6A7C61F2"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/472652524_965786522125464_1650295222816465612_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=gHwC9qsZBxwQ7kNvwFjEZma&amp;_nc_oc=Ado0bxw9O8W607KhK4-9vDowbO06_tkSfGDGNUQpDSa6_AlsFXNNYUB0ZZrOBf11MmJjJ2pDQ-n3VRJ8uS3lsesp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=tLykDz7cIPQsZVA8vd0Nig&amp;_nc_ss=7b289&amp;oh=00_AQBu6IV8QyYH4SZYU9_mnC2mI1itpLebkkMwBbqwmbHjJA&amp;oe=6A79BEF2" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/472652524_965786522125464_1650295222816465612_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=gHwC9qsZBxwQ7kNvwFjEZma&amp;_nc_oc=Ado0bxw9O8W607KhK4-9vDowbO06_tkSfGDGNUQpDSa6_AlsFXNNYUB0ZZrOBf11MmJjJ2pDQ-n3VRJ8uS3lsesp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=tLykDz7cIPQsZVA8vd0Nig&amp;_nc_ss=7b289&amp;oh=00_AQBu6IV8QyYH4SZYU9_mnC2mI1itpLebkkMwBbqwmbHjJA&amp;oe=6A79BEF2"/>
       </media:group>
     </item>
     <item>
@@ -803,8 +792,8 @@
       <category>Open Source</category>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470654737_1952383951837523_724518823090668606_n.gif?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=wz2WB93zl70Q7kNvwEoXATG&amp;_nc_oc=AdqW_gvUueRWfp0BnfTClFHnFLr8cKF7t6s-XkVhGT-qTzk4_6ZGP1Fxm1VpFOUskSsTCM9QkLzS1og3W0hbbVlQ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Z5Wtml_chYibKY2gFLz2sg&amp;_nc_ss=7b289&amp;oh=00_AQAggySXBQl9BshgmYyF4jsVBe-9r9OMteoHm4G22YOOyw&amp;oe=6A7C62C9" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470654737_1952383951837523_724518823090668606_n.gif?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=wz2WB93zl70Q7kNvwEoXATG&amp;_nc_oc=AdqW_gvUueRWfp0BnfTClFHnFLr8cKF7t6s-XkVhGT-qTzk4_6ZGP1Fxm1VpFOUskSsTCM9QkLzS1og3W0hbbVlQ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Z5Wtml_chYibKY2gFLz2sg&amp;_nc_ss=7b289&amp;oh=00_AQAggySXBQl9BshgmYyF4jsVBe-9r9OMteoHm4G22YOOyw&amp;oe=6A7C62C9"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470654737_1952383951837523_724518823090668606_n.gif?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=f9sgoFR0sNAQ7kNvwHeDm_v&amp;_nc_oc=AdqfQ71_cJQ2qugC4JxfreZSmUxcxsEGUO75Alnqm6ZNxrzMBGq5G-B6FZLmsZ7ShBBJ6h71tK1t9Q_wuYN3iyoA&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=tLykDz7cIPQsZVA8vd0Nig&amp;_nc_ss=7b289&amp;oh=00_AQBMu84poIQYLo4ZclZr06MRasauTRHuBQl9oe3UT28DfQ&amp;oe=6A79BFC9" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470654737_1952383951837523_724518823090668606_n.gif?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=f9sgoFR0sNAQ7kNvwHeDm_v&amp;_nc_oc=AdqfQ71_cJQ2qugC4JxfreZSmUxcxsEGUO75Alnqm6ZNxrzMBGq5G-B6FZLmsZ7ShBBJ6h71tK1t9Q_wuYN3iyoA&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=tLykDz7cIPQsZVA8vd0Nig&amp;_nc_ss=7b289&amp;oh=00_AQBMu84poIQYLo4ZclZr06MRasauTRHuBQl9oe3UT28DfQ&amp;oe=6A79BFC9"/>
       </media:group>
     </item>
     <item>
@@ -815,8 +804,8 @@
       <category>Open Source</category>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/471304589_4015327788750924_4312971513611708767_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=KcdBiCKo8RcQ7kNvwGUvf-l&amp;_nc_oc=AdqCP3Myb3QsoJZgkVmzDbEugb2Zcwnz7u4dKBN-1P5tIqJK-VEqNaVodHnNdNipp-h2hYLq6RhHwJwvziyznQ7j&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Z5Wtml_chYibKY2gFLz2sg&amp;_nc_ss=7b289&amp;oh=00_AQAs-LqK5LpR9JpzgUZuBSPjKdt-ZWn4oO79mz9Vl32QDg&amp;oe=6A7C65C5" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/471304589_4015327788750924_4312971513611708767_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=KcdBiCKo8RcQ7kNvwGUvf-l&amp;_nc_oc=AdqCP3Myb3QsoJZgkVmzDbEugb2Zcwnz7u4dKBN-1P5tIqJK-VEqNaVodHnNdNipp-h2hYLq6RhHwJwvziyznQ7j&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Z5Wtml_chYibKY2gFLz2sg&amp;_nc_ss=7b289&amp;oh=00_AQAs-LqK5LpR9JpzgUZuBSPjKdt-ZWn4oO79mz9Vl32QDg&amp;oe=6A7C65C5"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/471304589_4015327788750924_4312971513611708767_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=KcdBiCKo8RcQ7kNvwFgGUs-&amp;_nc_oc=AdowfkrdB606FTPYRZ0zLZeEZjYroLRp6xhFTHRpyw1MuphegwYk9LAoH_lKUuGhUCdKH9_OlO8KLEPFTUa139mt&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=tLykDz7cIPQsZVA8vd0Nig&amp;_nc_ss=7b289&amp;oh=00_AQD8mLmLpn02AAFMCeDgFNU6tMr3zKq_wyNRhMh6nXR_1Q&amp;oe=6A79C2C5" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/471304589_4015327788750924_4312971513611708767_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=KcdBiCKo8RcQ7kNvwFgGUs-&amp;_nc_oc=AdowfkrdB606FTPYRZ0zLZeEZjYroLRp6xhFTHRpyw1MuphegwYk9LAoH_lKUuGhUCdKH9_OlO8KLEPFTUa139mt&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=tLykDz7cIPQsZVA8vd0Nig&amp;_nc_ss=7b289&amp;oh=00_AQD8mLmLpn02AAFMCeDgFNU6tMr3zKq_wyNRhMh6nXR_1Q&amp;oe=6A79C2C5"/>
       </media:group>
     </item>
     <item>
@@ -827,8 +816,8 @@
       <category>Large Language Model</category>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470665849_1620699585191822_2616824612634584243_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yIiX57wSEVYQ7kNvwEkVTZ-&amp;_nc_oc=AdoYcrhs0eB9fpBQ4X-_h9QDCVQ-lf3ylANfl_O5KPPvEEoEN4XxdNKOhDJvpS1Z_WaO5TQyYvs-HoOvCxufzPsL&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=h27Y1jntejykE8r0AfQFxQ&amp;_nc_ss=7b289&amp;oh=00_AQC9OgexROizuCbL5KEBP2dM645VgaJguFPV1DGsuWpJhA&amp;oe=6A7C5C6F" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470665849_1620699585191822_2616824612634584243_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yIiX57wSEVYQ7kNvwEkVTZ-&amp;_nc_oc=AdoYcrhs0eB9fpBQ4X-_h9QDCVQ-lf3ylANfl_O5KPPvEEoEN4XxdNKOhDJvpS1Z_WaO5TQyYvs-HoOvCxufzPsL&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=h27Y1jntejykE8r0AfQFxQ&amp;_nc_ss=7b289&amp;oh=00_AQC9OgexROizuCbL5KEBP2dM645VgaJguFPV1DGsuWpJhA&amp;oe=6A7C5C6F"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470665849_1620699585191822_2616824612634584243_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jb1dgUJUBT0Q7kNvwFNFyhS&amp;_nc_oc=AdqXH897zgCFlXB_WCJdDPCjCBYPUTHDeYLQydDiabKy9xdCkcO9j5_0sdgM41IsD4YEEnfEFrhktIs3jrY-DIVw&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=tLykDz7cIPQsZVA8vd0Nig&amp;_nc_ss=7b289&amp;oh=00_AQAeAUY48EYqkWdmPiOB6XbV9mLFnynxCASOLygnwjejmw&amp;oe=6A79B96F" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470665849_1620699585191822_2616824612634584243_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jb1dgUJUBT0Q7kNvwFNFyhS&amp;_nc_oc=AdqXH897zgCFlXB_WCJdDPCjCBYPUTHDeYLQydDiabKy9xdCkcO9j5_0sdgM41IsD4YEEnfEFrhktIs3jrY-DIVw&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=tLykDz7cIPQsZVA8vd0Nig&amp;_nc_ss=7b289&amp;oh=00_AQAeAUY48EYqkWdmPiOB6XbV9mLFnynxCASOLygnwjejmw&amp;oe=6A79B96F"/>
       </media:group>
     </item>
     <item>
@@ -839,8 +828,8 @@
       <category></category>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470644933_3774351322782456_2883934816651785513_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yscQQvGM19IQ7kNvwGkIBdt&amp;_nc_oc=Adph5zHTKbXmfK28LeMcGsXl9O-C0bbHXZrebgnGSrRuBs4ct0KtDjhXCMjV_qfnqWedxbusJmCJWXU_slE72sbB&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=h27Y1jntejykE8r0AfQFxQ&amp;_nc_ss=7b289&amp;oh=00_AQDls6CQ-L33sRtO9iHQJedJs9CfQvzXMM7e647coE426w&amp;oe=6A7C5254" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470644933_3774351322782456_2883934816651785513_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yscQQvGM19IQ7kNvwGkIBdt&amp;_nc_oc=Adph5zHTKbXmfK28LeMcGsXl9O-C0bbHXZrebgnGSrRuBs4ct0KtDjhXCMjV_qfnqWedxbusJmCJWXU_slE72sbB&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=h27Y1jntejykE8r0AfQFxQ&amp;_nc_ss=7b289&amp;oh=00_AQDls6CQ-L33sRtO9iHQJedJs9CfQvzXMM7e647coE426w&amp;oe=6A7C5254"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470644933_3774351322782456_2883934816651785513_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yscQQvGM19IQ7kNvwHhaa4A&amp;_nc_oc=AdrlDw8KlFszNelcFYel9x5oj8r3I_rUg3b1icwWtpexuJkDerZjXwnbn-cCFYZ52hmnQGkmocHyPz1HbSqfqT5c&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=qfRj5zYaaiOve2jEYWrJ5A&amp;_nc_ss=7b289&amp;oh=00_AQCaSfUhWMuU1XzYdq_8aQyQowXfCIjmREfYZ9esvT9hkQ&amp;oe=6A79AF54" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470644933_3774351322782456_2883934816651785513_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=yscQQvGM19IQ7kNvwHhaa4A&amp;_nc_oc=AdrlDw8KlFszNelcFYel9x5oj8r3I_rUg3b1icwWtpexuJkDerZjXwnbn-cCFYZ52hmnQGkmocHyPz1HbSqfqT5c&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=qfRj5zYaaiOve2jEYWrJ5A&amp;_nc_ss=7b289&amp;oh=00_AQCaSfUhWMuU1XzYdq_8aQyQowXfCIjmREfYZ9esvT9hkQ&amp;oe=6A79AF54"/>
       </media:group>
     </item>
     <item>
@@ -851,8 +840,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/469933986_502965406093972_1512724012086933535_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jYR4r-7P9fAQ7kNvwGJUdTP&amp;_nc_oc=Adph7bP-U-Gt9kHbqeNnC2PwWpYVYEXC09Uq5kFJNVx_elKw-8YZ-FBFDDASsmp6paTtdsDOP1ykjzVt1FLtf3xG&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=h27Y1jntejykE8r0AfQFxQ&amp;_nc_ss=7b289&amp;oh=00_AQCF6jDwOAqZ8gfeVSd_w_UBZE0DKClBOJISTfq_61EGbQ&amp;oe=6A7C7F20" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/469933986_502965406093972_1512724012086933535_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jYR4r-7P9fAQ7kNvwGJUdTP&amp;_nc_oc=Adph7bP-U-Gt9kHbqeNnC2PwWpYVYEXC09Uq5kFJNVx_elKw-8YZ-FBFDDASsmp6paTtdsDOP1ykjzVt1FLtf3xG&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=h27Y1jntejykE8r0AfQFxQ&amp;_nc_ss=7b289&amp;oh=00_AQCF6jDwOAqZ8gfeVSd_w_UBZE0DKClBOJISTfq_61EGbQ&amp;oe=6A7C7F20"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/469933986_502965406093972_1512724012086933535_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jYR4r-7P9fAQ7kNvwFcBbaA&amp;_nc_oc=AdqiTA8AOUyj1nNcsy0uaOF4OybIEi-4IdYuISO6AQtTcrzSFVZnvIInkSBqe-PBarysD5bL-pzyOrW7uNiPkYuS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=qfRj5zYaaiOve2jEYWrJ5A&amp;_nc_ss=7b289&amp;oh=00_AQCzAgMY21rWFnVwUUBlieekzXK3iF-a1qt_ms3zYZI5aA&amp;oe=6A79A3E0" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/469933986_502965406093972_1512724012086933535_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=jYR4r-7P9fAQ7kNvwFcBbaA&amp;_nc_oc=AdqiTA8AOUyj1nNcsy0uaOF4OybIEi-4IdYuISO6AQtTcrzSFVZnvIInkSBqe-PBarysD5bL-pzyOrW7uNiPkYuS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=qfRj5zYaaiOve2jEYWrJ5A&amp;_nc_ss=7b289&amp;oh=00_AQCzAgMY21rWFnVwUUBlieekzXK3iF-a1qt_ms3zYZI5aA&amp;oe=6A79A3E0"/>
       </media:group>
     </item>
     <item>
@@ -863,8 +852,8 @@
       <category></category>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/469064088_988064796688680_6176546341459681750_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=DUP-Jj_kgEoQ7kNvwHa4Ed5&amp;_nc_oc=AdoKp2em10m1og0kpouebM6eTAXHNQ7tKKktfrXbUpeHAdcqd6A8PICzVIyJ50EUt4hQ_2SJ1ambJgVTR4-SvtVj&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=h27Y1jntejykE8r0AfQFxQ&amp;_nc_ss=7b289&amp;oh=00_AQAnU_Swig-RYOS9uH-Wt3S4_GS8TBhHnOijOF3Z5wd5aA&amp;oe=6A7C6429" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/469064088_988064796688680_6176546341459681750_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=DUP-Jj_kgEoQ7kNvwHa4Ed5&amp;_nc_oc=AdoKp2em10m1og0kpouebM6eTAXHNQ7tKKktfrXbUpeHAdcqd6A8PICzVIyJ50EUt4hQ_2SJ1ambJgVTR4-SvtVj&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=h27Y1jntejykE8r0AfQFxQ&amp;_nc_ss=7b289&amp;oh=00_AQAnU_Swig-RYOS9uH-Wt3S4_GS8TBhHnOijOF3Z5wd5aA&amp;oe=6A7C6429"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/469064088_988064796688680_6176546341459681750_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=DUP-Jj_kgEoQ7kNvwEkFl3b&amp;_nc_oc=AdoIGmxuY6TjpMrm7SOTI0WO4fr5za4KAZjpVsmIZsZN1IdLKSAVhl-MUCJEtpOk_z6Np7HUqaSEgZcGT5gnMcPY&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=qfRj5zYaaiOve2jEYWrJ5A&amp;_nc_ss=7b289&amp;oh=00_AQCNfaMcIemZ0rS7Yeo9OzRSCdVBCAV-wiMeeKjTOHBEHg&amp;oe=6A79C129" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/469064088_988064796688680_6176546341459681750_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=DUP-Jj_kgEoQ7kNvwEkFl3b&amp;_nc_oc=AdoIGmxuY6TjpMrm7SOTI0WO4fr5za4KAZjpVsmIZsZN1IdLKSAVhl-MUCJEtpOk_z6Np7HUqaSEgZcGT5gnMcPY&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=qfRj5zYaaiOve2jEYWrJ5A&amp;_nc_ss=7b289&amp;oh=00_AQCNfaMcIemZ0rS7Yeo9OzRSCdVBCAV-wiMeeKjTOHBEHg&amp;oe=6A79C129"/>
       </media:group>
     </item>
     <item>
@@ -875,8 +864,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/468936660_1905643629924519_5500621794910666448_n.gif?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1FtcVAtMCeoQ7kNvwGAOaGb&amp;_nc_oc=AdomEhPjEuSisqnixEr70a5RkMEC5ff9fsbtN9-0o0PDB-LWS0hRtvDJ4zXb9suOMSnRBjXAcHmHYfP12OtHSh9s&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zVAIkaHXSJSgExDAB2eliA&amp;_nc_ss=7b289&amp;oh=00_AQAXmsQ1xFv01ulKMNO0e0DjmK91kKDHlSV1kV7eUJDe7A&amp;oe=6A7C62EE" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/468936660_1905643629924519_5500621794910666448_n.gif?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=1FtcVAtMCeoQ7kNvwGAOaGb&amp;_nc_oc=AdomEhPjEuSisqnixEr70a5RkMEC5ff9fsbtN9-0o0PDB-LWS0hRtvDJ4zXb9suOMSnRBjXAcHmHYfP12OtHSh9s&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zVAIkaHXSJSgExDAB2eliA&amp;_nc_ss=7b289&amp;oh=00_AQAXmsQ1xFv01ulKMNO0e0DjmK91kKDHlSV1kV7eUJDe7A&amp;oe=6A7C62EE"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/468936660_1905643629924519_5500621794910666448_n.gif?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=H80FOWb_NdMQ7kNvwEdDtU6&amp;_nc_oc=AdpaBbo4GhCsfWOzOluQWl0wT3pih7pNNIg2YcoKxM1nqGKkuzhhJTjzyJBBVdMzIeLXBixSE6TRRt1AwZV9XvGb&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=qfRj5zYaaiOve2jEYWrJ5A&amp;_nc_ss=7b289&amp;oh=00_AQBaCKRGSeB3hDlDF7D3y6Lq65RS-a2YX2CD3_JzIPcjnw&amp;oe=6A79BFEE" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/468936660_1905643629924519_5500621794910666448_n.gif?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=H80FOWb_NdMQ7kNvwEdDtU6&amp;_nc_oc=AdpaBbo4GhCsfWOzOluQWl0wT3pih7pNNIg2YcoKxM1nqGKkuzhhJTjzyJBBVdMzIeLXBixSE6TRRt1AwZV9XvGb&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=qfRj5zYaaiOve2jEYWrJ5A&amp;_nc_ss=7b289&amp;oh=00_AQBaCKRGSeB3hDlDF7D3y6Lq65RS-a2YX2CD3_JzIPcjnw&amp;oe=6A79BFEE"/>
       </media:group>
     </item>
     <item>
@@ -887,8 +876,8 @@
       <category></category>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470176951_589465390702924_8127999639581661022_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=zbxJlvWy2JAQ7kNvwEck3BH&amp;_nc_oc=AdrhJu27mXDsf2VvThPE20ApBG0lbDv3yWQH4RXhWSx-4ynwXmaMMzeN5UXusap4XKCZb0bHWp1AcU9IwQvlg7Xl&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zVAIkaHXSJSgExDAB2eliA&amp;_nc_ss=7b289&amp;oh=00_AQDUy-_A6pIxhnqZaZOGMH6mru3y0YVspVFt2BGhOfDvSg&amp;oe=6A7C7190" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470176951_589465390702924_8127999639581661022_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=zbxJlvWy2JAQ7kNvwEck3BH&amp;_nc_oc=AdrhJu27mXDsf2VvThPE20ApBG0lbDv3yWQH4RXhWSx-4ynwXmaMMzeN5UXusap4XKCZb0bHWp1AcU9IwQvlg7Xl&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zVAIkaHXSJSgExDAB2eliA&amp;_nc_ss=7b289&amp;oh=00_AQDUy-_A6pIxhnqZaZOGMH6mru3y0YVspVFt2BGhOfDvSg&amp;oe=6A7C7190"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470176951_589465390702924_8127999639581661022_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=zbxJlvWy2JAQ7kNvwFFcuQI&amp;_nc_oc=AdpWmfYo2W4i2Glsu7B4n5b3Hy3OUzG3OzZstfjdqRzOuyba2diw64mJaBiAteAaqsZ6TAnFfBdPvm2xcGHIog2g&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Hg2C1N8wbKW3wBjIir3fag&amp;_nc_ss=7b289&amp;oh=00_AQD2M8EiiR3NG7bF21qYJkRBEnrFGBIZEanHihH6Dw3luw&amp;oe=6A799650" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470176951_589465390702924_8127999639581661022_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=zbxJlvWy2JAQ7kNvwFFcuQI&amp;_nc_oc=AdpWmfYo2W4i2Glsu7B4n5b3Hy3OUzG3OzZstfjdqRzOuyba2diw64mJaBiAteAaqsZ6TAnFfBdPvm2xcGHIog2g&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Hg2C1N8wbKW3wBjIir3fag&amp;_nc_ss=7b289&amp;oh=00_AQD2M8EiiR3NG7bF21qYJkRBEnrFGBIZEanHihH6Dw3luw&amp;oe=6A799650"/>
       </media:group>
     </item>
     <item>
@@ -899,8 +888,8 @@
       <category></category>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470196457_1806412886850159_8862010462868128051_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=DSGhTeOzX7sQ7kNvwGr-UNw&amp;_nc_oc=AdplKNg2kTQdQ6CwftDnbNJ4Hmojkp85IDAV8k9nL2xnZDusXoqp7v-ciHOZNki6rywjPiIo4XwmtjhgEfKjItxX&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zVAIkaHXSJSgExDAB2eliA&amp;_nc_ss=7b289&amp;oh=00_AQAtKz1EHTXyHLfVHMKo1t_zM5bTm1t9cRCtqOGZ022szA&amp;oe=6A7C77B1" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470196457_1806412886850159_8862010462868128051_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=DSGhTeOzX7sQ7kNvwGr-UNw&amp;_nc_oc=AdplKNg2kTQdQ6CwftDnbNJ4Hmojkp85IDAV8k9nL2xnZDusXoqp7v-ciHOZNki6rywjPiIo4XwmtjhgEfKjItxX&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zVAIkaHXSJSgExDAB2eliA&amp;_nc_ss=7b289&amp;oh=00_AQAtKz1EHTXyHLfVHMKo1t_zM5bTm1t9cRCtqOGZ022szA&amp;oe=6A7C77B1"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470196457_1806412886850159_8862010462868128051_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=0Juupyx2F38Q7kNvwHcg_zy&amp;_nc_oc=Adpv77A3nMsB56wdUimCSmsLrcL4q8p09NCmgtRzNuBVEBDg9_K6XtSNPQ4b2thERru3JLnKzRgfjl4DIAfE9OFS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Hg2C1N8wbKW3wBjIir3fag&amp;_nc_ss=7b289&amp;oh=00_AQBHQ8W2yDjbXk5I4Oj2g7kACKjmUX5uh0XGl38XMok3tQ&amp;oe=6A799C71" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470196457_1806412886850159_8862010462868128051_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=0Juupyx2F38Q7kNvwHcg_zy&amp;_nc_oc=Adpv77A3nMsB56wdUimCSmsLrcL4q8p09NCmgtRzNuBVEBDg9_K6XtSNPQ4b2thERru3JLnKzRgfjl4DIAfE9OFS&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Hg2C1N8wbKW3wBjIir3fag&amp;_nc_ss=7b289&amp;oh=00_AQBHQ8W2yDjbXk5I4Oj2g7kACKjmUX5uh0XGl38XMok3tQ&amp;oe=6A799C71"/>
       </media:group>
     </item>
     <item>
@@ -911,8 +900,8 @@
       <category>Model Training</category>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/468028718_896717795972568_4149636151183687506_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ebMpnb40jBIQ7kNvwGVh26H&amp;_nc_oc=AdrtRhhTXoHlnnxkhmEnkP2G94A2Fl4beoy9YHxsO9nTy3KJw_82JPXMM8klrle_sgmOlz_x7MNQHD6ItB_fLTxC&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zVAIkaHXSJSgExDAB2eliA&amp;_nc_ss=7b289&amp;oh=00_AQAivSN4ptEjjhc9sfBrgvE3xDDOCrhONXF9IECTCnjVKw&amp;oe=6A7C6742" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/468028718_896717795972568_4149636151183687506_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ebMpnb40jBIQ7kNvwGVh26H&amp;_nc_oc=AdrtRhhTXoHlnnxkhmEnkP2G94A2Fl4beoy9YHxsO9nTy3KJw_82JPXMM8klrle_sgmOlz_x7MNQHD6ItB_fLTxC&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=zVAIkaHXSJSgExDAB2eliA&amp;_nc_ss=7b289&amp;oh=00_AQAivSN4ptEjjhc9sfBrgvE3xDDOCrhONXF9IECTCnjVKw&amp;oe=6A7C6742"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/468028718_896717795972568_4149636151183687506_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ZS6oUlrqI-cQ7kNvwG9En90&amp;_nc_oc=AdpSQlmgP4pHENWopoJy7HCbm98k1saTowHRD-n5jFpPHvyPwWYV8J_FKCgRvdPyUz7Eex2TIcs1-NiSAlS8MmhO&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Hg2C1N8wbKW3wBjIir3fag&amp;_nc_ss=7b289&amp;oh=00_AQBG1hGFpRzQJ1w4tqmddsRZ859X462f5J8Sg1BDsd-qsQ&amp;oe=6A79C442" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/468028718_896717795972568_4149636151183687506_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ZS6oUlrqI-cQ7kNvwG9En90&amp;_nc_oc=AdpSQlmgP4pHENWopoJy7HCbm98k1saTowHRD-n5jFpPHvyPwWYV8J_FKCgRvdPyUz7Eex2TIcs1-NiSAlS8MmhO&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Hg2C1N8wbKW3wBjIir3fag&amp;_nc_ss=7b289&amp;oh=00_AQBG1hGFpRzQJ1w4tqmddsRZ859X462f5J8Sg1BDsd-qsQ&amp;oe=6A79C442"/>
       </media:group>
     </item>
     <item>
@@ -923,8 +912,8 @@
       <category>Large Language Model</category>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470172217_3918805088398131_7256437132947341967_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=BY0u_OoHglQQ7kNvwGIbTC-&amp;_nc_oc=AdpuawqAEBoJANSTqcppXjCVmmL-MAIK5aocGe5elut_bxKNqH9HqkLFUzQQqO3w27d-k_GXMucIfSS0Lf-Wu2Fw&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=_T1fgjWBf6Mwue9mAv8LQQ&amp;_nc_ss=7b289&amp;oh=00_AQDebT_FtqNggF16Z5kEGzbuBmhpVRyICYVXTSydHUWPrw&amp;oe=6A7C5469" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470172217_3918805088398131_7256437132947341967_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=BY0u_OoHglQQ7kNvwGIbTC-&amp;_nc_oc=AdpuawqAEBoJANSTqcppXjCVmmL-MAIK5aocGe5elut_bxKNqH9HqkLFUzQQqO3w27d-k_GXMucIfSS0Lf-Wu2Fw&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=_T1fgjWBf6Mwue9mAv8LQQ&amp;_nc_ss=7b289&amp;oh=00_AQDebT_FtqNggF16Z5kEGzbuBmhpVRyICYVXTSydHUWPrw&amp;oe=6A7C5469"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470172217_3918805088398131_7256437132947341967_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fbWCTYgDOwAQ7kNvwHEQS61&amp;_nc_oc=AdoNCqXkrkC46mWYGgfUZG1EFa_UeCHzM7WQyH0nmLJL4bwYWA4-hhF3gGXSvuhSJo0p_mCDfhYiNoSMuEvWwjK8&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Hg2C1N8wbKW3wBjIir3fag&amp;_nc_ss=7b289&amp;oh=00_AQDum1gW5pMhiIyYi5Q7rz7RvkupQ5CPnbVOoPyPp5liWw&amp;oe=6A79B169" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/470172217_3918805088398131_7256437132947341967_n.png?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fbWCTYgDOwAQ7kNvwHEQS61&amp;_nc_oc=AdoNCqXkrkC46mWYGgfUZG1EFa_UeCHzM7WQyH0nmLJL4bwYWA4-hhF3gGXSvuhSJo0p_mCDfhYiNoSMuEvWwjK8&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Hg2C1N8wbKW3wBjIir3fag&amp;_nc_ss=7b289&amp;oh=00_AQDum1gW5pMhiIyYi5Q7rz7RvkupQ5CPnbVOoPyPp5liWw&amp;oe=6A79B169"/>
       </media:group>
     </item>
     <item>
@@ -935,8 +924,8 @@
       <category></category>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/467764302_873231274968379_4304414417904112497_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=4e_0jylxO88Q7kNvwFiByDR&amp;_nc_oc=AdqTXyGfjn3K6YA_m2x7P9xrKtUFwiy_Xmry9McMDejH8n2M6muoOZQP44dkoWzy1xil7iN_2-ew1vZTaIApl8PK&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=_T1fgjWBf6Mwue9mAv8LQQ&amp;_nc_ss=7b289&amp;oh=00_AQBRl4ZZ7cz20LF8NZrtPJ7iHs2BAxHjIDUj_B3vRhnRLQ&amp;oe=6A7C60D2" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/467764302_873231274968379_4304414417904112497_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=4e_0jylxO88Q7kNvwFiByDR&amp;_nc_oc=AdqTXyGfjn3K6YA_m2x7P9xrKtUFwiy_Xmry9McMDejH8n2M6muoOZQP44dkoWzy1xil7iN_2-ew1vZTaIApl8PK&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=_T1fgjWBf6Mwue9mAv8LQQ&amp;_nc_ss=7b289&amp;oh=00_AQBRl4ZZ7cz20LF8NZrtPJ7iHs2BAxHjIDUj_B3vRhnRLQ&amp;oe=6A7C60D2"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/467764302_873231274968379_4304414417904112497_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=HZzcM5xXGoUQ7kNvwEfI0_-&amp;_nc_oc=AdrDM7A0uYHItJRcqQeU89h-qw1KvT2aYIUc4NyQtK4kI69CTqT14wJq55_1FlAf4eDacVI671JeXESbWDOD1_JQ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Jzv0ZD5nAgMOfVGzacXzeg&amp;_nc_ss=7b289&amp;oh=00_AQDOpw85kbD5jDFoa8TKhaeFVi1W05D44kZR49hew87PRg&amp;oe=6A79BDD2" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/467764302_873231274968379_4304414417904112497_n.gif?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=HZzcM5xXGoUQ7kNvwEfI0_-&amp;_nc_oc=AdrDM7A0uYHItJRcqQeU89h-qw1KvT2aYIUc4NyQtK4kI69CTqT14wJq55_1FlAf4eDacVI671JeXESbWDOD1_JQ&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Jzv0ZD5nAgMOfVGzacXzeg&amp;_nc_ss=7b289&amp;oh=00_AQDOpw85kbD5jDFoa8TKhaeFVi1W05D44kZR49hew87PRg&amp;oe=6A79BDD2"/>
       </media:group>
     </item>
     <item>
@@ -947,8 +936,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/465223879_1080185406628246_2736985537930628410_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VwpS8ZP2gPcQ7kNvwGfxO9J&amp;_nc_oc=AdpxXg_Vn8Q-hdl9IPjEK6DLCZkeSI3BGfOW2sEpFH1R93foKYLZr0kMcICAk7SVMiH_5Y8Sb38_mw1vd2jWknaK&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=_T1fgjWBf6Mwue9mAv8LQQ&amp;_nc_ss=7b289&amp;oh=00_AQBOQ5MuiMc3nx-vfR6sYpq9hIE5lxD3nBW-ImnJat3ghQ&amp;oe=6A7C76AD" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/465223879_1080185406628246_2736985537930628410_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=VwpS8ZP2gPcQ7kNvwGfxO9J&amp;_nc_oc=AdpxXg_Vn8Q-hdl9IPjEK6DLCZkeSI3BGfOW2sEpFH1R93foKYLZr0kMcICAk7SVMiH_5Y8Sb38_mw1vd2jWknaK&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=_T1fgjWBf6Mwue9mAv8LQQ&amp;_nc_ss=7b289&amp;oh=00_AQBOQ5MuiMc3nx-vfR6sYpq9hIE5lxD3nBW-ImnJat3ghQ&amp;oe=6A7C76AD"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/465223879_1080185406628246_2736985537930628410_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=67z-234EYWEQ7kNvwELgm1P&amp;_nc_oc=AdrZL4WJv4YhLQFHEIMtjat-B5yQeindIG-iKpUQnieiwvaQd10wPA4BMZnLcp7uyW8JwrSbHEnSooxcYfoc6t95&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Jzv0ZD5nAgMOfVGzacXzeg&amp;_nc_ss=7b289&amp;oh=00_AQA2z0RShxqEGGc5ElwXkEJHaSdmUIRD_vM7ktBJhgogeQ&amp;oe=6A799B6D" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/465223879_1080185406628246_2736985537930628410_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=67z-234EYWEQ7kNvwELgm1P&amp;_nc_oc=AdrZL4WJv4YhLQFHEIMtjat-B5yQeindIG-iKpUQnieiwvaQd10wPA4BMZnLcp7uyW8JwrSbHEnSooxcYfoc6t95&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Jzv0ZD5nAgMOfVGzacXzeg&amp;_nc_ss=7b289&amp;oh=00_AQA2z0RShxqEGGc5ElwXkEJHaSdmUIRD_vM7ktBJhgogeQ&amp;oe=6A799B6D"/>
       </media:group>
     </item>
     <item>
@@ -959,8 +948,8 @@
       <category>Large Language Model</category>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/465558478_9383868428309726_912579387845622798_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=OGBHmQ1dUOYQ7kNvwH8aDx_&amp;_nc_oc=AdoBBjikJSwoG-rA81jOQBwKxGen21h5JdB8yNdjl8A4wcBiANRqZaPpx6Z-wfCfuSXAL8un2878hCSgoYYTfH-P&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=_T1fgjWBf6Mwue9mAv8LQQ&amp;_nc_ss=7b289&amp;oh=00_AQCNFn8u3iCjWc4nrGtyfAt-J32QLhU8-xKjWNnnNoeI7w&amp;oe=6A7C71E9" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/465558478_9383868428309726_912579387845622798_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=OGBHmQ1dUOYQ7kNvwH8aDx_&amp;_nc_oc=AdoBBjikJSwoG-rA81jOQBwKxGen21h5JdB8yNdjl8A4wcBiANRqZaPpx6Z-wfCfuSXAL8un2878hCSgoYYTfH-P&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=_T1fgjWBf6Mwue9mAv8LQQ&amp;_nc_ss=7b289&amp;oh=00_AQCNFn8u3iCjWc4nrGtyfAt-J32QLhU8-xKjWNnnNoeI7w&amp;oe=6A7C71E9"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/465558478_9383868428309726_912579387845622798_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fXWiESV1PRQQ7kNvwFVFvd7&amp;_nc_oc=Adp91cEpR0RuqUDHNPNdWcupS1bFzV0bQj8YuraL5z_tE4-B0_rGv3fGxwPvf5JwhkvQF1qS7hsz1_jI0rbL5xHU&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Jzv0ZD5nAgMOfVGzacXzeg&amp;_nc_ss=7b289&amp;oh=00_AQDFdra2piU0lSxXTNqwd-k5YwBIQ5HZVr9QlIOHZ-lUIg&amp;oe=6A7996A9" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/465558478_9383868428309726_912579387845622798_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=fXWiESV1PRQQ7kNvwFVFvd7&amp;_nc_oc=Adp91cEpR0RuqUDHNPNdWcupS1bFzV0bQj8YuraL5z_tE4-B0_rGv3fGxwPvf5JwhkvQF1qS7hsz1_jI0rbL5xHU&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Jzv0ZD5nAgMOfVGzacXzeg&amp;_nc_ss=7b289&amp;oh=00_AQDFdra2piU0lSxXTNqwd-k5YwBIQ5HZVr9QlIOHZ-lUIg&amp;oe=6A7996A9"/>
       </media:group>
     </item>
     <item>
@@ -971,8 +960,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464907656_463086432888682_8012518818729258865_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=X6CINiJg2o0Q7kNvwHlJSqT&amp;_nc_oc=Adraeb-mLM_uBOyyVmTYBzaBAi3jhju3nBIQlpqfmJb15eAQEfpMHzgJ57D39btfpISJ3fwB0j7_XanEFHmVrzqp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=2D9iB6tQJ6C38L0LUIfcow&amp;_nc_ss=7b289&amp;oh=00_AQC85OXt4T-V2mP1Bi5BAWlcRVOCJOFUblItunoLCkTX9A&amp;oe=6A7C624C" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464907656_463086432888682_8012518818729258865_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=X6CINiJg2o0Q7kNvwHlJSqT&amp;_nc_oc=Adraeb-mLM_uBOyyVmTYBzaBAi3jhju3nBIQlpqfmJb15eAQEfpMHzgJ57D39btfpISJ3fwB0j7_XanEFHmVrzqp&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=2D9iB6tQJ6C38L0LUIfcow&amp;_nc_ss=7b289&amp;oh=00_AQC85OXt4T-V2mP1Bi5BAWlcRVOCJOFUblItunoLCkTX9A&amp;oe=6A7C624C"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464907656_463086432888682_8012518818729258865_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=YBC75HIk3fAQ7kNvwGqVDQT&amp;_nc_oc=AdqgXo-froSrqnVvxDrX23s-Q6ExWHwdEVNQ57koz2urre48zWUFsFp21_Zu8sGnqkQHt5eWoA1sdVCYJKFeSUMe&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Jzv0ZD5nAgMOfVGzacXzeg&amp;_nc_ss=7b289&amp;oh=00_AQCNCLNC8ivcoWAHFAYtcJb8dMLzQRxDlZWLzzkVIUgapg&amp;oe=6A79BF4C" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464907656_463086432888682_8012518818729258865_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=YBC75HIk3fAQ7kNvwGqVDQT&amp;_nc_oc=AdqgXo-froSrqnVvxDrX23s-Q6ExWHwdEVNQ57koz2urre48zWUFsFp21_Zu8sGnqkQHt5eWoA1sdVCYJKFeSUMe&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=Jzv0ZD5nAgMOfVGzacXzeg&amp;_nc_ss=7b289&amp;oh=00_AQCNCLNC8ivcoWAHFAYtcJb8dMLzQRxDlZWLzzkVIUgapg&amp;oe=6A79BF4C"/>
       </media:group>
     </item>
     <item>
@@ -983,8 +972,8 @@
       <category>Open Source</category>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463333963_590571113387771_342719036076969357_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=rmwo-kOCN2UQ7kNvwFnj7ek&amp;_nc_oc=Adp28RgIY2fgxLd-Efb6DFxoiIW9HZDzNWsFBxbx1x1b4c8PP1bQs4DXiuzwaPrEX5FD4SgglnZGBec9QtE378u-&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=2D9iB6tQJ6C38L0LUIfcow&amp;_nc_ss=7b289&amp;oh=00_AQBJIavXOCUXBYfW1yMf_ByaUmCaN5LSSJK8S_y3MIjmLw&amp;oe=6A7C6782" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463333963_590571113387771_342719036076969357_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=rmwo-kOCN2UQ7kNvwFnj7ek&amp;_nc_oc=Adp28RgIY2fgxLd-Efb6DFxoiIW9HZDzNWsFBxbx1x1b4c8PP1bQs4DXiuzwaPrEX5FD4SgglnZGBec9QtE378u-&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=2D9iB6tQJ6C38L0LUIfcow&amp;_nc_ss=7b289&amp;oh=00_AQBJIavXOCUXBYfW1yMf_ByaUmCaN5LSSJK8S_y3MIjmLw&amp;oe=6A7C6782"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463333963_590571113387771_342719036076969357_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=rmwo-kOCN2UQ7kNvwH68Z8B&amp;_nc_oc=AdoRJ0ajdq6v4qeKFUMiDp0BNQtFkdC7qvMRzl28wv4V8lONqmCvG3pWpBr1WmK1QYJ8IkTidrnM88P7as-OCYS5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=IvOqZM0MWT7dUxmx0sOREA&amp;_nc_ss=7b289&amp;oh=00_AQASPAoTItVAGrnRM3dHqP9AYrn_ok_rlTADFoTJIKZn7w&amp;oe=6A79C482" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463333963_590571113387771_342719036076969357_n.gif?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=rmwo-kOCN2UQ7kNvwH68Z8B&amp;_nc_oc=AdoRJ0ajdq6v4qeKFUMiDp0BNQtFkdC7qvMRzl28wv4V8lONqmCvG3pWpBr1WmK1QYJ8IkTidrnM88P7as-OCYS5&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=IvOqZM0MWT7dUxmx0sOREA&amp;_nc_ss=7b289&amp;oh=00_AQASPAoTItVAGrnRM3dHqP9AYrn_ok_rlTADFoTJIKZn7w&amp;oe=6A79C482"/>
       </media:group>
     </item>
     <item>
@@ -995,8 +984,8 @@
       <category>Large Language Model</category>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464303495_1293050525196145_4189921653081247074_n.png?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=C5oPYQm2YJgQ7kNvwEhwlXe&amp;_nc_oc=AdrsRapn8-UrQP7p53KdBmdcoAJ0GD2wWT9xjgdYkXdtrji7CRZhuV8aIOYr87uqZIupnbwbjetojqmtp3MxJoFr&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=2D9iB6tQJ6C38L0LUIfcow&amp;_nc_ss=7b289&amp;oh=00_AQC83lQKq5O_e7iKEOIuc4y1btgeEBJdzR9qWUhMBDKk2A&amp;oe=6A7C5488" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464303495_1293050525196145_4189921653081247074_n.png?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=C5oPYQm2YJgQ7kNvwEhwlXe&amp;_nc_oc=AdrsRapn8-UrQP7p53KdBmdcoAJ0GD2wWT9xjgdYkXdtrji7CRZhuV8aIOYr87uqZIupnbwbjetojqmtp3MxJoFr&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=2D9iB6tQJ6C38L0LUIfcow&amp;_nc_ss=7b289&amp;oh=00_AQC83lQKq5O_e7iKEOIuc4y1btgeEBJdzR9qWUhMBDKk2A&amp;oe=6A7C5488"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464303495_1293050525196145_4189921653081247074_n.png?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=pgb9Hib474wQ7kNvwGdX4i9&amp;_nc_oc=AdrYFLFPjnF0_01e5uafiG_0P_R-C_IeqEPWKJahXwe3VNNIkl2BhIt3jVGcgXxICK6_fYFdqTHR-PL-HdJtp3KA&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=IvOqZM0MWT7dUxmx0sOREA&amp;_nc_ss=7b289&amp;oh=00_AQCFwblTApKxyTa0_CqmObe45UKoMs6GUtFF80HBpvr6PQ&amp;oe=6A79B188" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464303495_1293050525196145_4189921653081247074_n.png?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=pgb9Hib474wQ7kNvwGdX4i9&amp;_nc_oc=AdrYFLFPjnF0_01e5uafiG_0P_R-C_IeqEPWKJahXwe3VNNIkl2BhIt3jVGcgXxICK6_fYFdqTHR-PL-HdJtp3KA&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=IvOqZM0MWT7dUxmx0sOREA&amp;_nc_ss=7b289&amp;oh=00_AQCFwblTApKxyTa0_CqmObe45UKoMs6GUtFF80HBpvr6PQ&amp;oe=6A79B188"/>
       </media:group>
     </item>
     <item>
@@ -1007,8 +996,8 @@
       <category></category>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464344086_1064505118544170_4565404612662738053_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=vF0BhI42TFEQ7kNvwHdPpLS&amp;_nc_oc=AdrkYSoLH2q7jYuyaday3z6s7DSpbAtxLypqd58YNPpnhhSjGioQrlkVj0ZSmFak-MbQU6G-yHa5AaIG4ZlDmd5f&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=2D9iB6tQJ6C38L0LUIfcow&amp;_nc_ss=7b289&amp;oh=00_AQAiGjNOM5DkbGSXtEczRxbsdDYG1dOCwy_cFPihH1Kgvg&amp;oe=6A7C5DA8" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464344086_1064505118544170_4565404612662738053_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=vF0BhI42TFEQ7kNvwHdPpLS&amp;_nc_oc=AdrkYSoLH2q7jYuyaday3z6s7DSpbAtxLypqd58YNPpnhhSjGioQrlkVj0ZSmFak-MbQU6G-yHa5AaIG4ZlDmd5f&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=2D9iB6tQJ6C38L0LUIfcow&amp;_nc_ss=7b289&amp;oh=00_AQAiGjNOM5DkbGSXtEczRxbsdDYG1dOCwy_cFPihH1Kgvg&amp;oe=6A7C5DA8"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464344086_1064505118544170_4565404612662738053_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=r18Ti5DtU7QQ7kNvwHkqhAH&amp;_nc_oc=AdrkYCeH1TnQQU8VSBG1-MYq9hoi3J9G4QBh_bi6Ig0wWggErffiiWQinQ9g9twjyuypHaJ8vi_YoWPjeJ09dx5X&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=IvOqZM0MWT7dUxmx0sOREA&amp;_nc_ss=7b289&amp;oh=00_AQDrGTqL-HeZgpRSz_oZXQIJ1SbF36JcGUBOnaSOcukXmA&amp;oe=6A79BAA8" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/464344086_1064505118544170_4565404612662738053_n.png?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=r18Ti5DtU7QQ7kNvwHkqhAH&amp;_nc_oc=AdrkYCeH1TnQQU8VSBG1-MYq9hoi3J9G4QBh_bi6Ig0wWggErffiiWQinQ9g9twjyuypHaJ8vi_YoWPjeJ09dx5X&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=IvOqZM0MWT7dUxmx0sOREA&amp;_nc_ss=7b289&amp;oh=00_AQDrGTqL-HeZgpRSz_oZXQIJ1SbF36JcGUBOnaSOcukXmA&amp;oe=6A79BAA8"/>
       </media:group>
     </item>
     <item>
@@ -1019,8 +1008,8 @@
       <category>Open Source</category>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/462939252_924840356157931_6013985933240080966_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9_WNwwClzcEQ7kNvwH8VruB&amp;_nc_oc=AdocSOFq3hmiQ_dYNgIr1ObEHG1CDuwHCciMkZXk8o1qINhDTqBPC3NkLrkuW3bAyzl4x_x1eNCKS7Nv3uWBrPCY&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=1ElJPaqH3KiLqMclevXbQw&amp;_nc_ss=7b289&amp;oh=00_AQBSg7gaKp8cZB0eAxs-aXcB4aUQjGJ4WQNO8YZxMjCUgA&amp;oe=6A7C583B" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/462939252_924840356157931_6013985933240080966_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9_WNwwClzcEQ7kNvwH8VruB&amp;_nc_oc=AdocSOFq3hmiQ_dYNgIr1ObEHG1CDuwHCciMkZXk8o1qINhDTqBPC3NkLrkuW3bAyzl4x_x1eNCKS7Nv3uWBrPCY&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=1ElJPaqH3KiLqMclevXbQw&amp;_nc_ss=7b289&amp;oh=00_AQBSg7gaKp8cZB0eAxs-aXcB4aUQjGJ4WQNO8YZxMjCUgA&amp;oe=6A7C583B"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/462939252_924840356157931_6013985933240080966_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9_WNwwClzcEQ7kNvwHOfxLR&amp;_nc_oc=AdpeLsk2xe683a93ao2nt6Sxhrd5ryrV6TV0qYpRuhhuM0oWZnFDd2LslIztik8-ZFR2I1R_l0jhREOR2QGOTmWc&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=IvOqZM0MWT7dUxmx0sOREA&amp;_nc_ss=7b289&amp;oh=00_AQCmeF77AvXJL-sB7-BQkcgZLkjhzus5Cg11CRdY92db1g&amp;oe=6A79B53B" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/462939252_924840356157931_6013985933240080966_n.png?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=9_WNwwClzcEQ7kNvwHOfxLR&amp;_nc_oc=AdpeLsk2xe683a93ao2nt6Sxhrd5ryrV6TV0qYpRuhhuM0oWZnFDd2LslIztik8-ZFR2I1R_l0jhREOR2QGOTmWc&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=IvOqZM0MWT7dUxmx0sOREA&amp;_nc_ss=7b289&amp;oh=00_AQCmeF77AvXJL-sB7-BQkcgZLkjhzus5Cg11CRdY92db1g&amp;oe=6A79B53B"/>
       </media:group>
     </item>
     <item>
@@ -1031,8 +1020,8 @@
       <category>Research</category>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463381922_1602947040258993_3509663552786293563_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=_XJ5iffDw_wQ7kNvwHkI577&amp;_nc_oc=AdpqMPPm-WHdLkGrxCS28sucKX2qwOsuaBVn4E3eE44916Qm3KcLpQK0dfCnRtU_cIhwcnCssUTkdfWEIb4H4NDu&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=1ElJPaqH3KiLqMclevXbQw&amp;_nc_ss=7b289&amp;oh=00_AQAuz_TiUC5e7720lqBFyRtX83d5LASOMBde7oBVTluLCQ&amp;oe=6A7C5DB8" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463381922_1602947040258993_3509663552786293563_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=_XJ5iffDw_wQ7kNvwHkI577&amp;_nc_oc=AdpqMPPm-WHdLkGrxCS28sucKX2qwOsuaBVn4E3eE44916Qm3KcLpQK0dfCnRtU_cIhwcnCssUTkdfWEIb4H4NDu&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=1ElJPaqH3KiLqMclevXbQw&amp;_nc_ss=7b289&amp;oh=00_AQAuz_TiUC5e7720lqBFyRtX83d5LASOMBde7oBVTluLCQ&amp;oe=6A7C5DB8"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463381922_1602947040258993_3509663552786293563_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=c-gdKbhtCqAQ7kNvwFyhbqZ&amp;_nc_oc=AdoJSIbD2bMro1kCkivpHj5-5DSaIzOhpDULTU0jbJzg59_z1x9G-HI7GbBQt95_52Zkz3hnbEslzGy8lDnMHLIO&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=CPBnBt86aJdNoJvdyTBA8w&amp;_nc_ss=7b289&amp;oh=00_AQAd4PoeJ62CKuqfuyPUNsBwyftlYZUdFzPy2MYQiFTNcQ&amp;oe=6A79BAB8" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463381922_1602947040258993_3509663552786293563_n.png?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=c-gdKbhtCqAQ7kNvwFyhbqZ&amp;_nc_oc=AdoJSIbD2bMro1kCkivpHj5-5DSaIzOhpDULTU0jbJzg59_z1x9G-HI7GbBQt95_52Zkz3hnbEslzGy8lDnMHLIO&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=CPBnBt86aJdNoJvdyTBA8w&amp;_nc_ss=7b289&amp;oh=00_AQAd4PoeJ62CKuqfuyPUNsBwyftlYZUdFzPy2MYQiFTNcQ&amp;oe=6A79BAB8"/>
       </media:group>
     </item>
     <item>
@@ -1043,8 +1032,8 @@
       <category>Open Source</category>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463248612_1658192748445386_8770358813570347527_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=TuKOE3jgeigQ7kNvwGUeBbz&amp;_nc_oc=AdolKXPvEcZ-BfsckZv9-Om2slOhjGk22LySmRqi3zvU2m1V9e54gHHDV_ynvw3T9a4kSV35nvyBBVAJS1i_l_dB&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=1ElJPaqH3KiLqMclevXbQw&amp;_nc_ss=7b289&amp;oh=00_AQCYbOFRXHHOMLWMxveBW56-TCnCrfaYWT9mCUQoBxvP9g&amp;oe=6A7C6E23" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463248612_1658192748445386_8770358813570347527_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=TuKOE3jgeigQ7kNvwGUeBbz&amp;_nc_oc=AdolKXPvEcZ-BfsckZv9-Om2slOhjGk22LySmRqi3zvU2m1V9e54gHHDV_ynvw3T9a4kSV35nvyBBVAJS1i_l_dB&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=1ElJPaqH3KiLqMclevXbQw&amp;_nc_ss=7b289&amp;oh=00_AQCYbOFRXHHOMLWMxveBW56-TCnCrfaYWT9mCUQoBxvP9g&amp;oe=6A7C6E23"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463248612_1658192748445386_8770358813570347527_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=TuKOE3jgeigQ7kNvwG147rQ&amp;_nc_oc=Ado-oQ13j574wxGEVookY4LhlrNcSpHktmHSppZFmgaQX7q34btauvLkm-f5syy0qdxyTb_mH1AGACrDl8nLJd6F&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=CPBnBt86aJdNoJvdyTBA8w&amp;_nc_ss=7b289&amp;oh=00_AQCXOVS6oPWvjB7mQIdiTSDeSLq7dBOJ3oRSsEAEftNt2w&amp;oe=6A79CB23" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/463248612_1658192748445386_8770358813570347527_n.png?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=TuKOE3jgeigQ7kNvwG147rQ&amp;_nc_oc=Ado-oQ13j574wxGEVookY4LhlrNcSpHktmHSppZFmgaQX7q34btauvLkm-f5syy0qdxyTb_mH1AGACrDl8nLJd6F&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=CPBnBt86aJdNoJvdyTBA8w&amp;_nc_ss=7b289&amp;oh=00_AQCXOVS6oPWvjB7mQIdiTSDeSLq7dBOJ3oRSsEAEftNt2w&amp;oe=6A79CB23"/>
       </media:group>
     </item>
     <item>
@@ -1055,8 +1044,20 @@
       <category>Open Source</category>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/462336374_921213146539106_6352504978516370528_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=F5nHDrJ8CQgQ7kNvwGpbYe3&amp;_nc_oc=Adp1ZsPG2o0b2yYHZy0-1o7-ONU_TBNNgPTwlaSZRgidju3EOZz3dzns8ZrVREyt_Ffr42UbNv10i1H94OTyPEK8&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=1ElJPaqH3KiLqMclevXbQw&amp;_nc_ss=7b289&amp;oh=00_AQA79Rwj2lkgUsoy9OSfmx4iEdCrJ5E-k1MxpXTZYAuL7A&amp;oe=6A7C808C" medium="image"/>
-        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/462336374_921213146539106_6352504978516370528_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=F5nHDrJ8CQgQ7kNvwGpbYe3&amp;_nc_oc=Adp1ZsPG2o0b2yYHZy0-1o7-ONU_TBNNgPTwlaSZRgidju3EOZz3dzns8ZrVREyt_Ffr42UbNv10i1H94OTyPEK8&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=1ElJPaqH3KiLqMclevXbQw&amp;_nc_ss=7b289&amp;oh=00_AQA79Rwj2lkgUsoy9OSfmx4iEdCrJ5E-k1MxpXTZYAuL7A&amp;oe=6A7C808C"/>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/462336374_921213146539106_6352504978516370528_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ifpzGMyTursQ7kNvwEIymue&amp;_nc_oc=Adp_tXr2MmeUkHeGPt_Sylj4-j3T3XfTzkwUbT209cDuxoKBzhuaY_H1owcfrtKc5A8sXqrjFlPqMwnfzSzBPJKH&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=CPBnBt86aJdNoJvdyTBA8w&amp;_nc_ss=7b289&amp;oh=00_AQC2rnhePtFaw6q0PoU_C0FkNxumnhH-PdZimTKw37ZYdg&amp;oe=6A79A54C" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/462336374_921213146539106_6352504978516370528_n.png?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=ifpzGMyTursQ7kNvwEIymue&amp;_nc_oc=Adp_tXr2MmeUkHeGPt_Sylj4-j3T3XfTzkwUbT209cDuxoKBzhuaY_H1owcfrtKc5A8sXqrjFlPqMwnfzSzBPJKH&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=CPBnBt86aJdNoJvdyTBA8w&amp;_nc_ss=7b289&amp;oh=00_AQC2rnhePtFaw6q0PoU_C0FkNxumnhH-PdZimTKw37ZYdg&amp;oe=6A79A54C"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How Meta Movie Gen could usher in a new AI-enabled era for content creators</title>
+      <link>https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/</link>
+      <description>Today, we’re excited to premiere Meta Movie Gen, our breakthrough generative AI research for media, which includes modalities like image, video, and audio.</description>
+      <guid isPermaLink="false">https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/</guid>
+      <category>Research</category>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/461607559_424881117294838_4692945548397199047_n.gif?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=PzJX2E7DD2kQ7kNvwF5S8lK&amp;_nc_oc=AdqPGIXOQ3NQD1zo2zZM7yhF586HA3G5HfiZEs7fFfH_jMeenXLL3VunSQwzHmqJF3rNgNWIzMUN-j9pI1IkcT-p&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=CPBnBt86aJdNoJvdyTBA8w&amp;_nc_ss=7b289&amp;oh=00_AQBVa2V2CCex5KHtFMHn39gd7JZYbLWvIoUv4N2GYo7BYw&amp;oe=6A799891" medium="image"/>
+        <media:thumbnail url="https://scontent.fbre4-1.fna.fbcdn.net/v/t39.2365-6/461607559_424881117294838_4692945548397199047_n.gif?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=e280be&amp;_nc_ohc=PzJX2E7DD2kQ7kNvwF5S8lK&amp;_nc_oc=AdqPGIXOQ3NQD1zo2zZM7yhF586HA3G5HfiZEs7fFfH_jMeenXLL3VunSQwzHmqJF3rNgNWIzMUN-j9pI1IkcT-p&amp;_nc_zt=14&amp;_nc_ht=scontent.fbre4-1.fna&amp;_nc_gid=CPBnBt86aJdNoJvdyTBA8w&amp;_nc_ss=7b289&amp;oh=00_AQBVa2V2CCex5KHtFMHn39gd7JZYbLWvIoUv4N2GYo7BYw&amp;oe=6A799891"/>
       </media:group>
     </item>
   </channel>

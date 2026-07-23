@@ -1,13 +1,17 @@
 """Generate RSS feed for Black Forest Labs Blog (https://bfl.ai/blog).
 
-Simple Static pattern (no cache needed): every post (the featured hero
-plus the grid) is server-rendered directly into the initial HTML response,
-with no "load more"/pagination control on the page. No Selenium required.
+Simple Static pattern (no cache needed): the blog grid paginates
+client-side, but the initial HTML response embeds every post (the featured
+hero plus all grid pages) as JSON inside the Next.js RSC payload
+(``self.__next_f.push`` chunks), so a single request captures the full
+post list — title, slug, ISO date, excerpt, and cover image. No Selenium
+required.
 """
 
+import json
+import re
 import sys
 
-from bs4 import BeautifulSoup
 from feed_generators.util.utils import (
     absolute_url,
     fetch_page,
@@ -16,7 +20,6 @@ from feed_generators.util.utils import (
     setup_feed_links,
     setup_logging,
     sort_posts_for_feed,
-    stable_fallback_date,
 )
 from feedgen.feed import FeedGenerator
 
@@ -24,89 +27,73 @@ logger = setup_logging()
 
 FEED_NAME = "bfl"
 BLOG_URL = "https://bfl.ai/blog"
+BASE_URL = "https://bfl.ai"
+
+# Each chunk is a JS string literal: self.__next_f.push([1,"<chunk>"]).
+# The JSON post data is split across many chunks.
+NEXT_F_CHUNK_RE = re.compile(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)', re.DOTALL)
 
 
-def parse_hero_article(soup: BeautifulSoup) -> dict | None:
-    """Extract the featured hero post, which sits outside the grid's
-    ``<article>`` elements. Its title is the page's only ``h3.text-bf-h3``
-    (the "All Posts" section heading is an ``h2`` with the same class, so
-    tag name disambiguates); date/link live two ancestors up.
-    """
-    title_elem = soup.find("h3", class_="text-bf-h3")
-    if not title_elem:
+def extract_rsc_payload(html: str) -> str:
+    """Unescape and concatenate the RSC flight chunks into one payload string."""
+    chunks = NEXT_F_CHUNK_RE.findall(html)
+    try:
+        return "".join(json.loads(f'"{chunk}"') for chunk in chunks)
+    except json.JSONDecodeError as exc:
+        logger.warning(f"Could not unescape RSC payload chunks: {exc}")
+        return ""
+
+
+def decode_json_value(payload: str, key: str) -> dict | list | None:
+    """Decode the JSON value directly following ``key`` in the flight payload."""
+    idx = payload.find(key)
+    if idx == -1:
+        logger.warning(f"Key {key} not found in RSC payload")
+        return None
+    try:
+        value, _ = json.JSONDecoder().raw_decode(payload, idx + len(key))
+        return value
+    except json.JSONDecodeError as exc:
+        logger.warning(f"Could not decode {key} from RSC payload: {exc}")
         return None
 
-    container = title_elem.parent.parent if title_elem.parent else None
-    link_a = container.find("a", href=True) if container else None
-    if not link_a:
+
+def post_to_article(post: dict) -> dict | None:
+    slug = (post.get("slug") or {}).get("current")
+    title = post.get("title")
+    if not slug or not title:
         return None
 
-    title = title_elem.get_text(strip=True)
-    link = absolute_url(link_a["href"], "https://bfl.ai")
-
-    date_elem = container.find("span")
-    date = parse_date(date_elem.get_text(strip=True), fallback_id=link) if date_elem else None
-    if not date:
-        date = stable_fallback_date(link)
-
-    desc_elem = container.find("p")
-    description = desc_elem.get_text(strip=True) if desc_elem else title
-
-    img_elem = container.find("img")
-    thumbnail = absolute_url(img_elem["src"], "https://bfl.ai") if img_elem and img_elem.get("src") else None
-
-    return {"title": title, "link": link, "date": date, "description": description, "thumbnail": thumbnail}
+    link = absolute_url(f"/blog/{slug}", BASE_URL)
+    return {
+        "title": title,
+        "link": link,
+        "date": parse_date(post.get("publishedAt"), fallback_id=link),
+        "description": post.get("excerpt") or title,
+        "thumbnail": (post.get("mainImage") or {}).get("url"),
+    }
 
 
 def parse_articles(html: str) -> list[dict]:
-    soup = BeautifulSoup(html, "html.parser")
+    payload = extract_rsc_payload(html)
+    if not payload:
+        return []
+
+    raw_posts = []
+    hero = decode_json_value(payload, '"firstPost":')
+    if isinstance(hero, dict):
+        raw_posts.append(hero)
+    remaining = decode_json_value(payload, '"remainingPosts":')
+    if isinstance(remaining, list):
+        raw_posts.extend(remaining)
+
     articles = []
     seen_links = set()
-
-    hero = parse_hero_article(soup)
-    if hero:
-        seen_links.add(hero["link"])
-        articles.append(hero)
-
-    for art in soup.find_all("article", id=lambda x: x and x.startswith("blog-post-")):
-        link_a = art.find("a", href=True)
-        if not link_a:
-            continue
-
-        link = absolute_url(link_a["href"], "https://bfl.ai")
-        if link in seen_links:
-            continue
-
-        title_elem = art.find("h2") or art.find("h3")
-        if not title_elem:
-            continue
-        title = title_elem.get_text(strip=True)
-        if len(title) < 3:
-            continue
-
-        seen_links.add(link)
-
-        time_elem = art.find("time")
-        date = parse_date(time_elem.get("datetime"), fallback_id=link) if time_elem else None
-        if not date:
-            logger.warning(f"Could not parse date for article: {title}")
-            date = stable_fallback_date(link)
-
-        desc_elem = art.find("p")
-        description = desc_elem.get_text(strip=True) if desc_elem else title
-
-        img_elem = art.find("img")
-        thumbnail = absolute_url(img_elem["src"], "https://bfl.ai") if img_elem and img_elem.get("src") else None
-
-        articles.append(
-            {
-                "title": title,
-                "link": link,
-                "date": date,
-                "description": description,
-                "thumbnail": thumbnail,
-            }
-        )
+    for post in raw_posts:
+        article = post_to_article(post)
+        if article and article["link"] not in seen_links:
+            seen_links.add(article["link"])
+            articles.append(article)
 
     logger.info(f"Parsed {len(articles)} articles")
     return articles
