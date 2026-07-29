@@ -8,7 +8,159 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:43:44 +0000</lastBuildDate>
+    <item>
+      <title>Now everyone can put data to work</title>
+      <link>https://openai.com/index/put-data-to-work</link>
+      <description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.</description>
+      <guid isPermaLink="false">https://openai.com/index/put-data-to-work</guid>
+      <category>Product</category>
+      <pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT for Financial Services</title>
+      <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
+      <description>Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-financial-services</guid>
+      <category>Product</category>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Agents API</title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
+      <category>Product</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+      <category>Product</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra: The next generation in intelligence for work</title>
+      <link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
+      <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra-next-generation-work</guid>
+      <category>Product</category>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Images 2.5</title>
+      <link>https://openai.com/index/introducing-chatgpt-images-2-5</link>
+      <description>ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-images-2-5</guid>
+      <category>Product</category>
+      <pubDate>Tue, 08 Sep 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
+      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+      <description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
+      <category>Product</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A milestone in expanding access to AI</title>
+      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+      <description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</description>
+      <guid isPermaLink="false">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
+      <category>Product</category>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <description>ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.</description>
+      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+      <category>Product</category>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning never stops: How AI makes learning continuous</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <description>OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.</description>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <category>Product</category>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
+      <link>https://openai.com/index/gpt-5-6-in-kiro</link>
+      <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-6-in-kiro</guid>
+      <category>Product</category>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Ads expands across Europe</title>
+      <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
+      <description>ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-across-europe</guid>
+      <category>Product</category>
+      <pubDate>Tue, 18 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
+      <link>https://openai.com/index/chatgpt-for-teens</link>
+      <description>ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-teens</guid>
+      <category>Product</category>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed</title>
+      <link>https://openai.com/index/previewing-ultrafast</link>
+      <description>Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.</description>
+      <guid isPermaLink="false">https://openai.com/index/previewing-ultrafast</guid>
+      <category>Product</category>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daybreak models are now available on AWS</title>
+      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
+      <description>OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.</description>
+      <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
+      <category>Product</category>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Premium seats are coming to ChatGPT Business</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <description>Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.</description>
+      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
+      <category>Product</category>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users</title>
+      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
+      <description>ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.</description>
+      <guid isPermaLink="false">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New ways to learn and teach with ChatGPT Work and Codex</title>
+      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
+      <description>Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.</description>
+      <guid isPermaLink="false">https://openai.com/index/learn-teach-chatgpt-work-codex</guid>
+      <category>Product</category>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing the price-performance frontier with GPT-5.6</title>
+      <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
+      <description>Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.</description>
+      <guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
+      <category>Product</category>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Launching Health in ChatGPT</title>
       <link>https://openai.com/index/health-in-chatgpt</link>
@@ -34,18 +186,18 @@
       <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT is now a partner for your most ambitious work</title>
-      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
-      <description>ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
-      <category>Product</category>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GPT-5.6: Frontier intelligence that scales with your ambition</title>
       <link>https://openai.com/index/gpt-5-6</link>
       <description>More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
+      <category>Product</category>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT is now a partner for your most ambitious work</title>
+      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
+      <description>ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
       <category>Product</category>
       <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
     </item>
@@ -180,7 +332,7 @@
     <item>
       <title>Introducing GPT-5.5</title>
       <link>https://openai.com/index/introducing-gpt-5-5</link>
-      <description>Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.</description>
+      <description>This post introduced GPT-5.5, a model built for complex tasks like coding, research, and data analysis across tools.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-5</guid>
       <category>Product</category>
       <pubDate>Thu, 23 Apr 2026 11:00:00 +0000</pubDate>
@@ -204,7 +356,7 @@
     <item>
       <title>Introducing ChatGPT Images 2.0</title>
       <link>https://openai.com/index/introducing-chatgpt-images-2-0</link>
-      <description>ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.</description>
+      <description>This 2026 launch introduced ChatGPT Images 2.0, with improved text rendering, multilingual support, and visual reasoning. See what’s new in Images 2.5.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-images-2-0</guid>
       <category>Product</category>
       <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
@@ -386,9 +538,9 @@
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The new ChatGPT Images is here</title>
+      <title>Introducing ChatGPT Images and GPT‑Image‑1.5</title>
       <link>https://openai.com/index/new-chatgpt-images-is-here</link>
-      <description>The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.</description>
+      <description>This 2025 launch introduced a faster ChatGPT Images experience and GPT‑Image‑1.5 in the API. Explore the latest ChatGPT Images 2.5.</description>
       <guid isPermaLink="false">https://openai.com/index/new-chatgpt-images-is-here</guid>
       <category>Product</category>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
@@ -426,18 +578,18 @@
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A free version of ChatGPT built for teachers</title>
-      <link>https://openai.com/index/chatgpt-for-teachers</link>
-      <description>ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.</description>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-teachers</guid>
-      <category>Product</category>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Building more with GPT-5.1-Codex-Max</title>
       <link>https://openai.com/index/gpt-5-1-codex-max</link>
       <description>Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-5-1-codex-max</guid>
+      <category>Product</category>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A free version of ChatGPT built for teachers</title>
+      <link>https://openai.com/index/chatgpt-for-teachers</link>
+      <description>ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-teachers</guid>
       <category>Product</category>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
     </item>
@@ -492,7 +644,7 @@
     <item>
       <title>Introducing ChatGPT Atlas, the browser with ChatGPT built in</title>
       <link>https://openai.com/index/introducing-chatgpt-atlas</link>
-      <description>ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.</description>
+      <description>This post introduced ChatGPT Atlas, a browser with ChatGPT built in. Atlas has since been deprecated.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-atlas</guid>
       <category>Product</category>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
@@ -644,7 +796,7 @@
     <item>
       <title>Introducing 4o Image Generation</title>
       <link>https://openai.com/index/introducing-4o-image-generation</link>
-      <description>At OpenAI, we have long believed image generation should be a primary capability of our language models. That’s why we’ve built our most advanced image generator yet into GPT‑4o. The result—image generation that is not only beautiful, but useful.</description>
+      <description>This 2025 launch introduced native image generation in GPT‑4o, including stronger text rendering and instruction following. Explore ChatGPT Images 2.5.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-4o-image-generation</guid>
       <category>Product</category>
       <pubDate>Tue, 25 Mar 2025 11:05:00 +0000</pubDate>
@@ -794,18 +946,18 @@
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI for Education</title>
-      <link>https://openai.com/index/introducing-chatgpt-edu</link>
-      <description>An affordable offering for universities to responsibly bring AI to campus.</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-edu</guid>
-      <category>Product</category>
-      <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing OpenAI for Nonprofits</title>
       <link>https://openai.com/index/introducing-openai-for-nonprofits</link>
       <description>We’re launching a new initiative to enhance the accessibility of our tools for nonprofit organizations, including discounted rates for ChatGPT Team and Enterprise.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-nonprofits</guid>
+      <category>Product</category>
+      <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI for Education</title>
+      <link>https://openai.com/index/introducing-chatgpt-edu</link>
+      <description>An affordable offering for universities to responsibly bring AI to campus.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-edu</guid>
       <category>Product</category>
       <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
     </item>
@@ -837,18 +989,18 @@ We are launching our newest flagship model and making more capabilities availabl
       <pubDate>Mon, 13 May 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-4 API general availability and deprecation of older models in the Completions API</title>
-      <link>https://openai.com/index/gpt-4-api-general-availability</link>
-      <description>GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-4-api-general-availability</guid>
-      <category>Product</category>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing ChatGPT and Whisper APIs</title>
       <link>https://openai.com/index/introducing-chatgpt-and-whisper-apis</link>
       <description>Introducing ChatGPT and Whisper APIs</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-and-whisper-apis</guid>
+      <category>Product</category>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-4 API general availability and deprecation of older models in the Completions API</title>
+      <link>https://openai.com/index/gpt-4-api-general-availability</link>
+      <description>GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-4-api-general-availability</guid>
       <category>Product</category>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
     </item>
@@ -909,18 +1061,18 @@ We are launching our newest flagship model and making more capabilities availabl
       <pubDate>Thu, 25 Jan 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing ChatGPT Team</title>
-      <link>https://openai.com/index/introducing-chatgpt-team</link>
-      <description>We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-team</guid>
-      <category>Product</category>
-      <pubDate>Wed, 10 Jan 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing the GPT Store</title>
       <link>https://openai.com/index/introducing-the-gpt-store</link>
       <description>Introducing the GPT Store</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-gpt-store</guid>
+      <category>Product</category>
+      <pubDate>Wed, 10 Jan 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Team</title>
+      <link>https://openai.com/index/introducing-chatgpt-team</link>
+      <description>We’re launching a new ChatGPT plan for teams of all sizes, which provides a secure, collaborative workspace to get the most out of ChatGPT at work.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-team</guid>
       <category>Product</category>
       <pubDate>Wed, 10 Jan 2024 08:00:00 +0000</pubDate>
     </item>
