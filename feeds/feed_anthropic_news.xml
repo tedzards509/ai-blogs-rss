@@ -13,7 +13,79 @@
       <link>https://www.anthropic.com/news</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:34:51 +0000</lastBuildDate>
+    <item>
+      <title>Developing Enterprise Frontier Safeguards with our customers</title>
+      <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+      <description>Developing Enterprise Frontier Safeguards with our customers</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving our alignment and security efforts</title>
+      <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+      <description>Improving our alignment and security efforts</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
+      <category></category>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding our support for scientists</title>
+      <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+      <description>Expanding our support for scientists</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Previewing the Model Hardware Standard</title>
+      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+      <description>Previewing the Model Hardware Standard</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Funding better evaluations of AI’s impact on wellbeing</title>
+      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
+      <description>Funding better evaluations of AI’s impact on wellbeing</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/wellbeing-research-grants</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Claude’s text watermark works</title>
+      <link>https://www.anthropic.com/news/claude-text-watermark</link>
+      <description>How Claude’s text watermark works</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-text-watermark</guid>
+      <category>Announcements</category>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving Fable 5's biology safeguards</title>
+      <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
+      <description>Improving Fable 5's biology safeguards</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</guid>
+      <category>Product</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
+      <link>https://www.anthropic.com/news/tino-cuellar</link>
+      <description>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/tino-cuellar</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
+      <link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
+      <description>Investigating three real-world incidents in our cybersecurity evaluations</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients</title>
       <link>https://www.anthropic.com/news/cognizant-anthropic</link>
@@ -51,7 +123,7 @@
       <link>https://www.anthropic.com/news/economic-futures-research-fund-agenda</link>
       <description>A research agenda for the Economic Futures Research Fund</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/economic-futures-research-fund-agenda</guid>
-      <category>Economic Research</category>
+      <category>Economics</category>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -103,19 +175,19 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>UST is bringing Claude to physical AI</title>
-      <link>https://www.anthropic.com/news/ust-claude</link>
-      <description>UST is bringing Claude to physical AI</description>
-      <guid isPermaLink="false">https://www.anthropic.com/news/ust-claude</guid>
-      <category>Case Study</category>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Inviting hard questions</title>
       <link>https://www.anthropic.com/news/hard-questions</link>
       <description>Inviting hard questions</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/hard-questions</guid>
       <category>Announcements</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UST is bringing Claude to physical AI</title>
+      <link>https://www.anthropic.com/news/ust-claude</link>
+      <description>UST is bringing Claude to physical AI</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/ust-claude</guid>
+      <category>Case Study</category>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -143,19 +215,19 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing Claude Sonnet 5</title>
-      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
-      <description>Introducing Claude Sonnet 5</description>
-      <guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-5</guid>
-      <category>Product</category>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Redeploying Fable 5</title>
       <link>https://www.anthropic.com/news/redeploying-fable-5</link>
       <description>Redeploying Fable 5</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/redeploying-fable-5</guid>
       <category>Announcements</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 5</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
+      <description>Introducing Claude Sonnet 5</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-5</guid>
+      <category>Product</category>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -851,7 +923,7 @@
       <link>https://www.anthropic.com/news/economic-futures-uk-europe</link>
       <description>Launching the Anthropic Economic Futures Programme in the UK and Europe</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/economic-futures-uk-europe</guid>
-      <category>Economic Research</category>
+      <category>Economics</category>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1575,9 +1647,9 @@
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. Elections Readiness</title>
+      <title>U.S. elections readiness</title>
       <link>https://www.anthropic.com/news/us-elections-readiness</link>
-      <description>U.S. Elections Readiness</description>
+      <description>U.S. elections readiness</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/us-elections-readiness</guid>
       <category>Societal Impacts</category>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -1887,9 +1959,9 @@
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SKT Partnership Announcement</title>
+      <title>SKT partnership announcement</title>
       <link>https://www.anthropic.com/news/skt-partnership-announcement</link>
-      <description>SKT Partnership Announcement</description>
+      <description>SKT partnership announcement</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/skt-partnership-announcement</guid>
       <category>Announcements</category>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
@@ -1911,9 +1983,9 @@
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Frontier Model Security</title>
+      <title>Frontier model security</title>
       <link>https://www.anthropic.com/news/frontier-model-security</link>
-      <description>Frontier Model Security</description>
+      <description>Frontier model security</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/frontier-model-security</guid>
       <category>Announcements</category>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
@@ -1943,17 +2015,17 @@
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zoom Partnership and Investment in Anthropic</title>
+      <title>Zoom partnership and investment in Anthropic</title>
       <link>https://www.anthropic.com/news/zoom-partnership-and-investment</link>
-      <description>Zoom Partnership and Investment in Anthropic</description>
+      <description>Zoom partnership and investment in Anthropic</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/zoom-partnership-and-investment</guid>
       <category>Announcements</category>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing 100K Context Windows</title>
+      <title>Introducing 100K context windows</title>
       <link>https://www.anthropic.com/news/100k-context-windows</link>
-      <description>Introducing 100K Context Windows</description>
+      <description>Introducing 100K context windows</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/100k-context-windows</guid>
       <category>Announcements</category>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
@@ -1999,9 +2071,9 @@
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic Partners with Google Cloud</title>
+      <title>Anthropic partners with Google Cloud</title>
       <link>https://www.anthropic.com/news/anthropic-partners-with-google-cloud</link>
-      <description>Anthropic Partners with Google Cloud</description>
+      <description>Anthropic partners with Google Cloud</description>
       <guid isPermaLink="false">https://www.anthropic.com/news/anthropic-partners-with-google-cloud</guid>
       <category>Announcements</category>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>

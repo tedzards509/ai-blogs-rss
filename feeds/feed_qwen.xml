@@ -8,7 +8,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:34:57 +0000</lastBuildDate>
+    <item>
+      <title>E-Commerce Bench: Long-Horizon Operations, Multi-Dimensional Evaluation</title>
+      <link>https://qwen.ai/blog?id=e-commerce-bench</link>
+      <description>Agent benchmarks over the past few years have mostly followed one pattern. A goal is handed to the model, and the model tries to reach it within a bounded number of turns, whether that means finding the treasure in a maze, producing a report, or fixing a piece of code. Performance is then scored on the quality of the deliverable or on how much of the task got done, and evaluations of this kind usu</description>
+      <guid isPermaLink="false">https://qwen.ai/blog?id=e-commerce-bench</guid>
+      <pubDate>Thu, 03 Sep 2026 10:00:00 +0800</pubDate>
+      <media:group>
+        <media:content url="https://img.alicdn.com/imgextra/i1/O1CN01QlThshCJ7uE3E9bs_!!6000000000358-2-tps-1590-954.png" medium="image"/>
+        <media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01QlThshCJ7uE3E9bs_!!6000000000358-2-tps-1590-954.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving</title>
+      <link>https://qwen.ai/blog?id=qwen-drive-1.0</link>
+      <description>We introduce Qwen-Drive-1.0, the first vision-language foundation model for autonomous driving that unifies 3D perception and visual question answering at the pretraining stage and further extends to motion planning, while keeping the pretrained VLM architecture entirely untouched. Built on the natively multimodal Qwen3.5-4B, it attaches two external modules. A BEV perception head serves as an exp</description>
+      <guid isPermaLink="false">https://qwen.ai/blog?id=qwen-drive-1.0</guid>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 +0800</pubDate>
+      <media:group>
+        <media:content url="https://img.alicdn.com/imgextra/i2/O1CN01BEtEP74nVrF3E9bs_!!6000000002925-2-tps-1590-954.png" medium="image"/>
+        <media:thumbnail url="https://img.alicdn.com/imgextra/i2/O1CN01BEtEP74nVrF3E9bs_!!6000000002925-2-tps-1590-954.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency</title>
+      <link>https://qwen.ai/blog?id=qwen3.8-flash-next</link>
+      <description>In this release we are opening the weights of Qwen3.8-Flash-Next, a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4. It plays the same role that Qwen3-Next played for Qwen3.5: the hybrid Gated DeltaNet + Gated Attention design introduced at that time has since been used across the Qwen3.5, Qwen3.6, Qwen3.7 and Qwen3.8 series. We are again releasing the a</description>
+      <guid isPermaLink="false">https://qwen.ai/blog?id=qwen3.8-flash-next</guid>
+      <pubDate>Wed, 26 Aug 2026 20:30:00 +0800</pubDate>
+      <media:group>
+        <media:content url="https://img.alicdn.com/imgextra/i1/O1CN01ZxcR5nZsP9E3E9bs_!!6000000003536-2-tps-1590-954.png" medium="image"/>
+        <media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01ZxcR5nZsP9E3E9bs_!!6000000003536-2-tps-1590-954.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Qwen3.8-Max: A New Bar for Coding and Cowork</title>
+      <link>https://qwen.ai/blog?id=qwen3.8</link>
+      <description>Today, we are officially releasing Qwen 3.8-Max, the most capable model in the Qwen family to date. This also marks the first time we will open-source the weights of a Qwen-Max-class model — the open weights will be released next week. Built upon the architectural foundation of Qwen 3.5, Qwen 3.8-Max scales to 2.4 trillion parameters, delivering comprehensive improvements across coding, work, rese</description>
+      <guid isPermaLink="false">https://qwen.ai/blog?id=qwen3.8</guid>
+      <pubDate>Mon, 03 Aug 2026 10:00:00 +0800</pubDate>
+      <media:group>
+        <media:content url="https://img.alicdn.com/imgextra/i1/O1CN01ITn7j2cu9OF3E9bs_!!6000000000314-2-tps-1590-954.png" medium="image"/>
+        <media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01ITn7j2cu9OF3E9bs_!!6000000000314-2-tps-1590-954.png"/>
+      </media:group>
+    </item>
     <item>
       <title>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</title>
       <link>https://qwen.ai/blog?id=qwen-image-3.0</link>

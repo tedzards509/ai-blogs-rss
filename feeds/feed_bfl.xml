@@ -8,7 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:34:47 +0000</lastBuildDate>
+    <item>
+      <title>FLUX Upscale: 2K and 4K for Video</title>
+      <link>https://bfl.ai/blog/flux-video-upscale</link>
+      <description>FLUX Upscale takes any video and regenerates it at a higher resolution, up to native 4K, now available as its own FLUX Tool and endpoint.</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-video-upscale</guid>
+      <pubDate>Thu, 20 Aug 2026 17:21:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/2gpum2i6/production/42f90d663c434352e50abad5f91bf22ee7263db3-3840x2560.png" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/2gpum2i6/production/42f90d663c434352e50abad5f91bf22ee7263db3-3840x2560.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FLUX 3 Video, Part 1: Generation</title>
+      <link>https://bfl.ai/blog/flux-3-video</link>
+      <description>FLUX 3 Video, Part 1</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-3-video</guid>
+      <pubDate>Tue, 04 Aug 2026 15:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/2gpum2i6/production/281b2003f8a62e07391c6085a69ed91eb574d08c-1900x1264.png" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/2gpum2i6/production/281b2003f8a62e07391c6085a69ed91eb574d08c-1900x1264.png"/>
+      </media:group>
+    </item>
     <item>
       <title>FLUX 3 x mimic: The Next Generation of Video-Action Models</title>
       <link>https://bfl.ai/blog/flux-3-mimic</link>
