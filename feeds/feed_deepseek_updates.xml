@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:46:14 +0000</lastBuildDate>
+    <item>
+      <title>DeepSeek-V4-Flash-Vision-Exp Release</title>
+      <link>https://api-docs.deepseek.com/updates/#deepseek-v4-flash-vision-exp-release</link>
+      <description>Today, the new multimodal vision understanding model DeepSeek-V4-Flash-Vision-Exp is now available on the DeepSeek API platform. This is an experimental model that can be accessed by setting model='deepseek-v4-flash-vision-exp' . Terminal Bench 2.1: 83.9 NL2Repo: 57.7 DeepSWE: 59.3 DSBench-Hard: 63.6 AutomationBench (Public): 25.7 ApexBench (Pass@1): 36.5 Agents' Last Exam: 27.3 Chartography: 64.3 ZeroBench (Pass@5): 35.0 In terms of pure-text capabilities (agent, reasoning, world knowledge, etc</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates/#deepseek-v4-flash-vision-exp-release</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-V4-Pro Update</title>
+      <link>https://api-docs.deepseek.com/updates/#deepseek-v4-pro-update</link>
+      <description>The GA release of DeepSeek-V4-Pro has been rolled out on the APP, Web, and API. The API calling method remains unchanged — simply set the model name to deepseek-v4-pro to use the latest version. The GA version of DeepSeek V4 Pro greatly enhances agent capabilities, with particularly significant performance improvements in production environments. HLE (wo / w tools): 42.7/60.0 Terminal Bench 2.1: 87.9 NL2Repo: 61.5 Cybergym: 83.3 DeepSWE: 62.7 Toolathlon-Verified: 74.1 Agents' Last Exam: 25.7 Aut</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates/#deepseek-v4-pro-update</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-V4-Flash Update</title>
+      <link>https://api-docs.deepseek.com/updates/#deepseek-v4-flash-update</link>
+      <description>The official release of the DeepSeek-V4-Flash API is now in public beta. The API calling method remains unchanged — simply set the model name to deepseek-v4-flash to use the latest version. Terminal Bench 2.1: 82.7 NL2Repo: 54.2 Cybergym: 76.7 DeepSWE: 54.4 Toolathlon verified: 70.3 Agent Last Exam: 25.2 Automation Bench (Public): 25.1 DSBench-FullStack: 68.7 DSBench-Hard: 59.6</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates/#deepseek-v4-flash-update</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DeepSeek-V4</title>
       <link>https://api-docs.deepseek.com/updates/#deepseek-v4</link>

@@ -8,7 +8,40 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:46:49 +0000</lastBuildDate>
+    <item>
+      <title>The Culture Funnel: You can’t align what isn’t in the data</title>
+      <link>https://cohere.com/blog/the-culture-funnel-you-cant-align-what-isnt-in-the-data</link>
+      <description>The Culture Funnel: You can’t align what isn’t in the data</description>
+      <guid isPermaLink="false">https://cohere.com/blog/the-culture-funnel-you-cant-align-what-isnt-in-the-data</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7493c424307b5797232b61008e24ff6145b97d24-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7493c424307b5797232b61008e24ff6145b97d24-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere and the University of Waterloo launch partnership to strengthen Canada’s AI talent pipeline</title>
+      <link>https://cohere.com/blog/cohere-university-of-waterloo-announcement</link>
+      <description>Cohere and the University of Waterloo launch partnership to strengthen Canada’s AI talent pipeline</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-university-of-waterloo-announcement</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/c2b5d6e58253b31e0ecf43f86667acfbdaa4b6a9-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/c2b5d6e58253b31e0ecf43f86667acfbdaa4b6a9-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere signs EU Code of Practice on Transparency of AI-Generated Content</title>
+      <link>https://cohere.com/blog/cohere-signs-eu-code-of-practice</link>
+      <description>Cohere signs EU Code of Practice on Transparency of AI-Generated Content</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-signs-eu-code-of-practice</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/de96a636ea807fb82ad69ef45abeb99b26201977-3840x2160.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/de96a636ea807fb82ad69ef45abeb99b26201977-3840x2160.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
     <item>
       <title>A day in the life of a wealth manager, with and without AI</title>
       <link>https://cohere.com/blog/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai</link>
@@ -161,6 +194,17 @@
       <media:group>
         <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/824d32875c1faf5d7048cb18d83e006e46c9b869-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
         <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/824d32875c1faf5d7048cb18d83e006e46c9b869-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Unpacking AI safety for enterprises</title>
+      <link>https://cohere.com/blog/unpacking-ai-safety</link>
+      <description>Unpacking AI safety for enterprises</description>
+      <guid isPermaLink="false">https://cohere.com/blog/unpacking-ai-safety</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/40d5fb84827da56ebef3314f6f7e84086e1b72ed-1600x900.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/40d5fb84827da56ebef3314f6f7e84086e1b72ed-1600x900.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -857,17 +901,6 @@
       </media:group>
     </item>
     <item>
-      <title>Unpacking AI safety for enterprises</title>
-      <link>https://cohere.com/blog/unpacking-ai-safety</link>
-      <description>Unpacking AI safety for enterprises</description>
-      <guid isPermaLink="false">https://cohere.com/blog/unpacking-ai-safety</guid>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/40d5fb84827da56ebef3314f6f7e84086e1b72ed-1600x900.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/40d5fb84827da56ebef3314f6f7e84086e1b72ed-1600x900.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
-      </media:group>
-    </item>
-    <item>
       <title>Cohere and Second Front bring secure AI to the public sector</title>
       <link>https://cohere.com/blog/second-front-partnership</link>
       <description>Cohere and Second Front bring secure AI to the public sector</description>
@@ -1154,9 +1187,9 @@
       </media:group>
     </item>
     <item>
-      <title>AI in manufacturing: The ultimate guide</title>
+      <title>AI in manufacturing: Use cases, benefits, and implementation considerations</title>
       <link>https://cohere.com/blog/ai-in-manufacturing-and-supply-chain</link>
-      <description>AI in manufacturing: The ultimate guide</description>
+      <description>AI in manufacturing: Use cases, benefits, and implementation considerations</description>
       <guid isPermaLink="false">https://cohere.com/blog/ai-in-manufacturing-and-supply-chain</guid>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <media:group>
@@ -1924,9 +1957,9 @@
       </media:group>
     </item>
     <item>
-      <title>AI and healthcare: The present and future of medicine</title>
+      <title>AI in healthcare: Examples, benefits, and implementation challenges</title>
       <link>https://cohere.com/blog/ai-and-healthcare</link>
-      <description>AI and healthcare: The present and future of medicine</description>
+      <description>AI in healthcare: Examples, benefits, and implementation challenges</description>
       <guid isPermaLink="false">https://cohere.com/blog/ai-and-healthcare</guid>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
