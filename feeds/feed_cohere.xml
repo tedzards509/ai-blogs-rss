@@ -8,16 +8,368 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:55:45 +0000</lastBuildDate>
     <item>
-      <title>A day in the life of a wealth manager, with and without AI</title>
-      <link>https://cohere.com/blog/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai</link>
-      <description>A day in the life of a wealth manager, with and without AI</description>
-      <guid isPermaLink="false">https://cohere.com/blog/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Can AI understand culture?</title>
+      <link>https://cohere.com/blog/can-ai-understand-culture</link>
+      <description>Can AI understand culture?</description>
+      <guid isPermaLink="false">https://cohere.com/blog/can-ai-understand-culture</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ebf741aee337c6a26d5608b7719dfbb76acd6f8d-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ebf741aee337c6a26d5608b7719dfbb76acd6f8d-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/24b8abec4b5cf28df9a82d105fb39fc45881c2cf-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/24b8abec4b5cf28df9a82d105fb39fc45881c2cf-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Introducing Confidential Computing on Cohere Model Vault</title>
+      <link>https://cohere.com/blog/introducing-confidential-computing-on-cohere-model-vault</link>
+      <description>Introducing Confidential Computing on Cohere Model Vault</description>
+      <guid isPermaLink="false">https://cohere.com/blog/introducing-confidential-computing-on-cohere-model-vault</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b2a2c86e80e6776dd67b69232fef3daa01301682-2260x1130.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b2a2c86e80e6776dd67b69232fef3daa01301682-2260x1130.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Inside Cohere Model Vault: Building a verifiable confidential AI inference</title>
+      <link>https://cohere.com/blog/inside-cohere-model-vault-building-verifiable-confidential-ai-inference</link>
+      <description>Inside Cohere Model Vault: Building a verifiable confidential AI inference</description>
+      <guid isPermaLink="false">https://cohere.com/blog/inside-cohere-model-vault-building-verifiable-confidential-ai-inference</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/fc96d67622cfc9c2b113f533f1385f1ceedb9638-1920x1080.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/fc96d67622cfc9c2b113f533f1385f1ceedb9638-1920x1080.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Introducing Rerank 5: precise, efficient enterprise document retrieval</title>
+      <link>https://cohere.com/blog/rerank-5</link>
+      <description>Introducing Rerank 5: precise, efficient enterprise document retrieval</description>
+      <guid isPermaLink="false">https://cohere.com/blog/rerank-5</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rethinking confidence in reasoning models</title>
+      <link>https://cohere.com/blog/rethinking-confidence-in-reasoning-models</link>
+      <description>Rethinking confidence in reasoning models</description>
+      <guid isPermaLink="false">https://cohere.com/blog/rethinking-confidence-in-reasoning-models</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/29364be119de6f05876cf2f747d763c297eafa69-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/29364be119de6f05876cf2f747d763c297eafa69-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere to acquire AISLE to advance cyber-resilient sovereign AI</title>
+      <link>https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai</link>
+      <description>Cohere to acquire AISLE to advance cyber-resilient sovereign AI</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e62b59612dff99b3a1c1cfadb6227d4806e7a774-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e62b59612dff99b3a1c1cfadb6227d4806e7a774-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>AI ROI: How enterprises can measure the return on AI investments</title>
+      <link>https://cohere.com/blog/ai-roi</link>
+      <description>AI ROI: How enterprises can measure the return on AI investments</description>
+      <guid isPermaLink="false">https://cohere.com/blog/ai-roi</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b98e79e7d049a148e4b66c85027f7ad08c9297ba-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b98e79e7d049a148e4b66c85027f7ad08c9297ba-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Agent sprawl: How to manage agent proliferation in the enterprise</title>
+      <link>https://cohere.com/blog/agent-sprawl</link>
+      <description>Agent sprawl: How to manage agent proliferation in the enterprise</description>
+      <guid isPermaLink="false">https://cohere.com/blog/agent-sprawl</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/1094f3e6b1cb6e160811e3553dd4baed23dca498-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/1094f3e6b1cb6e160811e3553dd4baed23dca498-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>AI for utilities requires capability and control</title>
+      <link>https://cohere.com/blog/ai-for-utilities-requires-capability-and-control</link>
+      <description>AI for utilities requires capability and control</description>
+      <guid isPermaLink="false">https://cohere.com/blog/ai-for-utilities-requires-capability-and-control</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b36c731c34b23aeeb737f166444aeaa87d9e9c68-1920x1080.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b36c731c34b23aeeb737f166444aeaa87d9e9c68-1920x1080.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost</title>
+      <link>https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents</link>
+      <description>Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost</description>
+      <guid isPermaLink="false">https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ef8dcc11f006e85e91e7f1ee6803ef8a1ce91ce5-1913x1076.svg" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ef8dcc11f006e85e91e7f1ee6803ef8a1ce91ce5-1913x1076.svg"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Shared or dedicated inference for Embed &amp; Rerank</title>
+      <link>https://cohere.com/blog/shared-or-dedicated-inference-for-embed-rerank</link>
+      <description>Shared or dedicated inference for Embed &amp; Rerank</description>
+      <guid isPermaLink="false">https://cohere.com/blog/shared-or-dedicated-inference-for-embed-rerank</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/79e3c5034529d83eca654c53b596f73b2d1aa3c7-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/79e3c5034529d83eca654c53b596f73b2d1aa3c7-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere Expands Canadian Footprint with New Ottawa Office</title>
+      <link>https://cohere.com/blog/cohere-expands-canadian-footprint-with-new-ottawa-office</link>
+      <description>Cohere Expands Canadian Footprint with New Ottawa Office</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-expands-canadian-footprint-with-new-ottawa-office</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/10/260902_OfficeAnnouncement_Ottawa_Blog.png" medium="image"/>
+        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/10/260902_OfficeAnnouncement_Ottawa_Blog.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Multilingual Bridges: How Data Mixing Unlocks In-Language Reasoning</title>
+      <link>https://cohere.com/blog/building-multilingual-bridges</link>
+      <description>Multilingual Bridges: How Data Mixing Unlocks In-Language Reasoning</description>
+      <guid isPermaLink="false">https://cohere.com/blog/building-multilingual-bridges</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b416a7d67e66515c45c29ca7b0664a6491ee9d5a-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b416a7d67e66515c45c29ca7b0664a6491ee9d5a-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere and PwC partner to accelerate secure enterprise AI adoption</title>
+      <link>https://cohere.com/blog/cohere-and-pwc-partner-to-accelerate-secure-enterprise-ai-adoption</link>
+      <description>Cohere and PwC partner to accelerate secure enterprise AI adoption</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-and-pwc-partner-to-accelerate-secure-enterprise-ai-adoption</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/a2c6d85b8dadab8d3b6be028c73386cc6661b590-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/a2c6d85b8dadab8d3b6be028c73386cc6661b590-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>North 2: Enterprise AI without compromises</title>
+      <link>https://cohere.com/blog/introducing-north-2</link>
+      <description>North 2: Enterprise AI without compromises</description>
+      <guid isPermaLink="false">https://cohere.com/blog/introducing-north-2</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/8e4c711d1fc7c3be2acdbda3b85c7160e277c891-3840x2160.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/8e4c711d1fc7c3be2acdbda3b85c7160e277c891-3840x2160.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Introducing Embed 5—A new family of frontier embedding models</title>
+      <link>https://cohere.com/blog/embed-5</link>
+      <description>Introducing Embed 5—A new family of frontier embedding models</description>
+      <guid isPermaLink="false">https://cohere.com/blog/embed-5</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/707e10f3b1b953018b94864b0a4b9e99a8843cde-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/707e10f3b1b953018b94864b0a4b9e99a8843cde-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>RCP-nDCG@10: A more complete way to measure retrieval relevance</title>
+      <link>https://cohere.com/blog/rcp-ndcg</link>
+      <description>RCP-nDCG@10: A more complete way to measure retrieval relevance</description>
+      <guid isPermaLink="false">https://cohere.com/blog/rcp-ndcg</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ef9d5d5c1ab3414923df1fa97e3754ecc0a8f393-2912x1630.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ef9d5d5c1ab3414923df1fa97e3754ecc0a8f393-2912x1630.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Compass is coming to the cloud</title>
+      <link>https://cohere.com/blog/compass-cloud-beta</link>
+      <description>Compass is coming to the cloud</description>
+      <guid isPermaLink="false">https://cohere.com/blog/compass-cloud-beta</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/3ff9058d77d0a46ac36c66e586eecb01128c3bba-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/3ff9058d77d0a46ac36c66e586eecb01128c3bba-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>AI change management: A human-centric approach</title>
+      <link>https://cohere.com/blog/ai-change-management</link>
+      <description>AI change management: A human-centric approach</description>
+      <guid isPermaLink="false">https://cohere.com/blog/ai-change-management</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/3e36f6ca4822fe67021f9136945a18643ec61b3f-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/3e36f6ca4822fe67021f9136945a18643ec61b3f-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries</title>
+      <link>https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai</link>
+      <description>Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9a3bf3d4a87634f83ae3d11adbc11f2e65b778e3-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9a3bf3d4a87634f83ae3d11adbc11f2e65b778e3-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere and Aleph Alpha sign agreement to become the first  transatlantic sovereign AI solution</title>
+      <link>https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement</link>
+      <description>Cohere and Aleph Alpha sign agreement to become the first  transatlantic sovereign AI solution</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/1015e4cfeb3009a23361f6f6c9a26c29fec5dda0-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/1015e4cfeb3009a23361f6f6c9a26c29fec5dda0-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Who Gets to Define the Rules for AI?</title>
+      <link>https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</link>
+      <description>Who Gets to Define the Rules for AI?</description>
+      <guid isPermaLink="false">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/aad920dfe8b269bfea7f77111be06fd7196ce23c-4522x2532.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/aad920dfe8b269bfea7f77111be06fd7196ce23c-4522x2532.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Introducing North Small Translate: A leading sovereign open-weight machine translation model</title>
+      <link>https://cohere.com/blog/north-small-translate</link>
+      <description>Introducing North Small Translate: A leading sovereign open-weight machine translation model</description>
+      <guid isPermaLink="false">https://cohere.com/blog/north-small-translate</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/309c76e4fa497c3958099fa96016a64b55eb58b1-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/309c76e4fa497c3958099fa96016a64b55eb58b1-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Inside the megakernel serving engine for North Mini Code</title>
+      <link>https://cohere.com/blog/megakernels</link>
+      <description>Inside the megakernel serving engine for North Mini Code</description>
+      <guid isPermaLink="false">https://cohere.com/blog/megakernels</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9de3fcfb556e46b7e00c2212722711cfd1f6f6ee-512x288.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9de3fcfb556e46b7e00c2212722711cfd1f6f6ee-512x288.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Automation’s Early Footprint</title>
+      <link>https://cohere.com/blog/automations-early-footprint</link>
+      <description>Automation’s Early Footprint</description>
+      <guid isPermaLink="false">https://cohere.com/blog/automations-early-footprint</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d05ffa840bc63dd4cc7a29d1c9f6e235a39a14cd-1920x823.svg" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d05ffa840bc63dd4cc7a29d1c9f6e235a39a14cd-1920x823.svg"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How small AI models can make a big impact for enterprises</title>
+      <link>https://cohere.com/blog/how-small-models-can-make-a-big-impact-for-enterprises</link>
+      <description>How small AI models can make a big impact for enterprises</description>
+      <guid isPermaLink="false">https://cohere.com/blog/how-small-models-can-make-a-big-impact-for-enterprises</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ed0d6447d4981dc4bbdd89519a33599b20caeaae-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ed0d6447d4981dc4bbdd89519a33599b20caeaae-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Generative AI for business: Use cases, benefits, and adoption</title>
+      <link>https://cohere.com/blog/generative-ai-for-business</link>
+      <description>Generative AI for business: Use cases, benefits, and adoption</description>
+      <guid isPermaLink="false">https://cohere.com/blog/generative-ai-for-business</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5652dcc1167d008425a7bb52f39e640ec75fe2c2-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5652dcc1167d008425a7bb52f39e640ec75fe2c2-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Introducing Parse: Enterprise document intelligence at scale</title>
+      <link>https://cohere.com/blog/parse</link>
+      <description>Introducing Parse: Enterprise document intelligence at scale</description>
+      <guid isPermaLink="false">https://cohere.com/blog/parse</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/39e689bdef1fa7b6cdb967bba9b5095ec4d91379-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/39e689bdef1fa7b6cdb967bba9b5095ec4d91379-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Why forward-deployed engineers should build capability, not dependency</title>
+      <link>https://cohere.com/blog/forward-deployed-engineers-capability-building</link>
+      <description>Why forward-deployed engineers should build capability, not dependency</description>
+      <guid isPermaLink="false">https://cohere.com/blog/forward-deployed-engineers-capability-building</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/63db46f238cb5923be167e62965bb6060dc96d28-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/63db46f238cb5923be167e62965bb6060dc96d28-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The state of sovereign AI adoption in 2026</title>
+      <link>https://cohere.com/blog/state-of-sovereign-ai-adoption-2026</link>
+      <description>The state of sovereign AI adoption in 2026</description>
+      <guid isPermaLink="false">https://cohere.com/blog/state-of-sovereign-ai-adoption-2026</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9ce66d83cfaf3038bb6e9270d9efebcfa2db1c51-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9ce66d83cfaf3038bb6e9270d9efebcfa2db1c51-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The Culture Funnel: You can’t align what isn’t in the data</title>
+      <link>https://cohere.com/blog/the-culture-funnel-you-cant-align-what-isnt-in-the-data</link>
+      <description>The Culture Funnel: You can’t align what isn’t in the data</description>
+      <guid isPermaLink="false">https://cohere.com/blog/the-culture-funnel-you-cant-align-what-isnt-in-the-data</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7493c424307b5797232b61008e24ff6145b97d24-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7493c424307b5797232b61008e24ff6145b97d24-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere and the University of Waterloo launch partnership to strengthen Canada’s AI talent pipeline</title>
+      <link>https://cohere.com/blog/cohere-university-of-waterloo-announcement</link>
+      <description>Cohere and the University of Waterloo launch partnership to strengthen Canada’s AI talent pipeline</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-university-of-waterloo-announcement</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/c2b5d6e58253b31e0ecf43f86667acfbdaa4b6a9-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/c2b5d6e58253b31e0ecf43f86667acfbdaa4b6a9-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere signs EU Code of Practice on Transparency of AI-Generated Content</title>
+      <link>https://cohere.com/blog/cohere-signs-eu-code-of-practice</link>
+      <description>Cohere signs EU Code of Practice on Transparency of AI-Generated Content</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-signs-eu-code-of-practice</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/de96a636ea807fb82ad69ef45abeb99b26201977-3840x2160.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/de96a636ea807fb82ad69ef45abeb99b26201977-3840x2160.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -27,8 +379,19 @@
       <guid isPermaLink="false">https://cohere.com/blog/introducing-north-automations-ai-workflows</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/52fb04311d24a61986b4ca323e7b7c562233373a-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/52fb04311d24a61986b4ca323e7b7c562233373a-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/52fb04311d24a61986b4ca323e7b7c562233373a-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/52fb04311d24a61986b4ca323e7b7c562233373a-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A day in the life of a wealth manager, with and without AI</title>
+      <link>https://cohere.com/blog/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai</link>
+      <description>A day in the life of a wealth manager, with and without AI</description>
+      <guid isPermaLink="false">https://cohere.com/blog/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ebf741aee337c6a26d5608b7719dfbb76acd6f8d-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ebf741aee337c6a26d5608b7719dfbb76acd6f8d-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -164,6 +527,17 @@
       </media:group>
     </item>
     <item>
+      <title>Unpacking AI safety for enterprises</title>
+      <link>https://cohere.com/blog/unpacking-ai-safety</link>
+      <description>Unpacking AI safety for enterprises</description>
+      <guid isPermaLink="false">https://cohere.com/blog/unpacking-ai-safety</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/40d5fb84827da56ebef3314f6f7e84086e1b72ed-1600x900.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/40d5fb84827da56ebef3314f6f7e84086e1b72ed-1600x900.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
       <title>Co/plot: Supporting the research process through visualization</title>
       <link>https://cohere.com/blog/coplot</link>
       <description>Co/plot: Supporting the research process through visualization</description>
@@ -187,9 +561,9 @@
     </item>
     <item>
       <title>AI governance challenges: How to support safe, scalable AI adoption</title>
-      <link>https://cohere.com/blog/ai-governance-challenges</link>
+      <link>https://cohere.com/blog/iso-42001-and-iso-27001-certifications</link>
       <description>AI governance challenges: How to support safe, scalable AI adoption</description>
-      <guid isPermaLink="false">https://cohere.com/blog/ai-governance-challenges</guid>
+      <guid isPermaLink="false">https://cohere.com/blog/iso-42001-and-iso-27001-certifications</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/71e91c9131cc903924a6877f125cccb72ea7a53e-3840x1920.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
@@ -665,8 +1039,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/north-ga</guid>
       <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/06/250805_north-ga_16x9-1.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/06/250805_north-ga_16x9-1.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/47ab289a3ccdd1ed6bc3ac14bdab5403489caf91-1200x675.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/47ab289a3ccdd1ed6bc3ac14bdab5403489caf91-1200x675.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -791,17 +1165,6 @@
       </media:group>
     </item>
     <item>
-      <title>Cohere achieves ISO 42001 and ISO 27001 certifications</title>
-      <link>https://cohere.com/blog/iso-42001-and-iso-27001-certifications</link>
-      <description>Cohere achieves ISO 42001 and ISO 27001 certifications</description>
-      <guid isPermaLink="false">https://cohere.com/blog/iso-42001-and-iso-27001-certifications</guid>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/06/Security--1-of-3-.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/06/Security--1-of-3-.png"/>
-      </media:group>
-    </item>
-    <item>
       <title>Enterprise AI security challenges and solutions</title>
       <link>https://cohere.com/blog/ai-security-challenges-and-solutions-webinar</link>
       <description>Enterprise AI security challenges and solutions</description>
@@ -854,17 +1217,6 @@
       <media:group>
         <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/06/Secure-AI_-How-to-safeguard-your-systems.png" medium="image"/>
         <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/06/Secure-AI_-How-to-safeguard-your-systems.png"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Unpacking AI safety for enterprises</title>
-      <link>https://cohere.com/blog/unpacking-ai-safety</link>
-      <description>Unpacking AI safety for enterprises</description>
-      <guid isPermaLink="false">https://cohere.com/blog/unpacking-ai-safety</guid>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/40d5fb84827da56ebef3314f6f7e84086e1b72ed-1600x900.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/40d5fb84827da56ebef3314f6f7e84086e1b72ed-1600x900.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1154,9 +1506,9 @@
       </media:group>
     </item>
     <item>
-      <title>AI in manufacturing: The ultimate guide</title>
+      <title>AI in manufacturing: Use cases, benefits, and implementation considerations</title>
       <link>https://cohere.com/blog/ai-in-manufacturing-and-supply-chain</link>
-      <description>AI in manufacturing: The ultimate guide</description>
+      <description>AI in manufacturing: Use cases, benefits, and implementation considerations</description>
       <guid isPermaLink="false">https://cohere.com/blog/ai-in-manufacturing-and-supply-chain</guid>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <media:group>
@@ -1605,14 +1957,14 @@
       </media:group>
     </item>
     <item>
-      <title>AI in oil and gas: Transforming safety and efficiency</title>
+      <title>AI in the oil and gas industry: Use cases, benefits, and challenges (2026 update)</title>
       <link>https://cohere.com/blog/ai-in-oil-and-gas</link>
-      <description>AI in oil and gas: Transforming safety and efficiency</description>
+      <description>AI in the oil and gas industry: Use cases, benefits, and challenges (2026 update)</description>
       <guid isPermaLink="false">https://cohere.com/blog/ai-in-oil-and-gas</guid>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/Oil-and-Gas.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/Oil-and-Gas.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/413dcdb6f060f6933678b7a029fab22932110e0e-1200x600.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/413dcdb6f060f6933678b7a029fab22932110e0e-1200x600.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1924,9 +2276,9 @@
       </media:group>
     </item>
     <item>
-      <title>AI and healthcare: The present and future of medicine</title>
+      <title>AI in healthcare: Examples, benefits, and implementation challenges</title>
       <link>https://cohere.com/blog/ai-and-healthcare</link>
-      <description>AI and healthcare: The present and future of medicine</description>
+      <description>AI in healthcare: Examples, benefits, and implementation challenges</description>
       <guid isPermaLink="false">https://cohere.com/blog/ai-and-healthcare</guid>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
