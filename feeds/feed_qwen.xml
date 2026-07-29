@@ -8,7 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:56:18 +0000</lastBuildDate>
+    <item>
+      <title>Qwen3.8-Max: A New Bar for Coding and Cowork</title>
+      <link>https://qwen.ai/blog?id=qwen3.8</link>
+      <description>Today, we are officially releasing Qwen 3.8-Max, the most capable model in the Qwen family to date. This also marks the first time we will open-source the weights of a Qwen-Max-class model — the open weights will be released next week. Built upon the architectural foundation of Qwen 3.5, Qwen 3.8-Max scales to 2.4 trillion parameters, delivering comprehensive improvements across coding, work, rese</description>
+      <guid isPermaLink="false">https://qwen.ai/blog?id=qwen3.8</guid>
+      <pubDate>Mon, 03 Aug 2026 10:00:00 +0800</pubDate>
+      <media:group>
+        <media:content url="https://img.alicdn.com/imgextra/i1/O1CN01ITn7j2cu9OF3E9bs_!!6000000000314-2-tps-1590-954.png" medium="image"/>
+        <media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01ITn7j2cu9OF3E9bs_!!6000000000314-2-tps-1590-954.png"/>
+      </media:group>
+    </item>
     <item>
       <title>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</title>
       <link>https://qwen.ai/blog?id=qwen-image-3.0</link>

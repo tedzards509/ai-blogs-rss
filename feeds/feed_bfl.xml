@@ -8,7 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:56:14 +0000</lastBuildDate>
+    <item>
+      <title>FLUX 3 Video, Part 1: Generation</title>
+      <link>https://bfl.ai/blog/flux-3-video</link>
+      <description>FLUX 3 Video, Part 1</description>
+      <guid isPermaLink="false">https://bfl.ai/blog/flux-3-video</guid>
+      <pubDate>Tue, 04 Aug 2026 15:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/2gpum2i6/production/281b2003f8a62e07391c6085a69ed91eb574d08c-1900x1264.png" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/2gpum2i6/production/281b2003f8a62e07391c6085a69ed91eb574d08c-1900x1264.png"/>
+      </media:group>
+    </item>
     <item>
       <title>FLUX 3 x mimic: The Next Generation of Video-Action Models</title>
       <link>https://bfl.ai/blog/flux-3-mimic</link>

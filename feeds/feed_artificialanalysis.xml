@@ -8,7 +8,73 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:56:22 +0000</lastBuildDate>
+    <item>
+      <title>Launching v4.1.1 of the Artificial Analysis Intelligence Index</title>
+      <link>https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-1-1</link>
+      <description>Launching v4.1.1 of the Artificial Analysis Intelligence Index</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-1-1</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/6cc2ed7f10ec3e05fed13d92c16941a5df1b6fd3-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/6cc2ed7f10ec3e05fed13d92c16941a5df1b6fd3-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Muse Spark 1.2</title>
+      <link>https://artificialanalysis.ai/articles/muse-spark-1-2</link>
+      <description>Muse Spark 1.2</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/muse-spark-1-2</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/8ee34674569058b3a7117123a1d28b4f2bc8e5c0-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/8ee34674569058b3a7117123a1d28b4f2bc8e5c0-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Launching the Endpoint Accuracy Index: Same Model, Different Accuracy</title>
+      <link>https://artificialanalysis.ai/articles/endpoint-accuracy-index</link>
+      <description>Launching the Endpoint Accuracy Index: Same Model, Different Accuracy</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/endpoint-accuracy-index</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/03c22945f09ba19dafa1561f745f4315fc40d54b-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/03c22945f09ba19dafa1561f745f4315fc40d54b-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index, 10 points above previous DeepSeek V4 Flash</title>
+      <link>https://artificialanalysis.ai/articles/deepseek-v4-flash-0731-scores-50-on-the-artificial-analysis-intelligence-index-10-points-above-previous-deepseek-v4-flash</link>
+      <description>DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index, 10 points above previous DeepSeek V4 Flash</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/deepseek-v4-flash-0731-scores-50-on-the-artificial-analysis-intelligence-index-10-points-above-previous-deepseek-v4-flash</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/d0d68c42ddf4bb0dc7c3eac7ad45ba50601d66b3-1024x1024.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/d0d68c42ddf4bb0dc7c3eac7ad45ba50601d66b3-1024x1024.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Inkling Small lands within a point of Inkling on the Artificial Analysis Intelligence Index with less than a third of the parameters</title>
+      <link>https://artificialanalysis.ai/articles/inkling-small-lands-within-a-point-of-inkling-on-the-artificial-analysis-intelligence-index-with-less-than-a-third-of-the-parameters</link>
+      <description>Inkling Small lands within a point of Inkling on the Artificial Analysis Intelligence Index with less than a third of the parameters</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/inkling-small-lands-within-a-point-of-inkling-on-the-artificial-analysis-intelligence-index-with-less-than-a-third-of-the-parameters</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/1d9476fca90fa31b75665063e3015ff58baa5c28-680x357.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/1d9476fca90fa31b75665063e3015ff58baa5c28-680x357.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Agnes AI releases Agnes 2.5 Pro Alpha</title>
+      <link>https://artificialanalysis.ai/articles/agnes-ai-releases-agnes-2-5-pro-alpha</link>
+      <description>Agnes AI releases Agnes 2.5 Pro Alpha</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/agnes-ai-releases-agnes-2-5-pro-alpha</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/a8c8326c17b6f539db23b4efebef411f742bcfdf-512x512.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/a8c8326c17b6f539db23b4efebef411f742bcfdf-512x512.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
     <item>
       <title>Opus 5: Fable 5 level intelligence at a lower cost per task</title>
       <link>https://artificialanalysis.ai/articles/opus-5</link>

@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:56:14 +0000</lastBuildDate>
+    <item>
+      <title>DeepSeek-V4-Flash Update</title>
+      <link>https://api-docs.deepseek.com/updates/#deepseek-v4-flash-update</link>
+      <description>The official release of the DeepSeek-V4-Flash API is now in public beta. The API calling method remains unchanged — simply set the model name to deepseek-v4-flash to use the latest version. Terminal Bench 2.1: 82.7 NL2Repo: 54.2 Cybergym: 76.7 DeepSWE: 54.4 Toolathlon verified: 70.3 Agent Last Exam: 25.2 Automation Bench (Public): 25.1 DSBench-FullStack: 68.7 DSBench-Hard: 59.6</description>
+      <guid isPermaLink="false">https://api-docs.deepseek.com/updates/#deepseek-v4-flash-update</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DeepSeek-V4</title>
       <link>https://api-docs.deepseek.com/updates/#deepseek-v4</link>
