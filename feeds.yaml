@@ -75,10 +75,10 @@ feeds:
     type: requests
     blog_url: https://qwen.ai/research/
 
-  the_batch:
-    script: deeplearningai_the_batch.py
-    type: requests
-    blog_url: https://www.deeplearning.ai/the-batch/
+#  the_batch:
+#    script: deeplearningai_the_batch.py
+#    type: requests
+#    blog_url: https://www.deeplearning.ai/the-batch/
 
   xainews:
     script: xainews_blog.py
