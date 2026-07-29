@@ -8,7 +8,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:55:21 +0000</lastBuildDate>
+    <item>
+      <title>Introducing MiniMax Code Mini App</title>
+      <link>https://www.minimax.io/blog/minimax-code-mini-app-1792650729</link>
+      <description>A Mini App is a long-running application with a frontend and a backend. It installs as a plugin, calls and is called by the Agent, and keeps the Agent’s work on a page that stays live.</description>
+      <guid isPermaLink="false">https://www.minimax.io/blog/minimax-code-mini-app-1792650729</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2Fbaac1569-c6e0-46ca-86c9-1a8e6141cf0f.jpeg&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2Fbaac1569-c6e0-46ca-86c9-1a8e6141cf0f.jpeg&amp;w=828&amp;q=75"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MiniMax M3.1 Flash: Redefining Agent Performance and Cost</title>
+      <link>https://www.minimax.io/blog/minimax-m31f</link>
+      <description>Today, we officially roll out MiniMax M3.1 Flash. As a next-generation Flash model, M3.1 Flash delivers a generational leap in agentic tasks, coding, Computer Use and cybersecurity, while making online inference nearly three times faster and reducing usage costs by 70%.</description>
+      <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m31f</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fm31-flash-zh-1-1792403273121.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fm31-flash-zh-1-1792403273121.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MiniMax Music 3.0: Next-Generation Open-Weights, Production-Ready &amp; Versatile Music Model</title>
+      <link>https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model</link>
+      <description>Today, we are introducing MiniMax Music 3.0, our next-generation music generation model. Given a creative concept and optional lyrics, the model composes, arranges, performs, and produces a complete s</description>
+      <guid isPermaLink="false">https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F32b0b01d-d945-4c9d-a8e0-8bb9204737c2.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F32b0b01d-d945-4c9d-a8e0-8bb9204737c2.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities</title>
+      <link>https://www.minimax.io/blog/minimax-h3</link>
+      <description>Today, we're officially launching MiniMax H3, a general-purpose omni-modal generation model. H3 can jointly understand multimodal contexts spanning text, images, video, and audio. It generates video with native stereo audio at up to 2K resolution and 15 seconds in length.</description>
+      <guid isPermaLink="false">https://www.minimax.io/blog/minimax-h3</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F3df321d9-42bd-4be0-ac58-71f22377a11f.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F3df321d9-42bd-4be0-ac58-71f22377a11f.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75"/>
+      </media:group>
+    </item>
     <item>
       <title>MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Evolutionary Search</title>
       <link>https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</link>
@@ -16,8 +60,8 @@
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fmaxproof-cover-1781185313899-1781185423262.png&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fmaxproof-cover-1781185313899-1781185423262.png&amp;w=828&amp;q=75"/>
+        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fmaxproof-cover-1781185313899-1781185423262.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75" medium="image"/>
+        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fmaxproof-cover-1781185313899-1781185423262.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75"/>
       </media:group>
     </item>
     <item>
