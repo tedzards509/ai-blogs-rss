@@ -8,16 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 11:55:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:48:48 +0000</lastBuildDate>
+    <item>
+      <title>MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era</title>
+      <link>https://www.minimax.io/blog/minimax-h3-image</link>
+      <description>Today, we're releasing MiniMax H3-Image, an open-weight image generation model built on H3. It supports text-to-image generation, reference-based generation, and image editing.</description>
+      <guid isPermaLink="false">https://www.minimax.io/blog/minimax-h3-image</guid>
+      <pubDate>Tue, 10 Nov 2026 16:23:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://file.cdn.minimax.io/public/h3-image-cover-1794323228475.jpg?x-oss-process=image/format,webp" medium="image"/>
+        <media:thumbnail url="https://file.cdn.minimax.io/public/h3-image-cover-1794323228475.jpg?x-oss-process=image/format,webp"/>
+      </media:group>
+    </item>
     <item>
       <title>Introducing MiniMax Code Mini App</title>
       <link>https://www.minimax.io/blog/minimax-code-mini-app-1792650729</link>
       <description>A Mini App is a long-running application with a frontend and a backend. It installs as a plugin, calls and is called by the Agent, and keeps the Agent’s work on a page that stays live.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-code-mini-app-1792650729</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 06:32:09 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2Fbaac1569-c6e0-46ca-86c9-1a8e6141cf0f.jpeg&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2Fbaac1569-c6e0-46ca-86c9-1a8e6141cf0f.jpeg&amp;w=828&amp;q=75"/>
+        <media:content url="https://file.cdn.minimax.io/public/b763f9a3-1547-42f4-8d45-d2b54902eddd.png?x-oss-process=image/format,webp" medium="image"/>
+        <media:thumbnail url="https://file.cdn.minimax.io/public/b763f9a3-1547-42f4-8d45-d2b54902eddd.png?x-oss-process=image/format,webp"/>
       </media:group>
     </item>
     <item>
@@ -27,8 +38,8 @@
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m31f</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fm31-flash-zh-1-1792403273121.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fm31-flash-zh-1-1792403273121.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75"/>
+        <media:content url="https://file.cdn.minimax.io/public/bc2536f3-7fc2-4037-93e3-256ab44c0599.jpg?x-oss-process=image/format,webp" medium="image"/>
+        <media:thumbnail url="https://file.cdn.minimax.io/public/bc2536f3-7fc2-4037-93e3-256ab44c0599.jpg?x-oss-process=image/format,webp"/>
       </media:group>
     </item>
     <item>
@@ -36,10 +47,10 @@
       <link>https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model</link>
       <description>Today, we are introducing MiniMax Music 3.0, our next-generation music generation model. Given a creative concept and optional lyrics, the model composes, arranges, performs, and produces a complete s</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 13:33:59 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F32b0b01d-d945-4c9d-a8e0-8bb9204737c2.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F32b0b01d-d945-4c9d-a8e0-8bb9204737c2.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75"/>
+        <media:content url="https://file.cdn.minimax.io/public/32b0b01d-d945-4c9d-a8e0-8bb9204737c2.png?x-oss-process=image/format,webp" medium="image"/>
+        <media:thumbnail url="https://file.cdn.minimax.io/public/32b0b01d-d945-4c9d-a8e0-8bb9204737c2.png?x-oss-process=image/format,webp"/>
       </media:group>
     </item>
     <item>
@@ -49,8 +60,8 @@
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-h3</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F3df321d9-42bd-4be0-ac58-71f22377a11f.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F3df321d9-42bd-4be0-ac58-71f22377a11f.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75"/>
+        <media:content url="https://file.cdn.minimax.io/public/3df321d9-42bd-4be0-ac58-71f22377a11f.png?x-oss-process=image/format,webp" medium="image"/>
+        <media:thumbnail url="https://file.cdn.minimax.io/public/3df321d9-42bd-4be0-ac58-71f22377a11f.png?x-oss-process=image/format,webp"/>
       </media:group>
     </item>
     <item>
@@ -58,10 +69,10 @@
       <link>https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</link>
       <description>In the M3 release post, we reported the performance of the M3 model on two international mathematical olympiad benchmarks: IMO 2025 and USAMO 2026. With the MaxProof framework, M3 exceeded the human gold-medal threshold on both. This article further elaborates on our technical path toward advancing mathematical proof capabilities, including base model enhancement, verifier alignment, refinement capability building, and the design of the test-time scaling framework MaxProof.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 13:43:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fmaxproof-cover-1781185313899-1781185423262.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fmaxproof-cover-1781185313899-1781185423262.png%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&amp;w=828&amp;q=75"/>
+        <media:content url="https://filecdn.minimax.chat/public/maxproof-cover-1781185313899-1781185423262.png?x-oss-process=image/format,webp" medium="image"/>
+        <media:thumbnail url="https://filecdn.minimax.chat/public/maxproof-cover-1781185313899-1781185423262.png?x-oss-process=image/format,webp"/>
       </media:group>
     </item>
     <item>
@@ -69,10 +80,10 @@
       <link>https://www.minimax.io/blog/minimax-m3</link>
       <description>M3 reaches frontier capability on coding and agentic tasks, introduces the brand-new MSA (MiniMax Sparse Attention) supporting up to 1M context, and is a natively multimodal model. It is the only domestic model combining all three Frontier essentials and will be the only open-source one in this class.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m3</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 17:31:18 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F11649e5b-3f76-477e-a73d-2abc4882211c.png&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F11649e5b-3f76-477e-a73d-2abc4882211c.png&amp;w=828&amp;q=75"/>
+        <media:content url="https://file.cdn.minimax.io/public/11649e5b-3f76-477e-a73d-2abc4882211c.png" medium="image"/>
+        <media:thumbnail url="https://file.cdn.minimax.io/public/11649e5b-3f76-477e-a73d-2abc4882211c.png"/>
       </media:group>
     </item>
     <item>
@@ -82,8 +93,8 @@
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-agent-team-long-running-1779893953</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fagent-team-hero-1779893281286.jpeg&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fagent-team-hero-1779893281286.jpeg&amp;w=828&amp;q=75"/>
+        <media:content url="https://filecdn.minimax.chat/public/agent-team-hero-1779893281286.jpeg" medium="image"/>
+        <media:thumbnail url="https://filecdn.minimax.chat/public/agent-team-hero-1779893281286.jpeg"/>
       </media:group>
     </item>
     <item>
@@ -91,10 +102,10 @@
       <link>https://www.minimax.io/blog/sparse-token-forgetting</link>
       <description>The MiniMax M2 series has attracted widespread attention from the developer community. This article presents our internal investigation into the sparse token forgetting phenomenon.</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/sparse-token-forgetting</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 16:30:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fsparse-token-forgetting-community-discussion-1779698066579.jpg&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fsparse-token-forgetting-community-discussion-1779698066579.jpg&amp;w=828&amp;q=75"/>
+        <media:content url="https://filecdn.minimax.chat/public/sparse-token-forgetting-community-discussion-1779698066579.jpg" medium="image"/>
+        <media:thumbnail url="https://filecdn.minimax.chat/public/sparse-token-forgetting-community-discussion-1779698066579.jpg"/>
       </media:group>
     </item>
     <item>
@@ -104,8 +115,8 @@
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m27</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F86637d58-0e78-44f5-bb08-d149ed0c4418.png&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F86637d58-0e78-44f5-bb08-d149ed0c4418.png&amp;w=828&amp;q=75"/>
+        <media:content url="https://filecdn.minimax.chat/public/86637d58-0e78-44f5-bb08-d149ed0c4418.png" medium="image"/>
+        <media:thumbnail url="https://filecdn.minimax.chat/public/86637d58-0e78-44f5-bb08-d149ed0c4418.png"/>
       </media:group>
     </item>
     <item>
@@ -113,10 +124,10 @@
       <link>https://www.minimax.io/blog/forge-scalable-agent-rl-en-1779896141</link>
       <description>Scaling reinforcement learning for real-world agents runs into a three-way conflict: system throughput, training stability, and agent flexibility all pull in different directions, and that tension has</description>
       <guid isPermaLink="false">https://www.minimax.io/blog/forge-scalable-agent-rl-en-1779896141</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 12:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fforge-hero-1779895280980.jpeg&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2Fforge-hero-1779895280980.jpeg&amp;w=828&amp;q=75"/>
+        <media:content url="https://filecdn.minimax.chat/public/forge-hero-1779895280980.jpeg" medium="image"/>
+        <media:thumbnail url="https://filecdn.minimax.chat/public/forge-hero-1779895280980.jpeg"/>
       </media:group>
     </item>
     <item>
@@ -126,8 +137,8 @@
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m25</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F97f76950-2c60-4a9b-bb96-228454afabe9.png&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F97f76950-2c60-4a9b-bb96-228454afabe9.png&amp;w=828&amp;q=75"/>
+        <media:content url="https://file.cdn.minimax.io/public/97f76950-2c60-4a9b-bb96-228454afabe9.png" medium="image"/>
+        <media:thumbnail url="https://file.cdn.minimax.io/public/97f76950-2c60-4a9b-bb96-228454afabe9.png"/>
       </media:group>
     </item>
     <item>
@@ -137,8 +148,8 @@
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m2-her</guid>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F4389b755-cb3c-4e72-853b-d6be303853b2.png&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffile.cdn.minimax.io%2Fpublic%2F4389b755-cb3c-4e72-853b-d6be303853b2.png&amp;w=828&amp;q=75"/>
+        <media:content url="https://file.cdn.minimax.io/public/4389b755-cb3c-4e72-853b-d6be303853b2.png" medium="image"/>
+        <media:thumbnail url="https://file.cdn.minimax.io/public/4389b755-cb3c-4e72-853b-d6be303853b2.png"/>
       </media:group>
     </item>
     <item>
@@ -148,8 +159,8 @@
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m21</guid>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F1d46c2a2-6c36-4739-b820-cee832d1ecf9.png&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F1d46c2a2-6c36-4739-b820-cee832d1ecf9.png&amp;w=828&amp;q=75"/>
+        <media:content url="https://filecdn.minimax.chat/public/1d46c2a2-6c36-4739-b820-cee832d1ecf9.png" medium="image"/>
+        <media:thumbnail url="https://filecdn.minimax.chat/public/1d46c2a2-6c36-4739-b820-cee832d1ecf9.png"/>
       </media:group>
     </item>
     <item>
@@ -159,8 +170,8 @@
       <guid isPermaLink="false">https://www.minimax.io/blog/minimax-m2-en-1748600000</guid>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F92084bb1-5fb4-44d9-bab1-ce7f2de81a62.png&amp;w=828&amp;q=75" medium="image"/>
-        <media:thumbnail url="https://www.minimax.io/_next/image?url=https%3A%2F%2Ffilecdn.minimax.chat%2Fpublic%2F92084bb1-5fb4-44d9-bab1-ce7f2de81a62.png&amp;w=828&amp;q=75"/>
+        <media:content url="https://filecdn.minimax.chat/public/92084bb1-5fb4-44d9-bab1-ce7f2de81a62.png" medium="image"/>
+        <media:thumbnail url="https://filecdn.minimax.chat/public/92084bb1-5fb4-44d9-bab1-ce7f2de81a62.png"/>
       </media:group>
     </item>
   </channel>
