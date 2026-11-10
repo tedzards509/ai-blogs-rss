@@ -8,7 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:46:48 +0000</lastBuildDate>
+    <item>
+      <title>Cohere Expands Its Sovereign AI Platform with AISLE and cubic</title>
+      <link>https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic</link>
+      <description>Cohere Expands Its Sovereign AI Platform with AISLE and cubic</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7a06e826c9fb34189fdd3344a3de747cc99d53a6-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7a06e826c9fb34189fdd3344a3de747cc99d53a6-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Welcoming Jaya Baloo as Cohere's First CISO</title>
+      <link>https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso</link>
+      <description>Welcoming Jaya Baloo as Cohere's First CISO</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2c5b5cf50ad25cbebcf668c622084c0208f89945-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2c5b5cf50ad25cbebcf668c622084c0208f89945-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
     <item>
       <title>Embed 5 and Rerank 5 now on OpenRouter</title>
       <link>https://cohere.com/blog/embed-rerank-5-openrouter</link>
@@ -126,8 +148,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/rerank-5</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>

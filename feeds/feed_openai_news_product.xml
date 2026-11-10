@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:46:28 +0000</lastBuildDate>
+    <item>
+      <title>Introducing ChatGPT Wallet</title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+      <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-wallet</guid>
+      <category>Product</category>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing Businesses in ChatGPT</title>
       <link>https://openai.com/index/introducing-businesses-chatgpt</link>
@@ -178,18 +186,18 @@
       <pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
-      <category>Product</category>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing the Agents API</title>
       <link>https://openai.com/index/introducing-the-agents-api</link>
       <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
+      <category>Product</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build more natural voice experiences with GPT‑Live‑1 in the API</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
       <category>Product</category>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -338,18 +346,18 @@
       <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-5.6: Frontier intelligence that scales with your ambition</title>
-      <link>https://openai.com/index/gpt-5-6</link>
-      <description>More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
-      <category>Product</category>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ChatGPT is now a partner for your most ambitious work</title>
       <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
       <description>ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
+      <category>Product</category>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.6: Frontier intelligence that scales with your ambition</title>
+      <link>https://openai.com/index/gpt-5-6</link>
+      <description>More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
       <category>Product</category>
       <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
     </item>
@@ -730,14 +738,6 @@
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Building more with GPT-5.1-Codex-Max</title>
-      <link>https://openai.com/index/gpt-5-1-codex-max</link>
-      <description>Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-1-codex-max</guid>
-      <category>Product</category>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A free version of ChatGPT built for teachers</title>
       <link>https://openai.com/index/chatgpt-for-teachers</link>
       <description>ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.</description>
@@ -746,18 +746,26 @@
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing GPT-5.1 for developers</title>
-      <link>https://openai.com/index/gpt-5-1-for-developers</link>
-      <description>GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-1-for-developers</guid>
+      <title>Building more with GPT-5.1-Codex-Max</title>
+      <link>https://openai.com/index/gpt-5-1-codex-max</link>
+      <description>Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-1-codex-max</guid>
       <category>Product</category>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing group chats in ChatGPT</title>
       <link>https://openai.com/index/group-chats-in-chatgpt</link>
       <description>Collaborate with others, and ChatGPT, in the same conversation.</description>
       <guid isPermaLink="false">https://openai.com/index/group-chats-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.1 for developers</title>
+      <link>https://openai.com/index/gpt-5-1-for-developers</link>
+      <description>GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-1-for-developers</guid>
       <category>Product</category>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
     </item>
@@ -1098,18 +1106,18 @@
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI for Education</title>
-      <link>https://openai.com/index/introducing-chatgpt-edu</link>
-      <description>An affordable offering for universities to responsibly bring AI to campus.</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-edu</guid>
-      <category>Product</category>
-      <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing OpenAI for Nonprofits</title>
       <link>https://openai.com/index/introducing-openai-for-nonprofits</link>
       <description>We’re launching a new initiative to enhance the accessibility of our tools for nonprofit organizations, including discounted rates for ChatGPT Team and Enterprise.</description>
       <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-nonprofits</guid>
+      <category>Product</category>
+      <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI for Education</title>
+      <link>https://openai.com/index/introducing-chatgpt-edu</link>
+      <description>An affordable offering for universities to responsibly bring AI to campus.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-edu</guid>
       <category>Product</category>
       <pubDate>Thu, 30 May 2024 07:00:00 +0000</pubDate>
     </item>
