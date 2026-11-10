@@ -8,7 +8,40 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:34:54 +0000</lastBuildDate>
+    <item>
+      <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformer</title>
+      <link>https://artificialanalysis.ai/articles/inkling-2-mini</link>
+      <description>Thinking Machines has released Inkling 2 Mini, an open weights looped transformer</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/inkling-2-mini</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/b102918995fd675d46266e17a99a93db6d871121-680x357.png?rect=161,0,357,357&amp;w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/b102918995fd675d46266e17a99a93db6d871121-680x357.png?rect=161,0,357,357&amp;w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Google continues to accelerate its release cadence with Gemini 4 Neon</title>
+      <link>https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</link>
+      <description>Google continues to accelerate its release cadence with Gemini 4 Neon</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/ecbfb9b3786a82eaeb8f03824f74cc9a5d7c1f38-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/ecbfb9b3786a82eaeb8f03824f74cc9a5d7c1f38-1254x1254.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 Sol</title>
+      <link>https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</link>
+      <description>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 Sol</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/a972a1fe0ca8149e1d20ca0e3d1d311965e37359-1024x1024.webp?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/a972a1fe0ca8149e1d20ca0e3d1d311965e37359-1024x1024.webp?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
     <item>
       <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual files</title>
       <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
@@ -29,6 +62,17 @@
       <media:group>
         <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/53d70582909375fd507f1e6afbe3764b4b04ff62-2160x2160.png?w=1200&amp;auto=format" medium="image"/>
         <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/53d70582909375fd507f1e6afbe3764b4b04ff62-2160x2160.png?w=1200&amp;auto=format"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverage</title>
+      <link>https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</link>
+      <description>Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverage</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/aba1563e04059d3d4b0a1766ca877c70af4130bc-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/aba1563e04059d3d4b0a1766ca877c70af4130bc-1254x1254.png?w=1200&amp;auto=format"/>
       </media:group>
     </item>
     <item>
@@ -95,50 +139,6 @@
       <media:group>
         <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&amp;auto=format" medium="image"/>
         <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/ce3b883faa25c57a8672817086d2da1d248fbbfa-1254x1254.png?w=1200&amp;auto=format"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Announcing Artificial Analysis Intelligence Index v5</title>
-      <link>https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</link>
-      <description>Announcing Artificial Analysis Intelligence Index v5</description>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/c091ec22bdbb2a18ba5205e03dd14575b80f552e-1200x1200.jpg?w=1200&amp;auto=format" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/c091ec22bdbb2a18ba5205e03dd14575b80f552e-1200x1200.jpg?w=1200&amp;auto=format"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Code2Video-AA: how well do AI models design videos in code?</title>
-      <link>https://artificialanalysis.ai/articles/code2video-aa</link>
-      <description>Code2Video-AA: how well do AI models design videos in code?</description>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/code2video-aa</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://artificialanalysiscdn.com/article-assets/2026/code2video.jpg" medium="image"/>
-        <media:thumbnail url="https://artificialanalysiscdn.com/article-assets/2026/code2video.jpg"/>
-      </media:group>
-    </item>
-    <item>
-      <title>GPT-6.1 Terra pushes the cost efficiency frontier</title>
-      <link>https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier</link>
-      <description>GPT-6.1 Terra pushes the cost efficiency frontier</description>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/477042e454f70ac74700b44c42229d0c436b3016-1024x1024.webp?w=1200&amp;auto=format" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/477042e454f70ac74700b44c42229d0c436b3016-1024x1024.webp?w=1200&amp;auto=format"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Kimi K3.1 Pro launches at 4th on the Intelligence Index and will lead open weights models</title>
-      <link>https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</link>
-      <description>Kimi K3.1 Pro launches at 4th on the Intelligence Index and will lead open weights models</description>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/4ce2bc04c5480953a3aea0821e1be7fd95b0e0a0-1033x1032.png?w=1200&amp;auto=format" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/4ce2bc04c5480953a3aea0821e1be7fd95b0e0a0-1033x1032.png?w=1200&amp;auto=format"/>
       </media:group>
     </item>
   </channel>

@@ -8,7 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:48:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:35:00 +0000</lastBuildDate>
+    <item>
+      <title>Practical cryptanalysis with MiniMax's latest Internal Model</title>
+      <link>https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</link>
+      <description>Practical cryptanalysis with MiniMax's latest Internal Model</description>
+      <guid isPermaLink="false">https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model</guid>
+      <pubDate>Fri, 20 Nov 2026 06:41:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://filecdn.minimax.chat/public/minimax-cyber-cryptanalysis-cover-001-1795156609739.png?x-oss-process=image/format,webp" medium="image"/>
+        <media:thumbnail url="https://filecdn.minimax.chat/public/minimax-cyber-cryptanalysis-cover-001-1795156609739.png?x-oss-process=image/format,webp"/>
+      </media:group>
+    </item>
     <item>
       <title>MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era</title>
       <link>https://www.minimax.io/blog/minimax-h3-image</link>
