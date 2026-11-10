@@ -8,7 +8,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:54:16 +0000</lastBuildDate>
+    <item>
+      <title>Crunchbase in North: Private market signals for growth-stage companies</title>
+      <link>https://cohere.com/blog/crunchbase-in-north</link>
+      <description>Crunchbase in North: Private market signals for growth-stage companies</description>
+      <guid isPermaLink="false">https://cohere.com/blog/crunchbase-in-north</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/dd6f09e12e0c0a4d3b76043b893998f2470aac8c-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/dd6f09e12e0c0a4d3b76043b893998f2470aac8c-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Video intelligence: Make every moment in your video library searchable</title>
+      <link>https://cohere.com/blog/video-intelligence-preview</link>
+      <description>Video intelligence: Make every moment in your video library searchable</description>
+      <guid isPermaLink="false">https://cohere.com/blog/video-intelligence-preview</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5b9ff3a7e2f137ce76f765d1bde012815b35b350-3840x2160.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5b9ff3a7e2f137ce76f765d1bde012815b35b350-3840x2160.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere Expands Its Sovereign AI Platform with AISLE and cubic</title>
+      <link>https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic</link>
+      <description>Cohere Expands Its Sovereign AI Platform with AISLE and cubic</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7a06e826c9fb34189fdd3344a3de747cc99d53a6-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7a06e826c9fb34189fdd3344a3de747cc99d53a6-7680x4320.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Welcoming Jaya Baloo as Cohere's First CISO</title>
+      <link>https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso</link>
+      <description>Welcoming Jaya Baloo as Cohere's First CISO</description>
+      <guid isPermaLink="false">https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2c5b5cf50ad25cbebcf668c622084c0208f89945-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2c5b5cf50ad25cbebcf668c622084c0208f89945-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
+      </media:group>
+    </item>
     <item>
       <title>Embed 5 and Rerank 5 now on OpenRouter</title>
       <link>https://cohere.com/blog/embed-rerank-5-openrouter</link>
@@ -126,8 +170,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/rerank-5</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=1200"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/001e212cb8f99611514f36805a3c3ef32a51f7d9-3840x2160.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -846,14 +890,14 @@
       </media:group>
     </item>
     <item>
-      <title>Cohere Labs Launches Tiny Aya, Making Multilingual AI Accessible</title>
+      <title>Cohere Labs launches Tiny Aya, making multilingual AI accessible</title>
       <link>https://cohere.com/blog/cohere-labs-tiny-aya</link>
-      <description>Cohere Labs Launches Tiny Aya, Making Multilingual AI Accessible</description>
+      <description>Cohere Labs launches Tiny Aya, making multilingual AI accessible</description>
       <guid isPermaLink="false">https://cohere.com/blog/cohere-labs-tiny-aya</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/02/TinyAya_BlogHeader.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/02/TinyAya_BlogHeader.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b6320dc3b11450943dafd6888b78f7cbf115292b-1920x1080.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b6320dc3b11450943dafd6888b78f7cbf115292b-1920x1080.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -874,8 +918,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/model-vault</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/01/260127_ModelVaultLaunch_Hero.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/01/260127_ModelVaultLaunch_Hero.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ddc1abba92f095c410699f0269c088dca572d563-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ddc1abba92f095c410699f0269c088dca572d563-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -918,8 +962,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/building-trust-in-ai-coheres-approach-to-ai-governance</guid>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/12/251126_blog_ai-governance_hero.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/12/251126_blog_ai-governance_hero.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/a233151c6310fe7ae99eb2d615003d855aaafab2-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/a233151c6310fe7ae99eb2d615003d855aaafab2-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -995,8 +1039,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/september-2025-funding-round</guid>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/09/250919_confidential_announcement.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/09/250919_confidential_announcement.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/4d5b4c075e17d840c92147b94db6cd4ce71f15bd-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/4d5b4c075e17d840c92147b94db6cd4ce71f15bd-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1017,8 +1061,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/paris-office</guid>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/09/250915_blog-social-image-paris-office.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/09/250915_blog-social-image-paris-office.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/38c5bf9d550d7f1fa7b7001c555cf1202680182f-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/38c5bf9d550d7f1fa7b7001c555cf1202680182f-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1039,8 +1083,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/command-a-translate</guid>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/08/250826_Command-A-Translate_hero-image.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/08/250826_Command-A-Translate_hero-image.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/489fc4c80432ca2dceab15f4f9bf869a4b7eb73a-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/489fc4c80432ca2dceab15f4f9bf869a4b7eb73a-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1050,8 +1094,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/command-a-reasoning</guid>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/08/250815_blog_command-a-reasoning_hero-image.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/08/250815_blog_command-a-reasoning_hero-image.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/be9cb865074b20d2de6000f120c3da29e3fea73d-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/be9cb865074b20d2de6000f120c3da29e3fea73d-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1061,8 +1105,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/cohere-partnership-canada-government</guid>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/08/250819_confidential_mou_announcement.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/08/250819_confidential_mou_announcement.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/8ae37f246df81d4727450563f9d267fc764abe7b-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/8ae37f246df81d4727450563f9d267fc764abe7b-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1094,8 +1138,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/august-2025-funding-round</guid>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/08/250812_confidential_announcement.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/08/250812_confidential_announcement.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5b93632dbc249bb73a4b06363a7b622f9d62f6bd-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5b93632dbc249bb73a4b06363a7b622f9d62f6bd-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1127,8 +1171,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/command-a-vision</guid>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/07/250730_blog-image_CommandAVision_hero-image.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/07/250730_blog-image_CommandAVision_hero-image.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e72f3d3497effff5ef18fda1c5d92105147341e8-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e72f3d3497effff5ef18fda1c5d92105147341e8-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1292,8 +1336,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/ensemble-partnership</guid>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/06/250605_blog-social-image-ensemble-partnership.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/06/250605_blog-social-image-ensemble-partnership.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/f801a46e26b2b0e65c467fb6be168c8062867602-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/f801a46e26b2b0e65c467fb6be168c8062867602-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1682,17 +1726,6 @@
       </media:group>
     </item>
     <item>
-      <title>How to build an AI agent: A practical guide for enterprises</title>
-      <link>https://cohere.com/blog/building-ai-agents</link>
-      <description>How to build an AI agent: A practical guide for enterprises</description>
-      <guid isPermaLink="false">https://cohere.com/blog/building-ai-agents</guid>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/173403---Blog-Hero-Imagery---Why-AI-needs-safety-modes----Feb-2025---Opt-6--1-.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/173403---Blog-Hero-Imagery---Why-AI-needs-safety-modes----Feb-2025---Opt-6--1-.png"/>
-      </media:group>
-    </item>
-    <item>
       <title>Understanding multi-agent systems</title>
       <link>https://cohere.com/blog/multi-agent-systems</link>
       <description>Understanding multi-agent systems</description>
@@ -1701,6 +1734,17 @@
       <media:group>
         <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/06/Multi-agent-systems.png" medium="image"/>
         <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/06/Multi-agent-systems.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How to build an AI agent: A practical guide for enterprises</title>
+      <link>https://cohere.com/blog/building-ai-agents</link>
+      <description>How to build an AI agent: A practical guide for enterprises</description>
+      <guid isPermaLink="false">https://cohere.com/blog/building-ai-agents</guid>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/97a9561f838f4f9a74aae25beed98e0509a19c49-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/97a9561f838f4f9a74aae25beed98e0509a19c49-1920x960.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1765,8 +1809,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/command-a</guid>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/Hero-Image.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/Hero-Image.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5d4d6c4508cbd423d77235982f19449dd23e0921-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5d4d6c4508cbd423d77235982f19449dd23e0921-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1798,8 +1842,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/lg-cns-partnership</guid>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/250228_blog-social-image_LG-CNS-partnership5.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/250228_blog-social-image_LG-CNS-partnership5.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/922161d656e9d61bf068100a10306e16b1df2e0f-1920x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/922161d656e9d61bf068100a10306e16b1df2e0f-1920x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1853,8 +1897,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/what-is-generative-ai</guid>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/Generative_AI.webp" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/Generative_AI.webp"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/04f6d4ed0556d201ffef2b85bcb761a2c2b2787c-1920x960.webp?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/04f6d4ed0556d201ffef2b85bcb761a2c2b2787c-1920x960.webp?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1897,8 +1941,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/command-r7b-arabic</guid>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/02/Hero--1-.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/02/Hero--1-.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/75b945c8ba0423a51a1e2e6a604bd38bd861057e-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/75b945c8ba0423a51a1e2e6a604bd38bd861057e-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1974,8 +2018,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/rag-architecture</guid>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/RAG_architecture.webp" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/RAG_architecture.webp"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/796a9bf0aa6b9278041f75a2a1538822d42abef6-1920x960.webp?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/796a9bf0aa6b9278041f75a2a1538822d42abef6-1920x960.webp?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -1996,8 +2040,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/secure-model-framework</guid>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/02/250214_blog-hero_Secure-AI-Framework.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/02/250214_blog-hero_Secure-AI-Framework.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/106815a0e811009e8bbc85a78988772aecab5098-1816x949.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/106815a0e811009e8bbc85a78988772aecab5098-1816x949.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2139,8 +2183,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/generative-ai-in-marketing</guid>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/02/Marketing.webp" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/02/Marketing.webp"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/8f229dbb730d6cf0815b67fb682ee00ebf94d58b-2000x998.webp?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/8f229dbb730d6cf0815b67fb682ee00ebf94d58b-2000x998.webp?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2348,8 +2392,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/artificial-intelligence-versus-machine-learning</guid>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/AI_vs_ML.webp" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/03/AI_vs_ML.webp"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6fd9b740323be08930479a8f19690772dc4fab61-1920x960.webp?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6fd9b740323be08930479a8f19690772dc4fab61-1920x960.webp?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2359,8 +2403,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/multimodal-embeddings</guid>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/11/241101_blog-hero_Multimodal-Embeddings--1-.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/11/241101_blog-hero_Multimodal-Embeddings--1-.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/485eaf97d7457629efa88378e48ec66a789b69ab-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/485eaf97d7457629efa88378e48ec66a789b69ab-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2370,8 +2414,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/ai-and-healthcare</guid>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/02/Healthcare--2-.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/02/Healthcare--2-.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/4e6635ee678c9f6ce341e0d163d531b097b02035-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/4e6635ee678c9f6ce341e0d163d531b097b02035-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2403,8 +2447,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/chunking-for-rag-maximize-enterprise-knowledge-retrieval</guid>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/10/241101_blog-hero_Chunking-for-RAG.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/10/241101_blog-hero_Chunking-for-RAG.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6a06b0b86f240cc6b5229e02888fd36159224ee2-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6a06b0b86f240cc6b5229e02888fd36159224ee2-2000x1000.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2425,8 +2469,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/aya-expanse-connecting-our-world</guid>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/10/image-1-AyaExpanse.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/10/image-1-AyaExpanse.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b21dbf898c770bb53e4579618f2b1475086f98f6-1600x900.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b21dbf898c770bb53e4579618f2b1475086f98f6-1600x900.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2502,8 +2546,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/ai-productivity</guid>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/Productivity.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/Productivity.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7b8d16c9f9760bbd65b3bc408474afe031d44a23-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7b8d16c9f9760bbd65b3bc408474afe031d44a23-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2535,8 +2579,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/ai-platforms</guid>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/Enterprise.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/Enterprise.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/35a4bff94f56a4441b7fd71cf2e7784f3bd905f1-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/35a4bff94f56a4441b7fd71cf2e7784f3bd905f1-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2557,8 +2601,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/virtual-ai-assistants</guid>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/Fine-Tuning.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/Fine-Tuning.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/10f844e2864870e3e8865732a1d4507c503c632f-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/10f844e2864870e3e8865732a1d4507c503c632f-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2700,8 +2744,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/large-language-models</guid>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/What-are-large-language-models_-1.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/What-are-large-language-models_-1.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6e554f68810985260fcb3ce7f5dc97bb3e37029f-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6e554f68810985260fcb3ce7f5dc97bb3e37029f-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2766,8 +2810,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/tool-use-llmu</guid>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/07/tool-use-anatomy-3.jpg" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/07/tool-use-anatomy-3.jpg"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/99ddef6126dc11d6c71006e12f3254ae476ddaf5-2000x1014.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/99ddef6126dc11d6c71006e12f3254ae476ddaf5-2000x1014.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2777,8 +2821,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/what-is-agentic-ai</guid>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/What-is-Agentic-AI_.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2025/01/What-is-Agentic-AI_.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/f5715b213bbea8101e21a3926eb66302c5894a0e-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/f5715b213bbea8101e21a3926eb66302c5894a0e-2484x1240.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2815,17 +2859,6 @@
       </media:group>
     </item>
     <item>
-      <title>Cohere and Fujitsu Announce Strategic Partnership To Provide Japanese Enterprise AI Services</title>
-      <link>https://cohere.com/blog/fujitsu-partnership</link>
-      <description>Cohere and Fujitsu Announce Strategic Partnership To Provide Japanese Enterprise AI Services</description>
-      <guid isPermaLink="false">https://cohere.com/blog/fujitsu-partnership</guid>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/07/Fujitsu-Partnership.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/07/Fujitsu-Partnership.png"/>
-      </media:group>
-    </item>
-    <item>
       <title>New Cohere Toolkit Features: Authentication, HTML and More</title>
       <link>https://cohere.com/blog/toolkit-features-july-2024</link>
       <description>New Cohere Toolkit Features: Authentication, HTML and More</description>
@@ -2834,6 +2867,17 @@
       <media:group>
         <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/07/Toolkit-update.png" medium="image"/>
         <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/07/Toolkit-update.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Cohere and Fujitsu Announce Strategic Partnership To Provide Japanese Enterprise AI Services</title>
+      <link>https://cohere.com/blog/fujitsu-partnership</link>
+      <description>Cohere and Fujitsu Announce Strategic Partnership To Provide Japanese Enterprise AI Services</description>
+      <guid isPermaLink="false">https://cohere.com/blog/fujitsu-partnership</guid>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/fba083f694fd741dec0aa534bebc9ef57a907667-2000x1125.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/fba083f694fd741dec0aa534bebc9ef57a907667-2000x1125.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -2975,8 +3019,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/aya23</guid>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/05/5-1.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/05/5-1.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/c417352b9efd9d69064a1b063e1074121c1edf8c-1600x900.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/c417352b9efd9d69064a1b063e1074121c1edf8c-1600x900.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -3162,8 +3206,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/say-hello-to-precision-how-rerankers-and-embeddings-boost-search</guid>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/03/Blog-header-banner.jpg" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2024/03/Blog-header-banner.jpg"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/746022a0cd390c47f4fb2f12ab8963b9a8ecfabc-1920x1080.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/746022a0cd390c47f4fb2f12ab8963b9a8ecfabc-1920x1080.jpg?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -3877,8 +3921,8 @@
       <guid isPermaLink="false">https://cohere.com/blog/llm-university</guid>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2023/05/1cc9fac-Cohere_LLM_University.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2023/05/1cc9fac-Cohere_LLM_University.png"/>
+        <media:content url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b547ca64939cc53fe834760f5462c47d017f120e-3840x2040.png?auto=format&amp;fit=max&amp;q=80&amp;w=440" medium="image"/>
+        <media:thumbnail url="https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b547ca64939cc53fe834760f5462c47d017f120e-3840x2040.png?auto=format&amp;fit=max&amp;q=80&amp;w=440"/>
       </media:group>
     </item>
     <item>
@@ -4583,61 +4627,6 @@
       <media:group>
         <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2022/05/Hacker-News-text-analysis-2.png" medium="image"/>
         <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2022/05/Hacker-News-text-analysis-2.png"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Build a smart Slack bot with language models</title>
-      <link>https://cohere.com/blog/build-a-smart-slack-bot-with-language-models</link>
-      <description>Build a smart Slack bot with language models</description>
-      <guid isPermaLink="false">https://cohere.com/blog/build-a-smart-slack-bot-with-language-models</guid>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2022/05/smart-slack-bot-74c4c5ad79823d34f40ff00f9553ae74.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2022/05/smart-slack-bot-74c4c5ad79823d34f40ff00f9553ae74.png"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Cohere launches Extremely Large (beta)</title>
-      <link>https://cohere.com/blog/cohere-launches-extremely-large-beta-2</link>
-      <description>Cohere launches Extremely Large (beta)</description>
-      <guid isPermaLink="false">https://cohere.com/blog/cohere-launches-extremely-large-beta-2</guid>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2022/05/Screenshot-2022-05-04-at-21-04-03-Cohere-Platform.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2022/05/Screenshot-2022-05-04-at-21-04-03-Cohere-Platform.png"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Turbocharge Your Chatbot with Intent Recognition</title>
-      <link>https://cohere.com/blog/intent-recognition-use-case</link>
-      <description>Turbocharge Your Chatbot with Intent Recognition</description>
-      <guid isPermaLink="false">https://cohere.com/blog/intent-recognition-use-case</guid>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2023/03/intent-recognition.jpg" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2023/03/intent-recognition.jpg"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tackling Toxicity: Leveraging NLP for Content Moderation</title>
-      <link>https://cohere.com/blog/toxic-language-use-case</link>
-      <description>Tackling Toxicity: Leveraging NLP for Content Moderation</description>
-      <guid isPermaLink="false">https://cohere.com/blog/toxic-language-use-case</guid>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2023/03/toxic-language-1.jpg" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2023/03/toxic-language-1.jpg"/>
-      </media:group>
-    </item>
-    <item>
-      <title>The Cohere Platform is now publicly available</title>
-      <link>https://cohere.com/blog/the-cohere-platform-is-now-publicly-available-2</link>
-      <description>The Cohere Platform is now publicly available</description>
-      <guid isPermaLink="false">https://cohere.com/blog/the-cohere-platform-is-now-publicly-available-2</guid>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2022/05/announcement-header-illustration.png" medium="image"/>
-        <media:thumbnail url="https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2022/05/announcement-header-illustration.png"/>
       </media:group>
     </item>
   </channel>

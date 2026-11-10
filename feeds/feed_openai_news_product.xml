@@ -8,7 +8,47 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:53:55 +0000</lastBuildDate>
+    <item>
+      <title>Introducing GPT-6.2 Astra and Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+      <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
+      <category>Product</category>
+      <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT for Sales</title>
+      <link>https://openai.com/index/introducing-chatgpt-for-sales</link>
+      <description>Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-for-sales</guid>
+      <category>Product</category>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing computer-use agents for healthcare teams</title>
+      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+      <description>Advancing computer-use agents for healthcare teams</description>
+      <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+      <category>Product</category>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More ways to move care forward with ChatGPT for Healthcare</title>
+      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
+      <description>Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.</description>
+      <guid isPermaLink="false">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
+      <category>Product</category>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Wallet</title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+      <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-wallet</guid>
+      <category>Product</category>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing Businesses in ChatGPT</title>
       <link>https://openai.com/index/introducing-businesses-chatgpt</link>
@@ -338,18 +378,18 @@
       <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-5.6: Frontier intelligence that scales with your ambition</title>
-      <link>https://openai.com/index/gpt-5-6</link>
-      <description>More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
-      <category>Product</category>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ChatGPT is now a partner for your most ambitious work</title>
       <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
       <description>ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
+      <category>Product</category>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.6: Frontier intelligence that scales with your ambition</title>
+      <link>https://openai.com/index/gpt-5-6</link>
+      <description>More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
       <category>Product</category>
       <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
     </item>
@@ -698,18 +738,18 @@
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing GPT-5.2</title>
-      <link>https://openai.com/index/introducing-gpt-5-2</link>
-      <description>GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-2</guid>
-      <category>Product</category>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora</title>
       <link>https://openai.com/index/disney-sora-agreement</link>
       <description>Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.</description>
       <guid isPermaLink="false">https://openai.com/index/disney-sora-agreement</guid>
+      <category>Product</category>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.2</title>
+      <link>https://openai.com/index/introducing-gpt-5-2</link>
+      <description>GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-5-2</guid>
       <category>Product</category>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -730,18 +770,18 @@
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Building more with GPT-5.1-Codex-Max</title>
-      <link>https://openai.com/index/gpt-5-1-codex-max</link>
-      <description>Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.</description>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-1-codex-max</guid>
-      <category>Product</category>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A free version of ChatGPT built for teachers</title>
       <link>https://openai.com/index/chatgpt-for-teachers</link>
       <description>ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-for-teachers</guid>
+      <category>Product</category>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building more with GPT-5.1-Codex-Max</title>
+      <link>https://openai.com/index/gpt-5-1-codex-max</link>
+      <description>Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.</description>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-1-codex-max</guid>
       <category>Product</category>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
     </item>

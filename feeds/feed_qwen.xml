@@ -8,7 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:53:56 +0000</lastBuildDate>
+    <item>
+      <title>Qwen4-Max: Your New Teammate Has Arrived</title>
+      <link>https://qwen.ai/blog?id=qwen4-max</link>
+      <description>Today, we are introducing Qwen4-Max, your new AI teammate for work, creativity, and discovery. Qwen4-Max is built on the new Qwen4 architecture, with a 2.4-trillion-parameter backbone, native vision capabilities, and a one-million-token context window. Qwen4-Max advances real-world productivity through greater proficiency with professional tools, stronger long-horizon task execution, and higher-qu</description>
+      <guid isPermaLink="false">https://qwen.ai/blog?id=qwen4-max</guid>
+      <pubDate>Mon, 16 Nov 2026 10:00:00 +0800</pubDate>
+      <media:group>
+        <media:content url="https://img.alicdn.com/imgextra/i1/O1CN01MbincoVLKeC29R4a_!!6000000005084-2-tps-1060-636.png" medium="image"/>
+        <media:thumbnail url="https://img.alicdn.com/imgextra/i1/O1CN01MbincoVLKeC29R4a_!!6000000005084-2-tps-1060-636.png"/>
+      </media:group>
+    </item>
     <item>
       <title>Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation</title>
       <link>https://qwen.ai/blog?id=qwen-image-2.1</link>
