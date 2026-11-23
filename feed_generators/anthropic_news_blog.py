@@ -28,6 +28,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 FEED_NAME = "anthropic_news"
 PRODUCT_FEED_NAME = "anthropic_news_product"
 BLOG_URL = "https://www.anthropic.com/news"
+PRODUCT_CATEGORIES = {"product", "models"}
 
 logger = setup_logging()
 
@@ -146,6 +147,22 @@ def extract_title(card):
     return None
 
 
+def find_card_container(link_elem, max_levels=4):
+    """Return the element holding this article's metadata.
+
+    Current layouts put <time> and the category link beside the article link
+    rather than inside it. Walk up to the nearest element containing exactly
+    one <time>; more than one means we've reached a multi-article wrapper.
+    """
+    for node in [link_elem, *list(link_elem.parents)[:max_levels]]:
+        time_count = len(node.find_all("time"))
+        if time_count == 1:
+            return node
+        if time_count > 1:
+            break
+    return link_elem
+
+
 def extract_date(card):
     """Extract date using multiple fallback selectors, trying each candidate
     element's text as a date until one actually parses."""
@@ -174,8 +191,15 @@ def extract_date(card):
     return None
 
 
-def extract_category(card, date_elem_text=None):
+def extract_category(card, article_link=None, date_elem_text=None):
     """Extract category using multiple fallback selectors."""
+    # Current layouts: the category is a /news/<category> link beside the article link
+    if article_link:
+        for anchor in card.select('a[href*="/news/"]'):
+            text = anchor.get_text(strip=True)
+            if text and absolute_url(anchor.get("href", ""), "https://www.anthropic.com") != article_link:
+                return text
+
     selectors = [
         # New layout selectors
         "span[class*='subject']",  # PublicationList layout
@@ -266,9 +290,9 @@ def parse_news_html(html_content):
             if link.endswith("/news") or link.endswith("/news/") or "/news#" in link:
                 continue
 
-            seen_links.add(link)
-
-            # Extract title using fallback chain
+            # Extract title using fallback chain. An article can have several
+            # anchors (image, title, summary), so only mark it seen once one
+            # of them yields a title.
             title = extract_title(card)
             if not title:
                 logger.debug(f"Could not extract title for link: {link}")
@@ -276,14 +300,17 @@ def parse_news_html(html_content):
                 unknown_structures += 1
                 continue
 
+            seen_links.add(link)
+            container = find_card_container(card)
+
             # Extract date using fallback chain
-            date = extract_date(card)
+            date = extract_date(container)
             if not date:
                 logger.warning(f"Could not extract date for article: {title}")
                 date = stable_fallback_date(link)
 
             # Extract category
-            category = extract_category(card)
+            category = extract_category(container, article_link=link)
 
             # Create article object
             article = {
@@ -312,8 +339,8 @@ def parse_news_html(html_content):
 
 
 def filter_product_articles(articles):
-    """Keep only articles tagged "Product" (case-insensitive)."""
-    return [a for a in articles if (a.get("category") or "").strip().lower() == "product"]
+    """Keep only articles tagged "Product" or "Models" (case-insensitive)."""
+    return [a for a in articles if (a.get("category") or "").strip().lower() in PRODUCT_CATEGORIES]
 
 
 def generate_rss_feed(
@@ -379,7 +406,7 @@ def main(full_reset=False):
     """Main function to generate RSS feeds from Anthropic's news page.
 
     Fetches the news page once and generates two feeds from the same
-    article list: the full "anthropic_news" feed and the "Product"-only
+    article list: the full "anthropic_news" feed and the "Product" + "Models"
     "anthropic_news_product" feed (a filtered subset, not a second fetch).
 
     Args:
@@ -413,7 +440,7 @@ def main(full_reset=False):
         save_rss_feed(feed, FEED_NAME)
         logger.info(f"Successfully generated RSS feed with {len(articles)} articles")
 
-        # Derive and save the "Product" feed from the same article list
+        # Derive and save the "Product" + "Models" feed from the same article list
         product_articles = filter_product_articles(articles)
         product_feed = generate_rss_feed(
             product_articles,
@@ -423,7 +450,7 @@ def main(full_reset=False):
             subtitle="Product updates from Anthropic's newsroom",
         )
         save_rss_feed(product_feed, PRODUCT_FEED_NAME)
-        logger.info(f"Successfully generated RSS feed with {len(product_articles)} 'Product' articles")
+        logger.info(f"Successfully generated RSS feed with {len(product_articles)} 'Product'/'Models' articles")
 
         return True
 
