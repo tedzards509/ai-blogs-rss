@@ -8,7 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 01:53:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:42:32 +0000</lastBuildDate>
+    <item>
+      <title>Can language models drive a humanoid robot? Introducing AA-Robotics-Sim v0.1</title>
+      <link>https://artificialanalysis.ai/articles/aa-robotics-sim</link>
+      <description>Can language models drive a humanoid robot? Introducing AA-Robotics-Sim v0.1</description>
+      <guid isPermaLink="false">https://artificialanalysis.ai/articles/aa-robotics-sim</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://artificialanalysiscdn.com/article-assets/2026/aa-robotics-sim.jpg" medium="image"/>
+        <media:thumbnail url="https://artificialanalysiscdn.com/article-assets/2026/aa-robotics-sim.jpg"/>
+      </media:group>
+    </item>
     <item>
       <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformer</title>
       <link>https://artificialanalysis.ai/articles/inkling-2-mini</link>
@@ -117,17 +128,6 @@
       <media:group>
         <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/2958253cb80c532d774dfbc286ec21794c55525d-1440x1440.png?w=1200&amp;auto=format" medium="image"/>
         <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/2958253cb80c532d774dfbc286ec21794c55525d-1440x1440.png?w=1200&amp;auto=format"/>
-      </media:group>
-    </item>
-    <item>
-      <title>GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and cost</title>
-      <link>https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost</link>
-      <description>GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and cost</description>
-      <guid isPermaLink="false">https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn.sanity.io/images/6vfeftx9/articles/0968ba533e8f3599faae4925bcf3781fbbd52fed-1024x1024.webp?w=1200&amp;auto=format" medium="image"/>
-        <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/0968ba533e8f3599faae4925bcf3781fbbd52fed-1024x1024.webp?w=1200&amp;auto=format"/>
       </media:group>
     </item>
     <item>

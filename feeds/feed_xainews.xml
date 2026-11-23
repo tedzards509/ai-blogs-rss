@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 01:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:44:06 +0000</lastBuildDate>
     <item>
       <title>Using Grok Bot to detect and respond to incidents</title>
       <link>https://x.ai/news/incident-sweep</link>
@@ -634,18 +634,6 @@
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Introducing the SpaceX Super Intelligence Partner Network</title>
-      <link>https://x.ai/news/partnernetworkannouncement</link>
-      <description>Introducing the SpaceX Super Intelligence Partner Network</description>
-      <guid isPermaLink="false">https://x.ai/news/partnernetworkannouncement</guid>
-      <category>News</category>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/spacexsi_partner_network_og_image-2e1cc308.png" medium="image"/>
-        <media:thumbnail url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/spacexsi_partner_network_og_image-2e1cc308.png"/>
-      </media:group>
-    </item>
-    <item>
       <title>Bringing Grok to Everyone</title>
       <link>https://x.ai/news/grok-1212</link>
       <description>Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the 𝕏 platform.</description>
@@ -670,36 +658,24 @@
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Giving every team a data scientist with Grok Bot</title>
-      <link>https://x.ai/news/data-bot</link>
-      <description>Giving every team a data scientist with Grok Bot</description>
-      <guid isPermaLink="false">https://x.ai/news/data-bot</guid>
-      <category>News</category>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/heres-your-og-image-i-used-the-grok-bot-og-template-in-pink-b3fd12e9.png" medium="image"/>
-        <media:thumbnail url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/heres-your-og-image-i-used-the-grok-bot-og-template-in-pink-b3fd12e9.png"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Introducing Grok Bot 1.0</title>
-      <link>https://x.ai/news/grok-bot-1-0</link>
-      <description>Nov 11, 2026</description>
-      <guid isPermaLink="false">https://x.ai/news/grok-bot-1-0</guid>
-      <category>News</category>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://x.ai/images/news/grok-bot-1-0-og-2.png" medium="image"/>
-        <media:thumbnail url="https://x.ai/images/news/grok-bot-1-0-og-2.png"/>
-      </media:group>
-    </item>
-    <item>
       <title>Grok-2 Beta Release</title>
       <link>https://x.ai/news/grok-2</link>
       <description>We announce our new Grok-2 and Grok-2 mini models.</description>
       <guid isPermaLink="false">https://x.ai/news/grok-2</guid>
       <category>News</category>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the SpaceX Super Intelligence Partner Network</title>
+      <link>https://x.ai/news/partnernetworkannouncement</link>
+      <description>Introducing the SpaceX Super Intelligence Partner Network</description>
+      <guid isPermaLink="false">https://x.ai/news/partnernetworkannouncement</guid>
+      <category>News</category>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/spacexsi_partner_network_og_image-2e1cc308.png" medium="image"/>
+        <media:thumbnail url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/spacexsi_partner_network_og_image-2e1cc308.png"/>
+      </media:group>
     </item>
     <item>
       <title>Series B funding round</title>
@@ -715,7 +691,7 @@
       <description>Your next sales teammate should be a Grok Bot</description>
       <guid isPermaLink="false">https://x.ai/news/grok-bot-sales</guid>
       <category>News</category>
-      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/gb-sales-og-73a0d08f.png" medium="image"/>
         <media:thumbnail url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/gb-sales-og-73a0d08f.png"/>
@@ -746,6 +722,18 @@
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Building an accounting team with Grok Bot</title>
+      <link>https://x.ai/news/grok-bot-accounting</link>
+      <description>Building an accounting team with Grok Bot</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-bot-accounting</guid>
+      <category>News</category>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/accounting-og-c685b0e2.png" medium="image"/>
+        <media:thumbnail url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/accounting-og-c685b0e2.png"/>
+      </media:group>
+    </item>
+    <item>
       <title>Announcing PromptIDE</title>
       <link>https://x.ai/news/prompt-ide</link>
       <description>Integrated development environment for prompt engineering and interpretability research.</description>
@@ -762,15 +750,27 @@
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Building an accounting team with Grok Bot</title>
-      <link>https://x.ai/news/grok-bot-accounting</link>
-      <description>Building an accounting team with Grok Bot</description>
-      <guid isPermaLink="false">https://x.ai/news/grok-bot-accounting</guid>
+      <title>Giving every team a data scientist with Grok Bot</title>
+      <link>https://x.ai/news/data-bot</link>
+      <description>Giving every team a data scientist with Grok Bot</description>
+      <guid isPermaLink="false">https://x.ai/news/data-bot</guid>
       <category>News</category>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/accounting-og-c685b0e2.png" medium="image"/>
-        <media:thumbnail url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/accounting-og-c685b0e2.png"/>
+        <media:content url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/heres-your-og-image-i-used-the-grok-bot-og-template-in-pink-b3fd12e9.png" medium="image"/>
+        <media:thumbnail url="https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/heres-your-og-image-i-used-the-grok-bot-og-template-in-pink-b3fd12e9.png"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Introducing Grok Bot 1.0</title>
+      <link>https://x.ai/news/grok-bot-1-0</link>
+      <description>Nov 11, 2026</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-bot-1-0</guid>
+      <category>News</category>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://x.ai/images/news/grok-bot-1-0-og-2.png" medium="image"/>
+        <media:thumbnail url="https://x.ai/images/news/grok-bot-1-0-og-2.png"/>
       </media:group>
     </item>
   </channel>
